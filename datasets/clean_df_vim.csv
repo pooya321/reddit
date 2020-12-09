@@ -1,0 +1,715 @@
+title,id,author,url,score,comments_number,created,award
+Struggling with cursor movement in vim,k9f4vf,Valentino00000,reddit.com,1,0,12/9/2020 6:54,0
+Vim setup for c++,k9anxz,lakrau,reddit.com,0,6,12/9/2020 3:10,0
+[Gnome][GVim] There is a huge delay on updating title bar after closing FZF,k999my,phouchg42,reddit.com,1,0,12/9/2020 2:03,0
+Way to indicate where folds reside when open?,k95ld0,OMGZwhitepeople,reddit.com,1,4,12/8/2020 22:56,0
+N-vim on smartphone,k9587x,Top_Masterpiece_67,reddit.com,0,2,12/8/2020 22:35,0
+TIL that you can exit Vim by pressing Shift+ZZ,k94ea8,ImMaaxYT,reddit.com,135,46,12/8/2020 21:44,1
+vim-projectionist help: Finding a file with a different path,k8y8fl,itcouldbebunnies_,reddit.com,1,2,12/8/2020 13:21,0
+How to move through jump list of coc and remove some of them,k8w6gg,raguy1143,reddit.com,2,6,12/8/2020 11:11,0
+How to show errors in line?,k8vcm8,raguy1143,reddit.com,1,10,12/8/2020 10:22,0
+"Story about a new coder seeing a ""vim pro"" and being inspired to use vim.",k8uqwp,deat64x,reddit.com,101,20,12/8/2020 9:46,1
+sed syntax highlighting in vim?,k8u3kk,windows_sans_borders,reddit.com,1,3,12/8/2020 9:09,0
+stop please rethink ur life and realize that u should use emacs,k8mpwt,lordnimnim,reddit.com,0,15,12/8/2020 2:49,0
+Please help me understand %:h,k8lsfy,tom-on-the-internet,reddit.com,28,7,12/8/2020 2:04,0
+Is there a plugin like Karabiner Elements + Goku?,k8l6wn,baldore,reddit.com,3,2,12/8/2020 1:37,0
+How do I show the function details on autocomplete?,k8f82u,raguy1143,reddit.com,1,4,12/7/2020 19:48,0
+Hjkl versus the arrow keys,k8erg6,5.24609E+19,reddit.com,1,30,12/7/2020 19:13,0
+c++ Code navigation (ALE),k8e5wa,OnThePath,reddit.com,2,3,12/7/2020 18:25,0
+General technique for looping over characters/words in a line?,k8cgo5,Chromabi,reddit.com,0,13,12/7/2020 15:58,0
+Is there a way to make this keybinding to work? <C-x><C-p><C-n>,k7xz5a,baldore,reddit.com,2,4,12/7/2020 1:32,0
+A simple function for zooming in GUI version of Vim/Neovim,k7w0gy,Maskdask,reddit.com,7,1,12/6/2020 23:48,0
+SplitJoin: a Vim plugin for converting one-liners into multi-line statements,k7sm87,mulholld,github.com,127,9,12/6/2020 20:03,1
+"runbuf.vim: run the contents of a buffer in psql, python, bash, etc. and display the output",k7scjv,arp242,github.com,43,14,12/6/2020 19:42,0
+Advice about preventing accidental deletions while scrolling with <c-d> ?,k7req0,karoliskoncevicius,reddit.com,1,9,12/6/2020 18:25,0
+"Any tips on ""How to secure your vim""?",k7qzhg,wetter-frosch,reddit.com,2,12,12/6/2020 17:49,0
+How to edit blowfish2 encrypted files?,k7onlr,aafggfcgr,reddit.com,2,1,12/6/2020 14:35,0
+How to get the name of the file opened for a mapping,k7li5r,TheFronkler,reddit.com,3,5,12/6/2020 10:54,0
+update from my last post:,k7leoe,SirDerpington660,reddit.com,0,1,12/6/2020 10:47,0
+vim-scroll-in-place - Scroll up and down one line while keeping the cursorline in place,k7kshz,drzel,github.com,13,29,12/6/2020 10:08,0
+Buffer with netwr refreshes when I navigate to it,k7kcgk,archaea8,reddit.com,1,8,12/6/2020 9:40,0
+Noob question: how do I get my airline status line to look like the one on the airline GitHub? (With the separators being arrows instead of lines),k7iiyj,SirDerpington660,reddit.com,0,8,12/6/2020 7:46,0
+do you want indentation guides?,k7gbii,BYTE-LY,reddit.com,4,8,12/6/2020 5:37,0
+How to use vanilla Vim (almost) without modes.,k7fdr3,okimka,reddit.com,0,9,12/6/2020 4:44,0
+Are tear-off menus an abandoned feature?,k7c8jo,ProgMetalSlug,reddit.com,3,2,12/6/2020 2:01,0
+How do I configure plugins using highlight colors?,k7bijo,NightH4nter,reddit.com,2,7,12/6/2020 1:24,0
+Is there anyway to make a vscode theme work with vim?,k7atk5,gammalabsgamer,reddit.com,1,11,12/6/2020 0:48,0
+Really Google?,k76shf,supermario9590,reddit.com,743,51,12/5/2020 20:40,0
+How to get language-mapping & iminsert working on GTK gvim?,k75sp3,wetter-frosch,reddit.com,4,1,12/5/2020 19:18,0
+How to expand html tags like this?....,k75oq6,Monenvoy,reddit.com,3,14,12/5/2020 19:08,0
+How to get different cursor for different modes in vim?,k75asa,Curious_homosepian,reddit.com,9,13,12/5/2020 18:33,0
+Advantage2 LF Kinesis,k6uh2b,tads13,reddit.com,0,6,12/5/2020 5:53,0
+"i want RShift to emulate Esc in insert mode, how can i do that ?",k6pyz3,Manaoscola,reddit.com,2,8,12/5/2020 2:00,0
+How to search without highlight just once?,k6my75,mgarort,reddit.com,13,15,12/4/2020 23:27,0
+[C++] cin doesn't work in vim,k6a952,_nullOne,reddit.com,0,5,12/4/2020 8:40,0
+Best Vim Tutorial For Beginners,k60da0,Coder-H,reddit.com,64,100,12/4/2020 0:24,0
+syntaxMarkerFold - Markers while using syntax fold method,k5u3qz,Jorengarenar,github.com,11,3,12/3/2020 17:27,0
+How to display paste mode or insert-normal mode (Ctrl-o in insert mode) on statusline?,k5tyge,trankien386,reddit.com,35,11,12/3/2020 17:13,0
+Switching esc with caps lock,k5twce,PresentPickleNinja,reddit.com,5,30,12/3/2020 17:08,0
+Set up vim/nvim for cpp development with vim-lsp,k5tv2q,jdhao,reddit.com,0,0,12/3/2020 17:04,0
+"The help says '--remote' command line option exists, but don't work. What is this?",k5p395,acomagu,reddit.com,3,6,12/3/2020 11:10,0
+Any reliable way to convert airline themes to powerline?,k5inso,chrismg12,reddit.com,1,4,12/3/2020 5:17,0
+Adding highlight group to python syntax file,k5fu2z,kn0xchad,reddit.com,14,10,12/3/2020 3:04,0
+Shorter version of today's tip from 25 Days of Vim,k5aqca,rampion,reddit.com,19,13,12/2/2020 22:59,0
+Salvation - Dark and easy on eyes colorscheme for Vim/Neovim,k5630p,HeavyRain266,reddit.com,241,43,12/2/2020 17:18,3
+Hotkey to simultaneously duplicate a line and replace a substring,k4yqhu,gdavtor,reddit.com,1,9,12/2/2020 9:07,0
+Noob question: How to set python interpreter for a given script dynamically.,k4vghv,metalgear123,reddit.com,4,11,12/2/2020 6:12,0
+where would i hire someone to build/modify a vim plugin?,k4tilk,bayesff,reddit.com,5,4,12/2/2020 4:36,0
+How to make vim become transparent in konsole,k4q1i0,EgorDiach-kov-,reddit.com,2,1,12/2/2020 1:53,0
+Error in Fzf install in Vim,k4pg92,arnauldb,reddit.com,1,4,12/2/2020 1:26,0
+Vimwiki on mobile devices?,k4p9eo,MyMumFoundMyAccount,reddit.com,5,5,12/2/2020 1:17,0
+8 months trasnformation,k4p8c4,GGCristo,reddit.com,0,11,12/2/2020 1:16,0
+Humanoid - light and dark theme for vim with bright colors (hope some will like it),k4nzz8,tasmo,reddit.com,476,76,12/2/2020 0:17,2
+"Why do ""undoreload"" save all lines?",k4niej,bobicino,reddit.com,1,0,12/1/2020 23:54,0
+critique my vimrc,k4mq4j,drzel,github.com,0,15,12/1/2020 23:15,0
+Emoji in Vim 🐇 🎩,k4mmkz,phouchg42,reddit.com,20,2,12/1/2020 23:10,0
+Is there a way to make ex not take over the whole screen?,k4lifv,VohgheN8,reddit.com,14,27,12/1/2020 22:09,0
+Can you recommend a lines formatting plugin?,k4jhlw,wiccy47,reddit.com,0,16,12/1/2020 19:54,0
+Creating different colors with :hi-link,k4j44j,DontwakemeUp46,reddit.com,6,1,12/1/2020 19:24,0
+SQL-UPPER,k4cpy5,Jorengarenar,github.com,5,7,12/1/2020 11:34,0
+how to change vifm's startup command?,k4bqz5,SirDerpington660,reddit.com,0,14,12/1/2020 10:40,0
+vim-orgmode is unmaintained; any alternatives?,k4a8aj,gasull,github.com,12,7,12/1/2020 9:16,0
+':startinsert' but for command mode?,k47zab,Zantoxin,reddit.com,2,3,12/1/2020 7:18,0
+Are there native `Meta` keybinds?,k45q5m,abraxasknister,reddit.com,2,8,12/1/2020 5:29,0
+unicodemoji: a plugin for fast unicode emoji insertion based on FZF,k4513m,yazgoo,github.com,28,6,12/1/2020 4:55,0
+Nerd tree background color,k3vrxn,siduck76,reddit.com,3,7,11/30/2020 21:29,0
+GVim freezing,k3vng7,MeanEYE,reddit.com,1,2,11/30/2020 21:22,0
+"25 Days of Vim, a Vim Advent calendar by VimTricks",k3vgus,cbartlett,vimtricks.com,264,37,11/30/2020 21:10,0
+"The official Vim installer for Windows, does it have viruses!?",k3n2ov,NinjaNegro123,reddit.com,0,14,11/30/2020 10:38,0
+Terminal errors causing random problems,k3mkgf,ButtsOfficial,reddit.com,4,6,11/30/2020 10:06,0
+arbitrary go to middle meta-movement,k3jv61,comploplo,reddit.com,6,7,11/30/2020 7:25,0
+Macro aware plugin,k3ii1f,f---_society,reddit.com,2,4,11/30/2020 6:09,0
+VIM auto complete or IntelliSense for Java and python.,k3do4z,tea_thou,reddit.com,2,14,11/30/2020 1:46,0
+Best spellcheck plugin for text editing?,k3cvvj,anotherdiamondday,reddit.com,6,4,11/30/2020 1:05,0
+lightline base16-vim integration Plugin.,k3cr2l,nolomg18,reddit.com,4,2,11/30/2020 0:58,0
+Follow me for more linux tips and tricks,k3cpt4,131alexx,reddit.com,0,0,11/30/2020 0:56,0
+Jump to a new string without disrupting existing search results,k3ata2,supersonic_528,reddit.com,2,24,11/29/2020 23:06,0
+coc-vim + haskell-language-server starter tutorial 2020,k3ar3i,dys_bigwig,reddit.com,78,8,11/29/2020 23:02,1
+Ignore user mappings (noremap) but allow recursive mappings for <Plug>...,k376ub,Plazmotech,reddit.com,2,10,11/29/2020 18:19,0
+How to only activate highlight autocmd,k2v2ke,jamJam20,reddit.com,0,2,11/29/2020 4:32,0
+"People to use Vim on windows, what do you do to make your set-up as clean as a macOS or Linux user?",k2udhz,SirDerpington660,reddit.com,2,24,11/29/2020 3:54,0
+Created a new theme [elly.vim] which is brown and nostalgic,k2quxw,ryuta69,reddit.com,252,42,11/29/2020 0:44,0
+"vim, C, clangd, coc, and compound literals (code completion)",k2n8z7,aganm,reddit.com,0,5,11/28/2020 20:59,0
+How to focus next window but ignore some filetype file,k2mc9p,zdm-red,reddit.com,5,12,11/28/2020 19:44,0
+Scrolling commands behaving strangely,k2hao1,virtualworker,reddit.com,23,3,11/28/2020 12:37,0
+how to set python interpreter differently for different files,k2fml1,easyasasunday,reddit.com,5,2,11/28/2020 10:54,0
+Frequency at which vim writes the undofile (:help persistent-undo) to disk,k2dzgg,please_take_one,reddit.com,6,5,11/28/2020 9:16,0
+Is there a Vim Color Scheme similar to this?,k2agmw,techguy1749,reddit.com,0,7,11/28/2020 5:50,0
+Is there a way to quickly reject a completion?,k286nq,abraxasknister,reddit.com,23,9,11/28/2020 3:46,0
+tab key does not work on search suggestions in coc.nvim,k24rqd,ilove-archlinux,reddit.com,0,1,11/28/2020 0:53,0
+Is there a Latin language spellfile?,k22yw8,handyjuanito,reddit.com,10,10,11/27/2020 23:18,0
+"A guide on how to copy text from anywhere, including through SSH, with OSC52",k1ydpn,#NAME?,reddit.com,163,46,11/27/2020 17:53,2
+Ultisnips Latex math context detector not working,k1xagz,verycoolbin,reddit.com,5,17,11/27/2020 16:19,0
+Help with getting vim to run more quickly with python and java.,k1we1y,Narfee,reddit.com,7,8,11/27/2020 15:04,0
+Is there any vim plugin for debugging Python code ?,k1ucs7,ajaymahar,reddit.com,17,10,11/27/2020 12:31,0
+Coc.nvim creating '~/. config' in every directory I open vim,k1t2vh,SneharshBelsare,reddit.com,0,9,11/27/2020 11:00,0
+"Vim doesn't flag ""int"" as a spelling mistake",k1rk85,Ok_Eye_1812,reddit.com,2,3,11/27/2020 9:16,0
+Key mapping,k1phgj,Bitter_Day9495,reddit.com,0,10,11/27/2020 7:06,0
+What regexp would match lines that have foo and don't have bar later on the same line?,k1oz63,aiaor,reddit.com,2,10,11/27/2020 6:36,0
+you know its true,k1nta5,bluebird173,reddit.com,0,11,11/27/2020 5:30,0
+My Annotated Vimrc,k1iv70,jwworth,jakeworth.com,86,63,11/27/2020 1:02,0
+<Esc>? moves left one character,k1g9ez,Egst,reddit.com,3,9,11/26/2020 22:37,0
+How can I set space bar as a leader key?,k1d3zv,entivec,reddit.com,2,16,11/26/2020 18:43,0
+Should the filetype option be set by the time the BufReadPost autocmd is running?,k1c63f,Psy_Blades,reddit.com,1,6,11/26/2020 17:22,0
+How to get faster in Vim.,k1bz8l,CalinLeafshade,reddit.com,136,38,11/26/2020 17:06,0
+Question about configuring fzf with fzf#vim#ag_raw,k18nbv,justrajdeep,reddit.com,0,2,11/26/2020 12:51,0
+"A Guide to VIM: What is VIM, Why is VIM, How to configure VIM",k18fuf,iamjohnlenn,loginradius.com,9,5,11/26/2020 12:36,0
+Is there any Proper Guide/tutorial for ycm,k183tt,Waseem_Ahmed,reddit.com,0,10,11/26/2020 12:13,0
+Remapping keys within commands,k17ver,0nly0dd0ne0ut,reddit.com,2,7,11/26/2020 11:57,0
+How to get last cursor position of unopened file,k12r0k,andrewlkho,reddit.com,1,2,11/26/2020 6:40,0
+How to convert smart quotes and other fancy characters to normal characters,k10psl,jdalbert,reddit.com,36,5,11/26/2020 4:57,0
+"[TIL] People on macOS, you can map Caps Lock to Escape from System Settings.",k0zzv6,mrillusi0n,reddit.com,275,72,11/26/2020 4:18,2
+How to use python modules in vim?,k0wj9n,Vxqui,reddit.com,3,9,11/26/2020 1:30,0
+Vim Broken Since Big Sur Update,k0wg80,eekofo,reddit.com,1,15,11/26/2020 1:26,0
+Better Markdown syntax highlighting?,k0tti3,llPatternll,reddit.com,24,22,11/25/2020 23:09,0
+Where can I find a French translation of the help files?,k0t2h6,ProgMetalSlug,reddit.com,8,13,11/25/2020 22:24,0
+Bind key in internal pager?,k0ssjh,emax-gomax,reddit.com,4,7,11/25/2020 22:08,0
+Can't write any of my symbols located in the numbers,k0qqb4,bocadillo_sin_pan,reddit.com,1,3,11/25/2020 19:44,0
+Is there a program like screenkey that is Vim-aware?,k0pusn,Maskdask,reddit.com,6,7,11/25/2020 18:34,0
+add a backspace ultisnips,k0p34u,Leskille,reddit.com,2,2,11/25/2020 17:30,0
+"ex commands in popup ""window""?",k0nd75,zstix,reddit.com,0,7,11/25/2020 15:11,0
+"Enclosing visual block in brackets, etc.",k0n51q,Elmyder,reddit.com,2,4,11/25/2020 14:54,0
+MvVis,k0jw0b,Jorengarenar,github.com,9,4,11/25/2020 11:06,0
+Understanding Plugin Commands,k0jjqp,eat_those_lemons,reddit.com,5,10,11/25/2020 10:43,0
+Opening quickfix for where last line is more relevant (python)?,k0ht9n,dddbbb,reddit.com,1,9,11/25/2020 8:54,0
+Vim-startify don't remember previously opened files,k0gg53,arnauldb,reddit.com,1,3,11/25/2020 7:32,0
+Autocompletion with pregenerated c_cpp_properties.json,k0eif3,PostingPenguin,reddit.com,1,6,11/25/2020 5:44,0
+[ANN] Vimtex v2.0,k0c7se,lervag,reddit.com,352,35,11/25/2020 3:44,9
+How to run shell commands in a horizontal temporary split?,k0azv4,Northstat,reddit.com,12,13,11/25/2020 2:45,1
+Unconditional linewise or characterwise pasting,k01f69,abraxasknister,reddit.com,23,20,11/24/2020 16:47,0
+A improved mapping to leave insert mode than jk or kj or jj,jzkw6g,jdhao,reddit.com,85,138,11/24/2020 0:32,0
+Highlighting Issue. How Can I Fix This?,jzkmd0,yellowseptember,reddit.com,4,5,11/24/2020 0:18,0
+COC auto suggestions are stuck on the screen,jzjbdd,crypto-pickle,reddit.com,6,5,11/23/2020 23:10,0
+how do i get gruvbox for my gnome terminal,jzic6k,Bilboballin,reddit.com,0,2,11/23/2020 22:15,0
+How can I remove this margin/space at the bottom of vim window in Onedark theme?,jzhs5r,entivec,reddit.com,1,4,11/23/2020 21:41,0
+Automatically go top of the buffer after calling term_start?,jzgkhe,RingoRangoRongo,reddit.com,1,4,11/23/2020 20:16,0
+Browser/Extension with Vim Insert/Input Mode,jzd9xu,yet-another-tim,reddit.com,0,29,11/23/2020 15:34,0
+Alduin Vim Theme for Terminal?,jzc0ka,No-Idea5409,reddit.com,1,2,11/23/2020 13:54,0
+"RopeVim, how to test if it's working?",jz6yes,NotBleachLol,reddit.com,0,10,11/23/2020 8:21,0
+How to prevent line numbers with :print,jz4mq5,kress5,reddit.com,1,4,11/23/2020 6:05,0
+Trying to shift from VS Code to Vim. What to configure as a starter pack?,jz3r00,periperidip,reddit.com,2,12,11/23/2020 5:18,0
+"Am I the only one who involuntary shouts out ""YANK"" in the head whenever I tap 'Y' ?",jz317n,ShayD7118,reddit.com,28,21,11/23/2020 4:39,0
+Should have been the esc key,jz2jlq,ab12gu,reddit.com,453,28,11/23/2020 4:12,0
+VimCharm - approximating PyCharm on Vim,jz2eyk,lonesword_,kevinmartinjose.com,14,10,11/23/2020 4:05,0
+How to change current word to uppercase from insert mode?,jyzvzs,Sinbad_07,reddit.com,1,16,11/23/2020 1:48,0
+Undo stops working in vim,jyzqk1,zonzon510,reddit.com,0,9,11/23/2020 1:40,0
+urlview.vim - List and open URLs easily,jyxi5g,metyaz,github.com,3,6,11/22/2020 23:34,0
+Broken paste?,jyvw5t,mcmoor,reddit.com,3,7,11/22/2020 21:47,0
+Selective bracket completion,jyuxu3,crashing_human_API,reddit.com,1,4,11/22/2020 20:31,0
+I am writing a digital book about Vim.,jyunfc,progsNyx,reddit.com,38,13,11/22/2020 20:07,0
+Any Tutorial on how to create a Vim-like editor from scratch?,jyt2r7,CP999-,reddit.com,0,12,11/22/2020 17:39,0
+Should I learn Emacs?,jystzl,cncfan1995,reddit.com,4,47,11/22/2020 17:14,0
+"Different highlight color for TODO, FIXME, XXX",jysa78,protegosolus,reddit.com,14,10,11/22/2020 16:20,0
+Help for installing vim plugin in Win10,jysa3u,Emotional-Savings-80,reddit.com,0,2,11/22/2020 16:20,0
+How I got used to Vim,jypvxk,kontinuity,reddit.com,5,9,11/22/2020 12:54,0
+"Is there a plugin that implements operator-pending motions for constructs/loops ? (`if`, `for`, `where` etc...) ?",jymguv,Atralb,reddit.com,4,14,11/22/2020 8:59,0
+New here!,jyih2t,she__codes,reddit.com,0,20,11/22/2020 5:00,0
+"Hope I did not ""wim"" this time.",jyh84x,mrillusi0n,reddit.com,130,34,11/22/2020 3:47,1
+Can anyone share me a link of Vim video tutorials to learn vim and use it for competitive programming in C++,jyh25s,Rare_idiot,reddit.com,0,8,11/22/2020 3:38,0
+Sharing my plugin vim-float-terminal,jyc5yw,ZhiyuanLck,reddit.com,20,7,11/21/2020 23:04,0
+Don't open new window for help,jybsp0,abraxasknister,reddit.com,2,21,11/21/2020 22:40,0
+inserting filename in uppercase,jyak1c,GedeonSpilett,reddit.com,1,4,11/21/2020 21:16,0
+What do you use Vim for?,jy84te,Rare_idiot,reddit.com,0,11,11/21/2020 17:38,0
+My pinky finger weak af,jy83sq,AsianDaggerDick,reddit.com,4,14,11/21/2020 17:35,0
+Which language do you use on Vim?,jy83ov,Rare_idiot,reddit.com,0,8,11/21/2020 17:34,0
+Anybody know the name of this theme?,jy7mr4,ennmichael2,reddit.com,1,2,11/21/2020 16:47,0
+Different Syntax for different filetype,jy62uv,Dosx001,reddit.com,2,11,11/21/2020 14:22,0
+Pasting into external applications from vim,jy34xj,zambodian2,reddit.com,4,9,11/21/2020 10:46,0
+Probably a stupid regex question.,jy1kkw,ferulebezel,reddit.com,1,8,11/21/2020 9:03,0
+"Pinto, an application to create Vim themes in the browser",jy0twq,alajmo,reddit.com,295,54,11/21/2020 8:16,3
+vimscript for navigating long complex functions,jxvjde,zonzon510,reddit.com,2,5,11/21/2020 3:19,0
+Having Trouble Compiling Vim with Python3.6,jxuh3m,0ryX_Error404,reddit.com,0,12,11/21/2020 2:24,0
+Setting custom textwidth to all files,jxugh3,kn0xchad,reddit.com,2,2,11/21/2020 2:23,0
+What vim plugins for Flutter development?,jxuasn,GeroSchorsch,reddit.com,0,4,11/21/2020 2:15,0
+vim or nvim in vscode,jxtmvp,bloztaki,reddit.com,0,2,11/21/2020 1:42,0
+Using Obsidian with Termux and VIM,jxteeu,adgad137,thegadhian.com,14,7,11/21/2020 1:30,0
+I'm trying termux+vim+Python combination on Android! But this error won't let me in to insert mode! Help please?,jxqyvr,Ga_Jani,reddit.com,35,32,11/20/2020 23:24,0
+Any ideas for appending to json file with vimscript?,jxp036,jamJam20,reddit.com,1,15,11/20/2020 21:28,0
+ftplugin question,jxo1pw,abraxasknister,reddit.com,3,12,11/20/2020 20:20,0
+Is there any DSL or library for text editing as powerful as vim?,jxlws9,danielo515,reddit.com,1,7,11/20/2020 17:12,0
+notetaking in vimwiki,jxki4n,IGTHSYCGTH,reddit.com,7,2,11/20/2020 15:03,0
+"Apply a substitution regex, but only in the ""view"" and not in the actual document (bonus allow toggling application easily)",jxjd9t,nikki93,reddit.com,2,8,11/20/2020 13:30,0
+Vim Kōans,jxi456,ASIC_SP,reddit.com,70,23,11/20/2020 12:00,0
+Extract selected lines to another file with :w,jxhfmc,cbartlett,vimtricks.com,15,10,11/20/2020 11:13,0
+Has anyone tried ViEmu for Word?,jxel6n,_banafish,reddit.com,37,27,11/20/2020 8:11,0
+"Vlugger, a plugin manager",jx9397,Wafelack,reddit.com,0,4,11/20/2020 3:11,0
+Scrolling is too fast with mouse=a,jx8qxi,tonyZ345,reddit.com,1,11,11/20/2020 2:54,0
+Weird colors on vim,jx4o0h,3XM25,reddit.com,1,6,11/19/2020 23:26,0
+Any xcape users? Bind more than just Ctrl? Enter key as modifier...,jx2mld,gregorie12,reddit.com,1,4,11/19/2020 21:25,0
+I need help to found this colorscheme please? ;-;,jx1qzj,tognols,reddit.com,2,12,11/19/2020 20:23,0
+Difference between moving down or up,jx0dwl,Astro_Z0mbie,reddit.com,3,3,11/19/2020 18:28,0
+Vimwiki: Question about VimwikiGenerateLinks command,jwzpt6,JWT721,reddit.com,2,0,11/19/2020 17:27,0
+Is there a way to autocomplete previous insertions and selections?,jwzjr6,kantord,reddit.com,2,5,11/19/2020 17:11,0
+Best plugins for customisation of Brackets,jwza2o,the1derer,reddit.com,0,12,11/19/2020 16:46,0
+Neovim as C/C++ IDE: how do deal with include paths?,jwyzpe,ruinozeros,reddit.com,1,8,11/19/2020 16:20,0
+WhatsCLI WhatsApp client,jws0f4,normenh,reddit.com,184,101,11/19/2020 8:19,1
+Vim only matches syntax strings if there's at least a single latin character?,jwru9k,tucnak,reddit.com,1,8,11/19/2020 8:09,0
+What is the most VIM-like email client?,jwjs15,eyun89,reddit.com,68,43,11/19/2020 1:14,0
+Help creating macro to speed up spellchecking,jwiuk6,sam-barr,reddit.com,13,24,11/19/2020 0:26,0
+How do I protect my highlight groups from clearing?,jwgzbs,K41eb,reddit.com,2,3,11/18/2020 22:43,0
+Best cheatsheets/tutorial vids on vim?,jw89rt,Vxqui,reddit.com,1,19,11/18/2020 11:29,0
+Pasting from host to vim inside docker container,jw7o63,dramsde1,reddit.com,36,19,11/18/2020 10:51,0
+Can I choose cursor position for Go to definition?,jw4i00,SuccessfulElk,reddit.com,3,6,11/18/2020 7:43,0
+"""+ register not working",jvye0n,erick_pythonist,reddit.com,0,8,11/18/2020 2:30,0
+"Anything like like TabOut function for Visual Studio, to exit pairs/closings?",jvxftv,don_stinson,reddit.com,6,11,11/18/2020 1:42,0
+https://github.com/vim-scripts/AutoComplPop not working for me,jvsr9q,RedditUser762005,reddit.com,3,8,11/17/2020 21:14,0
+Improving Vim Workflow With fzf,jvrx0k,nikolalsvk,pragmaticpineapple.com,123,48,11/17/2020 20:09,0
+Find usage in python code source,jvrifb,MagicCarot,reddit.com,10,7,11/17/2020 19:34,0
+Why I use Vim and suck at it,jvq1y1,rickdg,reddit.com,68,31,11/17/2020 17:21,0
+How to install vimspector from scratch,jvpt9i,TGdZuUsSprwysWMq,reddit.com,1,10,11/17/2020 16:58,0
+Closure/Block-based highlighting?,jvm2nd,8E4F787A43D3807E9EA2,reddit.com,2,6,11/17/2020 11:54,0
+Why is my Sonokai color scheme only displaying so little colors even though I'm using vim-polyglot?,jvcqjw,GeroSchorsch,reddit.com,99,43,11/17/2020 3:02,0
+Can copy whole .vim folder to other PC?,jvb4t5,Bitter_Day9495,reddit.com,13,19,11/17/2020 1:40,0
+Small Tip: Run macOS QuickLook for the file under the cursor with vim-dirvish,jvaqmh,ilbanditomonco,reddit.com,11,3,11/17/2020 1:20,0
+Every time I save a typescript or javascript file using coc it duplicates the last line for some reason. Any idea how I can solve this?,jv60hb,yudhiesh,reddit.com,1,4,11/16/2020 20:33,0
+"Having problems with coc vim, eslint and prettier?",jv4nig,rakeshShrestha,reddit.com,0,2,11/16/2020 18:33,0
+Learn Vimscript the Hard Way - A great resource for learning Vimscript,jv4frw,_-_Specter_-_,stevelosh.com,24,0,11/16/2020 18:12,1
+CMake4vim - Plugin which integrates CMake into Vim,jv3oz2,ilyachur,reddit.com,21,12,11/16/2020 17:00,0
+How can I make vae to visually select everything in the buffer?,jv3hkd,mrillusi0n,reddit.com,1,17,11/16/2020 16:40,0
+Let Vim do the typing - completion without plugins,jv2ci2,kiwisniper69,reddit.com,125,12,11/16/2020 14:53,2
+What `val >= 0 ? a:context.col : -1` expression mean?,jv0lj6,jamJam20,reddit.com,2,1,11/16/2020 12:34,0
+SPF13-Vim fork with modern tools,juyv8a,jtuzp,reddit.com,0,2,11/16/2020 10:34,0
+Typescript and ALE,jusag6,daliusd_,reddit.com,49,16,11/16/2020 3:59,0
+why the wierd spacing around the corners? Is it coming from treminal padding? How to fix?,jupm2w,faizan_20,reddit.com,0,12,11/16/2020 1:29,0
+Make fzf detect project root and search from there,junvm6,,reddit.com,5,20,11/15/2020 23:47,0
+A guide on creating your own text objects.,junl5f,jdhao,reddit.com,38,5,11/15/2020 23:30,0
+FZF :Files unreadable colorscheme.,jum71f,_fishysushi,reddit.com,2,6,11/15/2020 21:53,0
+"[Neovim] How would i remap ZW to doing "":w""?",jukuu4,CoreyYT,reddit.com,0,5,11/15/2020 20:02,0
+Reviving VT220 Aesthetic,juhh0t,khanhdc96,reddit.com,7,5,11/15/2020 14:26,0
+"I'm using goyo.vim, and I want to make those arrows at the bottom disappear. How do I do it?",jugj1v,mrillusi0n,reddit.com,3,12,11/15/2020 13:08,0
+"colorscheme evening is too bright in terminal, but okay with gvim",judgun,PM_ME_UR_THONG_N_ASS,reddit.com,1,2,11/15/2020 9:28,0
+"Tip: What helped me getting used to up and down (k, j) as a beginner, was associating ""up"" with ""kup"" and down with ""jown""",judfhp,shoopdewhoopwah,reddit.com,175,59,11/15/2020 9:25,0
+Is there a way to start vimspector without the hassle of creating a .vimspector.json file everytime?,jucupt,GeroSchorsch,reddit.com,8,4,11/15/2020 8:47,0
+Looking for IntellIJ Cyan like theme.,ju9pc1,_fishysushi,reddit.com,1,2,11/15/2020 5:28,0
+Ctrl L stuck sometimes,ju9cr1,ckangnz,reddit.com,4,12,11/15/2020 5:07,0
+Customize quickfix highlight color,ju6a5j,blay263,reddit.com,4,3,11/15/2020 2:08,0
+Personalize you dotfiles with Signit!,ju5fcc,johannesthyssen,reddit.com,0,3,11/15/2020 1:17,0
+I want to share this real time markdown previewer I found,ju2esj,Zeioth,reddit.com,11,7,11/14/2020 22:04,0
+"vim-remembers - a plugin that emulates Notepad++ ""remembering"" the contents of unnamed files.",ju1wfa,euw_psycher,reddit.com,48,6,11/14/2020 21:26,0
+Automatically Change Background based on `redshift` hook,ju1rkj,trvlr8,reddit.com,1,3,11/14/2020 21:15,0
+History of the visual selection,ju1bni,greg0ire,reddit.com,15,5,11/14/2020 20:37,0
+vim + easyjump.tmux > vim-easymotion/vim-sneak,ju18p7,roy2220,reddit.com,83,14,11/14/2020 20:30,1
+Manually mark sentences in an autogenerated transcript and reformat document,jtzsz7,feral-zebra,reddit.com,0,2,11/14/2020 18:09,0
+Vim equivalent of Emacs pretty-mode?,jtsrya,muraii,reddit.com,2,2,11/14/2020 9:09,0
+Close buffer but not the window,jtpluq,SnooDonkeys2743,reddit.com,7,10,11/14/2020 6:03,0
+Vim Quickies! Here's something where Visual Mode is not a smell.,jtnhzq,mrillusi0n,reddit.com,204,62,11/14/2020 4:19,0
+"Vim randomly lags and and stops working sometime when I either write a new file w/ a directory or create a new file with nerdtree, etc. Is there anything I can do to figure out what is causing this? The program doesn't say ""not responding"" and vim isn't actually crashing. (win 10 x64)",jtloq3,lordtorrent,reddit.com,3,6,11/14/2020 2:51,0
+Smallest Architecture to Run Vim on a Display,jtlkij,math2cs,reddit.com,31,13,11/14/2020 2:45,0
+Is it possible to make [number] for a mapping only affect/repeat part of the keys?,jtjmnu,_JJCUBER_,reddit.com,2,21,11/14/2020 1:08,0
+I just found out I can use VIM in Safari,jtd0v3,yudhiesh,reddit.com,49,22,11/13/2020 15:40,0
+"I love vim, but is it for me? Student?",jt29et,faizan_20,reddit.com,6,55,11/13/2020 4:16,0
+Vimcord - Vim plugin for discord rich presence,jt0e54,Steeli0,reddit.com,21,12,11/13/2020 2:44,0
+YCM,jsyue2,ghetto_man_,reddit.com,3,2,11/13/2020 1:27,0
+For VIM's birthday - my .vimrc,jsyr3k,banyek,reddit.com,4,9,11/13/2020 1:23,0
+How to pass arguments when using Termdebug?,jsxws4,MyNameIsArko,reddit.com,2,0,11/13/2020 0:40,0
+Enable c++17 globally with coc.nvim + ccls,jsv8cw,Galicarnax,reddit.com,2,7,11/12/2020 22:11,0
+Why I Still Use Vim,jsv7lu,speckz,reddit.com,207,90,11/12/2020 22:09,0
+"command gf opens file as it is imported, not resolving ..",jsugiy,iamasuitama,reddit.com,2,2,11/12/2020 21:21,0
+NerdTree causes vim to be painfully slow.,jsufzx,yudhiesh,reddit.com,2,16,11/12/2020 21:20,0
+String numbers and relative numbers at once,jst7fn,PopovGP,reddit.com,5,13,11/12/2020 19:42,0
+Force sidebar on at all times,jst4uo,Ideuutti,reddit.com,5,5,11/12/2020 19:36,0
+"Join lines, with second line going to the start of the first line",jsq31p,_-_Specter_-_,reddit.com,2,4,11/12/2020 14:55,0
+Vim-like Software,jso2gr,Smoggler,reddit.com,40,70,11/12/2020 12:23,0
+highlight the current window,jsmxag,Slugsurx,reddit.com,2,6,11/12/2020 11:08,0
+Need to kick the vscode habit,jsiyku,b74584,reddit.com,6,28,11/12/2020 7:16,0
+fzf.vim :BLines demo,jscfd4,Nitrodist,reddit.com,10,7,11/12/2020 1:28,0
+%s in visual selection mode,jsbf6j,Ok_Specialist_458,reddit.com,2,4,11/12/2020 0:38,0
+Custom colors for typedefs in C,jsak06,string111,reddit.com,1,3,11/11/2020 23:52,0
+Vim's life-changing c%,jsaeo9,karoliskoncevicius,thepugautomatic.com,362,50,11/11/2020 23:44,1
+Vim Syntax Highlighting,js9xyc,RafaMadriz,reddit.com,2,7,11/11/2020 23:19,0
+Starting with vim,js8ydr,expo_init,reddit.com,3,5,11/11/2020 22:21,0
+any good source to learn vimspector?,js7sa2,shaeinst,reddit.com,36,18,11/11/2020 21:06,1
+How to play vimgolf without a twitter account?,js6nos,Tagina_Vickler,reddit.com,19,14,11/11/2020 19:41,0
+How to escape quotation mark?,js6cmn,MyNameIsArko,reddit.com,3,16,11/11/2020 19:14,0
+Neither <C-6> nor <C-^> work on mac,js3gvq,alucardkoten,reddit.com,2,4,11/11/2020 15:02,0
+My VIM keyboard woes,js0c4v,kiwiheretic,reddit.com,4,23,11/11/2020 11:23,0
+Can you you format files using python installed modules rather than executables?,jrvinf,GAAfanatic,reddit.com,1,13,11/11/2020 6:46,0
+Vimwiki,jrpzxz,Kantilo,reddit.com,6,4,11/11/2020 2:06,0
+How to autocomplete path using alias root?,jrpujp,lai32290,stackexchange.com,3,2,11/11/2020 1:59,0
+Send text to DeepL for translation,jrogs8,Kelevra90,reddit.com,19,0,11/11/2020 0:49,0
+Vim colorscheme,jrmx6f,import_n,reddit.com,3,8,11/10/2020 23:28,0
+Terminal-Normal and Terminal-Job modes,jrmr7y,Jeehannes,reddit.com,3,7,11/10/2020 23:19,0
+Cleaner latex in Vim,jrm2j5,ykonstant,reddit.com,396,52,11/10/2020 22:40,3
+Best of both worlds,jrl1iw,snowfrogdev,reddit.com,0,6,11/10/2020 21:36,0
+Disabling spell check for 1 file,jrj1b4,rock-emacs,reddit.com,2,6,11/10/2020 18:58,0
+Inserting the date in Vim in Windows 10,jrhs9i,rock-emacs,reddit.com,5,12,11/10/2020 17:06,0
+What are some usecase to utilize doautocmd?,jrh2d7,jamJam20,reddit.com,2,5,11/10/2020 16:00,0
+These are the plugins I am using! what your's???,jrflot,unixbhaskar,reddit.com,0,12,11/10/2020 14:00,0
+Vim cheatsheet w/ Q,jrasii,shirobachi,reddit.com,402,39,11/10/2020 9:01,5
+Your choices of Vim Colorschemes for use in a Bare TTY ?,jr9f9b,Atralb,reddit.com,3,14,11/10/2020 7:44,0
+I want to make a function and I am having some problems with vimL,jr8tvn,banana_llarma,reddit.com,1,2,11/10/2020 7:12,0
+How to get special characters/symbols for the gutter (warnings and errors)?,jr4dmn,chillysurfer,reddit.com,8,3,11/10/2020 3:28,0
+Modern IDEs are magic. Why are so many coders still using Vim and Emacs? - Stack Overflow Blog,jr1yc5,javajunkie314,reddit.com,144,236,11/10/2020 1:28,0
+How to tell COC what extension to load according to the file extension,jr18b3,acedyn,reddit.com,2,10,11/10/2020 0:52,0
+control characters in man,jr17lg,ixlxixl,reddit.com,6,6,11/10/2020 0:51,0
+is it possible to pop out the vim floating windows?,jr0nub,justrajdeep,reddit.com,2,3,11/10/2020 0:23,0
+Ignore compilation errors while generating ctags file,jqwa2y,rushdabs,reddit.com,5,5,11/9/2020 19:53,0
+Published vscode-langservers-extracted package on npm.,jqvhra,hrsh7th,reddit.com,3,1,11/9/2020 18:47,0
+How do I use real tabs instead of spaces when writing python?,jqovtt,R530er,reddit.com,0,8,11/9/2020 10:14,0
+How does a lower `updatetime` lead to better performances ?,jqogan,Atralb,reddit.com,4,5,11/9/2020 9:48,0
+miniSnip [ ~ let me know how it's doing after refactoring ~ ],jqobul,Jorengarenar,github.com,5,0,11/9/2020 9:40,0
+How to apply a function on each item in the list?,jqo07k,jamJam20,reddit.com,1,12,11/9/2020 9:20,0
+Arithmetic operation upon strings and numbers,jql5ng,justinjoseph7,reddit.com,4,10,11/9/2020 6:32,0
+What is your visual appealing latex set up?,jqkp27,schadonis,reddit.com,8,7,11/9/2020 6:06,0
+How to lint in-line in realtime with coc?,jqjwia,GeroSchorsch,reddit.com,5,18,11/9/2020 5:23,0
+Debugging in Vim/NeoVim,jqjdul,AmitGold,reddit.com,0,3,11/9/2020 4:55,0
+Meaning of the word vim,jqipse,KarlKani44,reddit.com,12,8,11/9/2020 4:19,0
+Do you write vimscript a lot? few questions here,jqipa4,jamJam20,reddit.com,3,19,11/9/2020 4:18,0
+Need help finding a way to accomplish this,jqhwww,Gus_Gustavsohn,reddit.com,2,6,11/9/2020 3:36,0
+how do you set up packadd to automatically install not install plugins,jqhwv3,banana_llarma,reddit.com,0,1,11/9/2020 3:36,0
+Match regex in vim,jqfxc9,manu0600,reddit.com,2,9,11/9/2020 1:46,0
+"This week’s open source newsletter just went out! This one had some seriously interesting projects, like Mario in Vim, and a project that allows you to search through JSON without knowing it’s structure beforehand (unlike jq).",jqetyz,binaryfor,substack.com,3,2,11/9/2020 0:46,0
+Vim : Fights the toughest Grease.,jqetdr,Admiral_Smoker,reddit.com,296,22,11/9/2020 0:46,0
+Regular expression in Vim. $ hello $ to \( hello \),jqb3hu,finou314159,reddit.com,12,21,11/8/2020 20:41,0
+Mutt | Email Client that sucks less | How to use email from a Terminal |...,jqa4sr,AbdullahToday,youtube.com,0,5,11/8/2020 19:17,0
+"I have created a snippet with python interpolation, but it not working can any check it.",jq1miy,rj0_1_,reddit.com,0,3,11/8/2020 8:13,0
+gq in vim resulting in shell error,jpz6wa,knpwrs,reddit.com,25,5,11/8/2020 5:53,0
+Map RightMouse map along with popup_setpos mode?,jpy4mh,rob508,reddit.com,2,2,11/8/2020 4:54,0
+Using Alt+h/j/k/l with GVim on Windows?,jpx7j0,LorenWard,reddit.com,2,9,11/8/2020 4:03,0
+Vim or Neovim for a beginner?,jpshhi,Striking_Ad_7465,reddit.com,4,26,11/7/2020 23:16,0
+Change cursor init.vim on WSL2,jpp3nw,CP999-,reddit.com,2,5,11/7/2020 19:09,0
+"Do you guys bind j/k to gj/gk? Use textwidth, gq?",jplc5x,immortal192,reddit.com,67,32,11/7/2020 13:31,0
+Vim- links to other files (and sections inside),jpjxdd,aoe2map,reddit.com,9,20,11/7/2020 11:47,0
+Is it possible to get vim-plug to update asynchronously?,jpgqu5,Maskdask,reddit.com,0,11,11/7/2020 8:15,0
+plugin to generate tree of callers of a function,jpf4kh,GAAfanatic,reddit.com,6,12,11/7/2020 6:39,0
+Powerline for Nyxt,jpekn1,jmercouris,atlas.engineer,2,4,11/7/2020 6:07,0
+Is there a way to turn off key repeat on only vim,jpe3b1,banana_llarma,reddit.com,3,8,11/7/2020 5:40,0
+How-to floating vim-plug window?,jp6ul3,torresjrjr,reddit.com,8,2,11/6/2020 23:16,0
+What features are you looking for if you are going to use vim like an IDE? It would be helpful if you could list them.,jp58j3,arch_is_1337,reddit.com,6,12,11/6/2020 21:40,0
+TIL vim can restore previous quickfix lists,jp4fbe,king_arley2,reddit.com,26,10,11/6/2020 20:43,0
+developed a script to run/build a program in vim,jp4b44,shaeinst,reddit.com,2,9,11/6/2020 20:34,0
+How to set the airline configuration in the picture? let g:airline_left(or right)_sep = ' ',jp3o6j,Solitude_Go,reddit.com,0,1,11/6/2020 19:42,0
+Spanish accents not showing on vim,jp32lg,FreierVogel,reddit.com,6,10,11/6/2020 18:50,0
+Using the power of :g[lobal] and :v[global] with :s[ubstitute] to filter lines they affect,jp2x6t,TC0072,reddit.com,158,35,11/6/2020 18:37,1
+Which generic editor/IDE offers good vim mode support?,joz5oh,alkaline-adrian,reddit.com,21,58,11/6/2020 13:20,0
+which is beter tmux or vim for window and tab function?,jonacb,arch_is_1337,reddit.com,2,9,11/6/2020 1:46,0
+Detecting if a file is already open spontaneously broken,jon1xw,-rensenware-,reddit.com,0,4,11/6/2020 1:34,0
+Oceanic Next colorscheme,joj7dh,hershin,reddit.com,63,11,11/5/2020 21:59,0
+Detect filetype inside a block?,joj5fn,koomenk,reddit.com,5,3,11/5/2020 21:56,0
+vim startup pause,joj4su,stegzzz,reddit.com,1,12,11/5/2020 21:54,0
+A wish for a binary seek mode,joiout,ykonstant,reddit.com,1,7,11/5/2020 21:24,0
+"Sorry for the newbie question, but I'm having a tabulation level does not match in lines 52-66, and I can't solve it at line 51 I did: ':s/ /^I/g', I don't know if it is the best solution and also how I apply this to all the lines in visual mode (it is not working for me for some reason).",joi5o7,SeuChiko,reddit.com,2,1,11/5/2020 20:46,0
+fuck vim,joi0fy,juliovmh,reddit.com,0,10,11/5/2020 20:35,0
+Tridactyl: a Vim-like interface for Firefox,johj4x,harmonious_herman,github.com,144,23,11/5/2020 19:56,0
+Add a context menu to your vim,joeamj,skywind3000,reddit.com,124,23,11/5/2020 14:58,0
+Anyone here using the colorscheme pop-punk? Can't seem to figure out why comments wrap around and are highlighted like this.,joc8w8,yudhiesh,reddit.com,3,7,11/5/2020 12:21,0
+Windows Terminal Vim: Can't see what I am selecting with visual mode.,jobmkz,theshtank,reddit.com,1,2,11/5/2020 11:41,0
+Minimalist Mac Vim users: this is the only keyboard customization you need,jo9pac,yourgrassisass,reddit.com,4,17,11/5/2020 9:40,1
+Override plugin shortcut,jo7gbs,chillysurfer,reddit.com,4,5,11/5/2020 7:24,0
+Let's get political,jo6ap7,blay263,reddit.com,0,1,11/5/2020 6:19,0
+I moved from VisualStudio to vim. I feel ready to start a blog.,jo1tef,,reddit.com,26,29,11/5/2020 2:18,0
+Search replace help,jo0fk6,vodkastick,reddit.com,1,5,11/5/2020 1:06,0
+Is it possible to highlight SQL(SQLite) in Python files?,jo0ev5,LordKreias,reddit.com,121,22,11/5/2020 1:05,0
+Toggle comments as opposed to disparate comment/uncomment lines?,jo0a5y,jwink3101,reddit.com,2,4,11/5/2020 0:58,0
+Run program lookup (Shift-k) in silent mode,jnzzxt,reminescenz,reddit.com,2,4,11/5/2020 0:43,0
+How vim is different from other IDEs / Editors when saving files ?,jnz9tz,Neovea,reddit.com,2,4,11/5/2020 0:03,0
+How can I change the default pager for vim?,jnxjom,kiwisniper69,reddit.com,22,10,11/4/2020 22:24,0
+How to split Vim horizontally and vertically in one command.,jnxcb0,b1ack_b0ne,reddit.com,6,14,11/4/2020 22:11,0
+Jupyter notebook workflow in vim,jnw0lo,kn0xchad,reddit.com,23,13,11/4/2020 20:42,0
+BufWritePost commands with sudo,jnvssl,kn0xchad,reddit.com,1,2,11/4/2020 20:25,0
+"getcompletion("""", ""tag"") only returns 300 tags at most?",jnntvr,wang-bei,reddit.com,2,4,11/4/2020 9:51,0
+"Dear Vim users, what is your best setup for working in Python?",jnkvfu,AnanasBanaantje,reddit.com,85,77,11/4/2020 6:52,0
+[OC] The Most Popular Integrated Development Environments (IDEs - 2006/2020),jne719,accappatoiviola,reddit.com,1,19,11/4/2020 1:08,0
+I made a plugin that can get GitHub's pull request URL.,jnbj6d,gorilla0513,reddit.com,7,2,11/3/2020 22:49,0
+Some custom text objects you might find useful too,jn89tt,habamax,github.com,103,5,11/3/2020 18:53,0
+Instantly refactor Python in Vim,jn7wez,brendan_m6s,reddit.com,48,17,11/3/2020 18:17,0
+New Fediverse community for Vim!,jn7lfs,torresjrjr,reddit.com,9,2,11/3/2020 17:48,0
+Search through files plugin,jn613h,TheCakeWasNoLie,reddit.com,3,9,11/3/2020 15:21,0
+jupyter-integration in VIM,jn5u2s,lonewolf_9,reddit.com,8,15,11/3/2020 15:03,0
+Is it possible to remove pep 8 errors from ALE?,jn4cxn,LordKreias,reddit.com,2,8,11/3/2020 13:05,0
+"The file explorer Vim needs, not the one Vim deserves",jmxkft,atweiden,github.com,10,6,11/3/2020 6:14,0
+Question about syntax highlighting,jmvksg,Limp-Still-5093,reddit.com,2,4,11/3/2020 4:36,0
+VSCode tips for Vim people,jmuey2,paulshen,bypaulshen.com,1,5,11/3/2020 3:33,0
+"Happy Birthday, Vim!",jmu2yj,habamax,reddit.com,281,12,11/3/2020 3:15,1
+"SpaceVim good, or nope",jmhob9,matt_gilbert,reddit.com,27,42,11/2/2020 13:16,0
+Vim and java?,jmby9b,Sjod1407,reddit.com,5,31,11/2/2020 6:54,0
+New to Vim - What is the correct way to navigate?,jm6u1h,Leestons,reddit.com,3,41,11/2/2020 2:07,0
+¿Vim plugin to predict?,jm4x58,zeragal,reddit.com,33,22,11/2/2020 0:19,0
+What are those files with ~ extension in the end and how to avoid it getting detected by git?,jm45cv,Curious_homosepian,reddit.com,0,12,11/1/2020 23:34,0
+Swap the window split direction logic,jm3j9b,plusSignC,reddit.com,6,11,11/1/2020 22:56,0
+How to highlight certain things in python,jm2gho,dumb-on-ice,reddit.com,3,5,11/1/2020 21:45,0
+React and TypeScript syntax highlighting 'redrawtime' exceeded,jm218c,ninja_the_rabbit,reddit.com,32,7,11/1/2020 21:15,0
+A noobish question on Tab key behavior,jlxk4v,alexeusgr,reddit.com,1,5,11/1/2020 13:53,0
+How to get rid of ^@ from an appended text,jlu7wy,jamJam20,reddit.com,10,11,11/1/2020 9:31,0
+first time vim user trying to install plugins. I'm getting errors. Does it look right?,jltc04,Relatively_Curious,reddit.com,1,21,11/1/2020 8:30,0
+Online Vim meetup,jlk9hd,mileslimes,reddit.com,150,21,10/31/2020 23:27,0
+Search strings in SC-IM,jljnmz,dotancohen,reddit.com,6,3,10/31/2020 22:51,0
+Background opacity on Vim/SpaceVim,jliyp7,fizzzzi,reddit.com,0,5,10/31/2020 22:08,0
+Question about LSP/tsserver Code Actions,jlfucm,daliusd_,reddit.com,2,6,10/31/2020 18:03,0
+Output relative file path in Vim,jlfpq4,kwokhou,reddit.com,10,3,10/31/2020 17:52,0
+Syntax highlight color,jlegak,jpranata,reddit.com,0,4,10/31/2020 15:45,0
+Using Vim's built-in terminal,jlbg03,Wheelthis,github.com,73,45,10/31/2020 11:26,0
+Vimways Calendar 2020?,jl809t,MachineGunPablo,reddit.com,18,13,10/31/2020 7:45,0
+Help! Why does my vim have randomly scattered tilde's? Windows 10 Vim,jl7ygu,FilthyFucknDirtyCock,reddit.com,16,19,10/31/2020 7:42,0
+Adding an additional comment syntax that applies to all file types,jl7u0x,naderad,reddit.com,2,5,10/31/2020 7:34,0
+Using Vim for Android development,jl6fze,Sho0pi,reddit.com,1,7,10/31/2020 6:13,0
+Cyberpunk colorscheme,jl66rw,gawkkk,reddit.com,14,8,10/31/2020 5:59,0
+Why are the directions set as hjkl instead of jkl;? (I'm not a vim user),jl46a5,someguy3,reddit.com,1,19,10/31/2020 4:07,0
+Was outside and had to edit some code to be sent back quick. DroidVim to the rescue,jl0se2,LearnTillDeath,reddit.com,10,11,10/31/2020 1:08,0
+"Please, help me to remove this light gray in the left! (morhetz/gruvbox)",jkyjxx,floZiix,reddit.com,85,17,10/30/2020 23:11,0
+Is easymotion the fastest way to navigate to an arbitrary point? Reasons not to use it?,jkxuv8,rofic,reddit.com,30,36,10/30/2020 22:33,0
+Vim on Windows is not sourcing plugin's ftplugin/,jkwr4z,koomenk,reddit.com,2,4,10/30/2020 21:29,0
+Is there any plugin that provides fish-like autosuggestions in neovim?,jkuubc,AppropriateCrew79,reddit.com,3,5,10/30/2020 19:13,0
+[YouCompleteMe] How can I show the methods and functions of an external directory?,jksvb4,Astro_Z0mbie,reddit.com,1,3,10/30/2020 16:18,0
+"My Prettier plugin is setting huge horizontal spaces when i call him, there's a way to fix it to looks like prettier of VSCODE?",jko7hq,mad_visionary,reddit.com,77,22,10/30/2020 10:12,0
+Is using Alt as prefix key a bad idea for tmux?,jknr9k,rofic,reddit.com,2,3,10/30/2020 9:44,0
+Would you recommend Vim extension from VS Code to learn Vim?,jkjva5,ShadowInSoul,reddit.com,4,12,10/30/2020 6:03,0
+Neovim split window layout breaking,jkhavi,0megaRogue,reddit.com,0,2,10/30/2020 3:52,0
+Python f-strings syntax highlighting in Vim,jkh6iq,phelipetls,reddit.com,31,4,10/30/2020 3:46,0
+Is it possible to insert autocmd to augroup?,jkh4zk,jamJam20,reddit.com,3,1,10/30/2020 3:44,0
+Eliminating delays on ESC in vim and zsh,jkcfkh,skeeto,johnhawthorn.com,13,1,10/29/2020 23:44,0
+Mario on Vim,jkbop3,a_bored_husky,github.com,114,9,10/29/2020 23:04,0
+Show actions you're typing in normal mode in the corner like VSCode Vim emulator?,jkbgz1,leaderwho,reddit.com,5,5,10/29/2020 22:53,0
+"Is there a way to make cib work on the nearest pair of brackets, without me being inside / on one?",jkb404,mrillusi0n,reddit.com,1,5,10/29/2020 22:33,0
+VertSplit highlight,jk9q9x,simbapk,reddit.com,5,5,10/29/2020 21:10,0
+UltiSnips python code formatting ?,jk843u,SuperGrip,reddit.com,2,0,10/29/2020 19:14,0
+CtrlP.vim doesn't see my .env file,jk6y4z,kerolloz,reddit.com,1,0,10/29/2020 17:32,0
+Jump to the closest to the cursor location list entry,jk6x9i,artemave,reddit.com,1,5,10/29/2020 17:29,0
+How do i install vimball?,jk5xwi,bocadillo_sin_pan,reddit.com,2,2,10/29/2020 15:54,0
+How can I change the position of the status line in vim?,jk5s79,RunningUtes,reddit.com,10,11,10/29/2020 15:39,0
+Better errorformat testing?,jk4b0f,MrMosBiggestFan,reddit.com,3,8,10/29/2020 13:23,0
+"Wait for it !!! This is what we can do with vim surround and macro repeating. Command I used start rec `qa` add quotes and comma `yss""$a, Esc j` repeat macro n times 20@a",jk3nw1,ShivamJoker,reddit.com,201,74,10/29/2020 12:32,0
+Gary Bernhardt’s new YouTube channel,jk2k14,coralton,reddit.com,13,11,10/29/2020 11:11,0
+Vim is the gateway drug to Linux,jjv42n,punctualjohn,reddit.com,131,69,10/29/2020 3:58,0
+"vim-run: Run, view, and manage UNIX shell commands with ease (async of course)",jjns01,ledesmablt,reddit.com,193,29,10/28/2020 21:31,0
+cancel ex command,jj2s18,katyalovesherbike,reddit.com,3,5,10/27/2020 23:03,0
+Using vim inside vim inside vim inside vim inside vim,jj1gep,cognus_rox,reddit.com,6,5,10/27/2020 21:49,0
+How to remove extra line below command line with Vim 8.2?,jizl0w,invalidsearch,reddit.com,1,9,10/27/2020 19:46,0
+And here i thought my phone was useless,jizf5a,faizan_20,reddit.com,326,67,10/27/2020 19:33,3
+Very easy fuzzy finder with matchfuzzy,jiyfze,_suspicious_alpaca,reddit.com,19,7,10/27/2020 18:12,1
+Vim missing syntax highlight during C-like 'for' loops in Bash,jixeob,r24xtech,reddit.com,5,9,10/27/2020 16:36,0
+Auto suggestions for Java. Specifically maven dependencies.,jivpf6,fucky0urU5ername,reddit.com,5,8,10/27/2020 13:56,0
+`:inoremap kj` faster timeout?,jiqyi8,chipdish,reddit.com,2,4,10/27/2020 8:28,0
+Suggestions for general purpose list-filter libraries that use actual buffers (like coc-list),jimqse,7sidedmarble,reddit.com,4,8,10/27/2020 4:39,0
+Vim's Small Idea,jiloas,intercaetera,intercaetera.com,68,5,10/27/2020 3:46,0
+How do i update fron version 8 to version 8.1+,jiion2,MirrorOfDisgrace,reddit.com,3,23,10/27/2020 1:17,0
+"ArkVim, a Vim extension for ark script",jiicdx,Wafelack,github.com,3,2,10/27/2020 1:00,0
+Which Vim related characters have you found lingering in your files?,jifnox,nickjj_,reddit.com,2,1,10/26/2020 22:35,0
+Not Consecutively scrolling down when pressing j malfunctioning,jielu8,FakuVe,reddit.com,3,9,10/26/2020 21:33,0
+YouTube Music Web Player - coded by a Vim enthusiast?,jidd3k,drinkwell,reddit.com,25,15,10/26/2020 20:09,0
+shift+o is too slow,jicnfd,c_is_the_real_lang,reddit.com,80,15,10/26/2020 19:13,0
+Search/replace with special character,ji9wqr,mcstafford,reddit.com,5,7,10/26/2020 14:53,0
+Key maping??,ji9n5j,alok_wardhan_singh,reddit.com,1,5,10/26/2020 14:29,0
+"I have python3 and already did ""pip3 install pynvim"", yet ""echo has('python3')"" returns 0. What could I be doing wrong?",ji72qv,BeardedBearserker,reddit.com,2,11,10/26/2020 11:05,0
+New (to me) mapping: Swapping <Up> for <C-N> and <Down> for <C-P> in command mode,ji6na6,rampion,reddit.com,20,9,10/26/2020 10:37,0
+Is there a way copy any ex command output to a register?,ji5y5x,zdm-red,reddit.com,11,14,10/26/2020 9:51,0
+"Scroll, instead of move cursor, if at end of file (normal mode)",jhzaab,Gigi14,reddit.com,3,6,10/26/2020 3:21,0
+"Are you waiting for ages for Vim to open a large log file? There's a trick for avoiding that, that I've recently discovered.",jhx0h1,shime_rb,reddit.com,0,9,10/26/2020 1:14,0
+Extending insert completions for real,jhwtnj,pereloz,reddit.com,18,1,10/26/2020 1:03,0
+C++ In Vim,jhwl2h,NotBleachLol,reddit.com,2,67,10/26/2020 0:49,0
+Where is this colour defined?,jhtfhb,Ok_Specialist_458,reddit.com,2,7,10/25/2020 21:34,0
+quick tip.,jht7es,sundaran1122,reddit.com,111,22,10/25/2020 21:18,0
+Carbon Now Sh,jhrbye,KU-KO,reddit.com,0,7,10/25/2020 18:34,0
+Signature help via ALE,jhqzsv,LurkaZZZ,reddit.com,7,10,10/25/2020 18:02,0
+Straightforward LSP setup with autocompletion,jhqyh9,mileslimes,reddit.com,40,13,10/25/2020 17:58,0
+How to open the rest of the current file that still invisible in a second window?,jhnagq,,reddit.com,5,9,10/25/2020 12:20,0
+Can how can I save and close existing vim instance/s from the command line?,jhm6af,usera8787782,reddit.com,1,4,10/25/2020 10:56,0
+"Intermediate user sharing his text editing strategies. Share your favorites too, so we all can learn something!",jhixwn,Zeioth,reddit.com,0,7,10/25/2020 7:17,0
+Best Vim Colorscheme for Haskell/Elm,jhgcll,Adador,reddit.com,2,4,10/25/2020 4:44,0
+How to put the FZF floating window in the bottom of the screen?,jhd9q0,vagara,reddit.com,1,2,10/25/2020 1:50,0
+Toast! A medium-contrast auto-light/-dark theme,jhcin3,topdownjimmy,github.com,183,20,10/25/2020 1:07,0
+VIM TRICK,jhb4sf,zine2000,reddit.com,3,6,10/24/2020 23:47,0
+Join vim-doge on Gitter,jhayey,koomenk,reddit.com,0,0,10/24/2020 23:36,0
+Best plugins for cpp development?,jh8wq6,BrowserMac,reddit.com,12,13,10/24/2020 21:28,0
+How to minimise YCM installation size,jh87xn,puremourning,reddit.com,44,16,10/24/2020 20:38,0
+Modifying a file changes the birthdate,jh7wee,janstermaster,reddit.com,1,1,10/24/2020 20:13,0
+Entering select mode from insert mode with the mouse,jh7aa5,PuddyVanHird,reddit.com,0,3,10/24/2020 19:20,0
+vim as HTML editor,jh6nad,redwisdomlight,reddit.com,25,43,10/24/2020 18:22,0
+vim for windows,jh6il5,Cute_Paramedic_256,reddit.com,0,12,10/24/2020 18:09,0
+Any idea why this happens??,jh3y3u,LordKreias,reddit.com,0,15,10/24/2020 14:06,0
+Vimscript variables in bash command,jh2dsw,Sock_Pasta_Rock,reddit.com,16,8,10/24/2020 12:01,0
+vim autocomplete for python 2020,jh0vjt,cyburga,reddit.com,0,12,10/24/2020 10:14,0
+Nightly hack for vimmers,jgyqhl,pereloz,reddit.com,42,14,10/24/2020 7:53,0
+ZSH breaks VIM Colorscheme,jgy6o2,L1nk27,reddit.com,0,4,10/24/2020 7:19,0
+"Pdf View, no plugins",jgx6hq,thejaypidog,reddit.com,6,11,10/24/2020 6:20,0
+iVIM sync,jgtohj,RunningUtes,reddit.com,1,7,10/24/2020 3:13,0
+Indented block motions?,jgsgfd,knpwrs,reddit.com,2,2,10/24/2020 2:10,0
+How to toggle (Vimplug) plugins on and off?,jgr191,C4rnAg3,reddit.com,33,12,10/24/2020 0:58,0
+Open a file with folds,jgp3n4,helosayshello,reddit.com,1,5,10/23/2020 23:19,0
+Vim is slow with text files on network drive.,jgocca,invalidsearch,reddit.com,3,20,10/23/2020 22:39,0
+Fixedsys font 12pt size,jglg6x,otnamis,reddit.com,7,2,10/23/2020 19:38,0
+Setting up c++ dev env in vim,jgjxhu,rudresh-dixit,reddit.com,0,16,10/23/2020 17:33,0
+Is there an ubuntu yaru color scheme?,jghjwb,Vroomvroom955,reddit.com,3,2,10/23/2020 14:14,0
+"Problems with python-mode in windows 10, any ideas?",jgg5kb,LordKreias,reddit.com,0,6,10/23/2020 12:31,0
+Vim Powershell wrong colorschemes,jgcfzb,LordKreias,reddit.com,85,26,10/23/2020 8:39,0
+Best Java plugin for Vim?,jgc78d,dog_superiority,reddit.com,10,15,10/23/2020 8:24,0
+Looking for help making a plugin that highlights a rust macro.,jgbc0v,K4r4kara,reddit.com,7,6,10/23/2020 7:33,0
+Vim conflicting with autohotkey on windows,jg9nw1,frostedKIVI,reddit.com,6,4,10/23/2020 5:59,0
+Using Termdebug for Python's pdb examples,jg91dt,predatorian3,reddit.com,7,7,10/23/2020 5:27,0
+Ctags and Vim issue,jg7f8j,mariopavlov,reddit.com,3,3,10/23/2020 4:06,0
+"noremap! jj <Esc> printing out ""<ESC>"" rather than going to normal mode.",jg5zhg,fartbaker13,reddit.com,0,6,10/23/2020 2:57,0
+"Issues with termguicolors affecting cursorline, lightline, NERDTree, and general color vibrance",jg5xrk,_JJCUBER_,reddit.com,1,9,10/23/2020 2:55,0
+Does Vim support these kind of extension?,jfvkwp,chakrihacker,reddit.com,0,2,10/22/2020 16:08,0
+"[neovim] how would i get this? (not the colourscheme, i use gruvbox if that makes a difference)",jfv3v5,CoreyYT,reddit.com,103,32,10/22/2020 15:25,0
+Is it just me or reddit actually has built-in vi keybindings for up/down movement in the comments section?,jfv3t8,sens-,reddit.com,3,4,10/22/2020 15:25,0
+Coc-prettier support for jst/ejs files?,jfubm0,scenerie,reddit.com,0,4,10/22/2020 14:19,0
+Problem with vim-devicons,jfu9ou,LordKreias,reddit.com,2,9,10/22/2020 14:14,0
+Any tips for a prettier vim?,jfpkro,Urist321,reddit.com,36,38,10/22/2020 8:49,0
+"set foldmethod = indent, how open and close?",jfp1jk,9acca9,reddit.com,1,5,10/22/2020 8:16,0
+Plugin or option to change the line numbers colors depending on VIM modes?,jfkmy3,kgavionics,reddit.com,20,6,10/22/2020 4:11,0
+Does no one else's vim start out as a black and white pixely terminal? Tried finding help to change it but only find something called neovim and no way to make it look modern. Please Help,jfi1bg,difficultHarith,reddit.com,1,9,10/22/2020 2:01,0
+Trying to make a new status line plugin in Vim9 script - qline.vim!,jfcw95,Bakudankun,github.com,17,3,10/21/2020 21:34,0
+Different syntax coloring in builtin vim and MacVim.,jfckb2,eftepede,reddit.com,37,15,10/21/2020 21:14,0
+Terminal buffer alternate name,jfbzu8,BelmTheOwl,reddit.com,1,5,10/21/2020 20:38,0
+Using vim without plugins is worth?,jfaguu,Itchy_Marketing_1473,reddit.com,0,13,10/21/2020 18:41,0
+Text put into file when pressing enter in insertmode,jf9ewq,Jrp0h,reddit.com,2,5,10/21/2020 17:06,0
+Unsure on what version to install for python3 support,jf6p74,_JJCUBER_,reddit.com,1,7,10/21/2020 13:09,0
+Announcement: new colorscheme generator,jf3hmo,felipec,reddit.com,36,38,10/21/2020 9:34,0
+I need a plugin that shows the errors in the code in vim,jez7oi,AnonymousUserxd,reddit.com,4,15,10/21/2020 5:35,0
+"After ""do"" vim I can complete with ""end"" automatically?",jexz62,fettx,reddit.com,5,2,10/21/2020 4:32,0
+Syntax highlighting for multiple languages at once?,jeviy5,Tagina_Vickler,reddit.com,7,9,10/21/2020 2:30,0
+Is there a text object to delete everything outside brackets?,jetonl,SadClass8,reddit.com,3,11,10/21/2020 1:01,0
+:py3 and pyenv. Why is my python package not found?,jeszc3,dersand,reddit.com,1,4,10/21/2020 0:27,0
+wtf is insert select mode?,jeryf8,aktivb,reddit.com,146,17,10/20/2020 23:37,1
+Custom Ignore with VIM & CtrlP plugin,jer6yh,fonai,reddit.com,3,2,10/20/2020 22:59,0
+Overriding certain colors of a colorscheme,jeqdba,kn0xchad,reddit.com,0,3,10/20/2020 22:17,0
+Vim mappings,jentit,__unx,reddit.com,2,11,10/20/2020 19:42,0
+Vim or Emacs for c++?,jensl8,LiFeLeSs_6,reddit.com,0,16,10/20/2020 19:41,0
+Vim omnicompletion slowness,jelhov,cheb06,reddit.com,22,16,10/20/2020 16:33,0
+Using Vim as a text editor and not more,je5mpz,vapsorate,reddit.com,4,29,10/20/2020 1:03,0
+The Most Popular Programming Languages - 1965/2020,je55lb,accappatoiviola,reddit.com,0,1,10/20/2020 0:39,0
+Does anyone have a neat vi solution for not being able to see what class a method is a part of (if it's a long class)?,je24cg,CowboyBoats,reddit.com,45,28,10/19/2020 21:59,0
+Considering switching to vim,jdzet1,xahodo,reddit.com,23,16,10/19/2020 18:48,0
+autocmd bufwritepost silent?,jdw8wj,prankousky,reddit.com,0,20,10/19/2020 14:00,0
+Edit an old file from a previous vim session,jdvdqn,kirakun,reddit.com,16,8,10/19/2020 12:48,0
+What do you think about my color scheme?,jdlhbj,CherrrySzczery,reddit.com,252,60,10/19/2020 2:30,0
+Coc-python and terminal,jdkql6,Tomdraug,reddit.com,4,7,10/19/2020 1:50,0
+Bored of using one colorscheme all the time? Let's change to random colorscheme on vim startup!,jdj2ry,jdhao,reddit.com,0,20,10/19/2020 0:18,0
+Installation and simple NeoVim configuration special for those who are tired of Vim,jdiliv,verabull,github.com,0,8,10/18/2020 23:51,0
+"Markdown, LaTeX, and Vim and Note Taking",jdb3lt,godelski,reddit.com,88,23,10/18/2020 14:03,1
+How to leave insert with alt + movement when an omnicompletion window is open?,jcs2w7,Iaquobe,reddit.com,2,4,10/17/2020 17:23,0
+Yaml schema for Openshift config? To use with coc.,jcoywj,trilobit3,reddit.com,2,1,10/17/2020 12:37,0
+"vim-doge v3 - prebuild binaries, no more NPM + NodeJS dependencies",jcosbq,koomenk,reddit.com,8,1,10/17/2020 12:23,0
+"""repeat command"" `.` increasing the number of register used?",jcolg8,n8henrie,reddit.com,9,7,10/17/2020 12:07,0
+Vim9 script,jco5rp,blay263,reddit.com,14,9,10/17/2020 11:34,0
+How many of you use vim with the mouse turned on?,jco4d4,kibblerz,reddit.com,113,111,10/17/2020 11:32,0
+"Papis v0.11 released, a powerful command-line based document and bibliography manager",jclitt,elgalloitaliano,github.com,4,1,10/17/2020 8:26,0
+"Thoughts on Vim v. NeoVim v. SpaceVim, is it worth trying the others?",jckj4f,predatorian3,reddit.com,26,62,10/17/2020 7:22,0
+What makes <BS> get printed?,jchb94,mrillusi0n,reddit.com,17,6,10/17/2020 4:11,0
+Vim's background turns opaque in new Windows Terminal,jcecyb,Necessary-Ad5577,reddit.com,1,2,10/17/2020 1:37,0
+Vim slow on tmux,jcbhmh,kn0xchad,reddit.com,30,26,10/16/2020 23:08,0
+Setting Up Vim For TypeScript,jcauff,hiquest,vimfromscratch.com,7,3,10/16/2020 22:31,0
+Vim : Getting started,jc88np,mrRobot_7,loginradius.com,3,14,10/16/2020 19:37,0
+Google's Vim script language server,jbzfbz,wsdjeg,github.com,177,34,10/16/2020 8:11,0
+Why do ctrl-n and ctrl-p have different behavior in command line vs insert mode?,jbwgwl,oguzbilgic,reddit.com,8,8,10/16/2020 5:14,0
+Question: Anyone know of any linux terminal emulators out there that differentiates between CTRL-i and TAB?,jbwg8k,joehfb,reddit.com,4,10,10/16/2020 5:13,0
+Getting E492: Not an editor command: Fern .,jbsrk2,chodyou,reddit.com,0,5,10/16/2020 2:02,0
+Method Navigation in React?,jbr0t3,halfjew22,reddit.com,1,6,10/16/2020 0:35,0
+How to create a binding that executes commands from multiple plugins?,jbqn76,diggitydata,reddit.com,6,4,10/16/2020 0:16,0
+Bug in Jedi with Coc and walrus operators? Alternative suggestions?,jbnzax,annowiki,reddit.com,0,11,10/15/2020 21:54,0
+vim-closetag in tsx files,jbnxcq,AndEseNe,reddit.com,1,0,10/15/2020 21:51,0
+Does anyone use vim for analytics work in conjunction with jupyter notebooks?,jbntv7,LearnTillDeath,reddit.com,5,7,10/15/2020 21:45,0
+Surround word with text,jbmmzs,hailbaal,reddit.com,6,25,10/15/2020 20:31,0
+We tested our Vim skills by editing blindfolded... (a fun and educational video),jbm9gr,theartofsoftware,youtube.com,127,16,10/15/2020 20:04,1
+How Common is vim in backend java development and c++?,jbily7,SasukeUchiha231,reddit.com,41,48,10/15/2020 14:50,0
+"What are your Enter, Backspace, Tab and Space mappings ?",jb9zvo,pereloz,reddit.com,7,23,10/15/2020 5:27,0
+VIM no longer pre-installed on Ubuntu?,jb64oj,ecky--ptang-zooboing,reddit.com,5,16,10/15/2020 2:12,0
+How to bind Vim and Shell Command to single key?,jb3qq3,knuddelig,reddit.com,4,8,10/15/2020 0:15,0
+How can I rename variable that imported and exported in multiple files?,jb2nbi,AndEseNe,reddit.com,5,5,10/14/2020 23:19,0
+How to log all vim commands I type from startup till exit?,jb2jnb,,reddit.com,6,2,10/14/2020 23:14,0
+Finally I can now save quit with one hand. Now I need to figure out how to save quit with no hands!,jb1cxn,,reddit.com,0,12,10/14/2020 22:09,0
+A indenting newlines that are not \n automatically,jazcyl,FakuVe,reddit.com,2,3,10/14/2020 20:03,0
+Still using OneNote? This script will move your notes to markdown (fairly) painlessly,jay4p4,murchu27,reddit.com,101,37,10/14/2020 18:27,0
+Jest tests and vim,jax12b,daliusd_,reddit.com,14,10,10/14/2020 16:49,0
+Slow Scrolling Syntax Highlighting,jau7sr,Paul_A_M_Dirac1,reddit.com,11,17,10/14/2020 12:52,0
+How do I make the syntax highlighting better?,japmy4,gabriel_schneider,reddit.com,3,3,10/14/2020 8:00,0
+"Help, UltiSnips not working for me",jam1xx,badger_42,reddit.com,5,2,10/14/2020 4:45,0
+Configuring Coc.nvim + coc-tsserver auto import functionality,jalujc,CankleSpankle,reddit.com,0,1,10/14/2020 4:34,0
+how to set default window size for neovim,jakc37,RA1811003020087,reddit.com,0,3,10/14/2020 3:19,0
+🔥 The Usefulness of The Often Ignored Visual Block Mode In Vim,jai57c,__---__---___,reddit.com,13,15,10/14/2020 1:30,0
+How do you insert a <tab> after a word with coc.nvim?,jahlw6,Synchronyme,reddit.com,2,5,10/14/2020 1:04,0
+"Vim does not type tabs in python files, instead types spaces",jaeena,CH_SWB,reddit.com,0,7,10/13/2020 22:23,0
+vim-exchange - A lovely plugin scratches my itch,jadpoe,roy2220,reddit.com,87,15,10/13/2020 21:46,0
+Vim regex help,jad3cp,BashStudent,reddit.com,2,4,10/13/2020 21:12,0
+auto execute command on start,jabvva,Subject-Ad-4072,reddit.com,24,9,10/13/2020 19:56,0
+Can't use snippets with UltiSnips in Neovim,jaaial,Machinely,reddit.com,0,8,10/13/2020 18:09,0
+Decrease visual clutter for completion pop up menu?,ja9lir,petenpatrol,reddit.com,2,2,10/13/2020 16:50,0
+Error Fest when I source a normal file,ja8tb7,Machinely,reddit.com,0,5,10/13/2020 15:37,0
+Repositories for up-to-date colorschemes?,ja8hh9,friedrichRiemann,reddit.com,3,7,10/13/2020 15:07,0
+`NJ` with `N` a digit will not put whitespaces like (N-1) times`J` does if there is an empty line among the included lines. Is this expected behavior ?,ja5y7g,Atralb,reddit.com,4,1,10/13/2020 11:46,0
+What is the recommended syntax for Vim functions today ?,ja4a0v,Atralb,reddit.com,2,20,10/13/2020 9:53,0
+Read in file at Environment Variable,j9xl88,speculator9,reddit.com,2,4,10/13/2020 3:23,0
+"Tried recent vim fuzzymatch to create counsel(emacsish) like file selector (buffer and oldfiles and colorschemes too). Although it doesn't nearly as feature rich and stable as fzf and ctrlp, it turned out to be good enough replacement for me. Not yet ready as a separate plugin though :)",j9u7cc,habamax,youtube.com,60,19,10/13/2020 0:33,1
+Does where the count appears make any difference in Vim commands?,j9u34s,Smoggler,reddit.com,10,5,10/13/2020 0:26,0
+Tabs instead of spaces with python,j9t3py,BlueBumblebee64,reddit.com,2,9,10/12/2020 23:36,0
+Is there a way to make fzf jump to tab like `let g:fzf_buffers_jump = 1 `,j9qa7t,banana_llarma,reddit.com,2,2,10/12/2020 20:50,0
+Is there a way to echo the number of tabs open,j9p8iw,banana_llarma,reddit.com,0,5,10/12/2020 19:34,0
+Editing video subtitles with vim,j9oqfe,donbex,reddit.com,33,21,10/12/2020 18:51,0
+"How to persist changelist, marks, last position",j9ojav,jamJam20,reddit.com,4,8,10/12/2020 18:33,0
+"Vim, which key to use as normal key?",j9nhst,fartbaker13,reddit.com,2,25,10/12/2020 17:03,0
+Change how vim interprets comments,j9ix3v,ex-lewis,reddit.com,18,6,10/12/2020 10:50,0
+"How to disable showing ""------"" for empty line in difftool?",j9fijy,omtmk,reddit.com,20,9,10/12/2020 7:03,0
+How to get a list of buffers in current tab,j9f6ot,jamJam20,reddit.com,10,5,10/12/2020 6:43,0
+Saving cursor position except in git commits,j97ffv,Syphdias,reddit.com,5,8,10/11/2020 23:32,0
+I want to only echo the parent directory of the current file,j97c8v,banana_llarma,reddit.com,4,3,10/11/2020 23:27,0
+TFW the autocomplete engine is consooming more RAM than editor,j91zpa,friedrichRiemann,imgur.com,0,5,10/11/2020 16:49,0
+cscope for objC,j8x4ti,Slugsurx,reddit.com,3,9,10/11/2020 10:12,0
+Vim + Spooktober = Hallovim,j8uhvd,HeavyRain266,reddit.com,369,14,10/11/2020 7:16,0
+"Execute a command in included files like argdo, bufdo, etc.",j8u0e4,pereloz,reddit.com,5,3,10/11/2020 6:45,0
+I made a script so I can use Caps_Lock as Escape ONLY in terminal,j8tc8n,ThisMousse5497,reddit.com,1,5,10/11/2020 6:04,0
+Using the quickfix list as a todo list,j8om5n,mvanderkamp,reddit.com,9,7,10/11/2020 1:35,0
+Avoid Learning Bad Typing Habits Formed From Vim.,j8mjgt,kevinnel,reddit.com,58,99,10/10/2020 23:37,1
+Vim not working,j8l5w3,dolphin_whale,reddit.com,2,3,10/10/2020 22:13,0
+I'm embarrassed with Jet Brains,j8jk0m,Administrative_Ad_26,reddit.com,0,9,10/10/2020 20:22,0
+Moving random text around like you move cursor with vim-sneak or easymotion,j8iy7r,danielo515,reddit.com,2,11,10/10/2020 19:33,0
+Is keeping the mappings when changing the backend considered good or bad vim practice?,j8g4h2,thrallsius,reddit.com,1,6,10/10/2020 15:10,0
+Vim plugin for previewing UML,j8fw39,gorilla0513,reddit.com,126,11,10/10/2020 14:49,0
+vim dev-icons not working as spected in neovim?,j8bzpb,candreslobor,reddit.com,0,4,10/10/2020 9:49,0
+Visual Studio Line Highlighting,j89gii,Buttmoist,reddit.com,1,7,10/10/2020 7:05,0
+"Fzf, ripgrep is it possible to omit file paths😰?!",j87z9u,jamJam20,reddit.com,7,3,10/10/2020 5:39,0
+Can you help contribute snippets?,j86aeg,craigdmac,reddit.com,13,2,10/10/2020 4:07,0
+Change all colors in NERDTree,j863vj,TechieMoore,reddit.com,3,14,10/10/2020 3:58,0
+We need a vim plugin for that :),j80q2m,fimari,reddit.com,140,20,10/9/2020 23:11,0
+Setting up YCM for clangd,j80e6j,minamulhaq,reddit.com,1,4,10/9/2020 22:53,0
+The dumbest thing just happened to me because of vim,j7xe7c,FreierVogel,reddit.com,276,88,10/9/2020 19:42,1
+How to use vim in Windows(the OS),j7x61v,banana_llarma,reddit.com,0,11,10/9/2020 19:24,0
+Help needed with regex,j7srtg,oponkork,reddit.com,9,5,10/9/2020 12:44,0
+Is there a way to see the content of all registers while in command/operator pending mode?,j7ogqj,zvckp,reddit.com,8,9,10/9/2020 7:53,0
+Command Line Refactoring & Vim Integration,j7mgaf,koriel3,reddit.com,3,0,10/9/2020 5:57,0
+How to substitute on the contents of a register?,j7m2lt,kevin_with_rice,reddit.com,12,8,10/9/2020 5:36,0
+How to mark selected text with color across the project?,j7jljf,ecosse31,reddit.com,4,4,10/9/2020 3:23,0
+"I have 3 vimrc files , how can i keep only one ?",j7edvi,zine2000,reddit.com,9,8,10/8/2020 22:49,0
+Insert Unicode character inside Vim/Neovim,j7edpj,jdhao,reddit.com,1,2,10/8/2020 22:48,0
+The Most Popular Programming Languages - 1965/2020 - Statistics and Data,j7e5c3,accappatoiviola,statisticsanddata.org,0,2,10/8/2020 22:35,0
+auto file generator?,j7de7w,ValGriff,reddit.com,3,6,10/8/2020 21:51,0
+Configure pear-tree to auto-add commas in structs,j7d56j,DevWhoKnowsTheTruth,reddit.com,1,0,10/8/2020 21:36,0
+"vim-doge v3 - Goodbye regex, hello tree-sitter!",j7bqv6,koomenk,reddit.com,111,22,10/8/2020 19:59,0
+VIM Modes Transition Diagram,j799g3,oguzbilgic,reddit.com,117,13,10/8/2020 16:13,0
+How to wait until a function completes?,j79791,jamJam20,reddit.com,5,3,10/8/2020 16:07,0
+Is there a way to bookmark lines across vim instances?,j77a5o,jamJam20,reddit.com,1,4,10/8/2020 13:17,0
+Need suggestions for automating a particular programming workflow,j753u7,thrallsius,reddit.com,0,8,10/8/2020 10:45,0
+vim-auto-comment: a simple plugin for commenting/uncommenting multiple lines based on the given file,j72cs2,karimelghamry,github.com,0,4,10/8/2020 7:54,0
+How to run external cmd command from within ConEmu?,j6zcj7,simonsanchezart,reddit.com,3,4,10/8/2020 5:01,0
+What are the most useful features of Vim that are absent from Evil (the Vim compatibility layer for Emacs)?,j6yhwv,leungbk,reddit.com,3,29,10/8/2020 4:15,0
+wq! w- wait what the hell just popped up???,j6xr7l,ImMaaxYT,reddit.com,318,37,10/8/2020 3:38,1
+Multiple cursors plugin for vim/neovim,j6te51,friedrichRiemann,github.com,4,3,10/7/2020 23:54,0
+how to bind key with vim's terminal command?,j6shke,shaeinst,reddit.com,0,11,10/7/2020 23:05,0
+How to make remap use an input?,j6qzj5,weeb_dev,reddit.com,1,2,10/7/2020 21:39,0
+Why does C-r take you out of insert mode?,j6qlsx,Smoggler,reddit.com,0,22,10/7/2020 21:15,0
+Vim vs IDE features,j6qi33,aayushoj,reddit.com,3,15,10/7/2020 21:08,0
+Spot the vim user 😊,j6q9rd,xXx_-SWAG_LORD-_xXx,reddit.com,394,82,10/7/2020 20:53,2
+Vim & typography,j6opj5,atmarama,reddit.com,5,9,10/7/2020 18:51,0
+Did you know about quotes.txt ?,j6oocv,pereloz,reddit.com,10,5,10/7/2020 18:48,0
+gvim like cursor in console vim,j6oig1,frostedKIVI,reddit.com,2,3,10/7/2020 18:33,0
+Oceanic Primal dark theme,j6nvwy,Barlog_M,reddit.com,46,12,10/7/2020 17:34,0
+Where is this information comming from?,j6nqtb,danielo515,reddit.com,2,0,10/7/2020 17:21,0
+Poll what type of vim are you using,j6muk3,banana_llarma,reddit.com,1,24,10/7/2020 15:51,0
+I am trying to make custom source for completion-nvim,j6m9lz,banana_llarma,reddit.com,14,6,10/7/2020 14:56,0
+Vim on Windows : Log file behaves weirdly on Vim but not on Notepad,j6j8zo,Atralb,reddit.com,1,7,10/7/2020 10:57,0
+Why can't I get :PluginInstall going correctly?,j6j7yh,ericjlima,reddit.com,0,7,10/7/2020 10:55,0
+How can I select multiple lines with same content and edit them at once?,j6bn1v,mmddev,reddit.com,2,7,10/7/2020 3:24,0
+Commenting multiple lines in vim on elementary os not working,j68qk7,Qoosim,reddit.com,4,5,10/7/2020 0:56,0
+Commenting multiple lines in vim on elementary os not working,j68pdq,Qoosim,reddit.com,0,2,10/7/2020 0:54,0
+Vim and ctags - make CTRL-] more useful,j62xmk,cmskipsey,reddit.com,9,14,10/6/2020 18:52,0
+"For anyone not aware of this yet, I think it's worth reminding that you can use vi keybindings in the bash shell (and many other REPLs)",j61q0y,m-chrzan,reddit.com,136,66,10/6/2020 16:57,0
+Vuejs : no comments plugins working ?,j617xg,mirsella,reddit.com,3,5,10/6/2020 16:07,0
+Line under tab headers,j60vt4,bratpeki,reddit.com,2,4,10/6/2020 15:33,0
+How to force help buffer to open in bottom right?,j60vkg,jamJam20,reddit.com,7,2,10/6/2020 15:32,0
+Problem in .vimrc file,j5zslx,moggel10,reddit.com,3,14,10/6/2020 13:53,0
+How to compile your own version of vim?,j5zgbd,Waseem_Ahmed,reddit.com,1,13,10/6/2020 13:24,0
+Not able to use YouCompleteMe with Ultisnips Help Needed,j5xprs,amiwalwin,reddit.com,1,1,10/6/2020 11:11,0
+Motion question: append to a word quickly,j5rzr9,HornyLobsterShark,reddit.com,2,16,10/6/2020 5:10,0
+Installing VIM in Windows for Dummies?,j5rq0u,simonsanchezart,reddit.com,1,7,10/6/2020 4:56,0
+Automatically opening help in vertical split,j5ngwx,cdb_11,reddit.com,17,6,10/6/2020 1:14,0
+Omnifunc as part of `complete` variable?,j5na8w,ProgrammAbel,reddit.com,1,9,10/6/2020 1:04,0
+For the kingdom of heaven is like a landowner who went out early in the morning to edit text in his vineyard.,j5n4jb,JIVEprinting,reddit.com,0,0,10/6/2020 0:56,0
+How to log all keystrokes but after vim is already opened?,j5k90s,bkthedeveloper,reddit.com,3,4,10/5/2020 22:21,0
+Conjuring Clojure in Vim: 2020 Edition,j5inue,davedrowsy,reddit.com,12,1,10/5/2020 20:41,0
+Vim as HTTP client,j5hhxs,nbardiuk,bardiuk.com,41,13,10/5/2020 19:11,0
+Is there a reason or a need to have multiple augroup?,j5g8lh,jamJam20,reddit.com,1,4,10/5/2020 17:18,0
+Difference between swap and backup,j5fmgx,TaxEvader9,reddit.com,2,3,10/5/2020 16:15,0
+Speeding up horizontal movement speed - first plugin attempt,j5dtt1,spenny1068,reddit.com,42,14,10/5/2020 13:24,0
+Goyo (or other focus mode) in a pane or split,j5762j,ROM_Bombadil,reddit.com,4,2,10/5/2020 5:40,0
+Four Dimensions of Editing in Vim,j541zd,SPQR_BN,github.com,57,12,10/5/2020 2:42,0
+Nvim config for Python,j532yo,master-ofnothing,reddit.com,0,5,10/5/2020 1:46,0
+How to smoothly set spelllang based on babel-package in latex?,j4ygko,PizzaRollExpert,reddit.com,1,3,10/4/2020 20:52,0
+This color scheme I made,j4xzvx,bratpeki,reddit.com,71,17,10/4/2020 20:14,0
+lazyredraw vs redrawtime,j4uazz,jamJam20,reddit.com,1,4,10/4/2020 14:19,0
+"How to check if package exists in packpath, and its loaded",j4rrsp,jamJam20,reddit.com,4,8,10/4/2020 10:47,0
+What insert mappings do you use?,j4ntgq,jamJam20,reddit.com,38,59,10/4/2020 6:11,0
+Tips plugin (is this sort of crosspost acceptable?),j4lvse,mikaleowiii,reddit.com,35,2,10/4/2020 4:12,0
+"My new vim, wimdow manipulation plugin",j4kymw,yaronekaha,github.com,3,3,10/4/2020 3:17,0
+vim windows manipulation plugin,j4kweg,yaronekaha,reddit.com,7,4,10/4/2020 3:13,0
+Save fold doesn't work while using multiple tabs,j4k71b,quesillo_fundillo,reddit.com,3,2,10/4/2020 2:32,0
+Is there a way to go in the middle of a html tag with <cr>,j4eupe,banana_llarma,reddit.com,14,11,10/3/2020 21:17,0
+Remapping capslock to esc when tapped and ctrl when held,j4e7b8,kn0xchad,reddit.com,18,22,10/3/2020 19:27,0
+"People using Vim inside of VS Code, can I get some help with this issue?",j4cqqd,mrillusi0n,reddit.com,5,18,10/3/2020 17:11,0
+Question about yy and p,j4b86i,mugseller,reddit.com,65,27,10/3/2020 14:45,0
+Vim & JAVA: How do I make it efficient for it,j4684d,Kentto7,reddit.com,24,27,10/3/2020 8:28,0
+Vimwiki on Netlify?,j42lks,not_napoleon,reddit.com,6,1,10/3/2020 4:42,0
+How to become a Hackerman [with Vim],j3zvfe,sagethesagesage,reddit.com,19,13,10/3/2020 2:18,2
+I've created vim-eft (enhanced f/t/F/T),j3uhy1,hrsh7th,reddit.com,6,8,10/2/2020 21:31,0
+VIM Plugin Ultisnips raises problem Help Needed,j3qqu3,amiwalwin,reddit.com,0,10,10/2/2020 16:16,0
+Path for help tags files,j3phge,dubst3pp4,reddit.com,1,2,10/2/2020 14:17,0
+When people ask...,j3o6uy,StandardOilCompany,reddit.com,581,85,10/2/2020 12:37,0
+How do I get rid of this horrible backlight effect in the default colorscheme?,j3nkzy,Ok_Reference_326,imgur.com,1,11,10/2/2020 11:51,0
+How do you change the omni-completion preview window's height?,j3fdus,bowhunter001,reddit.com,22,9,10/2/2020 3:25,0
+How to configure autocomplete with a REPL-style setup?,j3ej3z,Amadou_Kone,reddit.com,6,3,10/2/2020 2:41,0
+I was wondering how you other people are using ctags,j38z4o,banana_llarma,reddit.com,18,19,10/1/2020 21:53,0
+X-Post from r/neovim - substantial Vim capability within Visual Studio Code!,j350a8,VVVDoer,reddit.com,3,5,10/1/2020 16:59,0
+What is your vim workflow like?,j33ow1,blackboardvimes,reddit.com,37,62,10/1/2020 15:00,0
+I have started to use ctags but is there a good way to update the tags file,j33e3r,banana_llarma,reddit.com,1,13,10/1/2020 14:35,0
+Can you work with movement in Insert mode without having to press the ESC button ?,j31t1h,noscore6,reddit.com,73,95,10/1/2020 12:29,0
+Help detecting file's current directory to set filetype,j2ui3h,Bakonblak,reddit.com,2,5,10/1/2020 4:53,0
+How to define custom hard-wrapping logic,j2sutp,hoylemd,reddit.com,7,10,10/1/2020 3:25,0
+Confusion about how ftplugin interacts with autocommand,j2qo0a,badfoodman,reddit.com,21,2,10/1/2020 1:31,0

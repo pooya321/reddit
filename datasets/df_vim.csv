@@ -1,0 +1,982 @@
+title,id,author,url,score,comments_number,created,award
+Struggling with cursor movement in vim,k9f4vf,Valentino00000,https://www.reddit.com/r/vim/comments/k9f4vf/struggling_with_cursor_movement_in_vim/,1,0,1607496862.0,0
+Vim setup for c++,k9anxz,lakrau,https://www.reddit.com/r/vim/comments/k9anxz/vim_setup_for_c/,0,6,1607483409.0,0
+[Gnome][GVim] There is a huge delay on updating title bar after closing FZF,k999my,phouchg42,https://www.reddit.com/r/vim/comments/k999my/gnomegvim_there_is_a_huge_delay_on_updating_title/,1,0,1607479395.0,0
+Way to indicate where folds reside when open?,k95ld0,OMGZwhitepeople,https://www.reddit.com/r/vim/comments/k95ld0/way_to_indicate_where_folds_reside_when_open/,1,4,1607468208.0,0
+N-vim on smartphone,k9587x,Top_Masterpiece_67,https://www.reddit.com/r/vim/comments/k9587x/nvim_on_smartphone/,0,2,1607466937.0,0
+TIL that you can exit Vim by pressing Shift+ZZ,k94ea8,ImMaaxYT,https://www.reddit.com/r/vim/comments/k94ea8/til_that_you_can_exit_vim_by_pressing_shiftzz/,135,46,1607463879.0,1
+vim-projectionist help: Finding a file with a different path,k8y8fl,itcouldbebunnies_,https://www.reddit.com/r/vim/comments/k8y8fl/vimprojectionist_help_finding_a_file_with_a/,1,2,1607433718.0,0
+How to move through jump list of coc and remove some of them,k8w6gg,raguy1143,https://www.reddit.com/r/vim/comments/k8w6gg/how_to_move_through_jump_list_of_coc_and_remove/,2,6,1607425864.0,0
+How to show errors in line?,k8vcm8,raguy1143,https://www.reddit.com/r/vim/comments/k8vcm8/how_to_show_errors_in_line/,1,10,1607422937.0,0
+"Story about a new coder seeing a ""vim pro"" and being inspired to use vim.",k8uqwp,deat64x,https://www.reddit.com/r/vim/comments/k8uqwp/story_about_a_new_coder_seeing_a_vim_pro_and/,101,20,1607420818.0,1
+sed syntax highlighting in vim?,k8u3kk,windows_sans_borders,https://www.reddit.com/r/vim/comments/k8u3kk/sed_syntax_highlighting_in_vim/,1,3,1607418544.0,0
+stop please rethink ur life and realize that u should use emacs,k8mpwt,lordnimnim,https://www.reddit.com/r/vim/comments/k8mpwt/stop_please_rethink_ur_life_and_realize_that_u/,0,15,1607395781.0,0
+Please help me understand %:h,k8lsfy,tom-on-the-internet,https://www.reddit.com/r/vim/comments/k8lsfy/please_help_me_understand_h/,28,7,1607393095.0,0
+Is there a plugin like Karabiner Elements + Goku?,k8l6wn,baldore,https://www.reddit.com/r/vim/comments/k8l6wn/is_there_a_plugin_like_karabiner_elements_goku/,3,2,1607391420.0,0
+How do I show the function details on autocomplete?,k8f82u,raguy1143,https://www.reddit.com/r/vim/comments/k8f82u/how_do_i_show_the_function_details_on_autocomplete/,1,4,1607370487.0,0
+Hjkl versus the arrow keys,k8erg6,52460892457011542770,https://www.reddit.com/r/vim/comments/k8erg6/hjkl_versus_the_arrow_keys/,1,30,1607368395.0,0
+c++ Code navigation (ALE),k8e5wa,OnThePath,https://www.reddit.com/r/vim/comments/k8e5wa/c_code_navigation_ale/,2,3,1607365543.0,0
+General technique for looping over characters/words in a line?,k8cgo5,Chromabi,https://www.reddit.com/r/vim/comments/k8cgo5/general_technique_for_looping_over/,0,13,1607356732.0,0
+Is there a way to make this keybinding to work? <C-x><C-p><C-n>,k7xz5a,baldore,https://www.reddit.com/r/vim/comments/k7xz5a/is_there_a_way_to_make_this_keybinding_to_work/,2,4,1607304756.0,0
+A simple function for zooming in GUI version of Vim/Neovim,k7w0gy,Maskdask,https://www.reddit.com/r/vim/comments/k7w0gy/a_simple_function_for_zooming_in_gui_version_of/,7,1,1607298516.0,0
+SplitJoin: a Vim plugin for converting one-liners into multi-line statements,k7sm87,mulholld,https://github.com/AndrewRadev/splitjoin.vim,127,9,1607285039.0,1
+"runbuf.vim: run the contents of a buffer in psql, python, bash, etc. and display the output",k7scjv,arp242,https://github.com/arp242/runbuf.vim,43,14,1607283744.0,0
+Advice about preventing accidental deletions while scrolling with <c-d> ?,k7req0,karoliskoncevicius,https://www.reddit.com/r/vim/comments/k7req0/advice_about_preventing_accidental_deletions/,1,9,1607279110.0,0
+"Any tips on ""How to secure your vim""?",k7qzhg,wetter-frosch,https://www.reddit.com/r/vim/comments/k7qzhg/any_tips_on_how_to_secure_your_vim/,2,12,1607276967.0,0
+How to edit blowfish2 encrypted files?,k7onlr,aafggfcgr,https://www.reddit.com/r/vim/comments/k7onlr/how_to_edit_blowfish2_encrypted_files/,2,1,1607265340.0,0
+How to get the name of the file opened for a mapping,k7li5r,TheFronkler,https://www.reddit.com/r/vim/comments/k7li5r/how_to_get_the_name_of_the_file_opened_for_a/,3,5,1607252054.0,0
+update from my last post:,k7leoe,SirDerpington660,https://i.redd.it/wfw3d4v8dh361.png,0,1,1607251674.0,0
+vim-scroll-in-place - Scroll up and down one line while keeping the cursorline in place,k7kshz,drzel,https://github.com/drzel/vim-scroll-in-place,13,29,1607249307.0,0
+Buffer with netwr refreshes when I navigate to it,k7kcgk,archaea8,https://www.reddit.com/r/vim/comments/k7kcgk/buffer_with_netwr_refreshes_when_i_navigate_to_it/,1,8,1607247611.0,0
+Noob question: how do I get my airline status line to look like the one on the airline GitHub? (With the separators being arrows instead of lines),k7iiyj,SirDerpington660,https://www.reddit.com/gallery/k7iiyj,0,8,1607240787.0,0
+do you want indentation guides?,k7gbii,BYTE-LY,https://www.reddit.com/r/vim/comments/k7gbii/do_you_want_indentation_guides/,4,8,1607233061.0,0
+How to use vanilla Vim (almost) without modes.,k7fdr3,okimka,https://www.reddit.com/r/vim/comments/k7fdr3/how_to_use_vanilla_vim_almost_without_modes/,0,9,1607229879.0,0
+Are tear-off menus an abandoned feature?,k7c8jo,ProgMetalSlug,https://www.reddit.com/r/vim/comments/k7c8jo/are_tearoff_menus_an_abandoned_feature/,3,2,1607220107.0,0
+How do I configure plugins using highlight colors?,k7bijo,NightH4nter,https://www.reddit.com/r/vim/comments/k7bijo/how_do_i_configure_plugins_using_highlight_colors/,2,7,1607217870.0,0
+Is there anyway to make a vscode theme work with vim?,k7atk5,gammalabsgamer,https://www.reddit.com/r/vim/comments/k7atk5/is_there_anyway_to_make_a_vscode_theme_work_with/,1,11,1607215688.0,0
+Really Google?,k76shf,supermario9590,https://i.redd.it/keyo9usz5d361.jpg,743,51,1607200803.0,0
+How to get language-mapping & iminsert working on GTK gvim?,k75sp3,wetter-frosch,https://www.reddit.com/r/vim/comments/k75sp3/how_to_get_languagemapping_iminsert_working_on/,4,1,1607195886.0,0
+How to expand html tags like this?....,k75oq6,Monenvoy,https://www.reddit.com/r/vim/comments/k75oq6/how_to_expand_html_tags_like_this/,3,14,1607195303.0,0
+How to get different cursor for different modes in vim?,k75asa,Curious_homosepian,https://www.reddit.com/r/vim/comments/k75asa/how_to_get_different_cursor_for_different_modes/,9,13,1607193217.0,0
+Advantage2 LF Kinesis,k6uh2b,tads13,https://www.reddit.com/r/vim/comments/k6uh2b/advantage2_lf_kinesis/,0,6,1607147612.0,0
+"i want RShift to emulate Esc in insert mode, how can i do that ?",k6pyz3,Manaoscola,https://www.reddit.com/r/vim/comments/k6pyz3/i_want_rshift_to_emulate_esc_in_insert_mode_how/,2,8,1607133606.0,0
+How to search without highlight just once?,k6my75,mgarort,https://www.reddit.com/r/vim/comments/k6my75/how_to_search_without_highlight_just_once/,13,15,1607124461.0,0
+[C++] cin doesn't work in vim,k6a952,_nullOne,https://www.reddit.com/r/vim/comments/k6a952/c_cin_doesnt_work_in_vim/,0,5,1607071200.0,0
+Best Vim Tutorial For Beginners,k60da0,Coder-H,https://www.reddit.com/r/vim/comments/k60da0/best_vim_tutorial_for_beginners/,64,100,1607041454.0,0
+syntaxMarkerFold - Markers while using syntax fold method,k5u3qz,Jorengarenar,https://github.com/Jorengarenar/vim-syntaxMarkerFold,11,3,1607016442.0,0
+How to display paste mode or insert-normal mode (Ctrl-o in insert mode) on statusline?,k5tyge,trankien386,https://www.reddit.com/r/vim/comments/k5tyge/how_to_display_paste_mode_or_insertnormal_mode/,35,11,1607015612.0,0
+Switching esc with caps lock,k5twce,PresentPickleNinja,https://www.reddit.com/r/vim/comments/k5twce/switching_esc_with_caps_lock/,5,30,1607015293.0,0
+Set up vim/nvim for cpp development with vim-lsp,k5tv2q,jdhao,https://www.reddit.com/r/vim/comments/k5tv2q/set_up_vimnvim_for_cpp_development_with_vimlsp/,0,0,1607015095.0,0
+"The help says '--remote' command line option exists, but don't work. What is this?",k5p395,acomagu,https://www.reddit.com/r/vim/comments/k5p395/the_help_says_remote_command_line_option_exists/,3,6,1606993849.0,0
+Any reliable way to convert airline themes to powerline?,k5inso,chrismg12,https://www.reddit.com/r/vim/comments/k5inso/any_reliable_way_to_convert_airline_themes_to/,1,4,1606972676.0,0
+Adding highlight group to python syntax file,k5fu2z,kn0xchad,https://i.redd.it/d0z560nont261.png,14,10,1606964648.0,0
+Shorter version of today's tip from 25 Days of Vim,k5aqca,rampion,https://www.reddit.com/r/vim/comments/k5aqca/shorter_version_of_todays_tip_from_25_days_of_vim/,19,13,1606949958.0,0
+Salvation - Dark and easy on eyes colorscheme for Vim/Neovim,k5630p,HeavyRain266,https://i.redd.it/jz86ua9xqq261.png,241,43,1606929519.0,3
+Hotkey to simultaneously duplicate a line and replace a substring,k4yqhu,gdavtor,https://www.reddit.com/r/vim/comments/k4yqhu/hotkey_to_simultaneously_duplicate_a_line_and/,1,9,1606900053.0,0
+Noob question: How to set python interpreter for a given script dynamically.,k4vghv,metalgear123,https://www.reddit.com/r/vim/comments/k4vghv/noob_question_how_to_set_python_interpreter_for_a/,4,11,1606889532.0,0
+where would i hire someone to build/modify a vim plugin?,k4tilk,bayesff,https://www.reddit.com/r/vim/comments/k4tilk/where_would_i_hire_someone_to_buildmodify_a_vim/,5,4,1606883800.0,0
+How to make vim become transparent in konsole,k4q1i0,EgorDiach-kov-,https://www.reddit.com/r/vim/comments/k4q1i0/how_to_make_vim_become_transparent_in_konsole/,2,1,1606874027.0,0
+Error in Fzf install in Vim,k4pg92,arnauldb,https://www.reddit.com/r/vim/comments/k4pg92/error_in_fzf_install_in_vim/,1,4,1606872392.0,0
+Vimwiki on mobile devices?,k4p9eo,MyMumFoundMyAccount,https://www.reddit.com/r/vim/comments/k4p9eo/vimwiki_on_mobile_devices/,5,5,1606871863.0,0
+8 months trasnformation,k4p8c4,GGCristo,https://www.reddit.com/r/vim/comments/k4p8c4/8_months_trasnformation/,0,11,1606871774.0,0
+Humanoid - light and dark theme for vim with bright colors (hope some will like it),k4nzz8,tasmo,https://i.redd.it/u9wqtodyol261.png,476,76,1606868269.0,2
+"Why do ""undoreload"" save all lines?",k4niej,bobicino,https://www.reddit.com/r/vim/comments/k4niej/why_do_undoreload_save_all_lines/,1,0,1606866868.0,0
+critique my vimrc,k4mq4j,drzel,https://github.com/drzel/neovim-config/blob/master/nvim/init.vim,0,15,1606864521.0,0
+Emoji in Vim 🐇 🎩,k4mmkz,phouchg42,https://www.reddit.com/r/vim/comments/k4mmkz/emoji_in_vim/,20,2,1606864212.0,0
+Is there a way to make ex not take over the whole screen?,k4lifv,VohgheN8,https://www.reddit.com/r/vim/comments/k4lifv/is_there_a_way_to_make_ex_not_take_over_the_whole/,14,27,1606860562.0,0
+Can you recommend a lines formatting plugin?,k4jhlw,wiccy47,https://www.reddit.com/r/vim/comments/k4jhlw/can_you_recommend_a_lines_formatting_plugin/,0,16,1606852469.0,0
+Creating different colors with :hi-link,k4j44j,DontwakemeUp46,https://www.reddit.com/r/vim/comments/k4j44j/creating_different_colors_with_hilink/,6,1,1606850685.0,0
+SQL-UPPER,k4cpy5,Jorengarenar,https://github.com/Jorengarenar/vim-SQL-UPPER,5,7,1606822499.0,0
+how to change vifm's startup command?,k4bqz5,SirDerpington660,https://www.reddit.com/r/vim/comments/k4bqz5/how_to_change_vifms_startup_command/,0,14,1606819243.0,0
+vim-orgmode is unmaintained; any alternatives?,k4a8aj,gasull,https://github.com/jceb/vim-orgmode/commit/b7bce17005cf114b0961d0b5576bf584a2574774#diff-ecbc1aa90e9ff97a00b0b2aab1551bceee0c4d21993146bdcb1af4de31c9cac6R1,12,7,1606814190.0,0
+':startinsert' but for command mode?,k47zab,Zantoxin,https://www.reddit.com/r/vim/comments/k47zab/startinsert_but_for_command_mode/,2,3,1606807135.0,0
+Are there native `Meta` keybinds?,k45q5m,abraxasknister,https://www.reddit.com/r/vim/comments/k45q5m/are_there_native_meta_keybinds/,2,8,1606800562.0,0
+unicodemoji: a plugin for fast unicode emoji insertion based on FZF,k4513m,yazgoo,https://github.com/yazgoo/unicodemoji,28,6,1606798558.0,0
+Nerd tree background color,k3vrxn,siduck76,https://www.reddit.com/r/vim/comments/k3vrxn/nerd_tree_background_color/,3,7,1606771780.0,0
+GVim freezing,k3vng7,MeanEYE,https://www.reddit.com/r/vim/comments/k3vng7/gvim_freezing/,1,2,1606771324.0,0
+"25 Days of Vim, a Vim Advent calendar by VimTricks",k3vgus,cbartlett,https://vimtricks.com/25-days-of-vim_2020/,264,37,1606770631.0,0
+"The official Vim installer for Windows, does it have viruses!?",k3n2ov,NinjaNegro123,https://www.reddit.com/r/vim/comments/k3n2ov/the_official_vim_installer_for_windows_does_it/,0,14,1606732693.0,0
+Terminal errors causing random problems,k3mkgf,ButtsOfficial,https://www.reddit.com/r/vim/comments/k3mkgf/terminal_errors_causing_random_problems/,4,6,1606730779.0,0
+arbitrary go to middle meta-movement,k3jv61,comploplo,https://www.reddit.com/r/vim/comments/k3jv61/arbitrary_go_to_middle_metamovement/,6,7,1606721123.0,0
+Macro aware plugin,k3ii1f,f---_society,https://www.reddit.com/r/vim/comments/k3ii1f/macro_aware_plugin/,2,4,1606716595.0,0
+VIM auto complete or IntelliSense for Java and python.,k3do4z,tea_thou,https://www.reddit.com/r/vim/comments/k3do4z/vim_auto_complete_or_intellisense_for_java_and/,2,14,1606700807.0,0
+Best spellcheck plugin for text editing?,k3cvvj,anotherdiamondday,https://www.reddit.com/r/vim/comments/k3cvvj/best_spellcheck_plugin_for_text_editing/,6,4,1606698323.0,0
+lightline base16-vim integration Plugin.,k3cr2l,nolomg18,https://www.reddit.com/r/vim/comments/k3cr2l/lightline_base16vim_integration_plugin/,4,2,1606697921.0,0
+Follow me for more linux tips and tricks,k3cpt4,131alexx,https://i.redd.it/h2u3jlcqr6261.png,0,0,1606697800.0,0
+Jump to a new string without disrupting existing search results,k3ata2,supersonic_528,https://www.reddit.com/r/vim/comments/k3ata2/jump_to_a_new_string_without_disrupting_existing/,2,24,1606691193.0,0
+coc-vim + haskell-language-server starter tutorial 2020,k3ar3i,dys_bigwig,https://www.reddit.com/r/vim/comments/k3ar3i/cocvim_haskelllanguageserver_starter_tutorial_2020/,78,8,1606690970.0,1
+Ignore user mappings (noremap) but allow recursive mappings for <Plug>...,k376ub,Plazmotech,https://www.reddit.com/r/vim/comments/k376ub/ignore_user_mappings_noremap_but_allow_recursive/,2,10,1606673960.0,0
+How to only activate highlight autocmd,k2v2ke,jamJam20,https://www.reddit.com/r/vim/comments/k2v2ke/how_to_only_activate_highlight_autocmd/,0,2,1606624377.0,0
+"People to use Vim on windows, what do you do to make your set-up as clean as a macOS or Linux user?",k2udhz,SirDerpington660,https://www.reddit.com/r/vim/comments/k2udhz/people_to_use_vim_on_windows_what_do_you_do_to/,2,24,1606622077.0,0
+Created a new theme [elly.vim] which is brown and nostalgic,k2quxw,ryuta69,https://www.reddit.com/gallery/k2quxw,252,42,1606610697.0,0
+"vim, C, clangd, coc, and compound literals (code completion)",k2n8z7,aganm,https://www.reddit.com/r/vim/comments/k2n8z7/vim_c_clangd_coc_and_compound_literals_code/,0,5,1606597154.0,0
+How to focus next window but ignore some filetype file,k2mc9p,zdm-red,https://www.reddit.com/r/vim/comments/k2mc9p/how_to_focus_next_window_but_ignore_some_filetype/,5,12,1606592670.0,0
+Scrolling commands behaving strangely,k2hao1,virtualworker,https://www.reddit.com/r/vim/comments/k2hao1/scrolling_commands_behaving_strangely/,23,3,1606567069.0,0
+how to set python interpreter differently for different files,k2fml1,easyasasunday,https://www.reddit.com/r/vim/comments/k2fml1/how_to_set_python_interpreter_differently_for/,5,2,1606560852.0,0
+Frequency at which vim writes the undofile (:help persistent-undo) to disk,k2dzgg,please_take_one,https://www.reddit.com/r/vim/comments/k2dzgg/frequency_at_which_vim_writes_the_undofile_help/,6,5,1606554996.0,0
+Is there a Vim Color Scheme similar to this?,k2agmw,techguy1749,https://i.redd.it/jmbqcbtusu161.jpg,0,7,1606542623.0,0
+Is there a way to quickly reject a completion?,k286nq,abraxasknister,https://www.reddit.com/r/vim/comments/k286nq/is_there_a_way_to_quickly_reject_a_completion/,23,9,1606535163.0,0
+tab key does not work on search suggestions in coc.nvim,k24rqd,ilove-archlinux,https://www.reddit.com/r/vim/comments/k24rqd/tab_key_does_not_work_on_search_suggestions_in/,0,1,1606524824.0,0
+Is there a Latin language spellfile?,k22yw8,handyjuanito,https://www.reddit.com/r/vim/comments/k22yw8/is_there_a_latin_language_spellfile/,10,10,1606519111.0,0
+"A guide on how to copy text from anywhere, including through SSH, with OSC52",k1ydpn,-olivier,https://www.reddit.com/r/vim/comments/k1ydpn/a_guide_on_how_to_copy_text_from_anywhere/,163,46,1606499637.0,2
+Ultisnips Latex math context detector not working,k1xagz,verycoolbin,https://www.reddit.com/r/vim/comments/k1xagz/ultisnips_latex_math_context_detector_not_working/,5,17,1606493942.0,0
+Help with getting vim to run more quickly with python and java.,k1we1y,Narfee,https://www.reddit.com/r/vim/comments/k1we1y/help_with_getting_vim_to_run_more_quickly_with/,7,8,1606489497.0,0
+Is there any vim plugin for debugging Python code ?,k1ucs7,ajaymahar,https://www.reddit.com/r/vim/comments/k1ucs7/is_there_any_vim_plugin_for_debugging_python_code/,17,10,1606480301.0,0
+Coc.nvim creating '~/. config' in every directory I open vim,k1t2vh,SneharshBelsare,https://www.reddit.com/r/vim/comments/k1t2vh/cocnvim_creating_config_in_every_directory_i_open/,0,9,1606474824.0,0
+"Vim doesn't flag ""int"" as a spelling mistake",k1rk85,Ok_Eye_1812,https://www.reddit.com/r/vim/comments/k1rk85/vim_doesnt_flag_int_as_a_spelling_mistake/,2,3,1606468609.0,0
+Key mapping,k1phgj,Bitter_Day9495,https://www.reddit.com/r/vim/comments/k1phgj/key_mapping/,0,10,1606460780.0,0
+What regexp would match lines that have foo and don't have bar later on the same line?,k1oz63,aiaor,https://www.reddit.com/r/vim/comments/k1oz63/what_regexp_would_match_lines_that_have_foo_and/,2,10,1606458970.0,0
+you know its true,k1nta5,bluebird173,https://i.redd.it/wqemfs4dkn161.png,0,11,1606455017.0,0
+My Annotated Vimrc,k1iv70,jwworth,https://www.jakeworth.com/my-annotated-vimrc/,86,63,1606438943.0,0
+<Esc>? moves left one character,k1g9ez,Egst,https://www.reddit.com/r/vim/comments/k1g9ez/esc_moves_left_one_character/,3,9,1606430238.0,0
+How can I set space bar as a leader key?,k1d3zv,entivec,https://www.reddit.com/r/vim/comments/k1d3zv/how_can_i_set_space_bar_as_a_leader_key/,2,16,1606416192.0,0
+Should the filetype option be set by the time the BufReadPost autocmd is running?,k1c63f,Psy_Blades,https://www.reddit.com/r/vim/comments/k1c63f/should_the_filetype_option_be_set_by_the_time_the/,1,6,1606411321.0,0
+How to get faster in Vim.,k1bz8l,CalinLeafshade,https://youtu.be/Utqv23XjP_0,136,38,1606410360.0,0
+Question about configuring fzf with fzf#vim#ag_raw,k18nbv,justrajdeep,https://www.reddit.com/r/vim/comments/k18nbv/question_about_configuring_fzf_with_fzfvimag_raw/,0,2,1606395079.0,0
+"A Guide to VIM: What is VIM, Why is VIM, How to configure VIM",k18fuf,iamjohnlenn,https://www.loginradius.com/engineering/blog/vim-getting-started/,9,5,1606394206.0,0
+Is there any Proper Guide/tutorial for ycm,k183tt,Waseem_Ahmed,https://www.reddit.com/r/vim/comments/k183tt/is_there_any_proper_guidetutorial_for_ycm/,0,10,1606392800.0,0
+Remapping keys within commands,k17ver,0nly0dd0ne0ut,https://www.reddit.com/r/vim/comments/k17ver/remapping_keys_within_commands/,2,7,1606391859.0,0
+How to get last cursor position of unopened file,k12r0k,andrewlkho,https://www.reddit.com/r/vim/comments/k12r0k/how_to_get_last_cursor_position_of_unopened_file/,1,2,1606372842.0,0
+How to convert smart quotes and other fancy characters to normal characters,k10psl,jdalbert,https://www.reddit.com/r/vim/comments/k10psl/how_to_convert_smart_quotes_and_other_fancy/,36,5,1606366633.0,0
+"[TIL] People on macOS, you can map Caps Lock to Escape from System Settings.",k0zzv6,mrillusi0n,https://i.redd.it/k4cku99b2g161.png,275,72,1606364320.0,2
+How to use python modules in vim?,k0wj9n,Vxqui,https://www.reddit.com/r/vim/comments/k0wj9n/how_to_use_python_modules_in_vim/,3,9,1606354204.0,0
+Vim Broken Since Big Sur Update,k0wg80,eekofo,https://www.reddit.com/r/vim/comments/k0wg80/vim_broken_since_big_sur_update/,1,15,1606353965.0,0
+Better Markdown syntax highlighting?,k0tti3,llPatternll,https://www.reddit.com/r/vim/comments/k0tti3/better_markdown_syntax_highlighting/,24,22,1606345747.0,0
+Where can I find a French translation of the help files?,k0t2h6,ProgMetalSlug,https://www.reddit.com/r/vim/comments/k0t2h6/where_can_i_find_a_french_translation_of_the_help/,8,13,1606343094.0,0
+Bind key in internal pager?,k0ssjh,emax-gomax,https://www.reddit.com/r/vim/comments/k0ssjh/bind_key_in_internal_pager/,4,7,1606342094.0,0
+Can't write any of my symbols located in the numbers,k0qqb4,bocadillo_sin_pan,https://www.reddit.com/r/vim/comments/k0qqb4/cant_write_any_of_my_symbols_located_in_the/,1,3,1606333451.0,0
+Is there a program like screenkey that is Vim-aware?,k0pusn,Maskdask,https://www.reddit.com/r/vim/comments/k0pusn/is_there_a_program_like_screenkey_that_is_vimaware/,6,7,1606329282.0,0
+add a backspace ultisnips,k0p34u,Leskille,https://www.reddit.com/r/vim/comments/k0p34u/add_a_backspace_ultisnips/,2,2,1606325419.0,0
+"ex commands in popup ""window""?",k0nd75,zstix,https://www.reddit.com/r/vim/comments/k0nd75/ex_commands_in_popup_window/,0,7,1606317113.0,0
+"Enclosing visual block in brackets, etc.",k0n51q,Elmyder,https://www.reddit.com/r/vim/comments/k0n51q/enclosing_visual_block_in_brackets_etc/,2,4,1606316089.0,0
+MvVis,k0jw0b,Jorengarenar,https://github.com/Jorengarenar/vim-MvVis,9,4,1606302367.0,0
+Understanding Plugin Commands,k0jjqp,eat_those_lemons,https://www.reddit.com/r/vim/comments/k0jjqp/understanding_plugin_commands/,5,10,1606301034.0,0
+Opening quickfix for where last line is more relevant (python)?,k0ht9n,dddbbb,https://www.reddit.com/r/vim/comments/k0ht9n/opening_quickfix_for_where_last_line_is_more/,1,9,1606294451.0,0
+Vim-startify don't remember previously opened files,k0gg53,arnauldb,https://www.reddit.com/r/vim/comments/k0gg53/vimstartify_dont_remember_previously_opened_files/,1,3,1606289564.0,0
+Autocompletion with pregenerated c_cpp_properties.json,k0eif3,PostingPenguin,https://www.reddit.com/r/vim/comments/k0eif3/autocompletion_with_pregenerated_c_cpp/,1,6,1606283052.0,0
+[ANN] Vimtex v2.0,k0c7se,lervag,https://www.reddit.com/r/vim/comments/k0c7se/ann_vimtex_v20/,352,35,1606275872.0,9
+How to run shell commands in a horizontal temporary split?,k0azv4,Northstat,https://www.reddit.com/r/vim/comments/k0azv4/how_to_run_shell_commands_in_a_horizontal/,12,13,1606272321.0,1
+Unconditional linewise or characterwise pasting,k01f69,abraxasknister,https://www.reddit.com/r/vim/comments/k01f69/unconditional_linewise_or_characterwise_pasting/,23,20,1606236443.0,0
+A improved mapping to leave insert mode than jk or kj or jj,jzkw6g,jdhao,https://jdhao.github.io/2020/11/23/neovim_better_mapping_for_leaving_insert_mode/,85,138,1606177978.0,0
+Highlighting Issue. How Can I Fix This?,jzkmd0,yellowseptember,https://i.redd.it/fmma2w42m0161.png,4,5,1606177133.0,0
+COC auto suggestions are stuck on the screen,jzjbdd,crypto-pickle,https://www.reddit.com/r/vim/comments/jzjbdd/coc_auto_suggestions_are_stuck_on_the_screen/,6,5,1606173040.0,0
+how do i get gruvbox for my gnome terminal,jzic6k,Bilboballin,https://www.reddit.com/r/vim/comments/jzic6k/how_do_i_get_gruvbox_for_my_gnome_terminal/,0,2,1606169713.0,0
+How can I remove this margin/space at the bottom of vim window in Onedark theme?,jzhs5r,entivec,https://www.reddit.com/r/vim/comments/jzhs5r/how_can_i_remove_this_marginspace_at_the_bottom/,1,4,1606167664.0,0
+Automatically go top of the buffer after calling term_start?,jzgkhe,RingoRangoRongo,https://www.reddit.com/r/vim/comments/jzgkhe/automatically_go_top_of_the_buffer_after_calling/,1,4,1606162610.0,0
+Browser/Extension with Vim Insert/Input Mode,jzd9xu,yet-another-tim,https://www.reddit.com/r/vim/comments/jzd9xu/browserextension_with_vim_insertinput_mode/,0,29,1606145694.0,0
+Alduin Vim Theme for Terminal?,jzc0ka,No-Idea5409,https://www.reddit.com/r/vim/comments/jzc0ka/alduin_vim_theme_for_terminal/,1,2,1606139644.0,0
+"RopeVim, how to test if it's working?",jz6yes,NotBleachLol,https://www.reddit.com/r/vim/comments/jz6yes/ropevim_how_to_test_if_its_working/,0,10,1606119660.0,0
+How to prevent line numbers with :print,jz4mq5,kress5,https://www.reddit.com/r/vim/comments/jz4mq5/how_to_prevent_line_numbers_with_print/,1,4,1606111520.0,0
+Trying to shift from VS Code to Vim. What to configure as a starter pack?,jz3r00,periperidip,https://www.reddit.com/r/vim/comments/jz3r00/trying_to_shift_from_vs_code_to_vim_what_to/,2,12,1606108697.0,0
+"Am I the only one who involuntary shouts out ""YANK"" in the head whenever I tap 'Y' ?",jz317n,ShayD7118,https://www.reddit.com/r/vim/comments/jz317n/am_i_the_only_one_who_involuntary_shouts_out_yank/,28,21,1606106356.0,0
+Should have been the esc key,jz2jlq,ab12gu,https://v.redd.it/rakpp7ldis061,453,28,1606104765.0,0
+VimCharm - approximating PyCharm on Vim,jz2eyk,lonesword_,https://kevinmartinjose.com/2020/11/22/vimcharm-approximating-pycharm-on-vim/,14,10,1606104345.0,0
+How to change current word to uppercase from insert mode?,jyzvzs,Sinbad_07,https://www.reddit.com/r/vim/comments/jyzvzs/how_to_change_current_word_to_uppercase_from/,1,16,1606096118.0,0
+Undo stops working in vim,jyzqk1,zonzon510,https://www.reddit.com/r/vim/comments/jyzqk1/undo_stops_working_in_vim/,0,9,1606095638.0,0
+urlview.vim - List and open URLs easily,jyxi5g,metyaz,https://github.com/strboul/urlview.vim,3,6,1606088051.0,0
+Broken paste?,jyvw5t,mcmoor,https://www.reddit.com/r/vim/comments/jyvw5t/broken_paste/,3,7,1606081649.0,0
+Selective bracket completion,jyuxu3,crashing_human_API,https://www.reddit.com/r/vim/comments/jyuxu3/selective_bracket_completion/,1,4,1606077117.0,0
+I am writing a digital book about Vim.,jyunfc,progsNyx,https://www.reddit.com/r/madeinpython/comments/jyumiy/i_am_creating_a_digital_book_on_flask_about_vim/?utm_medium=android_app&utm_source=share,38,13,1606075622.0,0
+Any Tutorial on how to create a Vim-like editor from scratch?,jyt2r7,CP999-,https://www.reddit.com/r/vim/comments/jyt2r7/any_tutorial_on_how_to_create_a_vimlike_editor/,0,12,1606066754.0,0
+Should I learn Emacs?,jystzl,cncfan1995,https://www.reddit.com/r/vim/comments/jystzl/should_i_learn_emacs/,4,47,1606065294.0,0
+"Different highlight color for TODO, FIXME, XXX",jysa78,protegosolus,https://www.reddit.com/r/vim/comments/jysa78/different_highlight_color_for_todo_fixme_xxx/,14,10,1606062047.0,0
+Help for installing vim plugin in Win10,jysa3u,Emotional-Savings-80,https://www.reddit.com/r/vim/comments/jysa3u/help_for_installing_vim_plugin_in_win10/,0,2,1606062032.0,0
+How I got used to Vim,jypvxk,kontinuity,https://www.reddit.com/r/vim/comments/jypvxk/how_i_got_used_to_vim/,5,9,1606049680.0,0
+"Is there a plugin that implements operator-pending motions for constructs/loops ? (`if`, `for`, `where` etc...) ?",jymguv,Atralb,https://www.reddit.com/r/vim/comments/jymguv/is_there_a_plugin_that_implements_operatorpending/,4,14,1606035580.0,0
+New here!,jyih2t,she__codes,https://www.reddit.com/r/vim/comments/jyih2t/new_here/,0,20,1606021213.0,0
+"Hope I did not ""wim"" this time.",jyh84x,mrillusi0n,https://youtu.be/vJOKfaxmWdQ,130,34,1606016876.0,1
+Can anyone share me a link of Vim video tutorials to learn vim and use it for competitive programming in C++,jyh25s,Rare_idiot,https://www.reddit.com/r/vim/comments/jyh25s/can_anyone_share_me_a_link_of_vim_video_tutorials/,0,8,1606016323.0,0
+Sharing my plugin vim-float-terminal,jyc5yw,ZhiyuanLck,https://www.reddit.com/r/vim/comments/jyc5yw/sharing_my_plugin_vimfloatterminal/,20,7,1605999862.0,0
+Don't open new window for help,jybsp0,abraxasknister,https://www.reddit.com/r/vim/comments/jybsp0/dont_open_new_window_for_help/,2,21,1605998454.0,0
+inserting filename in uppercase,jyak1c,GedeonSpilett,https://www.reddit.com/r/vim/comments/jyak1c/inserting_filename_in_uppercase/,1,4,1605993392.0,0
+What do you use Vim for?,jy84te,Rare_idiot,https://www.reddit.com/r/vim/comments/jy84te/what_do_you_use_vim_for/,0,11,1605980284.0,0
+My pinky finger weak af,jy83sq,AsianDaggerDick,https://www.reddit.com/r/vim/comments/jy83sq/my_pinky_finger_weak_af/,4,14,1605980112.0,0
+Which language do you use on Vim?,jy83ov,Rare_idiot,https://www.reddit.com/r/vim/comments/jy83ov/which_language_do_you_use_on_vim/,0,8,1605980092.0,0
+Anybody know the name of this theme?,jy7mr4,ennmichael2,https://www.reddit.com/r/vim/comments/jy7mr4/anybody_know_the_name_of_this_theme/,1,2,1605977257.0,0
+Different Syntax for different filetype,jy62uv,Dosx001,https://www.reddit.com/r/vim/comments/jy62uv/different_syntax_for_different_filetype/,2,11,1605968577.0,0
+Pasting into external applications from vim,jy34xj,zambodian2,https://www.reddit.com/r/vim/comments/jy34xj/pasting_into_external_applications_from_vim/,4,9,1605955568.0,0
+Probably a stupid regex question.,jy1kkw,ferulebezel,https://www.reddit.com/r/vim/comments/jy1kkw/probably_a_stupid_regex_question/,1,8,1605949415.0,0
+"Pinto, an application to create Vim themes in the browser",jy0twq,alajmo,https://www.reddit.com/r/vim/comments/jy0twq/pinto_an_application_to_create_vim_themes_in_the/,295,54,1605946603.0,3
+vimscript for navigating long complex functions,jxvjde,zonzon510,https://www.reddit.com/r/vim/comments/jxvjde/vimscript_for_navigating_long_complex_functions/,2,5,1605928795.0,0
+Having Trouble Compiling Vim with Python3.6,jxuh3m,0ryX_Error404,https://www.reddit.com/r/vim/comments/jxuh3m/having_trouble_compiling_vim_with_python36/,0,12,1605925461.0,0
+Setting custom textwidth to all files,jxugh3,kn0xchad,https://www.reddit.com/r/vim/comments/jxugh3/setting_custom_textwidth_to_all_files/,2,2,1605925407.0,0
+What vim plugins for Flutter development?,jxuasn,GeroSchorsch,https://www.reddit.com/r/vim/comments/jxuasn/what_vim_plugins_for_flutter_development/,0,4,1605924926.0,0
+vim or nvim in vscode,jxtmvp,bloztaki,https://www.reddit.com/r/vim/comments/jxtmvp/vim_or_nvim_in_vscode/,0,2,1605922922.0,0
+Using Obsidian with Termux and VIM,jxteeu,adgad137,https://www.thegadhian.com/posts/using-obsidian-with-termux-and-vim/,14,7,1605922217.0,0
+I'm trying termux+vim+Python combination on Android! But this error won't let me in to insert mode! Help please?,jxqyvr,Ga_Jani,https://i.redd.it/164mqrfnxe061.jpg,35,32,1605914670.0,0
+Any ideas for appending to json file with vimscript?,jxp036,jamJam20,https://www.reddit.com/r/vim/comments/jxp036/any_ideas_for_appending_to_json_file_with/,1,15,1605907701.0,0
+ftplugin question,jxo1pw,abraxasknister,https://www.reddit.com/r/vim/comments/jxo1pw/ftplugin_question/,3,12,1605903607.0,0
+Is there any DSL or library for text editing as powerful as vim?,jxlws9,danielo515,/r/progr/comments/jxlqap/is_there_any_dsl_or_library_for_text_editing_as/,1,7,1605892327.0,0
+notetaking in vimwiki,jxki4n,IGTHSYCGTH,https://www.reddit.com/r/vim/comments/jxki4n/notetaking_in_vimwiki/,7,2,1605884614.0,0
+"Apply a substitution regex, but only in the ""view"" and not in the actual document (bonus allow toggling application easily)",jxjd9t,nikki93,https://www.reddit.com/r/vim/comments/jxjd9t/apply_a_substitution_regex_but_only_in_the_view/,2,8,1605879030.0,0
+Vim Kōans,jxi456,ASIC_SP,https://sanctum.geek.nz/arabesque/vim-koans/,70,23,1605873637.0,0
+Extract selected lines to another file with :w,jxhfmc,cbartlett,https://vimtricks.com/p/vimtrick-extract-lines-to-file,15,10,1605870806.0,0
+Has anyone tried ViEmu for Word?,jxel6n,_banafish,https://www.reddit.com/r/vim/comments/jxel6n/has_anyone_tried_viemu_for_word/,37,27,1605859896.0,0
+"Vlugger, a plugin manager",jx9397,Wafelack,https://www.reddit.com/r/vim/comments/jx9397/vlugger_a_plugin_manager/,0,4,1605841919.0,0
+Scrolling is too fast with mouse=a,jx8qxi,tonyZ345,https://www.reddit.com/r/vim/comments/jx8qxi/scrolling_is_too_fast_with_mousea/,1,11,1605840899.0,0
+Weird colors on vim,jx4o0h,3XM25,https://www.reddit.com/r/vim/comments/jx4o0h/weird_colors_on_vim/,1,6,1605828391.0,0
+Any xcape users? Bind more than just Ctrl? Enter key as modifier...,jx2mld,gregorie12,https://www.reddit.com/r/vim/comments/jx2mld/any_xcape_users_bind_more_than_just_ctrl_enter/,1,4,1605821143.0,0
+I need help to found this colorscheme please? ;-;,jx1qzj,tognols,https://www.reddit.com/r/vim/comments/jx1qzj/i_need_help_to_found_this_colorscheme_please/,2,12,1605817401.0,0
+Difference between moving down or up,jx0dwl,Astro_Z0mbie,https://www.reddit.com/r/vim/comments/jx0dwl/difference_between_moving_down_or_up/,3,3,1605810519.0,0
+Vimwiki: Question about VimwikiGenerateLinks command,jwzpt6,JWT721,https://www.reddit.com/r/vim/comments/jwzpt6/vimwiki_question_about_vimwikigeneratelinks/,2,0,1605806864.0,0
+Is there a way to autocomplete previous insertions and selections?,jwzjr6,kantord,https://www.reddit.com/r/vim/comments/jwzjr6/is_there_a_way_to_autocomplete_previous/,2,5,1605805897.0,0
+Best plugins for customisation of Brackets,jwza2o,the1derer,/r/neovim/comments/jwz9vn/best_plugins_for_customisation_of_brackets/,0,12,1605804379.0,0
+Neovim as C/C++ IDE: how do deal with include paths?,jwyzpe,ruinozeros,https://www.reddit.com/r/vim/comments/jwyzpe/neovim_as_cc_ide_how_do_deal_with_include_paths/,1,8,1605802827.0,0
+WhatsCLI WhatsApp client,jws0f4,normenh,https://www.reddit.com/r/vim/comments/jws0f4/whatscli_whatsapp_client/,184,101,1605773948.0,1
+Vim only matches syntax strings if there's at least a single latin character?,jwru9k,tucnak,https://www.reddit.com/r/vim/comments/jwru9k/vim_only_matches_syntax_strings_if_theres_at/,1,8,1605773367.0,0
+What is the most VIM-like email client?,jwjs15,eyun89,https://www.reddit.com/r/vim/comments/jwjs15/what_is_the_most_vimlike_email_client/,68,43,1605748446.0,0
+Help creating macro to speed up spellchecking,jwiuk6,sam-barr,https://www.reddit.com/r/vim/comments/jwiuk6/help_creating_macro_to_speed_up_spellchecking/,13,24,1605745602.0,0
+How do I protect my highlight groups from clearing?,jwgzbs,K41eb,https://www.reddit.com/r/vim/comments/jwgzbs/how_do_i_protect_my_highlight_groups_from_clearing/,2,3,1605739403.0,0
+Best cheatsheets/tutorial vids on vim?,jw89rt,Vxqui,https://www.reddit.com/r/vim/comments/jw89rt/best_cheatsheetstutorial_vids_on_vim/,1,19,1605698951.0,0
+Pasting from host to vim inside docker container,jw7o63,dramsde1,https://www.reddit.com/r/vim/comments/jw7o63/pasting_from_host_to_vim_inside_docker_container/,36,19,1605696671.0,0
+Can I choose cursor position for Go to definition?,jw4i00,SuccessfulElk,https://www.reddit.com/r/vim/comments/jw4i00/can_i_choose_cursor_position_for_go_to_definition/,3,6,1605685391.0,0
+"""+ register not working",jvye0n,erick_pythonist,https://www.reddit.com/r/vim/comments/jvye0n/register_not_working/,0,8,1605666625.0,0
+"Anything like like TabOut function for Visual Studio, to exit pairs/closings?",jvxftv,don_stinson,https://www.reddit.com/r/vim/comments/jvxftv/anything_like_like_tabout_function_for_visual/,6,11,1605663730.0,0
+https://github.com/vim-scripts/AutoComplPop not working for me,jvsr9q,RedditUser762005,https://www.reddit.com/r/vim/comments/jvsr9q/httpsgithubcomvimscriptsautocomplpop_not_working/,3,8,1605647644.0,0
+Improving Vim Workflow With fzf,jvrx0k,nikolalsvk,https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/,123,48,1605643782.0,0
+Find usage in python code source,jvrifb,MagicCarot,https://www.reddit.com/r/vim/comments/jvrifb/find_usage_in_python_code_source/,10,7,1605641698.0,0
+Why I use Vim and suck at it,jvq1y1,rickdg,https://listed.to/@t_var_s/19868/why-i-use-vim-and-suck-at-it,68,31,1605633715.0,0
+How to install vimspector from scratch,jvpt9i,TGdZuUsSprwysWMq,https://www.reddit.com/r/vim/comments/jvpt9i/how_to_install_vimspector_from_scratch/,1,10,1605632335.0,0
+Closure/Block-based highlighting?,jvm2nd,8E4F787A43D3807E9EA2,https://www.reddit.com/r/vim/comments/jvm2nd/closureblockbased_highlighting/,2,6,1605614064.0,0
+Why is my Sonokai color scheme only displaying so little colors even though I'm using vim-polyglot?,jvcqjw,GeroSchorsch,https://i.redd.it/hurvnysognz51.png,99,43,1605582170.0,0
+Can copy whole .vim folder to other PC?,jvb4t5,Bitter_Day9495,https://www.reddit.com/r/vim/comments/jvb4t5/can_copy_whole_vim_folder_to_other_pc/,13,19,1605577257.0,0
+Small Tip: Run macOS QuickLook for the file under the cursor with vim-dirvish,jvaqmh,ilbanditomonco,/r/neovim/comments/jvaq6p/small_tip_run_macos_quicklook_for_the_file_under/,11,3,1605576059.0,0
+Every time I save a typescript or javascript file using coc it duplicates the last line for some reason. Any idea how I can solve this?,jv60hb,yudhiesh,https://i.redd.it/1irlhnkcjlz51.png,1,4,1605558823.0,0
+"Having problems with coc vim, eslint and prettier?",jv4nig,rakeshShrestha,https://www.reddit.com/r/vim/comments/jv4nig/having_problems_with_coc_vim_eslint_and_prettier/,0,2,1605551585.0,0
+Learn Vimscript the Hard Way - A great resource for learning Vimscript,jv4frw,_-_Specter_-_,https://learnvimscriptthehardway.stevelosh.com,24,0,1605550331.0,1
+CMake4vim - Plugin which integrates CMake into Vim,jv3oz2,ilyachur,https://www.reddit.com/r/vim/comments/jv3oz2/cmake4vim_plugin_which_integrates_cmake_into_vim/,21,12,1605546015.0,0
+How can I make vae to visually select everything in the buffer?,jv3hkd,mrillusi0n,https://www.reddit.com/r/vim/comments/jv3hkd/how_can_i_make_vae_to_visually_select_everything/,1,17,1605544805.0,0
+Let Vim do the typing - completion without plugins,jv2ci2,kiwisniper69,https://georgebrock.github.io/talks/vim-completion/,125,12,1605538429.0,2
+What `val >= 0 ? a:context.col : -1` expression mean?,jv0lj6,jamJam20,https://www.reddit.com/r/vim/comments/jv0lj6/what_val_0_acontextcol_1_expression_mean/,2,1,1605530081.0,0
+SPF13-Vim fork with modern tools,juyv8a,jtuzp,https://www.reddit.com/r/vim/comments/juyv8a/spf13vim_fork_with_modern_tools/,0,2,1605522888.0,0
+Typescript and ALE,jusag6,daliusd_,https://blog.ffff.lt/posts/typescript-and-ale/,49,16,1605499177.0,0
+why the wierd spacing around the corners? Is it coming from treminal padding? How to fix?,jupm2w,faizan_20,https://i.redd.it/dcg3nkk7vfz51.png,0,12,1605490158.0,0
+Make fzf detect project root and search from there,junvm6,,https://www.reddit.com/r/vim/comments/junvm6/make_fzf_detect_project_root_and_search_from_there/,5,20,1605484070.0,0
+A guide on creating your own text objects.,junl5f,jdhao,https://www.reddit.com/r/vim/comments/junl5f/a_guide_on_creating_your_own_text_objects/,38,5,1605483002.0,0
+FZF :Files unreadable colorscheme.,jum71f,_fishysushi,https://www.reddit.com/r/vim/comments/jum71f/fzf_files_unreadable_colorscheme/,2,6,1605477239.0,0
+"[Neovim] How would i remap ZW to doing "":w""?",jukuu4,CoreyYT,https://www.reddit.com/r/vim/comments/jukuu4/neovim_how_would_i_remap_zw_to_doing_w/,0,5,1605470524.0,0
+Reviving VT220 Aesthetic,juhh0t,khanhdc96,https://www.reddit.com/r/vim/comments/juhh0t/reviving_vt220_aesthetic/,7,5,1605450378.0,0
+"I'm using goyo.vim, and I want to make those arrows at the bottom disappear. How do I do it?",jugj1v,mrillusi0n,https://i.redd.it/07kcbqsw6cz51.png,3,12,1605445692.0,0
+"colorscheme evening is too bright in terminal, but okay with gvim",judgun,PM_ME_UR_THONG_N_ASS,https://www.reddit.com/r/vim/comments/judgun/colorscheme_evening_is_too_bright_in_terminal_but/,1,2,1605432482.0,0
+"Tip: What helped me getting used to up and down (k, j) as a beginner, was associating ""up"" with ""kup"" and down with ""jown""",judfhp,shoopdewhoopwah,https://www.reddit.com/r/vim/comments/judfhp/tip_what_helped_me_getting_used_to_up_and_down_k/,175,59,1605432328.0,0
+Is there a way to start vimspector without the hassle of creating a .vimspector.json file everytime?,jucupt,GeroSchorsch,https://www.reddit.com/r/vim/comments/jucupt/is_there_a_way_to_start_vimspector_without_the/,8,4,1605430059.0,0
+Looking for IntellIJ Cyan like theme.,ju9pc1,_fishysushi,https://www.reddit.com/r/vim/comments/ju9pc1/looking_for_intellij_cyan_like_theme/,1,2,1605418133.0,0
+Ctrl L stuck sometimes,ju9cr1,ckangnz,https://www.reddit.com/r/vim/comments/ju9cr1/ctrl_l_stuck_sometimes/,4,12,1605416853.0,0
+Customize quickfix highlight color,ju6a5j,blay263,https://www.reddit.com/r/vim/comments/ju6a5j/customize_quickfix_highlight_color/,4,3,1605406114.0,0
+Personalize you dotfiles with Signit!,ju5fcc,johannesthyssen,/r/vimporn/comments/ju0df3/personalize_you_dotfiles_with_signit/,0,3,1605403056.0,0
+I want to share this real time markdown previewer I found,ju2esj,Zeioth,https://www.reddit.com/r/vim/comments/ju2esj/i_want_to_share_this_real_time_markdown_previewer/,11,7,1605391498.0,0
+"vim-remembers - a plugin that emulates Notepad++ ""remembering"" the contents of unnamed files.",ju1wfa,euw_psycher,https://www.reddit.com/r/vim/comments/ju1wfa/vimremembers_a_plugin_that_emulates_notepad/,48,6,1605389174.0,0
+Automatically Change Background based on `redshift` hook,ju1rkj,trvlr8,https://www.reddit.com/r/vim/comments/ju1rkj/automatically_change_background_based_on_redshift/,1,3,1605388519.0,0
+History of the visual selection,ju1bni,greg0ire,https://www.reddit.com/r/vim/comments/ju1bni/history_of_the_visual_selection/,15,5,1605386246.0,0
+vim + easyjump.tmux > vim-easymotion/vim-sneak,ju18p7,roy2220,https://www.reddit.com/r/vim/comments/ju18p7/vim_easyjumptmux_vimeasymotionvimsneak/,83,14,1605385827.0,1
+Manually mark sentences in an autogenerated transcript and reformat document,jtzsz7,feral-zebra,https://www.reddit.com/r/vim/comments/jtzsz7/manually_mark_sentences_in_an_autogenerated/,0,2,1605377344.0,0
+Vim equivalent of Emacs pretty-mode?,jtsrya,muraii,https://www.reddit.com/r/vim/comments/jtsrya/vim_equivalent_of_emacs_prettymode/,2,2,1605344995.0,0
+Close buffer but not the window,jtpluq,SnooDonkeys2743,https://www.reddit.com/r/vim/comments/jtpluq/close_buffer_but_not_the_window/,7,10,1605333820.0,0
+Vim Quickies! Here's something where Visual Mode is not a smell.,jtnhzq,mrillusi0n,https://youtu.be/bASKn1WcM9A,204,62,1605327569.0,0
+"Vim randomly lags and and stops working sometime when I either write a new file w/ a directory or create a new file with nerdtree, etc. Is there anything I can do to figure out what is causing this? The program doesn't say ""not responding"" and vim isn't actually crashing. (win 10 x64)",jtloq3,lordtorrent,https://www.reddit.com/r/vim/comments/jtloq3/vim_randomly_lags_and_and_stops_working_sometime/,3,6,1605322307.0,0
+Smallest Architecture to Run Vim on a Display,jtlkij,math2cs,https://www.reddit.com/r/vim/comments/jtlkij/smallest_architecture_to_run_vim_on_a_display/,31,13,1605321958.0,0
+Is it possible to make [number] for a mapping only affect/repeat part of the keys?,jtjmnu,_JJCUBER_,https://www.reddit.com/r/vim/comments/jtjmnu/is_it_possible_to_make_number_for_a_mapping_only/,2,21,1605316098.0,0
+I just found out I can use VIM in Safari,jtd0v3,yudhiesh,https://www.reddit.com/r/vim/comments/jtd0v3/i_just_found_out_i_can_use_vim_in_safari/,49,22,1605282006.0,0
+"I love vim, but is it for me? Student?",jt29et,faizan_20,https://www.reddit.com/r/vim/comments/jt29et/i_love_vim_but_is_it_for_me_student/,6,55,1605240976.0,0
+Vimcord - Vim plugin for discord rich presence,jt0e54,Steeli0,https://www.reddit.com/r/vim/comments/jt0e54/vimcord_vim_plugin_for_discord_rich_presence/,21,12,1605235481.0,0
+YCM,jsyue2,ghetto_man_,https://www.reddit.com/r/vim/comments/jsyue2/ycm/,3,2,1605230875.0,0
+For VIM's birthday - my .vimrc,jsyr3k,banyek,https://www.reddit.com/r/vim/comments/jsyr3k/for_vims_birthday_my_vimrc/,4,9,1605230610.0,0
+How to pass arguments when using Termdebug?,jsxws4,MyNameIsArko,https://www.reddit.com/r/vim/comments/jsxws4/how_to_pass_arguments_when_using_termdebug/,2,0,1605228034.0,0
+Enable c++17 globally with coc.nvim + ccls,jsv8cw,Galicarnax,https://www.reddit.com/r/vim/comments/jsv8cw/enable_c17_globally_with_cocnvim_ccls/,2,7,1605219072.0,0
+Why I Still Use Vim,jsv7lu,speckz,https://buttondown.email/hillelwayne/archive/why-i-still-use-vim/,207,90,1605218995.0,0
+"command gf opens file as it is imported, not resolving ..",jsugiy,iamasuitama,https://www.reddit.com/r/vim/comments/jsugiy/command_gf_opens_file_as_it_is_imported_not/,2,2,1605216066.0,0
+NerdTree causes vim to be painfully slow.,jsufzx,yudhiesh,https://www.reddit.com/r/vim/comments/jsufzx/nerdtree_causes_vim_to_be_painfully_slow/,2,16,1605216007.0,0
+String numbers and relative numbers at once,jst7fn,PopovGP,https://www.reddit.com/r/vim/comments/jst7fn/string_numbers_and_relative_numbers_at_once/,5,13,1605210165.0,0
+Force sidebar on at all times,jst4uo,Ideuutti,https://www.reddit.com/r/vim/comments/jst4uo/force_sidebar_on_at_all_times/,5,5,1605209774.0,0
+"Join lines, with second line going to the start of the first line",jsq31p,_-_Specter_-_,https://www.reddit.com/r/vim/comments/jsq31p/join_lines_with_second_line_going_to_the_start_of/,2,4,1605192918.0,0
+Vim-like Software,jso2gr,Smoggler,https://www.reddit.com/r/vim/comments/jso2gr/vimlike_software/,40,70,1605183811.0,0
+highlight the current window,jsmxag,Slugsurx,https://www.reddit.com/r/vim/comments/jsmxag/highlight_the_current_window/,2,6,1605179315.0,0
+Need to kick the vscode habit,jsiyku,b74584,https://www.reddit.com/r/vim/comments/jsiyku/need_to_kick_the_vscode_habit/,6,28,1605165403.0,0
+fzf.vim :BLines demo,jscfd4,Nitrodist,https://v.redd.it/d5po635fbny51,10,7,1605144514.0,0
+%s in visual selection mode,jsbf6j,Ok_Specialist_458,https://www.reddit.com/r/vim/comments/jsbf6j/s_in_visual_selection_mode/,2,4,1605141489.0,0
+Custom colors for typedefs in C,jsak06,string111,https://www.reddit.com/r/vim/comments/jsak06/custom_colors_for_typedefs_in_c/,1,3,1605138764.0,0
+Vim's life-changing c%,jsaeo9,karoliskoncevicius,https://thepugautomatic.com/2014/03/vims-life-changing-c-percent/,362,50,1605138281.0,1
+Vim Syntax Highlighting,js9xyc,RafaMadriz,https://www.reddit.com/r/vim/comments/js9xyc/vim_syntax_highlighting/,2,7,1605136754.0,0
+Starting with vim,js8ydr,expo_init,https://www.reddit.com/r/vim/comments/js8ydr/starting_with_vim/,3,5,1605133297.0,0
+any good source to learn vimspector?,js7sa2,shaeinst,https://www.reddit.com/r/vim/comments/js7sa2/any_good_source_to_learn_vimspector/,36,18,1605128776.0,1
+How to play vimgolf without a twitter account?,js6nos,Tagina_Vickler,https://www.reddit.com/r/vim/comments/js6nos/how_to_play_vimgolf_without_a_twitter_account/,19,14,1605123682.0,0
+How to escape quotation mark?,js6cmn,MyNameIsArko,https://www.reddit.com/r/vim/comments/js6cmn/how_to_escape_quotation_mark/,3,16,1605122094.0,0
+Neither <C-6> nor <C-^> work on mac,js3gvq,alucardkoten,https://www.reddit.com/r/vim/comments/js3gvq/neither_c6_nor_c_work_on_mac/,2,4,1605106962.0,0
+My VIM keyboard woes,js0c4v,kiwiheretic,https://www.reddit.com/r/vim/comments/js0c4v/my_vim_keyboard_woes/,4,23,1605093838.0,0
+Can you you format files using python installed modules rather than executables?,jrvinf,GAAfanatic,https://www.reddit.com/r/vim/comments/jrvinf/can_you_you_format_files_using_python_installed/,1,13,1605077188.0,0
+Vimwiki,jrpzxz,Kantilo,https://www.reddit.com/r/vim/comments/jrpzxz/vimwiki/,6,4,1605060391.0,0
+How to autocomplete path using alias root?,jrpujp,lai32290,https://vi.stackexchange.com/questions/27985/how-to-autocomplete-path-using-alias-root,3,2,1605059944.0,0
+Send text to DeepL for translation,jrogs8,Kelevra90,https://www.reddit.com/r/vim/comments/jrogs8/send_text_to_deepl_for_translation/,19,0,1605055770.0,0
+Vim colorscheme,jrmx6f,import_n,https://www.reddit.com/r/vim/comments/jrmx6f/vim_colorscheme/,3,8,1605050929.0,0
+Terminal-Normal and Terminal-Job modes,jrmr7y,Jeehannes,https://www.reddit.com/r/vim/comments/jrmr7y/terminalnormal_and_terminaljob_modes/,3,7,1605050386.0,0
+Cleaner latex in Vim,jrm2j5,ykonstant,https://i.redd.it/psmi7s4gcfy51.png,396,52,1605048000.0,3
+Best of both worlds,jrl1iw,snowfrogdev,https://www.reddit.com/r/vim/comments/jrl1iw/best_of_both_worlds/,0,6,1605044204.0,0
+Disabling spell check for 1 file,jrj1b4,rock-emacs,https://www.reddit.com/r/vim/comments/jrj1b4/disabling_spell_check_for_1_file/,2,6,1605034695.0,0
+Inserting the date in Vim in Windows 10,jrhs9i,rock-emacs,https://www.reddit.com/r/vim/comments/jrhs9i/inserting_the_date_in_vim_in_windows_10/,5,12,1605027964.0,0
+What are some usecase to utilize doautocmd?,jrh2d7,jamJam20,https://www.reddit.com/r/vim/comments/jrh2d7/what_are_some_usecase_to_utilize_doautocmd/,2,5,1605024041.0,0
+These are the plugins I am using! what your's???,jrflot,unixbhaskar,https://i.redd.it/tpufnw2crcy51.png,0,12,1605016852.0,0
+Vim cheatsheet w/ Q,jrasii,shirobachi,https://i.redd.it/gmb25yababy51.jpg,402,39,1604998866.0,5
+Your choices of Vim Colorschemes for use in a Bare TTY ?,jr9f9b,Atralb,https://www.reddit.com/r/vim/comments/jr9f9b/your_choices_of_vim_colorschemes_for_use_in_a/,3,14,1604994282.0,0
+I want to make a function and I am having some problems with vimL,jr8tvn,banana_llarma,https://www.reddit.com/r/vim/comments/jr8tvn/i_want_to_make_a_function_and_i_am_having_some/,1,2,1604992336.0,0
+How to get special characters/symbols for the gutter (warnings and errors)?,jr4dmn,chillysurfer,https://www.reddit.com/r/vim/comments/jr4dmn/how_to_get_special_characterssymbols_for_the/,8,3,1604978896.0,0
+Modern IDEs are magic. Why are so many coders still using Vim and Emacs? - Stack Overflow Blog,jr1yc5,javajunkie314,https://stackoverflow.blog/2020/11/09/modern-ide-vs-vim-emacs/,144,236,1604971693.0,0
+How to tell COC what extension to load according to the file extension,jr18b3,acedyn,https://www.reddit.com/r/vim/comments/jr18b3/how_to_tell_coc_what_extension_to_load_according/,2,10,1604969538.0,0
+control characters in man,jr17lg,ixlxixl,https://www.reddit.com/r/vim/comments/jr17lg/control_characters_in_man/,6,6,1604969483.0,0
+is it possible to pop out the vim floating windows?,jr0nub,justrajdeep,https://www.reddit.com/r/vim/comments/jr0nub/is_it_possible_to_pop_out_the_vim_floating_windows/,2,3,1604967816.0,0
+Ignore compilation errors while generating ctags file,jqwa2y,rushdabs,https://www.reddit.com/r/vim/comments/jqwa2y/ignore_compilation_errors_while_generating_ctags/,5,5,1604951605.0,0
+Published vscode-langservers-extracted package on npm.,jqvhra,hrsh7th,https://www.reddit.com/r/vim/comments/jqvhra/published_vscodelangserversextracted_package_on/,3,1,1604947644.0,0
+How do I use real tabs instead of spaces when writing python?,jqovtt,R530er,https://www.reddit.com/r/vim/comments/jqovtt/how_do_i_use_real_tabs_instead_of_spaces_when/,0,8,1604916896.0,0
+How does a lower `updatetime` lead to better performances ?,jqogan,Atralb,https://www.reddit.com/r/vim/comments/jqogan/how_does_a_lower_updatetime_lead_to_better/,4,5,1604915295.0,0
+miniSnip [ ~ let me know how it's doing after refactoring ~ ],jqobul,Jorengarenar,https://github.com/Jorengarenar/miniSnip,5,0,1604914845.0,0
+How to apply a function on each item in the list?,jqo07k,jamJam20,https://www.reddit.com/r/vim/comments/jqo07k/how_to_apply_a_function_on_each_item_in_the_list/,1,12,1604913626.0,0
+Arithmetic operation upon strings and numbers,jql5ng,justinjoseph7,https://www.reddit.com/r/vim/comments/jql5ng/arithmetic_operation_upon_strings_and_numbers/,4,10,1604903549.0,0
+What is your visual appealing latex set up?,jqkp27,schadonis,https://www.reddit.com/r/vim/comments/jqkp27/what_is_your_visual_appealing_latex_set_up/,8,7,1604901979.0,0
+How to lint in-line in realtime with coc?,jqjwia,GeroSchorsch,https://www.reddit.com/r/vim/comments/jqjwia/how_to_lint_inline_in_realtime_with_coc/,5,18,1604899433.0,0
+Debugging in Vim/NeoVim,jqjdul,AmitGold,https://www.reddit.com/r/vim/comments/jqjdul/debugging_in_vimneovim/,0,3,1604897742.0,0
+Meaning of the word vim,jqipse,KarlKani44,https://www.reddit.com/r/vim/comments/jqipse/meaning_of_the_word_vim/,12,8,1604895557.0,0
+Do you write vimscript a lot? few questions here,jqipa4,jamJam20,https://www.reddit.com/r/vim/comments/jqipa4/do_you_write_vimscript_a_lot_few_questions_here/,3,19,1604895509.0,0
+Need help finding a way to accomplish this,jqhwww,Gus_Gustavsohn,https://www.reddit.com/r/vim/comments/jqhwww/need_help_finding_a_way_to_accomplish_this/,2,6,1604892967.0,0
+how do you set up packadd to automatically install not install plugins,jqhwv3,banana_llarma,https://www.reddit.com/r/vim/comments/jqhwv3/how_do_you_set_up_packadd_to_automatically/,0,1,1604892961.0,0
+Match regex in vim,jqfxc9,manu0600,https://www.reddit.com/r/vim/comments/jqfxc9/match_regex_in_vim/,2,9,1604886377.0,0
+"This week’s open source newsletter just went out! This one had some seriously interesting projects, like Mario in Vim, and a project that allows you to search through JSON without knowing it’s structure beforehand (unlike jq).",jqetyz,binaryfor,https://console.substack.com/p/console-26?r=3cbez&utm_campaign=post&utm_medium=web&utm_source=copy&vim_subreddit,3,2,1604882818.0,0
+Vim : Fights the toughest Grease.,jqetdr,Admiral_Smoker,https://i.redd.it/k5mwyy6ap1y51.jpg,296,22,1604882768.0,0
+Regular expression in Vim. $ hello $ to \( hello \),jqb3hu,finou314159,https://www.reddit.com/r/vim/comments/jqb3hu/regular_expression_in_vim_hello_to_hello/,12,21,1604868071.0,0
+Mutt | Email Client that sucks less | How to use email from a Terminal |...,jqa4sr,AbdullahToday,https://www.youtube.com/watch?v=vdTFRaM7YjQ&feature=share,0,5,1604863055.0,0
+"I have created a snippet with python interpolation, but it not working can any check it.",jq1miy,rj0_1_,https://www.reddit.com/r/vim/comments/jq1miy/i_have_created_a_snippet_with_python/,0,3,1604823214.0,0
+gq in vim resulting in shell error,jpz6wa,knpwrs,https://www.reddit.com/r/vim/comments/jpz6wa/gq_in_vim_resulting_in_shell_error/,25,5,1604814835.0,0
+Map RightMouse map along with popup_setpos mode?,jpy4mh,rob508,https://www.reddit.com/r/vim/comments/jpy4mh/map_rightmouse_map_along_with_popup_setpos_mode/,2,2,1604811285.0,0
+Using Alt+h/j/k/l with GVim on Windows?,jpx7j0,LorenWard,https://www.reddit.com/r/vim/comments/jpx7j0/using_althjkl_with_gvim_on_windows/,2,9,1604808227.0,0
+Vim or Neovim for a beginner?,jpshhi,Striking_Ad_7465,https://www.reddit.com/r/vim/comments/jpshhi/vim_or_neovim_for_a_beginner/,4,26,1604790973.0,0
+Change cursor init.vim on WSL2,jpp3nw,CP999-,https://www.reddit.com/r/vim/comments/jpp3nw/change_cursor_initvim_on_wsl2/,2,5,1604776160.0,0
+"Do you guys bind j/k to gj/gk? Use textwidth, gq?",jplc5x,immortal192,https://www.reddit.com/r/vim/comments/jplc5x/do_you_guys_bind_jk_to_gjgk_use_textwidth_gq/,67,32,1604755892.0,0
+Vim- links to other files (and sections inside),jpjxdd,aoe2map,https://www.reddit.com/r/vim/comments/jpjxdd/vim_links_to_other_files_and_sections_inside/,9,20,1604749668.0,0
+Is it possible to get vim-plug to update asynchronously?,jpgqu5,Maskdask,https://www.reddit.com/r/vim/comments/jpgqu5/is_it_possible_to_get_vimplug_to_update/,0,11,1604736909.0,0
+plugin to generate tree of callers of a function,jpf4kh,GAAfanatic,https://www.reddit.com/r/vim/comments/jpf4kh/plugin_to_generate_tree_of_callers_of_a_function/,6,12,1604731149.0,0
+Powerline for Nyxt,jpekn1,jmercouris,https://nyxt.atlas.engineer/article/nyxt-powerline.org,2,4,1604729237.0,0
+Is there a way to turn off key repeat on only vim,jpe3b1,banana_llarma,https://www.reddit.com/r/vim/comments/jpe3b1/is_there_a_way_to_turn_off_key_repeat_on_only_vim/,3,8,1604727647.0,0
+How-to floating vim-plug window?,jp6ul3,torresjrjr,https://www.reddit.com/r/vim/comments/jp6ul3/howto_floating_vimplug_window/,8,2,1604704601.0,0
+What features are you looking for if you are going to use vim like an IDE? It would be helpful if you could list them.,jp58j3,arch_is_1337,https://www.reddit.com/r/vim/comments/jp58j3/what_features_are_you_looking_for_if_you_are/,6,12,1604698840.0,0
+TIL vim can restore previous quickfix lists,jp4fbe,king_arley2,https://www.reddit.com/r/vim/comments/jp4fbe/til_vim_can_restore_previous_quickfix_lists/,26,10,1604695385.0,0
+developed a script to run/build a program in vim,jp4b44,shaeinst,https://www.reddit.com/r/vim/comments/jp4b44/developed_a_script_to_runbuild_a_program_in_vim/,2,9,1604694856.0,0
+How to set the airline configuration in the picture? let g:airline_left(or right)_sep = ' ',jp3o6j,Solitude_Go,https://www.reddit.com/gallery/jp3o6j,0,1,1604691761.0,0
+Spanish accents not showing on vim,jp32lg,FreierVogel,https://www.reddit.com/r/vim/comments/jp32lg/spanish_accents_not_showing_on_vim/,6,10,1604688656.0,0
+Using the power of :g[lobal] and :v[global] with :s[ubstitute] to filter lines they affect,jp2x6t,TC0072,https://www.reddit.com/r/vim/comments/jp2x6t/using_the_power_of_global_and_vglobal_with/,158,35,1604687835.0,1
+Which generic editor/IDE offers good vim mode support?,joz5oh,alkaline-adrian,https://www.reddit.com/r/vim/comments/joz5oh/which_generic_editoride_offers_good_vim_mode/,21,58,1604668804.0,0
+which is beter tmux or vim for window and tab function?,jonacb,arch_is_1337,https://www.reddit.com/r/vim/comments/jonacb/which_is_beter_tmux_or_vim_for_window_and_tab/,2,9,1604627214.0,0
+Detecting if a file is already open spontaneously broken,jon1xw,-rensenware-,https://www.reddit.com/r/vim/comments/jon1xw/detecting_if_a_file_is_already_open_spontaneously/,0,4,1604626496.0,0
+Oceanic Next colorscheme,joj7dh,hershin,https://www.reddit.com/r/vim/comments/joj7dh/oceanic_next_colorscheme/,63,11,1604613570.0,0
+Detect filetype inside a block?,joj5fn,koomenk,https://www.reddit.com/r/vim/comments/joj5fn/detect_filetype_inside_a_block/,5,3,1604613364.0,0
+vim startup pause,joj4su,stegzzz,https://www.reddit.com/r/vim/comments/joj4su/vim_startup_pause/,1,12,1604613294.0,0
+A wish for a binary seek mode,joiout,ykonstant,https://www.reddit.com/r/vim/comments/joiout/a_wish_for_a_binary_seek_mode/,1,7,1604611482.0,0
+"Sorry for the newbie question, but I'm having a tabulation level does not match in lines 52-66, and I can't solve it at line 51 I did: ':s/ /^I/g', I don't know if it is the best solution and also how I apply this to all the lines in visual mode (it is not working for me for some reason).",joi5o7,SeuChiko,https://www.reddit.com/r/vim/comments/joi5o7/sorry_for_the_newbie_question_but_im_having_a/,2,1,1604609161.0,0
+fuck vim,joi0fy,juliovmh,https://www.reddit.com/r/vim/comments/joi0fy/fuck_vim/,0,10,1604608507.0,0
+Tridactyl: a Vim-like interface for Firefox,johj4x,harmonious_herman,https://github.com/tridactyl/tridactyl,144,23,1604606199.0,0
+Add a context menu to your vim,joeamj,skywind3000,https://www.reddit.com/r/vim/comments/joeamj/add_a_context_menu_to_your_vim/,124,23,1604588325.0,0
+Anyone here using the colorscheme pop-punk? Can't seem to figure out why comments wrap around and are highlighted like this.,joc8w8,yudhiesh,https://i.redd.it/tfko27rjlcx51.png,3,7,1604578916.0,0
+Windows Terminal Vim: Can't see what I am selecting with visual mode.,jobmkz,theshtank,https://www.reddit.com/r/vim/comments/jobmkz/windows_terminal_vim_cant_see_what_i_am_selecting/,1,2,1604576499.0,0
+Minimalist Mac Vim users: this is the only keyboard customization you need,jo9pac,yourgrassisass,https://www.reddit.com/r/vim/comments/jo9pac/minimalist_mac_vim_users_this_is_the_only/,4,17,1604569222.0,1
+Override plugin shortcut,jo7gbs,chillysurfer,https://www.reddit.com/r/vim/comments/jo7gbs/override_plugin_shortcut/,4,5,1604561072.0,0
+Let's get political,jo6ap7,blay263,https://www.reddit.com/r/vim/comments/jo6ap7/lets_get_political/,0,1,1604557161.0,0
+I moved from VisualStudio to vim. I feel ready to start a blog.,jo1tef,,https://www.reddit.com/r/vim/comments/jo1tef/i_moved_from_visualstudio_to_vim_i_feel_ready_to/,26,29,1604542695.0,0
+Search replace help,jo0fk6,vodkastick,https://www.reddit.com/r/vim/comments/jo0fk6/search_replace_help/,1,5,1604538369.0,0
+Is it possible to highlight SQL(SQLite) in Python files?,jo0ev5,LordKreias,https://i.redd.it/kggqodw099x51.png,121,22,1604538307.0,0
+Toggle comments as opposed to disparate comment/uncomment lines?,jo0a5y,jwink3101,https://www.reddit.com/r/vim/comments/jo0a5y/toggle_comments_as_opposed_to_disparate/,2,4,1604537917.0,0
+Run program lookup (Shift-k) in silent mode,jnzzxt,reminescenz,https://www.reddit.com/r/vim/comments/jnzzxt/run_program_lookup_shiftk_in_silent_mode/,2,4,1604536991.0,0
+How vim is different from other IDEs / Editors when saving files ?,jnz9tz,Neovea,https://www.reddit.com/r/vim/comments/jnz9tz/how_vim_is_different_from_other_ides_editors_when/,2,4,1604534620.0,0
+How can I change the default pager for vim?,jnxjom,kiwisniper69,https://www.reddit.com/r/vim/comments/jnxjom/how_can_i_change_the_default_pager_for_vim/,22,10,1604528653.0,0
+How to split Vim horizontally and vertically in one command.,jnxcb0,b1ack_b0ne,https://www.reddit.com/r/vim/comments/jnxcb0/how_to_split_vim_horizontally_and_vertically_in/,6,14,1604527870.0,0
+Jupyter notebook workflow in vim,jnw0lo,kn0xchad,https://www.reddit.com/r/vim/comments/jnw0lo/jupyter_notebook_workflow_in_vim/,23,13,1604522531.0,0
+BufWritePost commands with sudo,jnvssl,kn0xchad,https://www.reddit.com/r/vim/comments/jnvssl/bufwritepost_commands_with_sudo/,1,2,1604521528.0,0
+"getcompletion("""", ""tag"") only returns 300 tags at most?",jnntvr,wang-bei,https://www.reddit.com/r/vim/comments/jnntvr/getcompletion_tag_only_returns_300_tags_at_most/,2,4,1604483498.0,0
+"Dear Vim users, what is your best setup for working in Python?",jnkvfu,AnanasBanaantje,https://www.reddit.com/r/vim/comments/jnkvfu/dear_vim_users_what_is_your_best_setup_for/,85,77,1604472769.0,0
+[OC] The Most Popular Integrated Development Environments (IDEs - 2006/2020),jne719,accappatoiviola,https://youtu.be/y_r9zroFx-I,1,19,1604452095.0,0
+I made a plugin that can get GitHub's pull request URL.,jnbj6d,gorilla0513,https://www.reddit.com/r/vim/comments/jnbj6d/i_made_a_plugin_that_can_get_githubs_pull_request/,7,2,1604443746.0,0
+Some custom text objects you might find useful too,jn89tt,habamax,https://gist.github.com/habamax/4662821a1dad716f5c18205489203a67,103,5,1604429611.0,0
+Instantly refactor Python in Vim,jn7wez,brendan_m6s,https://sourcery.ai/blog/sourcery-vim/,48,17,1604427473.0,0
+New Fediverse community for Vim!,jn7lfs,torresjrjr,https://www.reddit.com/r/vim/comments/jn7lfs/new_fediverse_community_for_vim/,9,2,1604425727.0,0
+Search through files plugin,jn613h,TheCakeWasNoLie,https://www.reddit.com/r/vim/comments/jn613h/search_through_files_plugin/,3,9,1604416868.0,0
+jupyter-integration in VIM,jn5u2s,lonewolf_9,https://www.reddit.com/r/vim/comments/jn5u2s/jupyterintegration_in_vim/,8,15,1604415827.0,0
+Is it possible to remove pep 8 errors from ALE?,jn4cxn,LordKreias,https://i.redd.it/a33kamvnjyw51.png,2,8,1604408710.0,0
+"The file explorer Vim needs, not the one Vim deserves",jmxkft,atweiden,https://github.com/wvanlint/twf?,10,6,1604384098.0,0
+Question about syntax highlighting,jmvksg,Limp-Still-5093,https://www.reddit.com/r/vim/comments/jmvksg/question_about_syntax_highlighting/,2,4,1604378169.0,0
+VSCode tips for Vim people,jmuey2,paulshen,https://bypaulshen.com/posts/vscode-vim-tips/,1,5,1604374387.0,0
+"Happy Birthday, Vim!",jmu2yj,habamax,https://www.reddit.com/r/vim/comments/jmu2yj/happy_birthday_vim/,281,12,1604373311.0,1
+"SpaceVim good, or nope",jmhob9,matt_gilbert,https://www.reddit.com/r/vim/comments/jmhob9/spacevim_good_or_nope/,27,42,1604322986.0,0
+Vim and java?,jmby9b,Sjod1407,https://www.reddit.com/r/vim/comments/jmby9b/vim_and_java/,5,31,1604300094.0,0
+New to Vim - What is the correct way to navigate?,jm6u1h,Leestons,https://www.reddit.com/r/vim/comments/jm6u1h/new_to_vim_what_is_the_correct_way_to_navigate/,3,41,1604282829.0,0
+¿Vim plugin to predict?,jm4x58,zeragal,https://www.reddit.com/r/vim/comments/jm4x58/vim_plugin_to_predict/,33,22,1604276349.0,0
+What are those files with ~ extension in the end and how to avoid it getting detected by git?,jm45cv,Curious_homosepian,https://www.reddit.com/r/vim/comments/jm45cv/what_are_those_files_with_extension_in_the_end/,0,12,1604273641.0,0
+Swap the window split direction logic,jm3j9b,plusSignC,https://www.reddit.com/r/vim/comments/jm3j9b/swap_the_window_split_direction_logic/,6,11,1604271398.0,0
+How to highlight certain things in python,jm2gho,dumb-on-ice,https://www.reddit.com/r/vim/comments/jm2gho/how_to_highlight_certain_things_in_python/,3,5,1604267146.0,0
+React and TypeScript syntax highlighting 'redrawtime' exceeded,jm218c,ninja_the_rabbit,https://www.reddit.com/r/vim/comments/jm218c/react_and_typescript_syntax_highlighting/,32,7,1604265324.0,0
+A noobish question on Tab key behavior,jlxk4v,alexeusgr,https://www.reddit.com/r/vim/comments/jlxk4v/a_noobish_question_on_tab_key_behavior/,1,5,1604238793.0,0
+How to get rid of ^@ from an appended text,jlu7wy,jamJam20,https://www.reddit.com/r/vim/comments/jlu7wy/how_to_get_rid_of_from_an_appended_text/,10,11,1604223119.0,0
+first time vim user trying to install plugins. I'm getting errors. Does it look right?,jltc04,Relatively_Curious,https://i.redd.it/ax6xq6jvwiw51.png,1,21,1604219446.0,0
+Online Vim meetup,jlk9hd,mileslimes,https://www.reddit.com/r/vim/comments/jlk9hd/online_vim_meetup/,150,21,1604186858.0,0
+Search strings in SC-IM,jljnmz,dotancohen,https://www.reddit.com/r/vim/comments/jljnmz/search_strings_in_scim/,6,3,1604184695.0,0
+Background opacity on Vim/SpaceVim,jliyp7,fizzzzi,https://www.reddit.com/r/vim/comments/jliyp7/background_opacity_on_vimspacevim/,0,5,1604182087.0,0
+Question about LSP/tsserver Code Actions,jlfucm,daliusd_,https://www.reddit.com/r/vim/comments/jlfucm/question_about_lsptsserver_code_actions/,2,6,1604167422.0,0
+Output relative file path in Vim,jlfpq4,kwokhou,https://www.reddit.com/r/vim/comments/jlfpq4/output_relative_file_path_in_vim/,10,3,1604166747.0,0
+Syntax highlight color,jlegak,jpranata,https://www.reddit.com/r/vim/comments/jlegak/syntax_highlight_color/,0,4,1604159115.0,0
+Using Vim's built-in terminal,jlbg03,Wheelthis,https://gist.github.com/mahemoff/8967b5de067cffc67cec174cb3a9f49d,73,45,1604143616.0,0
+Vimways Calendar 2020?,jl809t,MachineGunPablo,https://www.reddit.com/r/vim/comments/jl809t/vimways_calendar_2020/,18,13,1604130306.0,0
+Help! Why does my vim have randomly scattered tilde's? Windows 10 Vim,jl7ygu,FilthyFucknDirtyCock,https://i.redd.it/xh6xpq27jbw51.png,16,19,1604130131.0,0
+Adding an additional comment syntax that applies to all file types,jl7u0x,naderad,https://www.reddit.com/r/vim/comments/jl7u0x/adding_an_additional_comment_syntax_that_applies/,2,5,1604129663.0,0
+Using Vim for Android development,jl6fze,Sho0pi,https://www.reddit.com/r/vim/comments/jl6fze/using_vim_for_android_development/,1,7,1604124809.0,0
+Cyberpunk colorscheme,jl66rw,gawkkk,https://www.reddit.com/r/vim/comments/jl66rw/cyberpunk_colorscheme/,14,8,1604123956.0,0
+Why are the directions set as hjkl instead of jkl;? (I'm not a vim user),jl46a5,someguy3,https://www.reddit.com/r/vim/comments/jl46a5/why_are_the_directions_set_as_hjkl_instead_of_jkl/,1,19,1604117249.0,0
+Was outside and had to edit some code to be sent back quick. DroidVim to the rescue,jl0se2,LearnTillDeath,https://www.reddit.com/r/vim/comments/jl0se2/was_outside_and_had_to_edit_some_code_to_be_sent/,10,11,1604106531.0,0
+"Please, help me to remove this light gray in the left! (morhetz/gruvbox)",jkyjxx,floZiix,https://i.redd.it/sofq5p5709w51.jpg,85,17,1604099489.0,0
+Is easymotion the fastest way to navigate to an arbitrary point? Reasons not to use it?,jkxuv8,rofic,https://www.reddit.com/r/vim/comments/jkxuv8/is_easymotion_the_fastest_way_to_navigate_to_an/,30,36,1604097199.0,0
+Vim on Windows is not sourcing plugin's ftplugin/,jkwr4z,koomenk,https://www.reddit.com/r/vim/comments/jkwr4z/vim_on_windows_is_not_sourcing_plugins_ftplugin/,2,4,1604093341.0,0
+Is there any plugin that provides fish-like autosuggestions in neovim?,jkuubc,AppropriateCrew79,https://www.reddit.com/r/vim/comments/jkuubc/is_there_any_plugin_that_provides_fishlike/,3,5,1604085207.0,0
+[YouCompleteMe] How can I show the methods and functions of an external directory?,jksvb4,Astro_Z0mbie,https://www.reddit.com/r/vim/comments/jksvb4/youcompleteme_how_can_i_show_the_methods_and/,1,3,1604074715.0,0
+"My Prettier plugin is setting huge horizontal spaces when i call him, there's a way to fix it to looks like prettier of VSCODE?",jko7hq,mad_visionary,https://i.redd.it/j362dtvh45w51.png,77,22,1604052720.0,0
+Is using Alt as prefix key a bad idea for tmux?,jknr9k,rofic,https://www.reddit.com/r/vim/comments/jknr9k/is_using_alt_as_prefix_key_a_bad_idea_for_tmux/,2,3,1604051087.0,0
+Would you recommend Vim extension from VS Code to learn Vim?,jkjva5,ShadowInSoul,https://www.reddit.com/r/vim/comments/jkjva5/would_you_recommend_vim_extension_from_vs_code_to/,4,12,1604037786.0,0
+Neovim split window layout breaking,jkhavi,0megaRogue,https://www.reddit.com/r/vim/comments/jkhavi/neovim_split_window_layout_breaking/,0,2,1604029947.0,0
+Python f-strings syntax highlighting in Vim,jkh6iq,phelipetls,https://phelipetls.github.io/posts/f-strings-syntax-highlighting-in-vim/,31,4,1604029569.0,0
+Is it possible to insert autocmd to augroup?,jkh4zk,jamJam20,https://www.reddit.com/r/vim/comments/jkh4zk/is_it_possible_to_insert_autocmd_to_augroup/,3,1,1604029440.0,0
+Eliminating delays on ESC in vim and zsh,jkcfkh,skeeto,https://www.johnhawthorn.com/2012/09/vi-escape-delays/,13,1,1604015078.0,0
+Mario on Vim,jkbop3,a_bored_husky,https://github.com/rbtnn/vim-mario,114,9,1604012698.0,0
+Show actions you're typing in normal mode in the corner like VSCode Vim emulator?,jkbgz1,leaderwho,https://www.reddit.com/r/vim/comments/jkbgz1/show_actions_youre_typing_in_normal_mode_in_the/,5,5,1604012000.0,0
+"Is there a way to make cib work on the nearest pair of brackets, without me being inside / on one?",jkb404,mrillusi0n,https://www.reddit.com/r/vim/comments/jkb404/is_there_a_way_to_make_cib_work_on_the_nearest/,1,5,1604010783.0,0
+VertSplit highlight,jk9q9x,simbapk,https://www.reddit.com/r/vim/comments/jk9q9x/vertsplit_highlight/,5,5,1604005809.0,0
+UltiSnips python code formatting ?,jk843u,SuperGrip,https://www.reddit.com/r/vim/comments/jk843u/ultisnips_python_code_formatting/,2,0,1603998892.0,0
+CtrlP.vim doesn't see my .env file,jk6y4z,kerolloz,https://www.reddit.com/r/vim/comments/jk6y4z/ctrlpvim_doesnt_see_my_env_file/,1,0,1603992730.0,0
+Jump to the closest to the cursor location list entry,jk6x9i,artemave,https://www.reddit.com/r/vim/comments/jk6x9i/jump_to_the_closest_to_the_cursor_location_list/,1,5,1603992598.0,0
+How do i install vimball?,jk5xwi,bocadillo_sin_pan,https://www.reddit.com/r/vim/comments/jk5xwi/how_do_i_install_vimball/,2,2,1603986893.0,0
+How can I change the position of the status line in vim?,jk5s79,RunningUtes,https://i.redd.it/n4g0di6kmzv51.jpg,10,11,1603985941.0,0
+Better errorformat testing?,jk4b0f,MrMosBiggestFan,https://www.reddit.com/r/vim/comments/jk4b0f/better_errorformat_testing/,3,8,1603977783.0,0
+"Wait for it !!! This is what we can do with vim surround and macro repeating. Command I used start rec `qa` add quotes and comma `yss""$a, Esc j` repeat macro n times 20@a",jk3nw1,ShivamJoker,https://v.redd.it/zqb01i8aoyv51,201,74,1603974728.0,0
+Gary Bernhardt’s new YouTube channel,jk2k14,coralton,https://www.reddit.com/r/vim/comments/jk2k14/gary_bernhardts_new_youtube_channel/,13,11,1603969918.0,0
+Vim is the gateway drug to Linux,jjv42n,punctualjohn,https://www.reddit.com/r/vim/comments/jjv42n/vim_is_the_gateway_drug_to_linux/,131,69,1603943908.0,0
+"vim-run: Run, view, and manage UNIX shell commands with ease (async of course)",jjns01,ledesmablt,https://i.redd.it/xs3890xc8uv51.gif,193,29,1603920701.0,0
+cancel ex command,jj2s18,katyalovesherbike,https://www.reddit.com/r/vim/comments/jj2s18/cancel_ex_command/,3,5,1603839821.0,0
+Using vim inside vim inside vim inside vim inside vim,jj1gep,cognus_rox,https://i.redd.it/f64jylct6nv51.png,6,5,1603835388.0,0
+How to remove extra line below command line with Vim 8.2?,jizl0w,invalidsearch,https://i.redd.it/xacnheoqkmv51.png,1,9,1603827963.0,0
+And here i thought my phone was useless,jizf5a,faizan_20,https://i.redd.it/drom1h7jimv51.jpg,326,67,1603827199.0,3
+Very easy fuzzy finder with matchfuzzy,jiyfze,_suspicious_alpaca,https://www.reddit.com/r/vim/comments/jiyfze/very_easy_fuzzy_finder_with_matchfuzzy/,19,7,1603822351.0,1
+Vim missing syntax highlight during C-like 'for' loops in Bash,jixeob,r24xtech,https://www.reddit.com/r/vim/comments/jixeob/vim_missing_syntax_highlight_during_clike_for/,5,9,1603816569.0,0
+Auto suggestions for Java. Specifically maven dependencies.,jivpf6,fucky0urU5ername,https://www.reddit.com/r/vim/comments/jivpf6/auto_suggestions_for_java_specifically_maven/,5,8,1603806994.0,0
+`:inoremap kj` faster timeout?,jiqyi8,chipdish,https://www.reddit.com/r/vim/comments/jiqyi8/inoremap_kj_faster_timeout/,2,4,1603787321.0,0
+Suggestions for general purpose list-filter libraries that use actual buffers (like coc-list),jimqse,7sidedmarble,https://www.reddit.com/r/vim/comments/jimqse/suggestions_for_general_purpose_listfilter/,4,8,1603773572.0,0
+Vim's Small Idea,jiloas,intercaetera,https://intercaetera.com/2020-10-26-vims-small-idea/,68,5,1603770361.0,0
+How do i update fron version 8 to version 8.1+,jiion2,MirrorOfDisgrace,https://www.reddit.com/r/vim/comments/jiion2/how_do_i_update_fron_version_8_to_version_81/,3,23,1603761471.0,0
+"ArkVim, a Vim extension for ark script",jiicdx,Wafelack,https://github.com/Wafelack/Ark.vim,3,2,1603760456.0,0
+Which Vim related characters have you found lingering in your files?,jifnox,nickjj_,https://www.reddit.com/r/vim/comments/jifnox/which_vim_related_characters_have_you_found/,2,1,1603751758.0,0
+Not Consecutively scrolling down when pressing j malfunctioning,jielu8,FakuVe,https://www.reddit.com/r/vim/comments/jielu8/not_consecutively_scrolling_down_when_pressing_j/,3,9,1603748023.0,0
+YouTube Music Web Player - coded by a Vim enthusiast?,jidd3k,drinkwell,https://www.reddit.com/r/vim/comments/jidd3k/youtube_music_web_player_coded_by_a_vim_enthusiast/,25,15,1603742974.0,0
+shift+o is too slow,jicnfd,c_is_the_real_lang,https://www.reddit.com/r/vim/comments/jicnfd/shifto_is_too_slow/,80,15,1603739595.0,0
+Search/replace with special character,ji9wqr,mcstafford,https://www.reddit.com/r/vim/comments/ji9wqr/searchreplace_with_special_character/,5,7,1603724027.0,0
+Key maping??,ji9n5j,alok_wardhan_singh,https://www.reddit.com/r/vim/comments/ji9n5j/key_maping/,1,5,1603722571.0,0
+"I have python3 and already did ""pip3 install pynvim"", yet ""echo has('python3')"" returns 0. What could I be doing wrong?",ji72qv,BeardedBearserker,https://www.reddit.com/r/vim/comments/ji72qv/i_have_python3_and_already_did_pip3_install/,2,11,1603710351.0,0
+New (to me) mapping: Swapping <Up> for <C-N> and <Down> for <C-P> in command mode,ji6na6,rampion,https://www.reddit.com/r/vim/comments/ji6na6/new_to_me_mapping_swapping_up_for_cn_and_down_for/,20,9,1603708643.0,0
+Is there a way copy any ex command output to a register?,ji5y5x,zdm-red,https://www.reddit.com/r/vim/comments/ji5y5x/is_there_a_way_copy_any_ex_command_output_to_a/,11,14,1603705904.0,0
+"Scroll, instead of move cursor, if at end of file (normal mode)",jhzaab,Gigi14,https://www.reddit.com/r/vim/comments/jhzaab/scroll_instead_of_move_cursor_if_at_end_of_file/,3,6,1603682515.0,0
+"Are you waiting for ages for Vim to open a large log file? There's a trick for avoiding that, that I've recently discovered.",jhx0h1,shime_rb,https://shime.sh/til/opening-lines-from-the-log-file-with-vim,0,9,1603674872.0,0
+Extending insert completions for real,jhwtnj,pereloz,https://www.reddit.com/r/vim/comments/jhwtnj/extending_insert_completions_for_real/,18,1,1603674222.0,0
+C++ In Vim,jhwl2h,NotBleachLol,https://www.reddit.com/r/vim/comments/jhwl2h/c_in_vim/,2,67,1603673393.0,0
+Where is this colour defined?,jhtfhb,Ok_Specialist_458,https://www.reddit.com/r/vim/comments/jhtfhb/where_is_this_colour_defined/,2,7,1603661699.0,0
+quick tip.,jht7es,sundaran1122,https://www.reddit.com/r/vim/comments/jht7es/quick_tip/,111,22,1603660694.0,0
+Carbon Now Sh,jhrbye,KU-KO,https://www.reddit.com/r/vim/comments/jhrbye/carbon_now_sh/,0,7,1603650891.0,0
+Signature help via ALE,jhqzsv,LurkaZZZ,https://www.reddit.com/r/vim/comments/jhqzsv/signature_help_via_ale/,7,10,1603648930.0,0
+Straightforward LSP setup with autocompletion,jhqyh9,mileslimes,https://blog.sidebits.tech/vim-straightforward-lsp-setup-with-autocompletion/,40,13,1603648733.0,0
+How to open the rest of the current file that still invisible in a second window?,jhnagq,,https://www.reddit.com/r/vim/comments/jhnagq/how_to_open_the_rest_of_the_current_file_that/,5,9,1603628437.0,0
+Can how can I save and close existing vim instance/s from the command line?,jhm6af,usera8787782,https://www.reddit.com/r/vim/comments/jhm6af/can_how_can_i_save_and_close_existing_vim/,1,4,1603623409.0,0
+"Intermediate user sharing his text editing strategies. Share your favorites too, so we all can learn something!",jhixwn,Zeioth,https://www.reddit.com/r/vim/comments/jhixwn/intermediate_user_sharing_his_text_editing/,0,7,1603610265.0,0
+Best Vim Colorscheme for Haskell/Elm,jhgcll,Adador,https://www.reddit.com/r/vim/comments/jhgcll/best_vim_colorscheme_for_haskellelm/,2,4,1603601046.0,0
+How to put the FZF floating window in the bottom of the screen?,jhd9q0,vagara,https://www.reddit.com/r/vim/comments/jhd9q0/how_to_put_the_fzf_floating_window_in_the_bottom/,1,2,1603590615.0,0
+Toast! A medium-contrast auto-light/-dark theme,jhcin3,topdownjimmy,https://github.com/jsit/toast.vim/,183,20,1603588046.0,0
+VIM TRICK,jhb4sf,zine2000,https://www.reddit.com/r/vim/comments/jhb4sf/vim_trick/,3,6,1603583224.0,0
+Join vim-doge on Gitter,jhayey,koomenk,https://gitter.im/kkoomen/vim-doge,0,0,1603582589.0,0
+Best plugins for cpp development?,jh8wq6,BrowserMac,https://www.reddit.com/r/vim/comments/jh8wq6/best_plugins_for_cpp_development/,12,13,1603574884.0,0
+How to minimise YCM installation size,jh87xn,puremourning,https://www.reddit.com/r/vim/comments/jh87xn/how_to_minimise_ycm_installation_size/,44,16,1603571923.0,0
+Modifying a file changes the birthdate,jh7wee,janstermaster,https://www.reddit.com/r/vim/comments/jh7wee/modifying_a_file_changes_the_birthdate/,1,1,1603570385.0,0
+Entering select mode from insert mode with the mouse,jh7aa5,PuddyVanHird,https://www.reddit.com/r/vim/comments/jh7aa5/entering_select_mode_from_insert_mode_with_the/,0,3,1603567243.0,0
+vim as HTML editor,jh6nad,redwisdomlight,https://www.reddit.com/r/vim/comments/jh6nad/vim_as_html_editor/,25,43,1603563736.0,0
+vim for windows,jh6il5,Cute_Paramedic_256,https://www.reddit.com/r/vim/comments/jh6il5/vim_for_windows/,0,12,1603562974.0,0
+Any idea why this happens??,jh3y3u,LordKreias,https://www.reddit.com/gallery/jh3y3u,0,15,1603548366.0,0
+Vimscript variables in bash command,jh2dsw,Sock_Pasta_Rock,https://www.reddit.com/r/vim/comments/jh2dsw/vimscript_variables_in_bash_command/,16,8,1603540896.0,0
+vim autocomplete for python 2020,jh0vjt,cyburga,https://www.reddit.com/r/vim/comments/jh0vjt/vim_autocomplete_for_python_2020/,0,12,1603534485.0,0
+Nightly hack for vimmers,jgyqhl,pereloz,https://www.reddit.com/r/vim/comments/jgyqhl/nightly_hack_for_vimmers/,42,14,1603526011.0,0
+ZSH breaks VIM Colorscheme,jgy6o2,L1nk27,https://www.reddit.com/r/vim/comments/jgy6o2/zsh_breaks_vim_colorscheme/,0,4,1603523977.0,0
+"Pdf View, no plugins",jgx6hq,thejaypidog,https://www.reddit.com/r/vim/comments/jgx6hq/pdf_view_no_plugins/,6,11,1603520438.0,0
+iVIM sync,jgtohj,RunningUtes,https://www.reddit.com/r/vim/comments/jgtohj/ivim_sync/,1,7,1603509194.0,0
+Indented block motions?,jgsgfd,knpwrs,https://www.reddit.com/r/vim/comments/jgsgfd/indented_block_motions/,2,2,1603505415.0,0
+How to toggle (Vimplug) plugins on and off?,jgr191,C4rnAg3,https://www.reddit.com/r/vim/comments/jgr191/how_to_toggle_vimplug_plugins_on_and_off/,33,12,1603501112.0,0
+Open a file with folds,jgp3n4,helosayshello,https://www.reddit.com/r/vim/comments/jgp3n4/open_a_file_with_folds/,1,5,1603495150.0,0
+Vim is slow with text files on network drive.,jgocca,invalidsearch,https://www.reddit.com/r/vim/comments/jgocca/vim_is_slow_with_text_files_on_network_drive/,3,20,1603492764.0,0
+Fixedsys font 12pt size,jglg6x,otnamis,https://www.reddit.com/r/vim/comments/jglg6x/fixedsys_font_12pt_size/,7,2,1603481919.0,0
+Setting up c++ dev env in vim,jgjxhu,rudresh-dixit,https://www.reddit.com/r/vim/comments/jgjxhu/setting_up_c_dev_env_in_vim/,0,16,1603474438.0,0
+Is there an ubuntu yaru color scheme?,jghjwb,Vroomvroom955,https://www.reddit.com/r/vim/comments/jghjwb/is_there_an_ubuntu_yaru_color_scheme/,3,2,1603462447.0,0
+"Problems with python-mode in windows 10, any ideas?",jgg5kb,LordKreias,https://i.redd.it/51cf7hekvru51.png,0,6,1603456268.0,0
+Vim Powershell wrong colorschemes,jgcfzb,LordKreias,https://i.redd.it/nbqwh5d6qqu51.png,85,26,1603442349.0,0
+Best Java plugin for Vim?,jgc78d,dog_superiority,https://www.reddit.com/r/vim/comments/jgc78d/best_java_plugin_for_vim/,10,15,1603441445.0,0
+Looking for help making a plugin that highlights a rust macro.,jgbc0v,K4r4kara,https://www.reddit.com/r/vim/comments/jgbc0v/looking_for_help_making_a_plugin_that_highlights/,7,6,1603438429.0,0
+Vim conflicting with autohotkey on windows,jg9nw1,frostedKIVI,https://www.reddit.com/r/vim/comments/jg9nw1/vim_conflicting_with_autohotkey_on_windows/,6,4,1603432786.0,0
+Using Termdebug for Python's pdb examples,jg91dt,predatorian3,https://www.reddit.com/r/vim/comments/jg91dt/using_termdebug_for_pythons_pdb_examples/,7,7,1603430830.0,0
+Ctags and Vim issue,jg7f8j,mariopavlov,https://www.reddit.com/r/vim/comments/jg7f8j/ctags_and_vim_issue/,3,3,1603426010.0,0
+"noremap! jj <Esc> printing out ""<ESC>"" rather than going to normal mode.",jg5zhg,fartbaker13,https://www.reddit.com/r/vim/comments/jg5zhg/noremap_jj_esc_printing_out_esc_rather_than_going/,0,6,1603421846.0,0
+"Issues with termguicolors affecting cursorline, lightline, NERDTree, and general color vibrance",jg5xrk,_JJCUBER_,https://www.reddit.com/r/vim/comments/jg5xrk/issues_with_termguicolors_affecting_cursorline/,1,9,1603421711.0,0
+Does Vim support these kind of extension?,jfvkwp,chakrihacker,https://www.reddit.com/r/vim/comments/jfvkwp/does_vim_support_these_kind_of_extension/,0,2,1603382887.0,0
+"[neovim] how would i get this? (not the colourscheme, i use gruvbox if that makes a difference)",jfv3v5,CoreyYT,https://i.redd.it/qjeemtnrllu51.png,103,32,1603380332.0,0
+Is it just me or reddit actually has built-in vi keybindings for up/down movement in the comments section?,jfv3t8,sens-,https://www.reddit.com/r/vim/comments/jfv3t8/is_it_just_me_or_reddit_actually_has_builtin_vi/,3,4,1603380326.0,0
+Coc-prettier support for jst/ejs files?,jfubm0,scenerie,https://www.reddit.com/r/vim/comments/jfubm0/cocprettier_support_for_jstejs_files/,0,4,1603376353.0,0
+Problem with vim-devicons,jfu9ou,LordKreias,https://i.redd.it/6rgplid39lu51.png,2,9,1603376078.0,0
+Any tips for a prettier vim?,jfpkro,Urist321,https://www.reddit.com/r/vim/comments/jfpkro/any_tips_for_a_prettier_vim/,36,38,1603356582.0,0
+"set foldmethod = indent, how open and close?",jfp1jk,9acca9,https://www.reddit.com/r/vim/comments/jfp1jk/set_foldmethod_indent_how_open_and_close/,1,5,1603354561.0,0
+Plugin or option to change the line numbers colors depending on VIM modes?,jfkmy3,kgavionics,https://www.reddit.com/r/vim/comments/jfkmy3/plugin_or_option_to_change_the_line_numbers/,20,6,1603339902.0,0
+Does no one else's vim start out as a black and white pixely terminal? Tried finding help to change it but only find something called neovim and no way to make it look modern. Please Help,jfi1bg,difficultHarith,https://www.reddit.com/r/vim/comments/jfi1bg/does_no_one_elses_vim_start_out_as_a_black_and/,1,9,1603332061.0,0
+Trying to make a new status line plugin in Vim9 script - qline.vim!,jfcw95,Bakudankun,https://github.com/Bakudankun/qline.vim,17,3,1603316086.0,0
+Different syntax coloring in builtin vim and MacVim.,jfckb2,eftepede,https://www.reddit.com/r/vim/comments/jfckb2/different_syntax_coloring_in_builtin_vim_and/,37,15,1603314863.0,0
+Terminal buffer alternate name,jfbzu8,BelmTheOwl,https://www.reddit.com/r/vim/comments/jfbzu8/terminal_buffer_alternate_name/,1,5,1603312732.0,0
+Using vim without plugins is worth?,jfaguu,Itchy_Marketing_1473,https://www.reddit.com/r/vim/comments/jfaguu/using_vim_without_plugins_is_worth/,0,13,1603305709.0,0
+Text put into file when pressing enter in insertmode,jf9ewq,Jrp0h,https://www.reddit.com/r/vim/comments/jf9ewq/text_put_into_file_when_pressing_enter_in/,2,5,1603300002.0,0
+Unsure on what version to install for python3 support,jf6p74,_JJCUBER_,https://www.reddit.com/r/vim/comments/jf6p74/unsure_on_what_version_to_install_for_python3/,1,7,1603285774.0,0
+Announcement: new colorscheme generator,jf3hmo,felipec,https://www.reddit.com/r/vim/comments/jf3hmo/announcement_new_colorscheme_generator/,36,38,1603272866.0,0
+I need a plugin that shows the errors in the code in vim,jez7oi,AnonymousUserxd,https://www.reddit.com/r/vim/comments/jez7oi/i_need_a_plugin_that_shows_the_errors_in_the_code/,4,15,1603258515.0,0
+"After ""do"" vim I can complete with ""end"" automatically?",jexz62,fettx,https://www.reddit.com/r/vim/comments/jexz62/after_do_vim_i_can_complete_with_end_automatically/,5,2,1603254727.0,0
+Syntax highlighting for multiple languages at once?,jeviy5,Tagina_Vickler,https://www.reddit.com/r/vim/comments/jeviy5/syntax_highlighting_for_multiple_languages_at_once/,7,9,1603247430.0,0
+Is there a text object to delete everything outside brackets?,jetonl,SadClass8,https://www.reddit.com/r/vim/comments/jetonl/is_there_a_text_object_to_delete_everything/,3,11,1603242103.0,0
+:py3 and pyenv. Why is my python package not found?,jeszc3,dersand,https://www.reddit.com/r/vim/comments/jeszc3/py3_and_pyenv_why_is_my_python_package_not_found/,1,4,1603240073.0,0
+wtf is insert select mode?,jeryf8,aktivb,https://www.reddit.com/r/vim/comments/jeryf8/wtf_is_insert_select_mode/,146,17,1603237068.0,1
+Custom Ignore with VIM & CtrlP plugin,jer6yh,fonai,https://www.reddit.com/r/vim/comments/jer6yh/custom_ignore_with_vim_ctrlp_plugin/,3,2,1603234791.0,0
+Overriding certain colors of a colorscheme,jeqdba,kn0xchad,https://www.reddit.com/r/vim/comments/jeqdba/overriding_certain_colors_of_a_colorscheme/,0,3,1603232268.0,0
+Vim mappings,jentit,__unx,https://www.reddit.com/r/vim/comments/jentit/vim_mappings/,2,11,1603222966.0,0
+Vim or Emacs for c++?,jensl8,LiFeLeSs_6,https://www.reddit.com/r/vim/comments/jensl8/vim_or_emacs_for_c/,0,16,1603222862.0,0
+Vim omnicompletion slowness,jelhov,cheb06,https://www.reddit.com/r/vim/comments/jelhov/vim_omnicompletion_slowness/,22,16,1603211622.0,0
+Using Vim as a text editor and not more,je5mpz,vapsorate,https://www.reddit.com/r/vim/comments/je5mpz/using_vim_as_a_text_editor_and_not_more/,4,29,1603155811.0,0
+The Most Popular Programming Languages - 1965/2020,je55lb,accappatoiviola,https://youtu.be/UNSoPa-XQN0,0,1,1603154342.0,0
+Does anyone have a neat vi solution for not being able to see what class a method is a part of (if it's a long class)?,je24cg,CowboyBoats,https://www.reddit.com/r/vim/comments/je24cg/does_anyone_have_a_neat_vi_solution_for_not_being/,45,28,1603144746.0,0
+Considering switching to vim,jdzet1,xahodo,https://www.reddit.com/r/vim/comments/jdzet1/considering_switching_to_vim/,23,16,1603133293.0,0
+autocmd bufwritepost silent?,jdw8wj,prankousky,https://www.reddit.com/r/vim/comments/jdw8wj/autocmd_bufwritepost_silent/,0,20,1603116015.0,0
+Edit an old file from a previous vim session,jdvdqn,kirakun,https://www.reddit.com/r/vim/comments/jdvdqn/edit_an_old_file_from_a_previous_vim_session/,16,8,1603111737.0,0
+What do you think about my color scheme?,jdlhbj,CherrrySzczery,https://i.redd.it/fdzf8buqcwt51.png,252,60,1603074657.0,0
+Coc-python and terminal,jdkql6,Tomdraug,https://www.reddit.com/r/vim/comments/jdkql6/cocpython_and_terminal/,4,7,1603072232.0,0
+Bored of using one colorscheme all the time? Let's change to random colorscheme on vim startup!,jdj2ry,jdhao,https://www.reddit.com/r/vim/comments/jdj2ry/bored_of_using_one_colorscheme_all_the_time_lets/,0,20,1603066714.0,0
+Installation and simple NeoVim configuration special for those who are tired of Vim,jdiliv,verabull,https://github.com/verabull/neovim-config,0,8,1603065062.0,0
+"Markdown, LaTeX, and Vim and Note Taking",jdb3lt,godelski,https://www.reddit.com/r/vim/comments/jdb3lt/markdown_latex_and_vim_and_note_taking/,88,23,1603029827.0,1
+How to leave insert with alt + movement when an omnicompletion window is open?,jcs2w7,Iaquobe,https://www.reddit.com/r/vim/comments/jcs2w7/how_to_leave_insert_with_alt_movement_when_an/,2,4,1602955401.0,0
+Yaml schema for Openshift config? To use with coc.,jcoywj,trilobit3,https://www.reddit.com/r/vim/comments/jcoywj/yaml_schema_for_openshift_config_to_use_with_coc/,2,1,1602938268.0,0
+"vim-doge v3 - prebuild binaries, no more NPM + NodeJS dependencies",jcosbq,koomenk,https://www.reddit.com/r/vim/comments/jcosbq/vimdoge_v3_prebuild_binaries_no_more_npm_nodejs/,8,1,1602937391.0,0
+"""repeat command"" `.` increasing the number of register used?",jcolg8,n8henrie,https://www.reddit.com/r/vim/comments/jcolg8/repeat_command_increasing_the_number_of_register/,9,7,1602936455.0,0
+Vim9 script,jco5rp,blay263,https://www.reddit.com/r/vim/comments/jco5rp/vim9_script/,14,9,1602934490.0,0
+How many of you use vim with the mouse turned on?,jco4d4,kibblerz,https://www.reddit.com/r/vim/comments/jco4d4/how_many_of_you_use_vim_with_the_mouse_turned_on/,113,111,1602934320.0,0
+"Papis v0.11 released, a powerful command-line based document and bibliography manager",jclitt,elgalloitaliano,https://github.com/papis/papis/releases/tag/v0.11,4,1,1602923219.0,0
+"Thoughts on Vim v. NeoVim v. SpaceVim, is it worth trying the others?",jckj4f,predatorian3,https://www.reddit.com/r/vim/comments/jckj4f/thoughts_on_vim_v_neovim_v_spacevim_is_it_worth/,26,62,1602919354.0,0
+What makes <BS> get printed?,jchb94,mrillusi0n,https://www.reddit.com/r/vim/comments/jchb94/what_makes_bs_get_printed/,17,6,1602907901.0,0
+Vim's background turns opaque in new Windows Terminal,jcecyb,Necessary-Ad5577,https://www.reddit.com/r/vim/comments/jcecyb/vims_background_turns_opaque_in_new_windows/,1,2,1602898679.0,0
+Vim slow on tmux,jcbhmh,kn0xchad,https://www.reddit.com/r/vim/comments/jcbhmh/vim_slow_on_tmux/,30,26,1602889681.0,0
+Setting Up Vim For TypeScript,jcauff,hiquest,https://www.vimfromscratch.com/articles/setting-up-vim-for-typescript/,7,3,1602887469.0,0
+Vim : Getting started,jc88np,mrRobot_7,https://www.loginradius.com/engineering/blog/vim-getting-started/,3,14,1602877077.0,0
+Google's Vim script language server,jbzfbz,wsdjeg,https://github.com/google/vimscript-language-server,177,34,1602835865.0,0
+Why do ctrl-n and ctrl-p have different behavior in command line vs insert mode?,jbwgwl,oguzbilgic,https://www.reddit.com/r/vim/comments/jbwgwl/why_do_ctrln_and_ctrlp_have_different_behavior_in/,8,8,1602825272.0,0
+Question: Anyone know of any linux terminal emulators out there that differentiates between CTRL-i and TAB?,jbwg8k,joehfb,https://www.reddit.com/r/vim/comments/jbwg8k/question_anyone_know_of_any_linux_terminal/,4,10,1602825211.0,0
+Getting E492: Not an editor command: Fern .,jbsrk2,chodyou,https://www.reddit.com/r/vim/comments/jbsrk2/getting_e492_not_an_editor_command_fern/,0,5,1602813751.0,0
+Method Navigation in React?,jbr0t3,halfjew22,https://www.reddit.com/r/vim/comments/jbr0t3/method_navigation_in_react/,1,6,1602808519.0,0
+How to create a binding that executes commands from multiple plugins?,jbqn76,diggitydata,https://www.reddit.com/r/vim/comments/jbqn76/how_to_create_a_binding_that_executes_commands/,6,4,1602807378.0,0
+Bug in Jedi with Coc and walrus operators? Alternative suggestions?,jbnzax,annowiki,https://www.reddit.com/r/vim/comments/jbnzax/bug_in_jedi_with_coc_and_walrus_operators/,0,11,1602798898.0,0
+vim-closetag in tsx files,jbnxcq,AndEseNe,https://www.reddit.com/r/vim/comments/jbnxcq/vimclosetag_in_tsx_files/,1,0,1602798702.0,0
+Does anyone use vim for analytics work in conjunction with jupyter notebooks?,jbntv7,LearnTillDeath,https://www.reddit.com/r/vim/comments/jbntv7/does_anyone_use_vim_for_analytics_work_in/,5,7,1602798342.0,0
+Surround word with text,jbmmzs,hailbaal,https://www.reddit.com/r/vim/comments/jbmmzs/surround_word_with_text/,6,25,1602793892.0,0
+We tested our Vim skills by editing blindfolded... (a fun and educational video),jbm9gr,theartofsoftware,https://www.youtube.com/watch?v=bjw4cfGC9fI,127,16,1602792282.0,1
+How Common is vim in backend java development and c++?,jbily7,SasukeUchiha231,https://www.reddit.com/r/vim/comments/jbily7/how_common_is_vim_in_backend_java_development_and/,41,48,1602773439.0,0
+"What are your Enter, Backspace, Tab and Space mappings ?",jb9zvo,pereloz,https://www.reddit.com/r/vim/comments/jb9zvo/what_are_your_enter_backspace_tab_and_space/,7,23,1602739645.0,0
+VIM no longer pre-installed on Ubuntu?,jb64oj,ecky--ptang-zooboing,https://www.reddit.com/r/vim/comments/jb64oj/vim_no_longer_preinstalled_on_ubuntu/,5,16,1602727950.0,0
+How to bind Vim and Shell Command to single key?,jb3qq3,knuddelig,https://www.reddit.com/r/vim/comments/jb3qq3/how_to_bind_vim_and_shell_command_to_single_key/,4,8,1602720922.0,0
+How can I rename variable that imported and exported in multiple files?,jb2nbi,AndEseNe,https://www.reddit.com/r/vim/comments/jb2nbi/how_can_i_rename_variable_that_imported_and/,5,5,1602717579.0,0
+How to log all vim commands I type from startup till exit?,jb2jnb,,https://www.reddit.com/r/vim/comments/jb2jnb/how_to_log_all_vim_commands_i_type_from_startup/,6,2,1602717249.0,0
+Finally I can now save quit with one hand. Now I need to figure out how to save quit with no hands!,jb1cxn,,https://www.reddit.com/r/vim/comments/jb1cxn/finally_i_can_now_save_quit_with_one_hand_now_i/,0,12,1602713372.0,0
+A indenting newlines that are not \n automatically,jazcyl,FakuVe,https://www.reddit.com/r/vim/comments/jazcyl/a_indenting_newlines_that_are_not_n_automatically/,2,3,1602705792.0,0
+Still using OneNote? This script will move your notes to markdown (fairly) painlessly,jay4p4,murchu27,https://www.reddit.com/r/vim/comments/jay4p4/still_using_onenote_this_script_will_move_your/,101,37,1602700079.0,0
+Jest tests and vim,jax12b,daliusd_,https://www.reddit.com/r/vim/comments/jax12b/jest_tests_and_vim/,14,10,1602694197.0,0
+Slow Scrolling Syntax Highlighting,jau7sr,Paul_A_M_Dirac1,https://www.reddit.com/r/vim/comments/jau7sr/slow_scrolling_syntax_highlighting/,11,17,1602679976.0,0
+How do I make the syntax highlighting better?,japmy4,gabriel_schneider,https://www.reddit.com/r/vim/comments/japmy4/how_do_i_make_the_syntax_highlighting_better/,3,3,1602662456.0,0
+"Help, UltiSnips not working for me",jam1xx,badger_42,https://www.reddit.com/r/vim/comments/jam1xx/help_ultisnips_not_working_for_me/,5,2,1602650703.0,0
+Configuring Coc.nvim + coc-tsserver auto import functionality,jalujc,CankleSpankle,https://www.reddit.com/r/vim/comments/jalujc/configuring_cocnvim_coctsserver_auto_import/,0,1,1602650088.0,0
+how to set default window size for neovim,jakc37,RA1811003020087,https://www.reddit.com/r/vim/comments/jakc37/how_to_set_default_window_size_for_neovim/,0,3,1602645543.0,0
+🔥 The Usefulness of The Often Ignored Visual Block Mode In Vim,jai57c,__---__---___,https://youtu.be/r7EJ3BFaxQ4,13,15,1602639051.0,0
+How do you insert a <tab> after a word with coc.nvim?,jahlw6,Synchronyme,https://www.reddit.com/r/vim/comments/jahlw6/how_do_you_insert_a_tab_after_a_word_with_cocnvim/,2,5,1602637457.0,0
+"Vim does not type tabs in python files, instead types spaces",jaeena,CH_SWB,https://www.reddit.com/r/vim/comments/jaeena/vim_does_not_type_tabs_in_python_files_instead/,0,7,1602627780.0,0
+vim-exchange - A lovely plugin scratches my itch,jadpoe,roy2220,https://www.reddit.com/r/vim/comments/jadpoe/vimexchange_a_lovely_plugin_scratches_my_itch/,87,15,1602625613.0,0
+Vim regex help,jad3cp,BashStudent,https://www.reddit.com/r/vim/comments/jad3cp/vim_regex_help/,2,4,1602623524.0,0
+auto execute command on start,jabvva,Subject-Ad-4072,https://www.reddit.com/r/vim/comments/jabvva/auto_execute_command_on_start/,24,9,1602618974.0,0
+Can't use snippets with UltiSnips in Neovim,jaaial,Machinely,https://www.reddit.com/r/vim/comments/jaaial/cant_use_snippets_with_ultisnips_in_neovim/,0,8,1602612587.0,0
+Decrease visual clutter for completion pop up menu?,ja9lir,petenpatrol,https://www.reddit.com/r/vim/comments/ja9lir/decrease_visual_clutter_for_completion_pop_up_menu/,2,2,1602607847.0,0
+Error Fest when I source a normal file,ja8tb7,Machinely,https://www.reddit.com/r/vim/comments/ja8tb7/error_fest_when_i_source_a_normal_file/,0,5,1602603445.0,0
+Repositories for up-to-date colorschemes?,ja8hh9,friedrichRiemann,https://www.reddit.com/r/vim/comments/ja8hh9/repositories_for_uptodate_colorschemes/,3,7,1602601644.0,0
+`NJ` with `N` a digit will not put whitespaces like (N-1) times`J` does if there is an empty line among the included lines. Is this expected behavior ?,ja5y7g,Atralb,https://www.reddit.com/r/vim/comments/ja5y7g/nj_with_n_a_digit_will_not_put_whitespaces_like/,4,1,1602589618.0,0
+What is the recommended syntax for Vim functions today ?,ja4a0v,Atralb,https://www.reddit.com/r/vim/comments/ja4a0v/what_is_the_recommended_syntax_for_vim_functions/,2,20,1602582787.0,0
+Read in file at Environment Variable,j9xl88,speculator9,https://www.reddit.com/r/vim/comments/j9xl88/read_in_file_at_environment_variable/,2,4,1602559425.0,0
+"Tried recent vim fuzzymatch to create counsel(emacsish) like file selector (buffer and oldfiles and colorschemes too). Although it doesn't nearly as feature rich and stable as fzf and ctrlp, it turned out to be good enough replacement for me. Not yet ready as a separate plugin though :)",j9u7cc,habamax,https://www.youtube.com/watch?v=xkiy2lvVRFs,60,19,1602549196.0,1
+Does where the count appears make any difference in Vim commands?,j9u34s,Smoggler,https://www.reddit.com/r/vim/comments/j9u34s/does_where_the_count_appears_make_any_difference/,10,5,1602548811.0,0
+Tabs instead of spaces with python,j9t3py,BlueBumblebee64,https://www.reddit.com/r/vim/comments/j9t3py/tabs_instead_of_spaces_with_python/,2,9,1602545762.0,0
+Is there a way to make fzf jump to tab like `let g:fzf_buffers_jump = 1 `,j9qa7t,banana_llarma,https://www.reddit.com/r/vim/comments/j9qa7t/is_there_a_way_to_make_fzf_jump_to_tab_like_let/,2,2,1602535810.0,0
+Is there a way to echo the number of tabs open,j9p8iw,banana_llarma,https://www.reddit.com/r/vim/comments/j9p8iw/is_there_a_way_to_echo_the_number_of_tabs_open/,0,5,1602531240.0,0
+Editing video subtitles with vim,j9oqfe,donbex,https://www.reddit.com/r/vim/comments/j9oqfe/editing_video_subtitles_with_vim/,33,21,1602528673.0,0
+"How to persist changelist, marks, last position",j9ojav,jamJam20,https://www.reddit.com/r/vim/comments/j9ojav/how_to_persist_changelist_marks_last_position/,4,8,1602527599.0,0
+"Vim, which key to use as normal key?",j9nhst,fartbaker13,https://www.reddit.com/r/vim/comments/j9nhst/vim_which_key_to_use_as_normal_key/,2,25,1602522223.0,0
+Change how vim interprets comments,j9ix3v,ex-lewis,https://www.reddit.com/r/vim/comments/j9ix3v/change_how_vim_interprets_comments/,18,6,1602499827.0,0
+"How to disable showing ""------"" for empty line in difftool?",j9fijy,omtmk,https://www.reddit.com/r/vim/comments/j9fijy/how_to_disable_showing_for_empty_line_in_difftool/,20,9,1602486234.0,0
+How to get a list of buffers in current tab,j9f6ot,jamJam20,https://www.reddit.com/r/vim/comments/j9f6ot/how_to_get_a_list_of_buffers_in_current_tab/,10,5,1602485013.0,0
+Saving cursor position except in git commits,j97ffv,Syphdias,https://www.reddit.com/r/vim/comments/j97ffv/saving_cursor_position_except_in_git_commits/,5,8,1602459148.0,0
+I want to only echo the parent directory of the current file,j97c8v,banana_llarma,https://www.reddit.com/r/vim/comments/j97c8v/i_want_to_only_echo_the_parent_directory_of_the/,4,3,1602458854.0,0
+TFW the autocomplete engine is consooming more RAM than editor,j91zpa,friedrichRiemann,https://i.imgur.com/tI7VPwd.png,0,5,1602434962.0,0
+cscope for objC,j8x4ti,Slugsurx,https://www.reddit.com/r/vim/comments/j8x4ti/cscope_for_objc/,3,9,1602411160.0,0
+Vim + Spooktober = Hallovim,j8uhvd,HeavyRain266,https://i.redd.it/vfh4f1wfocs51.jpg,369,14,1602400571.0,0
+"Execute a command in included files like argdo, bufdo, etc.",j8u0e4,pereloz,https://www.reddit.com/r/vim/comments/j8u0e4/execute_a_command_in_included_files_like_argdo/,5,3,1602398717.0,0
+I made a script so I can use Caps_Lock as Escape ONLY in terminal,j8tc8n,ThisMousse5497,https://www.reddit.com/r/vim/comments/j8tc8n/i_made_a_script_so_i_can_use_caps_lock_as_escape/,1,5,1602396296.0,0
+Using the quickfix list as a todo list,j8om5n,mvanderkamp,https://www.reddit.com/r/vim/comments/j8om5n/using_the_quickfix_list_as_a_todo_list/,9,7,1602380130.0,0
+Avoid Learning Bad Typing Habits Formed From Vim.,j8mjgt,kevinnel,https://www.reddit.com/r/vim/comments/j8mjgt/avoid_learning_bad_typing_habits_formed_from_vim/,58,99,1602373033.0,1
+Vim not working,j8l5w3,dolphin_whale,https://www.reddit.com/r/vim/comments/j8l5w3/vim_not_working/,2,3,1602368000.0,0
+I'm embarrassed with Jet Brains,j8jk0m,Administrative_Ad_26,https://www.reddit.com/r/vim/comments/j8jk0m/im_embarrassed_with_jet_brains/,0,9,1602361369.0,0
+Moving random text around like you move cursor with vim-sneak or easymotion,j8iy7r,danielo515,https://www.reddit.com/r/vim/comments/j8iy7r/moving_random_text_around_like_you_move_cursor/,2,11,1602358398.0,0
+Is keeping the mappings when changing the backend considered good or bad vim practice?,j8g4h2,thrallsius,https://www.reddit.com/r/vim/comments/j8g4h2/is_keeping_the_mappings_when_changing_the_backend/,1,6,1602342649.0,0
+Vim plugin for previewing UML,j8fw39,gorilla0513,https://www.reddit.com/r/vim/comments/j8fw39/vim_plugin_for_previewing_uml/,126,11,1602341392.0,0
+vim dev-icons not working as spected in neovim?,j8bzpb,candreslobor,https://www.reddit.com/r/vim/comments/j8bzpb/vim_devicons_not_working_as_spected_in_neovim/,0,4,1602323380.0,0
+Visual Studio Line Highlighting,j89gii,Buttmoist,https://www.reddit.com/r/vim/comments/j89gii/visual_studio_line_highlighting/,1,7,1602313512.0,0
+"Fzf, ripgrep is it possible to omit file paths😰?!",j87z9u,jamJam20,https://www.reddit.com/r/vim/comments/j87z9u/fzf_ripgrep_is_it_possible_to_omit_file_paths/,7,3,1602308388.0,0
+Can you help contribute snippets?,j86aeg,craigdmac,https://www.reddit.com/r/vim/comments/j86aeg/can_you_help_contribute_snippets/,13,2,1602302879.0,0
+Change all colors in NERDTree,j863vj,TechieMoore,https://www.reddit.com/r/vim/comments/j863vj/change_all_colors_in_nerdtree/,3,14,1602302303.0,0
+We need a vim plugin for that :),j80q2m,fimari,https://v.redd.it/hx6oud33ayr51,140,20,1602285082.0,0
+Setting up YCM for clangd,j80e6j,minamulhaq,https://www.reddit.com/r/vim/comments/j80e6j/setting_up_ycm_for_clangd/,1,4,1602284014.0,0
+The dumbest thing just happened to me because of vim,j7xe7c,FreierVogel,https://www.reddit.com/r/vim/comments/j7xe7c/the_dumbest_thing_just_happened_to_me_because_of/,276,88,1602272553.0,1
+How to use vim in Windows(the OS),j7x61v,banana_llarma,https://www.reddit.com/r/vim/comments/j7x61v/how_to_use_vim_in_windowsthe_os/,0,11,1602271488.0,0
+Help needed with regex,j7srtg,oponkork,https://www.reddit.com/r/vim/comments/j7srtg/help_needed_with_regex/,9,5,1602247479.0,0
+Is there a way to see the content of all registers while in command/operator pending mode?,j7ogqj,zvckp,https://www.reddit.com/r/vim/comments/j7ogqj/is_there_a_way_to_see_the_content_of_all/,8,9,1602230021.0,0
+Command Line Refactoring & Vim Integration,j7mgaf,koriel3,https://www.reddit.com/r/vim/comments/j7mgaf/command_line_refactoring_vim_integration/,3,0,1602223060.0,0
+How to substitute on the contents of a register?,j7m2lt,kevin_with_rice,https://www.reddit.com/r/vim/comments/j7m2lt/how_to_substitute_on_the_contents_of_a_register/,12,8,1602221803.0,0
+How to mark selected text with color across the project?,j7jljf,ecosse31,https://www.reddit.com/r/vim/comments/j7jljf/how_to_mark_selected_text_with_color_across_the/,4,4,1602213836.0,0
+"I have 3 vimrc files , how can i keep only one ?",j7edvi,zine2000,https://i.redd.it/0fofldddvvr51.png,9,8,1602197345.0,0
+Insert Unicode character inside Vim/Neovim,j7edpj,jdhao,/r/neovim/comments/j7ecg2/insert_unicode_character_inside_vimneovim/,1,2,1602197328.0,0
+The Most Popular Programming Languages - 1965/2020 - Statistics and Data,j7e5c3,accappatoiviola,https://www.statisticsanddata.org/most-popular-programming-languages/,0,2,1602196544.0,0
+auto file generator?,j7de7w,ValGriff,https://www.reddit.com/r/vim/comments/j7de7w/auto_file_generator/,3,6,1602193893.0,0
+Configure pear-tree to auto-add commas in structs,j7d56j,DevWhoKnowsTheTruth,https://www.reddit.com/r/vim/comments/j7d56j/configure_peartree_to_autoadd_commas_in_structs/,1,0,1602192973.0,0
+"vim-doge v3 - Goodbye regex, hello tree-sitter!",j7bqv6,koomenk,https://www.reddit.com/r/vim/comments/j7bqv6/vimdoge_v3_goodbye_regex_hello_treesitter/,111,22,1602187189.0,0
+VIM Modes Transition Diagram,j799g3,oguzbilgic,https://appletree.or.kr/quick_reference_cards/Unix-Linux/vim-modes-transition-diagram.svg,117,13,1602173622.0,0
+How to wait until a function completes?,j79791,jamJam20,https://www.reddit.com/r/vim/comments/j79791/how_to_wait_until_a_function_completes/,5,3,1602173263.0,0
+Is there a way to bookmark lines across vim instances?,j77a5o,jamJam20,https://www.reddit.com/r/vim/comments/j77a5o/is_there_a_way_to_bookmark_lines_across_vim/,1,4,1602163037.0,0
+Need suggestions for automating a particular programming workflow,j753u7,thrallsius,https://www.reddit.com/r/vim/comments/j753u7/need_suggestions_for_automating_a_particular/,0,8,1602153947.0,0
+vim-auto-comment: a simple plugin for commenting/uncommenting multiple lines based on the given file,j72cs2,karimelghamry,https://github.com/KarimElghamry/vim-auto-comment,0,4,1602143665.0,0
+How to run external cmd command from within ConEmu?,j6zcj7,simonsanchezart,https://www.reddit.com/r/vim/comments/j6zcj7/how_to_run_external_cmd_command_from_within_conemu/,3,4,1602133295.0,0
+What are the most useful features of Vim that are absent from Evil (the Vim compatibility layer for Emacs)?,j6yhwv,leungbk,https://www.reddit.com/r/vim/comments/j6yhwv/what_are_the_most_useful_features_of_vim_that_are/,3,29,1602130542.0,0
+wq! w- wait what the hell just popped up???,j6xr7l,ImMaaxYT,https://i.redd.it/p8v72avr6qr51.png,318,37,1602128290.0,1
+Multiple cursors plugin for vim/neovim,j6te51,friedrichRiemann,https://github.com/mg979/vim-visual-multi,4,3,1602114874.0,0
+how to bind key with vim's terminal command?,j6shke,shaeinst,https://www.reddit.com/r/vim/comments/j6shke/how_to_bind_key_with_vims_terminal_command/,0,11,1602111903.0,0
+How to make remap use an input?,j6qzj5,weeb_dev,https://www.reddit.com/r/vim/comments/j6qzj5/how_to_make_remap_use_an_input/,1,2,1602106742.0,0
+Why does C-r take you out of insert mode?,j6qlsx,Smoggler,https://www.reddit.com/r/vim/comments/j6qlsx/why_does_cr_take_you_out_of_insert_mode/,0,22,1602105304.0,0
+Vim vs IDE features,j6qi33,aayushoj,https://www.reddit.com/r/vim/comments/j6qi33/vim_vs_ide_features/,3,15,1602104915.0,0
+Spot the vim user 😊,j6q9rd,xXx_-SWAG_LORD-_xXx,https://i.redd.it/chmt7i2f6or51.jpg,394,82,1602104029.0,2
+Vim & typography,j6opj5,atmarama,https://www.reddit.com/r/vim/comments/j6opj5/vim_typography/,5,9,1602096714.0,0
+Did you know about quotes.txt ?,j6oocv,pereloz,https://www.reddit.com/r/vim/comments/j6oocv/did_you_know_about_quotestxt/,10,5,1602096532.0,0
+gvim like cursor in console vim,j6oig1,frostedKIVI,https://www.reddit.com/r/vim/comments/j6oig1/gvim_like_cursor_in_console_vim/,2,3,1602095611.0,0
+Oceanic Primal dark theme,j6nvwy,Barlog_M,https://www.reddit.com/r/vim/comments/j6nvwy/oceanic_primal_dark_theme/,46,12,1602092074.0,0
+Where is this information comming from?,j6nqtb,danielo515,https://www.reddit.com/r/vim/comments/j6nqtb/where_is_this_information_comming_from/,2,0,1602091266.0,0
+Poll what type of vim are you using,j6muk3,banana_llarma,https://www.reddit.com/r/vim/comments/j6muk3/poll_what_type_of_vim_are_you_using/,1,24,1602085897.0,0
+I am trying to make custom source for completion-nvim,j6m9lz,banana_llarma,https://www.reddit.com/r/vim/comments/j6m9lz/i_am_trying_to_make_custom_source_for/,14,6,1602082562.0,0
+Vim on Windows : Log file behaves weirdly on Vim but not on Notepad,j6j8zo,Atralb,https://www.reddit.com/r/vim/comments/j6j8zo/vim_on_windows_log_file_behaves_weirdly_on_vim/,1,7,1602068244.0,0
+Why can't I get :PluginInstall going correctly?,j6j7yh,ericjlima,https://www.reddit.com/r/vim/comments/j6j7yh/why_cant_i_get_plugininstall_going_correctly/,0,7,1602068121.0,0
+How can I select multiple lines with same content and edit them at once?,j6bn1v,mmddev,https://www.reddit.com/r/vim/comments/j6bn1v/how_can_i_select_multiple_lines_with_same_content/,2,7,1602041052.0,0
+Commenting multiple lines in vim on elementary os not working,j68qk7,Qoosim,https://www.reddit.com/r/vim/comments/j68qk7/commenting_multiple_lines_in_vim_on_elementary_os/,4,5,1602032161.0,0
+Commenting multiple lines in vim on elementary os not working,j68pdq,Qoosim,https://www.reddit.com/r/vim/comments/j68pdq/commenting_multiple_lines_in_vim_on_elementary_os/,0,2,1602032058.0,0
+Vim and ctags - make CTRL-] more useful,j62xmk,cmskipsey,https://www.reddit.com/r/vim/comments/j62xmk/vim_and_ctags_make_ctrl_more_useful/,9,14,1602010342.0,0
+"For anyone not aware of this yet, I think it's worth reminding that you can use vi keybindings in the bash shell (and many other REPLs)",j61q0y,m-chrzan,https://m-chrzan.xyz/blog/vim-keybindings-in-all-clis.html,136,66,1602003425.0,0
+Vuejs : no comments plugins working ?,j617xg,mirsella,https://www.reddit.com/r/vim/comments/j617xg/vuejs_no_comments_plugins_working/,3,5,1602000423.0,0
+Line under tab headers,j60vt4,bratpeki,https://www.reddit.com/r/vim/comments/j60vt4/line_under_tab_headers/,2,4,1601998388.0,0
+How to force help buffer to open in bottom right?,j60vkg,jamJam20,https://www.reddit.com/r/vim/comments/j60vkg/how_to_force_help_buffer_to_open_in_bottom_right/,7,2,1601998352.0,0
+Problem in .vimrc file,j5zslx,moggel10,https://www.reddit.com/r/vim/comments/j5zslx/problem_in_vimrc_file/,3,14,1601992426.0,0
+How to compile your own version of vim?,j5zgbd,Waseem_Ahmed,https://www.reddit.com/r/vim/comments/j5zgbd/how_to_compile_your_own_version_of_vim/,1,13,1601990665.0,0
+Not able to use YouCompleteMe with Ultisnips Help Needed,j5xprs,amiwalwin,https://www.reddit.com/r/vim/comments/j5xprs/not_able_to_use_youcompleteme_with_ultisnips_help/,1,1,1601982704.0,0
+Motion question: append to a word quickly,j5rzr9,HornyLobsterShark,https://www.reddit.com/r/vim/comments/j5rzr9/motion_question_append_to_a_word_quickly/,2,16,1601961055.0,0
+Installing VIM in Windows for Dummies?,j5rq0u,simonsanchezart,https://www.reddit.com/r/vim/comments/j5rq0u/installing_vim_in_windows_for_dummies/,1,7,1601960211.0,0
+Automatically opening help in vertical split,j5ngwx,cdb_11,https://www.reddit.com/r/vim/comments/j5ngwx/automatically_opening_help_in_vertical_split/,17,6,1601946847.0,0
+Omnifunc as part of `complete` variable?,j5na8w,ProgrammAbel,https://www.reddit.com/r/vim/comments/j5na8w/omnifunc_as_part_of_complete_variable/,1,9,1601946268.0,0
+For the kingdom of heaven is like a landowner who went out early in the morning to edit text in his vineyard.,j5n4jb,JIVEprinting,https://www.reddit.com/r/vim/comments/j5n4jb/for_the_kingdom_of_heaven_is_like_a_landowner_who/,0,0,1601945782.0,0
+How to log all keystrokes but after vim is already opened?,j5k90s,bkthedeveloper,https://www.reddit.com/r/vim/comments/j5k90s/how_to_log_all_keystrokes_but_after_vim_is/,3,4,1601936463.0,0
+Conjuring Clojure in Vim: 2020 Edition,j5inue,davedrowsy,https://blog.djy.io/conjuring-clojure-in-vim-2020-edition/,12,1,1601930466.0,0
+Vim as HTTP client,j5hhxs,nbardiuk,https://nazarii.bardiuk.com/posts/vim-curl.html,41,13,1601925115.0,0
+Is there a reason or a need to have multiple augroup?,j5g8lh,jamJam20,https://www.reddit.com/r/vim/comments/j5g8lh/is_there_a_reason_or_a_need_to_have_multiple/,1,4,1601918286.0,0
+Difference between swap and backup,j5fmgx,TaxEvader9,https://www.reddit.com/r/vim/comments/j5fmgx/difference_between_swap_and_backup/,2,3,1601914551.0,0
+Speeding up horizontal movement speed - first plugin attempt,j5dtt1,spenny1068,https://www.reddit.com/r/vim/comments/j5dtt1/speeding_up_horizontal_movement_speed_first/,42,14,1601904250.0,0
+Goyo (or other focus mode) in a pane or split,j5762j,ROM_Bombadil,https://www.reddit.com/r/vim/comments/j5762j/goyo_or_other_focus_mode_in_a_pane_or_split/,4,2,1601876405.0,0
+Four Dimensions of Editing in Vim,j541zd,SPQR_BN,https://gist.github.com/deoxys314/255d483688ff103b63c75a66715bf9bf,57,12,1601865723.0,0
+Nvim config for Python,j532yo,master-ofnothing,https://www.reddit.com/r/vim/comments/j532yo/nvim_config_for_python/,0,5,1601862404.0,0
+How to smoothly set spelllang based on babel-package in latex?,j4ygko,PizzaRollExpert,https://www.reddit.com/r/vim/comments/j4ygko/how_to_smoothly_set_spelllang_based_on/,1,3,1601844772.0,0
+This color scheme I made,j4xzvx,bratpeki,https://www.reddit.com/r/vim/comments/j4xzvx/this_color_scheme_i_made/,71,17,1601842497.0,0
+lazyredraw vs redrawtime,j4uazz,jamJam20,https://www.reddit.com/r/vim/comments/j4uazz/lazyredraw_vs_redrawtime/,1,4,1601821162.0,0
+"How to check if package exists in packpath, and its loaded",j4rrsp,jamJam20,https://www.reddit.com/r/vim/comments/j4rrsp/how_to_check_if_package_exists_in_packpath_and/,4,8,1601808440.0,0
+What insert mappings do you use?,j4ntgq,jamJam20,https://www.reddit.com/r/vim/comments/j4ntgq/what_insert_mappings_do_you_use/,38,59,1601791860.0,0
+Tips plugin (is this sort of crosspost acceptable?),j4lvse,mikaleowiii,/r/vimplugins/comments/j4fqit/yet_another_tips_tricks_plugin/,35,2,1601784722.0,0
+"My new vim, wimdow manipulation plugin",j4kymw,yaronekaha,https://github.com/yaronkh/vim-winmanip/,3,3,1601781436.0,0
+vim windows manipulation plugin,j4kweg,yaronekaha,https://www.reddit.com/r/vim/comments/j4kweg/vim_windows_manipulation_plugin/,7,4,1601781214.0,0
+Save fold doesn't work while using multiple tabs,j4k71b,quesillo_fundillo,https://www.reddit.com/r/vim/comments/j4k71b/save_fold_doesnt_work_while_using_multiple_tabs/,3,2,1601778763.0,0
+Is there a way to go in the middle of a html tag with <cr>,j4eupe,banana_llarma,https://www.reddit.com/r/vim/comments/j4eupe/is_there_a_way_to_go_in_the_middle_of_a_html_tag/,14,11,1601759862.0,0
+Remapping capslock to esc when tapped and ctrl when held,j4e7b8,kn0xchad,https://www.reddit.com/r/vim/comments/j4e7b8/remapping_capslock_to_esc_when_tapped_and_ctrl/,18,22,1601753243.0,0
+"People using Vim inside of VS Code, can I get some help with this issue?",j4cqqd,mrillusi0n,https://www.reddit.com/r/vim/comments/j4cqqd/people_using_vim_inside_of_vs_code_can_i_get_some/,5,18,1601745097.0,0
+Question about yy and p,j4b86i,mugseller,https://www.reddit.com/r/vim/comments/j4b86i/question_about_yy_and_p/,65,27,1601736346.0,0
+Vim & JAVA: How do I make it efficient for it,j4684d,Kentto7,https://www.reddit.com/r/vim/comments/j4684d/vim_java_how_do_i_make_it_efficient_for_it/,24,27,1601713707.0,0
+Vimwiki on Netlify?,j42lks,not_napoleon,https://www.reddit.com/r/vim/comments/j42lks/vimwiki_on_netlify/,6,1,1601700177.0,0
+How to become a Hackerman [with Vim],j3zvfe,sagethesagesage,https://sagev.space/vim,19,13,1601691509.0,2
+I've created vim-eft (enhanced f/t/F/T),j3uhy1,hrsh7th,https://www.reddit.com/r/vim/comments/j3uhy1/ive_created_vimeft_enhanced_ftft/,6,8,1601674278.0,0
+VIM Plugin Ultisnips raises problem Help Needed,j3qqu3,amiwalwin,https://www.reddit.com/r/vim/comments/j3qqu3/vim_plugin_ultisnips_raises_problem_help_needed/,0,10,1601655371.0,0
+Path for help tags files,j3phge,dubst3pp4,https://www.reddit.com/r/vim/comments/j3phge/path_for_help_tags_files/,1,2,1601648279.0,0
+When people ask...,j3o6uy,StandardOilCompany,https://i.redd.it/j59wx3oh1mq51.jpg,581,85,1601642262.0,0
+How do I get rid of this horrible backlight effect in the default colorscheme?,j3nkzy,Ok_Reference_326,https://imgur.com/a/l2Pnm6U,1,11,1601639471.0,0
+How do you change the omni-completion preview window's height?,j3fdus,bowhunter001,https://www.reddit.com/r/vim/comments/j3fdus/how_do_you_change_the_omnicompletion_preview/,22,9,1601609158.0,0
+How to configure autocomplete with a REPL-style setup?,j3ej3z,Amadou_Kone,https://www.reddit.com/r/vim/comments/j3ej3z/how_to_configure_autocomplete_with_a_replstyle/,6,3,1601606492.0,0
+I was wondering how you other people are using ctags,j38z4o,banana_llarma,https://www.reddit.com/r/vim/comments/j38z4o/i_was_wondering_how_you_other_people_are_using/,18,19,1601589211.0,0
+X-Post from r/neovim - substantial Vim capability within Visual Studio Code!,j350a8,VVVDoer,https://www.reddit.com/r/neovim/comments/j34z96/fluid_splitormove_navigation_with_neovim_also/,3,5,1601571599.0,0
+What is your vim workflow like?,j33ow1,blackboardvimes,https://www.reddit.com/r/vim/comments/j33ow1/what_is_your_vim_workflow_like/,37,62,1601564455.0,0
+I have started to use ctags but is there a good way to update the tags file,j33e3r,banana_llarma,https://www.reddit.com/r/vim/comments/j33e3r/i_have_started_to_use_ctags_but_is_there_a_good/,1,13,1601562940.0,0
+Can you work with movement in Insert mode without having to press the ESC button ?,j31t1h,noscore6,https://www.reddit.com/r/vim/comments/j31t1h/can_you_work_with_movement_in_insert_mode_without/,73,95,1601555356.0,0
+Help detecting file's current directory to set filetype,j2ui3h,Bakonblak,https://www.reddit.com/r/vim/comments/j2ui3h/help_detecting_files_current_directory_to_set/,2,5,1601528021.0,0
+How to define custom hard-wrapping logic,j2sutp,hoylemd,https://www.reddit.com/r/vim/comments/j2sutp/how_to_define_custom_hardwrapping_logic/,7,10,1601522736.0,0
+Confusion about how ftplugin interacts with autocommand,j2qo0a,badfoodman,https://www.reddit.com/r/vim/comments/j2qo0a/confusion_about_how_ftplugin_interacts_with/,21,2,1601515916.0,0
+I'am trying to make a custom command to substitute to all files of the current working directory in the current buffer file type,j2k9zo,banana_llarma,https://www.reddit.com/r/vim/comments/j2k9zo/iam_trying_to_make_a_custom_command_to_substitute/,18,3,1601493673.0,0
+Gvim LANG issue,j2h5j5,krpt,https://www.reddit.com/r/vim/comments/j2h5j5/gvim_lang_issue/,6,4,1601477219.0,0
+Vim windows/panes question,j285mi,rubyglue,https://www.reddit.com/r/vim/comments/j285mi/vim_windowspanes_question/,5,4,1601442175.0,0
+Just made my first plugin! vim-bettergrep. Constructive criticism welcome :),j27gi7,AquaFox,https://github.com/qalshidi/vim-bettergrep,69,23,1601439987.0,0
+Prevent pollution of terminal history?,j26l3y,Chicken_Dump_Ling,https://www.reddit.com/r/vim/comments/j26l3y/prevent_pollution_of_terminal_history/,1,5,1601437269.0,0
+[Question] coc: Missing implementation provider,j258ae,TornaxO7,https://www.reddit.com/r/vim/comments/j258ae/question_coc_missing_implementation_provider/,1,2,1601433177.0,0
+I created a VIM plugin to help solve external code documentation problem. It was an excuse to learn some vimscript as well.,j216ju,tgsoverly,https://github.com/tgsoverly/watupdoc.vim,3,14,1601421392.0,0
+"Full screen vim is not ""full""? How to make the edges of my terminal background go away when Vim is open",j1zss5,gnubinator,https://i.redd.it/xp7548yof3q51.png,0,8,1601416993.0,0
+FZF for contents in files,j1ygag,fourstepper,https://www.reddit.com/r/vim/comments/j1ygag/fzf_for_contents_in_files/,1,2,1601412142.0,0
+Circle through FZF previous searches,j1w3il,karacic,https://www.reddit.com/r/vim/comments/j1w3il/circle_through_fzf_previous_searches/,8,7,1601401012.0,0
+Ever tried vidir? bulk-edit files within your $EDITOR. Here's a demo I made,j1uwr4,professorlamp,https://www.youtube.com/watch?v=9G7C2b-o1Tc,67,33,1601394986.0,0
+"[Vim 8.1 terminal] Why Ctrl-W Left, Ctrl-W Up, Ctrl-W Down, Ctrl-W Right don't work?",j1ox53,zingus,https://www.reddit.com/r/vim/comments/j1ox53/vim_81_terminal_why_ctrlw_left_ctrlw_up_ctrlw/,1,4,1601369445.0,0
+Wiki Images,j1leja,Jab2870,https://www.reddit.com/r/vim/comments/j1leja/wiki_images/,3,14,1601357453.0,0
+To vim or not to vim?,j1l5ep,aby80,https://www.reddit.com/r/vim/comments/j1l5ep/to_vim_or_not_to_vim/,0,12,1601356658.0,0
+When you have to use an IDE...,j1hfae,Plazmotech,https://i.redd.it/eyqxtoqnjxp51.png,844,140,1601345679.0,1
+Plugins market? for vim!,j1c6xw,mirachan0121,https://www.reddit.com/r/vim/comments/j1c6xw/plugins_market_for_vim/,0,3,1601329264.0,0
+VIM + ALE + Typescript Decorator Warnings,j173hd,tamasiaina,https://www.reddit.com/r/vim/comments/j173hd/vim_ale_typescript_decorator_warnings/,0,5,1601303839.0,0
+UltiSnips. Where should I insert the snippets?,j15qf7,QAQ_Jack,https://www.reddit.com/r/vim/comments/j15qf7/ultisnips_where_should_i_insert_the_snippets/,1,25,1601297003.0,0
+Minimal File Explorer for Vim,j13210,mattn,https://github.com/mattn/vim-molder,89,54,1601285595.0,0
+Alternative to autochdir??,j0yyne,jamJam20,https://www.reddit.com/r/vim/comments/j0yyne/alternative_to_autochdir/,6,12,1601269858.0,0
+Is there a plugin for tracking binding usage frequencies?,j0ywgj,kantord,https://www.reddit.com/r/vim/comments/j0ywgj/is_there_a_plugin_for_tracking_binding_usage/,27,12,1601269642.0,0
+Vifm extract archive files,j0uizt,hannesTheLegend,https://www.reddit.com/r/vim/comments/j0uizt/vifm_extract_archive_files/,1,4,1601254757.0,0
+Leader key not working with some keys,j0otyb,_-_Specter_-_,https://www.reddit.com/r/vim/comments/j0otyb/leader_key_not_working_with_some_keys/,5,9,1601230803.0,0
+[Question] yank specify register in ssh,j0m0nw,trieu1912,https://www.reddit.com/r/vim/comments/j0m0nw/question_yank_specify_register_in_ssh/,1,14,1601215548.0,0
+A blazing fast minimap plugin for vim,j0kktw,wfxr,https://www.reddit.com/r/vim/comments/j0kktw/a_blazing_fast_minimap_plugin_for_vim/,228,34,1601208866.0,1
+Auto source $MYVIMRC after running PlugInstall,j0frv0,dualmute,https://www.reddit.com/r/vim/comments/j0frv0/auto_source_myvimrc_after_running_pluginstall/,16,8,1601189821.0,0
+MacVim not rendering ligatures,j0ebzm,benwainwright212,https://www.reddit.com/r/vim/comments/j0ebzm/macvim_not_rendering_ligatures/,0,4,1601184784.0,0
+Question on Vim-Grammarous,j067lg,ArcherN9,https://www.reddit.com/r/vim/comments/j067lg/question_on_vimgrammarous/,11,7,1601156448.0,0
+Vim commands and plugins,j01uwi,ayushify,https://www.reddit.com/r/vim/comments/j01uwi/vim_commands_and_plugins/,91,13,1601134963.0,1
+App Idea: Modal Prose Writing App,izxrna,MantisShrimp05,https://www.reddit.com/r/vim/comments/izxrna/app_idea_modal_prose_writing_app/,2,11,1601117384.0,0
+When using :cd how to navigate between folders?,izu2vy,howtopassawscert,https://www.reddit.com/r/vim/comments/izu2vy/when_using_cd_how_to_navigate_between_folders/,26,21,1601103457.0,0
+Using debug/build files instead of ctags?,izu0wu,tristanstoutenburg,https://www.reddit.com/r/vim/comments/izu0wu/using_debugbuild_files_instead_of_ctags/,3,5,1601103261.0,0
+vim coc ccls C struct initializer autocompletion,izphvg,aganm,https://www.reddit.com/r/vim/comments/izphvg/vim_coc_ccls_c_struct_initializer_autocompletion/,2,5,1601088855.0,0
+How do you go back to normal mode?,izound,henricattoire1,https://www.reddit.com/r/vim/comments/izound/how_do_you_go_back_to_normal_mode/,6,52,1601086899.0,0
+A scenario where using the space bar as a leader causes unexpected behavior.,iziz25,amanangira,https://www.reddit.com/r/vim/comments/iziz25/a_scenario_where_using_the_space_bar_as_a_leader/,26,28,1601067583.0,0
+Looking for code completion plugin,izgps1,BYTE-LY,https://www.reddit.com/r/vim/comments/izgps1/looking_for_code_completion_plugin/,13,17,1601056392.0,1
+How can I use dvorak onli in the insert mode,izgc8q,Astro-2004,https://www.reddit.com/r/vim/comments/izgc8q/how_can_i_use_dvorak_onli_in_the_insert_mode/,1,9,1601054190.0,0
+How to use the same key to expand UltiSnipets and emmet,izfbkb,banna_llarma,https://www.reddit.com/r/vim/comments/izfbkb/how_to_use_the_same_key_to_expand_ultisnipets_and/,3,4,1601048361.0,0
+How do I split the current window to a NEW window instead of having a copy of the current file?,izf17j,amanangira,https://www.reddit.com/r/vim/comments/izf17j/how_do_i_split_the_current_window_to_a_new_window/,2,9,1601046782.0,0
+C syntax highlighting problem: brackets in red,izev9t,aganm,https://www.reddit.com/r/vim/comments/izev9t/c_syntax_highlighting_problem_brackets_in_red/,3,10,1601045899.0,0
+is there a way to create a floating window for ctrlp?,izc5cj,jamJam20,https://www.reddit.com/r/vim/comments/izc5cj/is_there_a_way_to_create_a_floating_window_for/,2,2,1601033356.0,0
+run a bash script automatically when entering and exiting vim,iz6mzz,MoonlessNightss,https://www.reddit.com/r/vim/comments/iz6mzz/run_a_bash_script_automatically_when_entering_and/,2,15,1601012933.0,0
+I'm in love with Vim,iz573q,teknobable,https://www.reddit.com/r/vim/comments/iz573q/im_in_love_with_vim/,186,69,1601008394.0,0
+"How would i go about linking external libraries using coc-clangd? the same project works using qtcreator and its .pro file for linking as shown in the second picture, any help is greatly appreciated!",iz4io9,thomas9258a,https://www.reddit.com/gallery/iz4io9,2,7,1601006258.0,0
+How do I change the font color of the warning box?,iz2trg,yudhiesh,https://i.redd.it/9y105teh25p51.png,89,36,1601000935.0,0
+tvim.vim a(nother) extremely simple todo manager in 90 lines of vim,iz2dkr,RivtenGray,https://www.reddit.com/r/vim/comments/iz2dkr/tvimvim_another_extremely_simple_todo_manager_in/,3,7,1600999584.0,0
+Looking for a one key solution to forward a tab stop in ultisnips,iz0v3l,FalbWolowich,https://www.reddit.com/r/vim/comments/iz0v3l/looking_for_a_one_key_solution_to_forward_a_tab/,1,1,1600994893.0,0
+Easy VIM,iz0os5,MitchyGoodness,https://www.reddit.com/r/vim/comments/iz0os5/easy_vim/,6,3,1600994356.0,0
+StatusLineNC and StatusLine does not take effect?,iyzcza,justrajdeep,https://www.reddit.com/r/vim/comments/iyzcza/statuslinenc_and_statusline_does_not_take_effect/,1,4,1600990180.0,0
+Cursor after paste,iyuuuu,mvcouwen,https://www.reddit.com/r/vim/comments/iyuuuu/cursor_after_paste/,9,13,1600972867.0,0
+vim-lsp and custom fallback style for clangd,iyu6dn,blami,https://www.reddit.com/r/vim/comments/iyu6dn/vimlsp_and_custom_fallback_style_for_clangd/,1,1,1600969358.0,0
+Rant on how WSL sucks for editing LaTeX with Vim,iyt1du,FarmaSuitical,https://www.reddit.com/r/vim/comments/iyt1du/rant_on_how_wsl_sucks_for_editing_latex_with_vim/,0,20,1600963192.0,0
+Vim without plugins; best tricks?,iysgq4,bsdooby,https://www.reddit.com/r/vim/comments/iysgq4/vim_without_plugins_best_tricks/,78,82,1600960182.0,0
+is there a way to yank to the + register and the * register at the same time,iys0sr,banna_llarma,https://www.reddit.com/r/vim/comments/iys0sr/is_there_a_way_to_yank_to_the_register_and_the/,7,9,1600957863.0,0
+how to check if vim is run alone or with a file path?,iynqap,jamJam20,https://www.reddit.com/r/vim/comments/iynqap/how_to_check_if_vim_is_run_alone_or_with_a_file/,1,2,1600940579.0,0
+Is there a way to get a live preview of pandoc-flavoured markdown?,iyimbq,medwatt,https://www.reddit.com/r/vim/comments/iyimbq/is_there_a_way_to_get_a_live_preview_of/,10,11,1600922424.0,0
+vim-jsx-pretty for html -- wtf?,iygr0g,ChineseJapanese,https://www.reddit.com/r/vim/comments/iygr0g/vimjsxpretty_for_html_wtf/,2,5,1600916988.0,0
+Wrapping at a specific line length,iyfxnr,GuybrushThreepwo0d,https://www.reddit.com/r/vim/comments/iyfxnr/wrapping_at_a_specific_line_length/,1,9,1600914613.0,0
+vimrc on Docker container,iyd7lh,nipu_ro,https://www.reddit.com/r/vim/comments/iyd7lh/vimrc_on_docker_container/,0,12,1600906580.0,0
+Vim-PluginList,iybe2n,mirachan0121,https://www.reddit.com/r/vim/comments/iybe2n/vimpluginlist/,2,2,1600900839.0,0
+Is there any way to use listchars for other whitespace?,iy9ycv,caagr98,https://www.reddit.com/r/vim/comments/iy9ycv/is_there_any_way_to_use_listchars_for_other/,5,2,1600896016.0,0
+Any recommendations for a non-bloat vim + LaTeX setup?,iy7xov,Sarrost,https://www.reddit.com/r/vim/comments/iy7xov/any_recommendations_for_a_nonbloat_vim_latex_setup/,2,13,1600887502.0,0
+Noob cheatsheet,iy6w84,ZiF3kL,https://i.redd.it/otglav3s8vo51.jpg,255,59,1600881965.0,0
+[Help] Cannot resolve imports,iy5f8k,trixter_dj,https://www.reddit.com/r/vim/comments/iy5f8k/help_cannot_resolve_imports/,2,8,1600873766.0,0
+"How to make ci"" delete old content & replace with clipboard & insert?",iy3vlk,jamJam20,https://www.reddit.com/r/vim/comments/iy3vlk/how_to_make_ci_delete_old_content_replace_with/,4,8,1600865859.0,0
+How to install pluggins offline,ixsrja,coconut_maan,https://www.reddit.com/r/vim/comments/ixsrja/how_to_install_pluggins_offline/,0,7,1600826821.0,0
+Vim --> tmux --> vim copy paste,ixsdit,coconut_maan,https://www.reddit.com/r/vim/comments/ixsdit/vim_tmux_vim_copy_paste/,2,14,1600825657.0,0
+How to avoid writing %V in visual mode substitutions,ixs9mv,mgarort,https://www.reddit.com/r/vim/comments/ixs9mv/how_to_avoid_writing_v_in_visual_mode/,1,6,1600825335.0,0
+Completion question,ixp7f9,thrallsius,https://www.reddit.com/r/vim/comments/ixp7f9/completion_question/,3,3,1600816112.0,0
+nifty vim/nvim tips that improve my life,ixoynh,jdhao,https://jdhao.github.io/2020/09/22/nifty_nvim_techniques_s7/,99,32,1600815371.0,0
+"Is this use case for VIM wrong? If it's ok, how to organize it or make it more fluid?",ixorj6,howtopassawscert,https://www.reddit.com/r/vim/comments/ixorj6/is_this_use_case_for_vim_wrong_if_its_ok_how_to/,4,12,1600814750.0,0
+Are there any good stable colorizer plugins for vim that support SASS variables like VSCode?,ixmz88,hapakala,https://www.reddit.com/r/vim/comments/ixmz88/are_there_any_good_stable_colorizer_plugins_for/,1,2,1600808677.0,0
+Vim in big project,ixm5o8,dattran2899,https://www.reddit.com/r/vim/comments/ixm5o8/vim_in_big_project/,4,19,1600805516.0,0
+How do I rebind only my movement keys?,ixk4rq,cu_unlocker,https://www.reddit.com/r/vim/comments/ixk4rq/how_do_i_rebind_only_my_movement_keys/,1,3,1600795845.0,0
+Vim plugin for GitHub,ixjfzl,gorilla0513,https://www.reddit.com/r/vim/comments/ixjfzl/vim_plugin_for_github/,29,2,1600791857.0,0
+Does touch typing improve the vim experience?,ixgwty,madspillage,https://www.reddit.com/r/vim/comments/ixgwty/does_touch_typing_improve_the_vim_experience/,102,127,1600778947.0,0
+help vimscript tabnew open temporary file and don't need to save it.,ixft1t,trieu1912,https://www.reddit.com/r/vim/comments/ixft1t/help_vimscript_tabnew_open_temporary_file_and/,2,4,1600774310.0,0
+Replacing lines,ixbl2i,toppa102,https://www.reddit.com/r/vim/comments/ixbl2i/replacing_lines/,5,2,1600758446.0,0
+"I installed vim-plug, but for some reason this still doesn't work. I'm on termux on an android device, can anyone help me fix this? (swipe for .vimrc)",ix9lvg,only_noname_geez,https://www.reddit.com/gallery/ix9lvg,0,11,1600751901.0,0
+Remove netrw buffer,ix8dur,abraxasknister,https://www.reddit.com/r/vim/comments/ix8dur/remove_netrw_buffer/,1,3,1600748224.0,0
+Can someone help me figure out whats goining on in this viml snippet,ix7sz5,jamJam20,https://www.reddit.com/r/vim/comments/ix7sz5/can_someone_help_me_figure_out_whats_goining_on/,3,6,1600746515.0,0
+Vim Diff is not as good as Vscode?,ix71ot,zonzon510,https://www.reddit.com/r/vim/comments/ix71ot/vim_diff_is_not_as_good_as_vscode/,12,29,1600744288.0,0
+how to create custom ctlp for a given list,ix635g,jamJam20,https://www.reddit.com/r/vim/comments/ix635g/how_to_create_custom_ctlp_for_a_given_list/,7,4,1600741506.0,0
+Jump definition visual bug,ix61wr,mind-ROT,https://www.reddit.com/r/vim/comments/ix61wr/jump_definition_visual_bug/,1,3,1600741403.0,0
+Most Popular Programming Languages on GitHub - 2011/2019,ix491m,accappatoiviola,https://youtu.be/eCUy0F-oVXA,0,4,1600735965.0,0
+Opening up a command in a terminal with a variable as an argument?,ix0ht9,Sol33t303,https://www.reddit.com/r/vim/comments/ix0ht9/opening_up_a_command_in_a_terminal_with_a/,3,4,1600724008.0,1
+"Vim terminal bar, bad contrast",iwxiyg,vimmervimming,https://www.reddit.com/r/vim/comments/iwxiyg/vim_terminal_bar_bad_contrast/,2,9,1600711367.0,0
+Found another Vim easter egg,iwwmrp,bratpeki,https://www.reddit.com/r/vim/comments/iwwmrp/found_another_vim_easter_egg/,148,34,1600706552.0,0
+What are some features of vim that you have felt increased your productivity or comfort while writing or navigating code?,iwurok,ggFtw720,https://www.reddit.com/r/vim/comments/iwurok/what_are_some_features_of_vim_that_you_have_felt/,7,17,1600696997.0,0
+fzf-project - a simple way of automatically switching between multiple projects,iwmyi2,benwainwright212,https://www.reddit.com/r/vim/comments/iwmyi2/fzfproject_a_simple_way_of_automatically/,78,31,1600667071.0,3
+"I am trying to make Vim colorschemes work in urxvt but I cannot, it turns out to be a completely different color. The .Xresource and .vimrc are in the comment. Can you guys please help?",iwmjam,mmddev,https://www.reddit.com/r/vim/comments/iwmjam/i_am_trying_to_make_vim_colorschemes_work_in/,13,4,1600665681.0,0
+Copy/paste from/to 2 vim sessions (running in 2 running in 2 terminals sessions),iwk5qm,kgavionics,https://www.reddit.com/r/vim/comments/iwk5qm/copypaste_fromto_2_vim_sessions_running_in_2/,6,9,1600658197.0,0
+.hpp files not detected by ALE anymore,iwjq29,Groctel,https://www.reddit.com/r/vim/comments/iwjq29/hpp_files_not_detected_by_ale_anymore/,3,2,1600656830.0,0
+vim adding ^[ escape sequence,iwguok,croyleje,https://www.reddit.com/r/vim/comments/iwguok/vim_adding_escape_sequence/,2,3,1600647689.0,0
+Found a background image plays well with Gruvbox color scheme,iwc6l2,roy2220,https://www.reddit.com/r/vim/comments/iwc6l2/found_a_background_image_plays_well_with_gruvbox/,119,20,1600629970.0,1
+Dalton - A Great Colorsheme for Colorblind people,iw0vt3,EdersonDeveloper,https://www.reddit.com/r/vim/comments/iw0vt3/dalton_a_great_colorsheme_for_colorblind_people/,32,7,1600578671.0,0
+Is there a insert newline command without going into insert mode?,iw0t0n,covertbeginner2,https://www.reddit.com/r/vim/comments/iw0t0n/is_there_a_insert_newline_command_without_going/,6,11,1600578378.0,0
+"A great Colorscheme , that you should give it a try .",ivzfrl,arpangreat,https://www.reddit.com/r/vim/comments/ivzfrl/a_great_colorscheme_that_you_should_give_it_a_try/,147,22,1600573661.0,3
+efficient navigation to a specific location on the visible screen,ivy070,rob508,https://www.reddit.com/r/vim/comments/ivy070/efficient_navigation_to_a_specific_location_on/,10,36,1600569063.0,0
+remapping ci( ca( di( da( etc,ivwo1b,quantum_booty,https://www.reddit.com/r/vim/comments/ivwo1b/remapping_ci_ca_di_da_etc/,5,13,1600564790.0,0
+Try ripgrep if you are using vimgrep,ivw2vn,el_cordoba,https://github.com/jremmen/vim-ripgrep,13,19,1600562913.0,0
+unable to active +xterm_clipboard flag compiling manually,ivtcj2,howtopassawscert,https://www.reddit.com/r/vim/comments/ivtcj2/unable_to_active_xterm_clipboard_flag_compiling/,2,4,1600553945.0,0
+Use ctags to generate tags for you .vim files!,ivrwah,EgZvor,https://www.reddit.com/r/vim/comments/ivrwah/use_ctags_to_generate_tags_for_you_vim_files/,42,7,1600548281.0,0
+Best Vim Themes.,ivprz6,arpangreat,https://www.reddit.com/r/vim/comments/ivprz6/best_vim_themes/,11,26,1600538294.0,0
+Lexima: a plugin to autoclose parentheses,ivpbar,harmonious_herman,https://github.com/cohama/lexima.vim,46,17,1600535937.0,0
+cmdline: move by word and search char??,ivoefw,dimtok,https://www.reddit.com/r/vim/comments/ivoefw/cmdline_move_by_word_and_search_char/,4,12,1600531133.0,0
+Linking files with Vim,ivnu4j,redwisdomlight,https://www.reddit.com/r/vim/comments/ivnu4j/linking_files_with_vim/,2,10,1600528174.0,0
+Alternative keybindings in vim (position oriented instead of mnemonics),ivj0gz,carracall,https://www.reddit.com/r/vim/comments/ivj0gz/alternative_keybindings_in_vim_position_oriented/,6,4,1600507502.0,0
+"When using a laptop, I find the touchpad navigation with the thumb faster than vim navigation",ivcjtt,fartbaker13,https://www.reddit.com/r/vim/comments/ivcjtt/when_using_a_laptop_i_find_the_touchpad/,30,67,1600485409.0,0
+The Most Popular Programming Languages - 1965/2020,iv7g7g,accappatoiviola,https://youtu.be/UNSoPa-XQN0,0,4,1600469277.0,0
+[A n00b's Question] How do I map a key in vim insert mode to paste my c++ template on pressing ctrl+<any key that I want>,iv0zmm,StrawberryShaker2005,https://www.reddit.com/r/vim/comments/iv0zmm/a_n00bs_question_how_do_i_map_a_key_in_vim_insert/,21,34,1600439684.0,0
+Remap the caps lock to ctrl for vim,iup9et,MoonlessNightss,https://www.reddit.com/r/vim/comments/iup9et/remap_the_caps_lock_to_ctrl_for_vim/,2,18,1600395863.0,0
+"Problems with formatting XML files, with tags that have many parameters",iunycz,Astro_Z0mbie,https://www.reddit.com/r/vim/comments/iunycz/problems_with_formatting_xml_files_with_tags_that/,8,4,1600391960.0,0
+How to highlight a pattern only in the current line?,iunh3x,invincibleimmortal,https://www.reddit.com/r/vim/comments/iunh3x/how_to_highlight_a_pattern_only_in_the_current/,5,8,1600390595.0,0
+What am i doing wrong?,iumxd7,ipuig99,https://www.reddit.com/r/vim/comments/iumxd7/what_am_i_doing_wrong/,6,2,1600388976.0,0
+Line spacing - How did I do it? How do I not do it ever again?,iuml8j,DurianBurp,https://www.reddit.com/r/vim/comments/iuml8j/line_spacing_how_did_i_do_it_how_do_i_not_do_it/,10,5,1600387961.0,0
+any one know haw to fix this ??,iul89b,rango_martin,https://i.redd.it/5sfznpmm3qn51.png,68,10,1600383863.0,0
+Latex citation and reference autocompletion (emacs reftex alternative),iui94t,gupibagha,https://www.reddit.com/r/vim/comments/iui94t/latex_citation_and_reference_autocompletion_emacs/,7,9,1600373706.0,0
+Don't put delete line [dd] in to register history,iuhy9d,Ok_Specialist_458,https://www.reddit.com/r/vim/comments/iuhy9d/dont_put_delete_line_dd_in_to_register_history/,6,12,1600372455.0,0
+Is it possible to yank in vim from one tmux pane and paste to another pane with vim open?,iugq2w,the_cli,https://www.reddit.com/r/vim/comments/iugq2w/is_it_possible_to_yank_in_vim_from_one_tmux_pane/,6,4,1600366743.0,0
+Vim Python REPL,iufd62,redwisdomlight,https://www.reddit.com/r/vim/comments/iufd62/vim_python_repl/,9,15,1600359782.0,0
+Folding using spacebar,iue1p7,HealthyDoggos4Life,https://www.reddit.com/r/vim/comments/iue1p7/folding_using_spacebar/,5,21,1600353370.0,0
+How to use git gutter with git bare repositories.,iudq4o,blackCauldron7,https://www.reddit.com/r/vim/comments/iudq4o/how_to_use_git_gutter_with_git_bare_repositories/,1,3,1600351765.0,0
+Best long term file explorer. Show me what y’all got,iubwbv,santiagobmx1993,https://www.reddit.com/r/vim/comments/iubwbv/best_long_term_file_explorer_show_me_what_yall_got/,16,30,1600343910.0,0
+Should vimwiki be tested or no?,iubtxk,happypuppy100,https://www.reddit.com/r/vim/comments/iubtxk/should_vimwiki_be_tested_or_no/,3,5,1600343646.0,0
+why is vim so hard,iualoa,420fourtwenny,https://www.reddit.com/r/vim/comments/iualoa/why_is_vim_so_hard/,137,77,1600338983.0,0
+Can LSP plugins work on multiple projects (multiple git repos) at the same time?,iu9ukt,cshao06,https://www.reddit.com/r/vim/comments/iu9ukt/can_lsp_plugins_work_on_multiple_projects/,0,2,1600336229.0,0
+"Vim Autocompletion for non ""header"" files",iu5mvt,King_of_Sarawak,https://www.reddit.com/r/vim/comments/iu5mvt/vim_autocompletion_for_non_header_files/,1,3,1600321827.0,0
+"Can I combine :Buffers and :Files from fzf.vim into one, single menu?",iu3qwy,NoCostAbstraction,https://www.reddit.com/r/vim/comments/iu3qwy/can_i_combine_buffers_and_files_from_fzfvim_into/,7,4,1600316321.0,0
+My plan for a tmux-/vim-based IDE. Feedback and advice wanted.,ity90y,unc4l1n,https://www.reddit.com/r/vim/comments/ity90y/my_plan_for_a_tmuxvimbased_ide_feedback_and/,3,25,1600300395.0,0
+vim-colors-github updated with a dark variant,itxh4f,cormacrelf,https://www.reddit.com/r/vim/comments/itxh4f/vimcolorsgithub_updated_with_a_dark_variant/,111,9,1600298107.0,0
+Using vim to 'normalize' whitespace from a PDF,ittzhl,acastles91,https://www.reddit.com/r/vim/comments/ittzhl/using_vim_to_normalize_whitespace_from_a_pdf/,1,10,1600286125.0,0
+Vim Key binding,itqmmf,ehsan3p,https://www.reddit.com/r/vim/comments/itqmmf/vim_key_binding/,2,6,1600268038.0,0
+"""Mellow"": a bg=light theme and statusline combo",itqhs9,adigitoleo,https://www.reddit.com/r/vim/comments/itqhs9/mellow_a_bglight_theme_and_statusline_combo/,55,33,1600267366.0,0
+Quickly write a file to the desktop,itl83q,jdalbert,https://www.reddit.com/r/vim/comments/itl83q/quickly_write_a_file_to_the_desktop/,24,31,1600245324.0,0
+Fast Typing: vi,itbqgp,code-faster,https://codefaster.substack.com/p/fast-typing-vi,5,2,1600214666.0,0
+Can vim be run in a “headless” mode?,itbbka,K4r4kara,https://www.reddit.com/r/vim/comments/itbbka/can_vim_be_run_in_a_headless_mode/,2,22,1600213441.0,0
+Using vim plugins in an IDE. Issues with braces. Is it worth it?,itav1w,fartbaker13,https://www.reddit.com/r/vim/comments/itav1w/using_vim_plugins_in_an_ide_issues_with_braces_is/,1,5,1600212028.0,0
+Lag between keyboard and action vim for LaTeX files,it9prg,kn0xchad,https://www.reddit.com/r/vim/comments/it9prg/lag_between_keyboard_and_action_vim_for_latex/,1,23,1600208473.0,0
+Custom command for creating and opening a new file in the same directory as the file currently active,it7t2i,fourstepper,https://www.reddit.com/r/vim/comments/it7t2i/custom_command_for_creating_and_opening_a_new/,1,13,1600201867.0,0
+My weekend project: Search for when Vim features got added,it5pdt,pwnedary,https://axelf4.github.io/vim-helptag-versions/,73,18,1600192367.0,0
+Bind to vim command,it507u,pophilpo,https://www.reddit.com/r/vim/comments/it507u/bind_to_vim_command/,1,7,1600188512.0,0
+Can I remap <C-/>?,it30ct,doedoe18881,https://www.reddit.com/r/vim/comments/it30ct/can_i_remap_c/,4,8,1600178595.0,0
+Go count lines up and leave the cursor at the last non blank/blank character something similar like what $ and g_ do.,it13h0,Bikashd4332,https://www.reddit.com/r/vim/comments/it13h0/go_count_lines_up_and_leave_the_cursor_at_the/,7,6,1600170478.0,0
+Pink sections in documentation,it0n45,renerthr,https://www.reddit.com/r/vim/comments/it0n45/pink_sections_in_documentation/,2,4,1600168747.0,0
+browsing opened buffers,isxzm7,bart9h,https://www.reddit.com/r/vim/comments/isxzm7/browsing_opened_buffers/,30,33,1600159085.0,1
+Multiline strings in vimscript,isvlec,,https://www.reddit.com/r/vim/comments/isvlec/multiline_strings_in_vimscript/,5,8,1600150848.0,0
+Hold down leader key and only repress other keys to trigger action,isrs9p,Adollf_Hipster,https://www.reddit.com/r/vim/comments/isrs9p/hold_down_leader_key_and_only_repress_other_keys/,7,12,1600139691.0,0
+How to send current line to shell command 'ls'?,ism3y5,ricardo_manar,https://www.reddit.com/r/vim/comments/ism3y5/how_to_send_current_line_to_shell_command_ls/,44,23,1600123167.0,0
+VIFM - select a program to open a file with?,islm4x,PBMagi,https://www.reddit.com/r/vim/comments/islm4x/vifm_select_a_program_to_open_a_file_with/,2,13,1600121549.0,0
+Issues with vim-lsc (and non-english characters),isg7m2,yokisuci,https://www.reddit.com/r/vim/comments/isg7m2/issues_with_vimlsc_and_nonenglish_characters/,0,2,1600096694.0,0
+How can I change the shape of the cursor in normal mode?,ise7mb,_-_Specter_-_,https://www.reddit.com/r/vim/comments/ise7mb/how_can_i_change_the_shape_of_the_cursor_in/,3,5,1600087427.0,0
+My code's highlighting used to be like this and then I put a setup of someone's I got on GitHub into the colors folder in my vimfiles. I got an error so I just deleted the setup from the files. But now I still get the error and now I have no coloring. How do I get it back?,isb3ch,SirDerpington660,https://www.reddit.com/gallery/isb3ch,0,4,1600075248.0,0
+Compile cpp on write?,isadnm,rDebate_Anything,https://www.reddit.com/r/vim/comments/isadnm/compile_cpp_on_write/,2,12,1600072533.0,0
+Vim newbie,is8e4x,pratzc07,https://www.reddit.com/r/vim/comments/is8e4x/vim_newbie/,1,11,1600065412.0,0
+could someone tell me how i can add tabs for multiple files like that please?,is7n89,SirDerpington660,https://i.redd.it/quimz0z5lzm51.jpg,0,11,1600062840.0,0
+How can I use the output of what I've run using the :terminal command?,is6wfn,naderad,https://www.reddit.com/r/vim/comments/is6wfn/how_can_i_use_the_output_of_what_ive_run_using/,0,13,1600060377.0,0
+Using Vim with a 40% keyboard,is5lc5,rosipov,https://www.rosipov.com/blog/vortex-core-keyboard/,24,28,1600056312.0,0
+Need a suggestion for colourscheme for vim,is466n,Drag0nSlyer,https://www.reddit.com/r/vim/comments/is466n/need_a_suggestion_for_colourscheme_for_vim/,3,10,1600051940.0,0
+Vimconf: Maria Hernandez talk missing?,is3v7u,craigdmac,https://www.reddit.com/r/vim/comments/is3v7u/vimconf_maria_hernandez_talk_missing/,0,60,1600051053.0,0
+Learning VimScript Video,is3oa1,prabirshrestha,https://www.reddit.com/r/vim/comments/is3oa1/learning_vimscript_video/,14,1,1600050483.0,0
+"[Help] Trying my hand at a custom python include search, based on Leeren's video & python's ast module.",is2vpx,noutaz,https://www.reddit.com/r/vim/comments/is2vpx/help_trying_my_hand_at_a_custom_python_include/,1,11,1600048159.0,0
+How to pause few seconds in auto cmd?,is07ok,jamJam20,https://www.reddit.com/r/vim/comments/is07ok/how_to_pause_few_seconds_in_auto_cmd/,1,4,1600039621.0,0
+Sunday morning reading in the backyard,irzstm,jdauriemma,https://i.redd.it/s7rlctxtjxm51.jpg,336,43,1600038240.0,0
+Is there a way to convert .exrc to init.vim?,iry6gu,b_redditer,https://www.reddit.com/r/vim/comments/iry6gu/is_there_a_way_to_convert_exrc_to_initvim/,0,7,1600032133.0,0
+views not always being permanent,irvspo,fillelio,https://www.reddit.com/r/vim/comments/irvspo/views_not_always_being_permanent/,0,3,1600021128.0,0
+Github,irvc6d,cpdf98,https://www.reddit.com/r/vim/comments/irvc6d/github/,0,9,1600018697.0,0
+Query: override colorscheme highlight group for a filetype?,irssre,db443,https://www.reddit.com/r/vim/comments/irssre/query_override_colorscheme_highlight_group_for_a/,1,4,1600005165.0,0
+Nerdtree Dynamic resizing,irl8hi,tamasiaina,https://www.reddit.com/r/vim/comments/irl8hi/nerdtree_dynamic_resizing/,1,0,1599975110.0,0
+tabstop + expandtab,iri5wy,Dr_DLT,https://www.reddit.com/r/vim/comments/iri5wy/tabstop_expandtab/,1,6,1599964961.0,0
+What kind of debugger are you using?,irgfm1,arch_is_1337,https://www.reddit.com/r/vim/comments/irgfm1/what_kind_of_debugger_are_you_using/,9,16,1599959269.0,0
+Making the active buffer more obvious,irboc7,tuerda,https://www.reddit.com/r/vim/comments/irboc7/making_the_active_buffer_more_obvious/,12,15,1599942377.0,0
+Fuzzy matching was just added to Vim,irbkj9,ProgMetalSlug,https://github.com/vim/vim/commit/635414dd2f3ae7d4d972d79b806348a6516cb91a,156,30,1599941936.0,0
+How can easy-align be used to right align comma seperated list?,ira4m4,n3buchadnezzar,https://www.reddit.com/r/vim/comments/ira4m4/how_can_easyalign_be_used_to_right_align_comma/,2,5,1599934722.0,0
+Patterns for setting per-project filetype settings?,ir66yv,badfoodman,https://www.reddit.com/r/vim/comments/ir66yv/patterns_for_setting_perproject_filetype_settings/,5,14,1599914093.0,0
+How can I trigger snippets automatically for a certian filetype with coc-snippets?,ir0ij1,Jack-o-tall-tales,https://www.reddit.com/r/vim/comments/ir0ij1/how_can_i_trigger_snippets_automatically_for_a/,5,1,1599891315.0,0
+"Can you use ""chords"" or ""hyper keys"" in Vim?",iqumac,areyoudizzzy,https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/,9,12,1599872732.0,0
+The ultimate vim+tmux window renaming script,iqu7lo,,https://www.reddit.com/r/vim/comments/iqu7lo/the_ultimate_vimtmux_window_renaming_script/,25,11,1599871543.0,0
+vim coc's coc-settings.json location?,iqu172,rahat-bro,https://www.reddit.com/r/vim/comments/iqu172/vim_cocs_cocsettingsjson_location/,0,7,1599871027.0,0
+Any good plugin for isolating tabs env,iqt29g,jamJam20,https://www.reddit.com/r/vim/comments/iqt29g/any_good_plugin_for_isolating_tabs_env/,5,7,1599868097.0,0
+Is there a way to apply an operator to the space in-between two different motions?,iqs081,nebulaeandstars,https://www.reddit.com/r/vim/comments/iqs081/is_there_a_way_to_apply_an_operator_to_the_space/,5,3,1599864872.0,0
+TypeScript Syntax Errors with coc in JSON files,iqqtuk,iamanatta,https://i.redd.it/bqh8p12wwim51.png,4,6,1599860978.0,0
+I created a public table of Vim's keyboard shortcuts and commands. It can be searched and filtered.,iqpr6r,tkainrad,https://www.reddit.com/r/vim/comments/iqpr6r/i_created_a_public_table_of_vims_keyboard/,150,28,1599857148.0,1
+What has been the hardest vim thing you learned?,iqpoxz,zardilior,https://i.redd.it/cotelf1qxem51.jpg,0,15,1599856897.0,0
+"Why is spell check highlighting like this? It should be red and underlined, as indeed it is when I open a new pane, but at first it is unreadable",iqnxbb,FEmbrey,https://www.reddit.com/gallery/iqnxbb,50,20,1599848789.0,0
+Render Markdown file as Emacs Orgmode,iqnpdy,Stockersky,https://www.reddit.com/r/vim/comments/iqnpdy/render_markdown_file_as_emacs_orgmode/,1,4,1599847609.0,0
+"Solarized dark: Low contrast, text should stand out more",iqnias,Vaniljkram,https://www.reddit.com/r/vim/comments/iqnias/solarized_dark_low_contrast_text_should_stand_out/,1,3,1599846551.0,0
+How can I overwrite my quit command?,iqmw7d,Nybu_,https://www.reddit.com/r/vim/comments/iqmw7d/how_can_i_overwrite_my_quit_command/,2,4,1599843140.0,0
+Xdebug in Vim - An Overview of Using Vdebug to Step Debug PHP Scripts,iqm77g,munkianis,https://www.youtube.com/watch?v=XZtTsWTnAiE&feature=share,2,7,1599839258.0,0
+Vim is always starting in insert mode,iqkkka,MoonlessNightss,https://www.reddit.com/r/vim/comments/iqkkka/vim_is_always_starting_in_insert_mode/,0,8,1599830758.0,0
+Local history vscode extension for Vim,iqkg7j,Pikachupmk,https://www.reddit.com/r/vim/comments/iqkg7j/local_history_vscode_extension_for_vim/,0,4,1599830157.0,0
+What about https://github.com/w0rp/ale ?,iqjgzi,jtuzp,https://www.reddit.com/r/vim/comments/iqjgzi/what_about_httpsgithubcomw0rpale/,0,3,1599826014.0,0
+How to parse the highest digit in a pattern and include it in a register?,iqjbom,AdrienLemaire,https://www.reddit.com/r/vim/comments/iqjbom/how_to_parse_the_highest_digit_in_a_pattern_and/,1,17,1599825438.0,0
+syntax highlighting for clojure,iqblog,jamJam20,https://www.reddit.com/r/vim/comments/iqblog/syntax_highlighting_for_clojure/,5,4,1599798544.0,0
+Vim syntax trouble,iqaq6p,boostmod3,https://www.reddit.com/r/vim/comments/iqaq6p/vim_syntax_trouble/,3,21,1599795951.0,0
+python debugger for vim,iq3srj,Vaniljkram,https://www.reddit.com/r/vim/comments/iq3srj/python_debugger_for_vim/,2,8,1599775118.0,0
+"What are registers in Vim, how to use them and the best practices",iq3qbl,ZeanQin,https://www.reddit.com/r/vim/comments/iq3qbl/what_are_registers_in_vim_how_to_use_them_and_the/,133,43,1599774887.0,1
+Show begun commands,iq1hq3,Tychoko,https://www.reddit.com/r/vim/comments/iq1hq3/show_begun_commands/,5,3,1599765977.0,0
+How to enable ligatures,iq028u,IvanBl1minse,https://www.reddit.com/r/vim/comments/iq028u/how_to_enable_ligatures/,7,10,1599758995.0,0
+YouCompleteMe Settings for C language,ipzctv,minamulhaq,https://www.reddit.com/r/vim/comments/ipzctv/youcompleteme_settings_for_c_language/,7,12,1599754979.0,0
+ALE 3.0 - Four Years of ALE!,ipq343,devw0rp,https://www.reddit.com/r/vim/comments/ipq343/ale_30_four_years_of_ale/,383,46,1599717241.0,5
+How to cycle through pop up menu without auto-inserting any selected item?,ipn1np,adamijak,https://www.reddit.com/r/vim/comments/ipn1np/how_to_cycle_through_pop_up_menu_without/,0,9,1599708050.0,0
+"How do I “prettify” code in Vim, for example JavaScript and SQL?",ipjvuy,yogibjorn,https://www.reddit.com/r/vim/comments/ipjvuy/how_do_i_prettify_code_in_vim_for_example/,8,16,1599699489.0,0
+How to use vim with multiple languages (profiles),ipjoxv,MoonlessNightss,https://www.reddit.com/r/vim/comments/ipjoxv/how_to_use_vim_with_multiple_languages_profiles/,2,23,1599698915.0,0
+Where can I see the scope of options?,ipf5ws,SpeedyMuffin,https://www.reddit.com/r/vim/comments/ipf5ws/where_can_i_see_the_scope_of_options/,3,4,1599684187.0,0
+"Vim Is Not An Editor, It's An Instrument!",ipe80q,temporaryred,https://www.youtube.com/watch?v=EJqnWXDJZr0,140,25,1599680315.0,1
+Please help me out!!,ipb45a,Federal_Cold_5200,https://www.reddit.com/r/vim/comments/ipb45a/please_help_me_out/,0,16,1599663366.0,0
+Setting up Vim for C++ development.,ipa711,LordofRaddishes,https://www.reddit.com/r/vim/comments/ipa711/setting_up_vim_for_c_development/,52,49,1599658522.0,0
+Ways to configure Coc (Neoclide / coc.nvim),ip6vpf,JohannsAtNN,https://www.reddit.com/r/vim/comments/ip6vpf/ways_to_configure_coc_neoclide_cocnvim/,0,0,1599644718.0,0
+vim-coc-clangd how to set clangd compile-commands-dir?,ip685b,anonymous_temp_mail,https://www.reddit.com/r/vim/comments/ip685b/vimcocclangd_how_to_set_clangd_compilecommandsdir/,1,3,1599642254.0,0
+Not sure how to rebind vim-fzf preview window keys,ip4tom,aceshades,https://www.reddit.com/r/vim/comments/ip4tom/not_sure_how_to_rebind_vimfzf_preview_window_keys/,1,1,1599637028.0,0
+Help For New Vim User,ip4jk7,ToBeat_ELIT3,https://www.reddit.com/r/vim/comments/ip4jk7/help_for_new_vim_user/,1,16,1599636011.0,0
+Delay after remapping {},ip4isg,ricardo_manar,https://www.reddit.com/r/vim/comments/ip4isg/delay_after_remapping/,0,6,1599635932.0,0
+Best way to fold in vim with html/vue?,ip2cqq,rubyglue,https://www.reddit.com/r/vim/comments/ip2cqq/best_way_to_fold_in_vim_with_htmlvue/,1,2,1599628458.0,0
+"How do I recover from accidentally writing with "":W""?",ip0r1i,IamaScaleneTriangle,https://www.reddit.com/r/vim/comments/ip0r1i/how_do_i_recover_from_accidentally_writing_with_w/,5,5,1599623506.0,0
+Noob Question: Stopping VIM from creating extra files?,ioz02h,32178932123,https://www.reddit.com/r/vim/comments/ioz02h/noob_question_stopping_vim_from_creating_extra/,3,4,1599618154.0,0
+Setting a directory with package.json as base for FZF finder,iovkb0,,https://www.reddit.com/r/vim/comments/iovkb0/setting_a_directory_with_packagejson_as_base_for/,3,1,1599607486.0,0
+Copy to system clipboard when in SSH,iou738,juraskura,https://www.reddit.com/r/vim/comments/iou738/copy_to_system_clipboard_when_in_ssh/,6,5,1599602887.0,0
+Has anyone gotten OmniSharp working on vim8+ inside WSL2?,iosu6g,RenTheDev,https://www.reddit.com/r/vim/comments/iosu6g/has_anyone_gotten_omnisharp_working_on_vim8/,2,3,1599597741.0,0
+Flake8 not catching mispelled attributes,iosi0a,Seankala,https://www.reddit.com/r/vim/comments/iosi0a/flake8_not_catching_mispelled_attributes/,0,0,1599596275.0,0
+gruvbit: variation of gruvbox colorscheme,iorjjs,habamax,https://www.reddit.com/gallery/iorjjs,181,27,1599591698.0,2
+Vim as Golang IDE | vim-go | Go development using vim,ioqqhk,souvikhaldar,https://www.youtube.com/watch?v=4J8XuBo21S4&feature=share,3,0,1599587301.0,0
+Terminal: Vim's terminal implementation vs neovim's terminal implementaion,ionme8,,https://www.reddit.com/r/vim/comments/ionme8/terminal_vims_terminal_implementation_vs_neovims/,10,17,1599570336.0,0
+Over 200 Million now use Vi,iolhhw,yamsupol,https://www.reddit.com/r/vim/comments/iolhhw/over_200_million_now_use_vi/,0,1,1599561221.0,0
+Set enviroment variable as an output of a vim command,iolab2,,https://www.reddit.com/r/vim/comments/iolab2/set_enviroment_variable_as_an_output_of_a_vim/,1,4,1599560428.0,0
+Normal mode mappings of semicolons to colons exits the hit-enter-prompt and hides the output,iojxgc,coinator,https://www.reddit.com/r/vim/comments/iojxgc/normal_mode_mappings_of_semicolons_to_colons/,0,6,1599555239.0,0
+Released! A new tool that runs as a companion to your text editor with the goal of making it easy to search your code and interact with those search results in useful ways.,iojqvy,coderifous,https://vimeo.com/455633260,127,31,1599554532.0,1
+/r/vimnoobs,iohwc7,flightm0de,https://www.reddit.com/r/vim/comments/iohwc7/rvimnoobs/,2,10,1599547481.0,0
+Conceals not hidden on file open?,iohc0d,YourDadsHusband,https://www.reddit.com/r/vim/comments/iohc0d/conceals_not_hidden_on_file_open/,0,2,1599545460.0,0
+German Vim users: what’s your <Leader> key?,iogfc8,domemvs,https://www.reddit.com/r/vim/comments/iogfc8/german_vim_users_whats_your_leader_key/,24,37,1599542439.0,0
+A Vim journey,iofq9o,ntropia64,https://www.reddit.com/r/vim/comments/iofq9o/a_vim_journey/,10,27,1599540347.0,0
+Vim has a built-in Emoji Picker! 🤯️,ioewb0,loveofcode,https://www.reddit.com/gallery/ioewb0,21,31,1599537808.0,0
+Mao for shift shift?,ioen21,Bobbbay,https://www.reddit.com/r/vim/comments/ioen21/mao_for_shift_shift/,2,8,1599537044.0,0
+git stage visual selection,io5k0d,Bactus,https://www.reddit.com/r/vim/comments/io5k0d/git_stage_visual_selection/,26,12,1599505834.0,0
+Line feed carriage return new line editing text question,io4yol,redwisdomlight,https://www.reddit.com/r/vim/comments/io4yol/line_feed_carriage_return_new_line_editing_text/,2,11,1599502687.0,0
+Is it possible to focus on one region of a large file?,io1c00,trvlr8,https://www.reddit.com/r/vim/comments/io1c00/is_it_possible_to_focus_on_one_region_of_a_large/,9,18,1599483826.0,0
+Using vim to write text,inv1eq,croyleje,https://www.reddit.com/r/vim/comments/inv1eq/using_vim_to_write_text/,40,65,1599458807.0,0
+Where can I find all videos from VimConf 2020,intekk,Maskdask,https://www.reddit.com/r/vim/comments/intekk/where_can_i_find_all_videos_from_vimconf_2020/,97,7,1599453212.0,0
+Vim help as an ebook?,insjq2,jdauriemma,https://www.reddit.com/r/vim/comments/insjq2/vim_help_as_an_ebook/,19,9,1599450261.0,0
+vim-todo-lists 0.8.0 is released,innyzh,aserebr,https://github.com/aserebryakov/vim-todo-lists,12,0,1599435109.0,0
+In Spf13-vim why does the enter key on windows just select blocks of text and not allow me to edit files ?,inn9kh,candylandcash,https://www.reddit.com/r/vim/comments/inn9kh/in_spf13vim_why_does_the_enter_key_on_windows/,3,4,1599432627.0,0
+[Ultisnips] Getting error in snippet.,inlj7z,TornaxO7,https://www.reddit.com/r/vim/comments/inlj7z/ultisnips_getting_error_in_snippet/,3,1,1599425719.0,0
+VimConf.live - Vim Speed and Excellence - ThePrimeagen,inlckh,haRacz,https://www.youtube.com/watch?v=tCktGgPQ3D0,39,1,1599424841.0,0
+"I've only ever used vim + tmux as my development platform, never an IDE. How can I integrate an IDE into my workflow?",inkk57,five4three2,https://www.reddit.com/r/vim/comments/inkk57/ive_only_ever_used_vim_tmux_as_my_development/,5,27,1599420829.0,0
+What is the best way to create a custom snippet?,ink591,daifuco,https://www.reddit.com/r/vim/comments/ink591/what_is_the_best_way_to_create_a_custom_snippet/,3,10,1599418672.0,0
+F1 remapped to ESC not working,injo38,Ok_Specialist_458,https://www.reddit.com/r/vim/comments/injo38/f1_remapped_to_esc_not_working/,2,8,1599416034.0,0
+Leeren - Vim as an IDE (VimConf 2020),inij4d,leeren,https://www.youtube.com/watch?v=Gs1VDYnS-Ac,292,57,1599409586.0,0
+N00b learning to use vim,inhnq3,,https://i.imgur.com/MNLdTCR.gif,0,0,1599404739.0,0
+Weird error when I disable NERDTree autostart in .vimrc,indf9c,cmskipsey,https://www.reddit.com/r/vim/comments/indf9c/weird_error_when_i_disable_nerdtree_autostart_in/,0,2,1599385130.0,0
+"Self installing vimrc, well integrated with many known plugins - for C++ / Python dev + debugging",inbl1p,eyalz800,https://www.reddit.com/r/vim/comments/inbl1p/self_installing_vimrc_well_integrated_with_many/,0,7,1599377989.0,0
+vim-shoot - Vim plugin to take screenshots of code,inalyi,jmckiern1,https://www.reddit.com/r/vim/comments/inalyi/vimshoot_vim_plugin_to_take_screenshots_of_code/,5,8,1599374287.0,0
+One of the most important and underappreciated reasons to learn Vim,in8qtm,EricTboneJackson,https://www.reddit.com/r/vim/comments/in8qtm/one_of_the_most_important_and_underappreciated/,31,8,1599367955.0,0
+"Sharpening the Axe (Greg Hurrel, VimConf 2020)",in88ef,sbruchmann,https://www.youtube.com/watch?v=iEShYRRVZOE,176,6,1599366172.0,0
+Search a string in buffer,in6odk,flurach,https://www.reddit.com/r/vim/comments/in6odk/search_a_string_in_buffer/,0,6,1599360959.0,0
+wut is it mean?,in6i0q,arch_is_1337,https://www.reddit.com/r/vim/comments/in6i0q/wut_is_it_mean/,0,6,1599360356.0,0
+OLKB PLANCK as a vim user how do you have yours setup,in5v0r,the_guy1,https://www.reddit.com/r/vim/comments/in5v0r/olkb_planck_as_a_vim_user_how_do_you_have_yours/,0,2,1599358173.0,0
+How to change font style for terminal Vim,in5cef,SumanthN9,https://www.reddit.com/r/vim/comments/in5cef/how_to_change_font_style_for_terminal_vim/,0,7,1599356428.0,0
+Kakoune-like experience in (N)Vim,in4myu,fortea92,https://www.reddit.com/r/vim/comments/in4myu/kakounelike_experience_in_nvim/,9,11,1599354095.0,0
+How to keep specific part of regex?,in1hh6,Tagina_Vickler,https://www.reddit.com/r/vim/comments/in1hh6/how_to_keep_specific_part_of_regex/,1,20,1599342866.0,0
+"Mapped something to <C-m> in vimrc, which caused problems with enter key, removed the mapping and still have problems",imxyez,Sakka112,https://www.reddit.com/r/vim/comments/imxyez/mapped_something_to_cm_in_vimrc_which_caused/,2,4,1599324990.0,0
+Building a Discord bot in Ruby and vim - live stream starting soon,imwwl1,drzel,https://www.twitch.tv/drzel1,0,0,1599318977.0,0
+Reminder that the virtual Vim conference starts tomorrow 9:30 AM PDT,imuayv,leeren,https://www.reddit.com/r/vim/comments/imuayv/reminder_that_the_virtual_vim_conference_starts/,114,14,1599305879.0,0
+Total newbie looking for good tutorials,imtfce,grapeintensity,https://www.reddit.com/r/vim/comments/imtfce/total_newbie_looking_for_good_tutorials/,0,10,1599301984.0,0
+Remapping keys,impv8l,T9potato,https://www.reddit.com/r/vim/comments/impv8l/remapping_keys/,0,3,1599287663.0,0
+Any plugin/function to use trash-cli from Vim to trash the current file?,imnuhs,Maskdask,https://www.reddit.com/r/vim/comments/imnuhs/any_pluginfunction_to_use_trashcli_from_vim_to/,0,4,1599280787.0,0
+Created custom airline formatter with devicons to work with React,immcox,ecosse31,https://www.reddit.com/r/vim/comments/immcox/created_custom_airline_formatter_with_devicons_to/,0,5,1599275807.0,0
+Is there or can I create a *global* filetype plugin,imm842,sigzero,https://www.reddit.com/r/vim/comments/imm842/is_there_or_can_i_create_a_global_filetype_plugin/,0,3,1599275402.0,0

@@ -1,0 +1,999 @@
+title,id,author,url,score,comments_number,created,award
+Creating a Blog in Org-Mode in 2020,k9f9ne,slondr,https://blog.ericlondr.es/creating-a-blorg-in-2020.html,1,0,1607497280.0,0
+Alias for a mode?,k9ez6q,jmite,https://www.reddit.com/r/emacs/comments/k9ez6q/alias_for_a_mode/,1,3,1607496353.0,0
+Where to start with Magit?,k9esqj,ideasman_42,https://www.reddit.com/r/emacs/comments/k9esqj/where_to_start_with_magit/,1,2,1607495775.0,0
+Emacs spotted at GitHub Universe 2020,k9e3tu,dmartincy,https://www.reddit.com/r/emacs/comments/k9e3tu/emacs_spotted_at_github_universe_2020/,3,0,1607493663.0,0
+Return value from `request.el' function,k9ct2a,pragmat1c1,https://www.reddit.com/r/emacs/comments/k9ct2a/return_value_from_requestel_function/,1,1,1607489665.0,0
+What is a ad-Advice-newline-and-indent,k9cg1y,jorschach_buffer,https://www.reddit.com/r/emacs/comments/k9cg1y/what_is_a_adadvicenewlineandindent/,2,5,1607488594.0,0
+Gnus not resizing images,k9ccvc,BluePinkElephant,https://www.reddit.com/r/emacs/comments/k9ccvc/gnus_not_resizing_images/,3,3,1607488332.0,0
+Emacs User Survey 2020 Results,k9a0r8,abrochard,https://www.reddit.com/r/emacs/comments/k9a0r8/emacs_user_survey_2020_results/,47,22,1607481566.0,0
+Instant LaTeX preview in org-mode with org-latex-impatient,k9b0iu,yangsheng6810,https://i.redd.it/nwujqzchk0461.gif,21,0,1607484357.0,0
+Is there a reason to byte-compile my config files?,k97dh5,FluentFelicity,https://www.reddit.com/r/emacs/comments/k97dh5/is_there_a_reason_to_bytecompile_my_config_files/,3,12,1607473808.0,0
+Mu4e drafts and deleted e-mails,k96tdt,zoliky,https://www.reddit.com/r/emacs/comments/k96tdt/mu4e_drafts_and_deleted_emails/,3,1,1607472084.0,0
+Origami.el - fold creation evil operator (triple braces parser),k96ht6,VanLaser,https://github.com/gregsexton/origami.el/wiki/Origami---Evil-Operator-Example,6,1,1607471056.0,0
+mu4e gmail citation style,k9414w,pspencil,https://www.reddit.com/r/emacs/comments/k9414w/mu4e_gmail_citation_style/,1,0,1607462415.0,0
+Favorite Emacs Packages,k94cj3,bozhidarb,https://emacsredux.com/blog/2020/12/08/favorite-emacs-packages/,60,29,1607463686.0,1
+Is anyone using the neo layout with emacs?,k93rje,__ismxy__,https://www.reddit.com/r/emacs/comments/k93rje/is_anyone_using_the_neo_layout_with_emacs/,3,4,1607461296.0,0
+Custom links (org-link-abbrev-alist) with a function (instead of a string),k92nl3,publicvoit,https://www.reddit.com/r/emacs/comments/k92nl3/custom_links_orglinkabbrevalist_with_a_function/,2,3,1607455900.0,0
+Switching to Selectrum for incremental narrowing in Emacs,k8u4p7,Specialist-Apricot-9,https://www.rousette.org.uk/archives/switching-to-selectrum-for-incremental-narrowing-in-emacs/,10,5,1607418657.0,0
+Emacs Wishlist,k8ruy1,Specialist-Apricot-9,https://www.reddit.com/r/emacs/comments/k8ruy1/emacs_wishlist/,11,34,1607411050.0,0
+Improving org mode with extentions,k9040b,arredi,https://www.reddit.com/r/emacs/comments/k9040b/improving_org_mode_with_extentions/,7,16,1607442286.0,0
+Weekly tips/trick/etc/ thread,k8zjx5,AutoModerator,https://www.reddit.com/r/emacs/comments/k8zjx5/weekly_tipstricketc_thread/,7,2,1607439611.0,0
+"Checkout my Emacs setup it has been a while since I worked on it and I'd like to know what to add, remove, or replace any help appreciated.",k8yb2y,no-nut-osut,https://github.com/eckertliam/.emacs.d,0,4,1607434013.0,0
+Help setting up C# LSP (Omnisharp-Roslyn),k8tnzg,bojinless,https://www.reddit.com/r/emacs/comments/k8tnzg/help_setting_up_c_lsp_omnisharproslyn/,4,3,1607417054.0,0
+Other editors from Emacs user's point of view,k8r0ci,Whole_Kiwi,https://www.reddit.com/r/emacs/comments/k8r0ci/other_editors_from_emacs_users_point_of_view/,50,130,1607408630.0,0
+Weird problem - del key is backspacing,k8mc10,xircon,https://www.reddit.com/r/emacs/comments/k8mc10/weird_problem_del_key_is_backspacing/,2,10,1607394646.0,0
+How to help making function comments with specific format,k8jzf5,nh3456,https://www.reddit.com/r/emacs/comments/k8jzf5/how_to_help_making_function_comments_with/,1,2,1607387839.0,0
+Help with org template capturing,k8jm3o,Edk99,https://www.reddit.com/r/emacs/comments/k8jm3o/help_with_org_template_capturing/,1,6,1607386731.0,0
+Struggling with setting up Slime on OSX,k8jast,322322322322322322,https://www.reddit.com/r/emacs/comments/k8jast/struggling_with_setting_up_slime_on_osx/,1,3,1607385766.0,0
+Org Roam search subheadings,k8ih32,Jadenjohn_ch,https://www.reddit.com/r/emacs/comments/k8ih32/org_roam_search_subheadings/,7,3,1607383196.0,0
+Emacs lolz,k8ey4t,djrdjrdjrdjrdjr,https://www.reddit.com/r/emacs/comments/k8ey4t/emacs_lolz/,43,91,1607369251.0,0
+How to read user input while debugging a C++ program using the dap-mode?,k8eosi,SegfaultLove,https://www.reddit.com/r/emacs/comments/k8eosi/how_to_read_user_input_while_debugging_a_c/,2,6,1607368058.0,0
+Clojure-like lambda expressions in Emacs Lisp,k8f4c1,Piotr_Klibert,https://klibert.pl/posts/emacs-short-lambda.html,16,14,1607370021.0,0
+display-fill-column-indicator-column not applying on startup,k895t5,seeminglyugly,https://www.reddit.com/r/emacs/comments/k895t5/displayfillcolumnindicatorcolumn_not_applying_on/,2,3,1607342371.0,0
+Adding Hydra Menu for Org Roam Lookup in Emacs // Take on Rules,k86qgw,takeonrules,https://takeonrules.com/2020/12/06/adding-hydra-menu-for-org-roam-lookup-in-emacs/,5,8,1607333471.0,0
+[ANN] Scroll-on-jump package to recenter and optionally animate any action that moves the point,k85nwi,ideasman_42,https://v.redd.it/kn8oe3cqsn361,124,30,1607329571.0,3
+"Nice options that was added in emacs master. (xref-search-program-alist, xref-search-program)",k851vp,saarin,https://www.reddit.com/r/emacs/comments/k851vp/nice_options_that_was_added_in_emacs_master/,11,4,1607327438.0,0
+Highlight character at point and overwrite it with each keystroke -- ad nauseam?,k82vz4,lawlist,https://www.reddit.com/r/emacs/comments/k82vz4/highlight_character_at_point_and_overwrite_it/,3,2,1607320218.0,0
+EmacsConf 2020 Talk links,k7zi1s,CrankyBear,https://emacsconf.org/2020/talks/,15,0,1607309446.0,0
+Goggles: Pulse modified region - Alternative to volatile-highlights/evil-goggles,k7xtbp,dmendler,https://github.com/minad/goggles,20,9,1607304263.0,0
+Org-transclusion (alpha v0.0.6) Demo #6,k7wgmw,nobiot,https://www.youtube.com/watch?v=nXQXLz-rsDk&feature=share,73,13,1607299968.0,0
+Latex-preview-pane and latexmk,k7sx2n,FluentFelicity,https://www.reddit.com/r/emacs/comments/k7sx2n/latexpreviewpane_and_latexmk/,5,4,1607286436.0,0
+Quickly toggle between preferred display/monitor orientations (macOS),k7cluy,xenodium,https://www.reddit.com/r/emacs/comments/k7cluy/quickly_toggle_between_preferred_displaymonitor/,3,0,1607221239.0,0
+"Do you ever accidentally brush your touchpad when typing, with annoying results?",k7opim,maaliinsaakka,https://www.reddit.com/r/emacs/comments/k7opim/do_you_ever_accidentally_brush_your_touchpad_when/,19,14,1607265606.0,0
+buttercup and file operations,k7kz4o,-dag-,https://www.reddit.com/r/emacs/comments/k7kz4o/buttercup_and_file_operations/,5,2,1607250022.0,0
+Yasnippet (writing a snippet): Is there a trick to breaking up long-lines for readability?,k7icb2,lawlist,https://www.reddit.com/r/emacs/comments/k7icb2/yasnippet_writing_a_snippet_is_there_a_trick_to/,5,5,1607240129.0,0
+EmacsConf 2020: Videos are out!,k7i20b,Zaeph,https://www.reddit.com/r/emacs/comments/k7i20b/emacsconf_2020_videos_are_out/,164,11,1607239100.0,0
+"When emacs hangs, what do you do?",k7cku8,gws10463,https://www.reddit.com/r/emacs/comments/k7cku8/when_emacs_hangs_what_do_you_do/,11,19,1607221154.0,0
+Emacs 27.1 removed ImageMagick. How do you reduce image sizes in Mu4e?,k7btir,zoliky,https://www.reddit.com/r/emacs/comments/k7btir/emacs_271_removed_imagemagick_how_do_you_reduce/,8,13,1607218823.0,0
+What are your favourite EmacsConf 2020 talks?,k77k6a,Desmesura,https://www.reddit.com/r/emacs/comments/k77k6a/what_are_your_favourite_emacsconf_2020_talks/,75,25,1607204055.0,0
+What's the name of this package?,k77fnz,Moostropfen,https://www.reddit.com/r/emacs/comments/k77fnz/whats_the_name_of_this_package/,28,7,1607203537.0,0
+Nix and Emacs,k6vas3,nanounanue,https://www.reddit.com/r/emacs/comments/k6vas3/nix_and_emacs/,14,5,1607150251.0,0
+EmacsConf2020 - Extend Emacs to Modern GUI Applications with EAF,k6v6ju,MatthewZMD,https://www.youtube.com/watch?v=HK_f8KTuR0s&feature=share,63,14,1607149861.0,0
+Does `count-lines` work as expected?,k6v3sf,tomatoaway,https://www.reddit.com/r/emacs/comments/k6v3sf/does_countlines_work_as_expected/,2,9,1607149611.0,0
+What's the next best thing to tramp for non-posix devices?,k6ua9n,RoastVeg,https://www.reddit.com/r/emacs/comments/k6ua9n/whats_the_next_best_thing_to_tramp_for_nonposix/,2,1,1607147018.0,0
+Any guides or tips for create a config with separated files?,k6txid,udduu,https://www.reddit.com/r/emacs/comments/k6txid/any_guides_or_tips_for_create_a_config_with/,0,11,1607145869.0,0
+Display equations inline with math-preview,k6rq84,seregaxvm,https://v.redd.it/civile4028361,167,21,1607139043.0,2
+Maximize the Emacs Frame on Startup,k6r7gt,bozhidarb,https://emacsredux.com/blog/2020/12/04/maximize-the-emacs-frame-on-startup/,27,1,1607137433.0,0
+Super-key binding to C-x,k6r4je,ugurbolat,https://www.reddit.com/r/emacs/comments/k6r4je/superkey_binding_to_cx/,5,10,1607137189.0,0
+What's the point of DEFT?,k6qww5,enzlbtyn,https://www.reddit.com/r/emacs/comments/k6qww5/whats_the_point_of_deft/,6,10,1607136533.0,0
+Debugging LSP and Terraform config,k6pp9r,spolarian,https://www.reddit.com/r/emacs/comments/k6pp9r/debugging_lsp_and_terraform_config/,5,3,1607132797.0,0
+Is anyone using ob-jupyter and publishing it with Hugo,k6p7sy,pathemata,https://www.reddit.com/r/emacs/comments/k6p7sy/is_anyone_using_objupyter_and_publishing_it_with/,2,3,1607131310.0,0
+NOOB Question: Can I add an image to enriched text mode?,k6p1c2,FirstFlight,https://www.reddit.com/r/emacs/comments/k6p1c2/noob_question_can_i_add_an_image_to_enriched_text/,3,6,1607130753.0,0
+Emacs 27.1 + Tramp + Zsh,k6p0g2,Aaronzinhoo,https://www.reddit.com/r/emacs/comments/k6p0g2/emacs_271_tramp_zsh/,11,4,1607130681.0,0
+"Optimizing Window Placement in EXWM - Emacs Desktop Environment #3 (LIVE 12/4, 9:15 am PST)",k6o0el,daviwil,https://youtu.be/HGGU5Zvljj8,18,3,1607127738.0,0
+Can't get yasnippet environment to work,k6ngdk,calcuIus,https://www.reddit.com/r/emacs/comments/k6ngdk/cant_get_yasnippet_environment_to_work/,3,1,1607126040.0,0
+Per-buffer color scheme,k6mpoc,zoliky,https://www.reddit.com/r/emacs/comments/k6mpoc/perbuffer_color_scheme/,6,4,1607123697.0,0
+Emacs config question,k6kxby,f3l1p3g4uch0,https://www.reddit.com/r/emacs/comments/k6kxby/emacs_config_question/,7,2,1607117510.0,0
+NOOB Question: How to get syntax highlighting in php strings for html,k6hvy5,saft67sf,https://www.reddit.com/r/emacs/comments/k6hvy5/noob_question_how_to_get_syntax_highlighting_in/,3,0,1607103544.0,0
+Elisp Symbol Renaming,k6d1m2,DWHoman,https://www.reddit.com/r/emacs/comments/k6d1m2/elisp_symbol_renaming/,4,2,1607081928.0,0
+At my wits end trying to cache passphrase with gpg2 + gpg-agent + epa,k6aj3y,rdcdr,https://www.reddit.com/r/emacs/comments/k6aj3y/at_my_wits_end_trying_to_cache_passphrase_with/,3,1,1607072208.0,0
+I feel attacked.,k69cnk,Mindless-Gene3971,https://i.redd.it/f450kw1l72361.png,99,8,1607068189.0,0
+[ANN] Experimental org-mode branch improving performance on large files,k6f5x7,yantar92,/r/orgmode/comments/k6f5fx/ann_experimental_orgmode_branch_improving/,69,4,1607090551.0,0
+Get breadcrumbs of current headline?,k6eb3i,whudwl,https://www.reddit.com/r/emacs/comments/k6eb3i/get_breadcrumbs_of_current_headline/,7,4,1607087078.0,0
+"[ANN] default-font-presets, cycle between font presets, scale font size",k6dxor,ideasman_42,https://gitlab.com/ideasman42/emacs-default-font-presets,6,2,1607085286.0,0
+Should setq or defvar be used for data which stay the same throughout the session?,k68r8i,vfclists,https://www.reddit.com/r/emacs/comments/k68r8i/should_setq_or_defvar_be_used_for_data_which_stay/,0,4,1607066269.0,0
+Not my normal Emacs video but using Emacs to solve AOC day 3 in Clojure,k67vlx,zamansky,https://www.reddit.com/r/emacs/comments/k67vlx/not_my_normal_emacs_video_but_using_emacs_to/,32,12,1607063452.0,0
+Can declaration of let variables by simplified?,k6656s,vfclists,https://www.reddit.com/r/emacs/comments/k6656s/can_declaration_of_let_variables_by_simplified/,1,4,1607058126.0,0
+[WIP/RFC] orgmode visual outline hierarchy,k63ry6,itistheblurstoftimes,https://www.reddit.com/r/emacs/comments/k63ry6/wiprfc_orgmode_visual_outline_hierarchy/,38,8,1607051122.0,0
+Help configuring org-ref,k62q3b,kingpatzer,https://www.reddit.com/r/emacs/comments/k62q3b/help_configuring_orgref/,2,1,1607048143.0,0
+Dealing with SSO provider like okta for mu4e and gcal,k614ct,gws10463,https://www.reddit.com/r/emacs/comments/k614ct/dealing_with_sso_provider_like_okta_for_mu4e_and/,3,1,1607043618.0,0
+Has anyone gotten autocompletion working with python and LSP for numpy and pandas?,k60w51,NoisyFrequency,https://www.reddit.com/r/emacs/comments/k60w51/has_anyone_gotten_autocompletion_working_with/,6,11,1607042967.0,0
+Somehow Eshell is working perfectly,k5zrlb,soumya6097,https://www.reddit.com/r/emacs/comments/k5zrlb/somehow_eshell_is_working_perfectly/,85,51,1607039633.0,0
+straight.el with native compilation emacs,k5zf0e,VanLaser,https://www.reddit.com/r/emacs/comments/k5zf0e/straightel_with_native_compilation_emacs/,12,3,1607038567.0,0
+Scrambling problem with company suggestions in doom-emacs,k5pqdr,mklsls,https://www.reddit.com/r/emacs/comments/k5pqdr/scrambling_problem_with_company_suggestions_in/,3,0,1606996201.0,0
+How can I keep backup everything including emacs?,k5jioo,alperrrrrrrr,https://www.reddit.com/r/emacs/comments/k5jioo/how_can_i_keep_backup_everything_including_emacs/,2,23,1606975251.0,0
+how to update packages in straight,k5hyoh,gws10463,https://www.reddit.com/r/emacs/comments/k5hyoh/how_to_update_packages_in_straight/,3,2,1606970673.0,0
+outliner for org-mode files?,k5ha8x,beerbearbare,https://www.reddit.com/r/emacs/comments/k5ha8x/outliner_for_orgmode_files/,2,4,1606968709.0,0
+Is there any chance to add more maintainers to melpa?,k5ebpj,dmendler,https://github.com/melpa/melpa/issues/7266,25,57,1606960454.0,0
+"Emacs IDE for Python: Setting up the debugger with dap-mode, Poetry and pyenv",k5dsar,iblysa,https://www.reddit.com/r/emacs/comments/k5dsar/emacs_ide_for_python_setting_up_the_debugger_with/,7,6,1606958977.0,0
+C-c C-c without need to switch focus to code buffer?,k5dn73,okimka,https://www.reddit.com/r/emacs/comments/k5dn73/cc_cc_without_need_to_switch_focus_to_code_buffer/,1,3,1606958569.0,0
+Using DejaVu Sans Mono for a specific set of characters,k5dhwb,zoliky,https://i.redd.it/5se6ebwi3t261.png,3,7,1606958152.0,0
+I don't understand how keybindings work,k5crqt,kshenoy42,https://www.reddit.com/r/emacs/comments/k5crqt/i_dont_understand_how_keybindings_work/,8,7,1606956114.0,0
+"Emacs IDE - Python Development Configuration (LIVE 12/2, 9:15 am PST)",k5cqwb,daviwil,https://youtu.be/jPXIP46BnNA,133,23,1606956045.0,2
+Quick commits to become evil,k5bicm,toyboot4e,https://www.reddit.com/r/emacs/comments/k5bicm/quick_commits_to_become_evil/,16,14,1606952438.0,0
+"Bind ""C-x @"" to keyboard macro? (For Hyper modifier)",k5a7un,mansetta,https://www.reddit.com/r/emacs/comments/k5a7un/bind_cx_to_keyboard_macro_for_hyper_modifier/,2,2,1606948212.0,0
+Refile to datetree when datetree is not year alone but year + text?,k57sun,pragmat1c1,https://www.reddit.com/r/emacs/comments/k57sun/refile_to_datetree_when_datetree_is_not_year/,7,1,1606938440.0,0
+Is there a WebAssembly interpreter written in Emacs Lisp?,k56k3s,dev100500,https://www.reddit.com/r/emacs/comments/k56k3s/is_there_a_webassembly_interpreter_written_in/,10,16,1606932087.0,0
+"Are the some videos teaching how to use the debugger in emacs, eg single stepping, breakpoints etc?",k525j4,vfclists,https://www.reddit.com/r/emacs/comments/k525j4/are_the_some_videos_teaching_how_to_use_the/,12,11,1606911847.0,0
+"What are your favorite ""Low Contrast Emacs Themes""",k5253b,zosterops_p,https://www.reddit.com/r/emacs/comments/k5253b/what_are_your_favorite_low_contrast_emacs_themes/,9,28,1606911806.0,0
+27.x messing up key bindings? (win10),k51br7,madwilliamflint,https://www.reddit.com/r/emacs/comments/k51br7/27x_messing_up_key_bindings_win10/,1,6,1606908861.0,0
+Powerline Doom Emacs,k4zavc,fizzzzi,https://www.reddit.com/r/emacs/comments/k4zavc/powerline_doom_emacs/,0,1,1606901980.0,0
+Strange looking characters in mu4e,k4t11l,zoliky,https://i.redd.it/cfvq3m77vm261.png,7,11,1606882406.0,0
+"Custom toolbar on Big Sur, inspired by the recent post about SVG toolbar",k4pgt1,casouri,https://www.reddit.com/gallery/k4pgt1,102,6,1606872438.0,1
+Personal wiki,k4onb8,18gatenmaker6,https://www.reddit.com/r/emacs/comments/k4onb8/personal_wiki/,28,21,1606870138.0,0
+Faster Emacs Startup with Custom Configuration,k4nwp1,arthurno1,http://www.nextpoint.se/?p=830,15,16,1606868003.0,0
+Question about objed,k4lr25,KnightOfTribulus,https://www.reddit.com/r/emacs/comments/k4lr25/question_about_objed/,9,5,1606861365.0,0
+emacs-buttons - Key binding DSL,k4kv3r,Categoria,https://github.com/erjoalgo/emacs-buttons,12,2,1606858314.0,0
+Add extra items into lsp-mode/js2-mode imenu items,k4kkjn,redguardtoo,https://www.reddit.com/r/emacs/comments/k4kkjn/add_extra_items_into_lspmodejs2mode_imenu_items/,3,0,1606857172.0,0
+Share vanilla emacs config examples (with a small number of external packages),k4kemb,saarin,https://www.reddit.com/r/emacs/comments/k4kemb/share_vanilla_emacs_config_examples_with_a_small/,9,11,1606856511.0,0
+Feedback on mu4e window arrangement hook,k4j918,madoee,https://www.reddit.com/r/emacs/comments/k4j918/feedback_on_mu4e_window_arrangement_hook/,1,2,1606851319.0,0
+Distributing Configured Emacs via Home Manager Module,k4cvlf,Psionikus,https://www.reddit.com/r/emacs/comments/k4cvlf/distributing_configured_emacs_via_home_manager/,4,0,1606823044.0,0
+Weekly tips/trick/etc/ thread,k4gv0x,AutoModerator,https://www.reddit.com/r/emacs/comments/k4gv0x/weekly_tipstricketc_thread/,14,24,1606839409.0,0
+How can I issue http requests from within an emacs buffer,k4gr9z,imacarpet,https://www.reddit.com/r/emacs/comments/k4gr9z/how_can_i_issue_http_requests_from_within_an/,3,7,1606838913.0,0
+Help tracking down a mixed-pitch issue please?,k4fkho,mediapathic,https://www.reddit.com/r/emacs/comments/k4fkho/help_tracking_down_a_mixedpitch_issue_please/,2,0,1606833487.0,0
+"[ANN] (re)complete, immediate correction/completion without a prompt",k4egfd,ideasman_42,https://gitlab.com/ideasman42/emacs-recomplete,12,4,1606828842.0,0
+Building websites with org-mode was never this easy.,k4aktr,dawnstar_hu,https://www.huxiaoxing.com/building-a-website-with-org-mode-files,68,14,1606815331.0,0
+New package: A looping/iteration macro like `cl-loop`,k47h7z,okamsn,https://www.reddit.com/r/emacs/comments/k47h7z/new_package_a_loopingiteration_macro_like_clloop/,6,2,1606805667.0,0
+"Announcing `papis.el`, an emacs package for papis, a highly extensible command line bibliography manager",k44stt,elgalloitaliano,https://github.com/papis/papis.el,20,6,1606797898.0,0
+Where can I learn more about fido-mode?,k437sp,NoisyFrequency,https://www.reddit.com/r/emacs/comments/k437sp/where_can_i_learn_more_about_fidomode/,3,8,1606793490.0,0
+Enable line numbers for certain types of modes and disable for others,k42dc9,zoliky,https://www.reddit.com/r/emacs/comments/k42dc9/enable_line_numbers_for_certain_types_of_modes/,2,5,1606791132.0,0
+IDE setup for Python,k426r4,NoisyFrequency,https://imgur.com/a/kyAzics,33,16,1606790662.0,0
+"What syntax can be used to show that some code is creating an alist, something eval'd?",k40tku,vfclists,https://www.reddit.com/r/emacs/comments/k40tku/what_syntax_can_be_used_to_show_that_some_code_is/,0,8,1606787117.0,0
+On my desk. Only one owner...,k3z7o9,alanlight,https://i.redd.it/asvdpjxrme261.jpg,81,19,1606782725.0,0
+Final Remider: Emacs User Survey closes tonight at midnight EST,k3ye8u,abrochard,https://www.reddit.com/r/emacs/comments/k3ye8u/final_remider_emacs_user_survey_closes_tonight_at/,27,0,1606780389.0,0
+A question regarding g_CTRL-A equivalent in evil mode,k3y5k9,ixlxixl,https://www.reddit.com/r/emacs/comments/k3y5k9/a_question_regarding_g_ctrla_equivalent_in_evil/,3,4,1606779673.0,0
+Speeding up magit,k3xfa1,Categoria,https://jakemccrary.com/blog/2020/11/14/speeding-up-magit/,63,12,1606777457.0,0
+EmacsConf: Traverse complex JSON structures with live feedback with counsel-jq,k3wwb6,preek,https://200ok.ch/posts/2020-11-30_emacsconf_traverse_complex_json_structures_with_live_feedback_with_counseljq.html,23,15,1606775772.0,0
+Experimental SVG toolbar,k3vuc1,Nicolas-Rougier,https://i.redd.it/q0ud23auqd261.png,219,32,1606771998.0,0
+How to resize images without Imagemagick?,k3tia8,vemironic,https://www.reddit.com/r/emacs/comments/k3tia8/how_to_resize_images_without_imagemagick/,8,6,1606761519.0,0
+Help with managing tasks in Org mode,k3pn1f,QwerkeyAsHeck,https://www.reddit.com/r/emacs/comments/k3pn1f/help_with_managing_tasks_in_org_mode/,0,4,1606743007.0,0
+Extending project.el,k3og7d,Categoria,https://www.manueluberti.eu//emacs/2020/11/14/extending-project/,14,4,1606738080.0,0
+How do I set Emacs-lsp up for Python?,k3odv0,_-_Specter_-_,https://www.reddit.com/r/emacs/comments/k3odv0/how_do_i_set_emacslsp_up_for_python/,8,11,1606737828.0,0
+"Running a Blog with Hugo, Emacs, and Netlify",k3oa8y,pwillia7,https://600000.ml/post/building_blog_with_hugo_emacs_netlify/,43,6,1606737425.0,0
+Show me/us your theses/dissertations you did using Org-mode or Emacs otherwise,k3np0q,gkayaalp,https://www.reddit.com/r/emacs/comments/k3np0q/show_meus_your_thesesdissertations_you_did_using/,4,15,1606735095.0,0
+Help needed to set up dap-mode for Python with Poetry,k3n9t9,iblysa,https://www.reddit.com/r/emacs/comments/k3n9t9/help_needed_to_set_up_dapmode_for_python_with/,4,19,1606733455.0,0
+Best way to build expertise in emacs / org?,k3lew5,gws10463,https://www.reddit.com/r/emacs/comments/k3lew5/best_way_to_build_expertise_in_emacs_org/,21,9,1606726645.0,0
+how to store secret in pass?,k3lanx,gws10463,https://www.reddit.com/r/emacs/comments/k3lanx/how_to_store_secret_in_pass/,4,4,1606726220.0,0
+How to debug when emacs won't respond to SIGUSR2?,k3jo9e,AFewSentientNeurons,https://www.reddit.com/r/emacs/comments/k3jo9e/how_to_debug_when_emacs_wont_respond_to_sigusr2/,3,9,1606720457.0,0
+"Org-protocol (capture, store-link) setup with emacs inside WSL",k3jg1b,AloisJanicek,https://gist.github.com/AloisJanicek/942b93feb7ca3683ce666c913ce56672,13,1,1606719682.0,0
+Simple/quick git repo clone (from browser to Emacs dired) via clipboard,k3iter,xenodium,https://www.reddit.com/r/emacs/comments/k3iter/simplequick_git_repo_clone_from_browser_to_emacs/,37,14,1606717643.0,0
+Org-mode lists are not properly exported to Latex,k3dcxv,Asleep-Village6496,https://www.reddit.com/r/emacs/comments/k3dcxv/orgmode_lists_are_not_properly_exported_to_latex/,2,3,1606699858.0,0
+Intercepting function that inserts text,k3hlkl,pragmat1c1,https://www.reddit.com/r/emacs/comments/k3hlkl/intercepting_function_that_inserts_text/,1,2,1606713686.0,0
+Introducing elcontext,k3h5nq,Categoria,https://thomas-sojka.tech/elcontext.html,19,1,1606712259.0,0
+Doom-style popup management in Spacemacs?,k3ewco,jmite,https://www.reddit.com/r/emacs/comments/k3ewco/doomstyle_popup_management_in_spacemacs/,10,3,1606704835.0,0
+Spacemacs/Doom Evil keybindings without Spacemacs/Doom?,k3ethg,olmu1944,https://www.reddit.com/r/emacs/comments/k3ethg/spacemacsdoom_evil_keybindings_without/,3,8,1606704572.0,0
+consult - counsel/swiper alternative for icomplete/selectrum,k3c0u7,dmendler,https://github.com/minad/consult,49,76,1606695452.0,2
+ivy-posframe in EXWM Today?,k3av6l,zerodaysfordays,https://www.reddit.com/r/emacs/comments/k3av6l/ivyposframe_in_exwm_today/,5,12,1606691382.0,0
+Deleting remote branches from Magit,k383ni,teymuri,https://www.reddit.com/r/emacs/comments/k383ni/deleting_remote_branches_from_magit/,0,8,1606679041.0,0
+Org plot: how to ignore last row (or rows after a divider) when plotting a table,k38zje,lionbark,https://www.reddit.com/r/emacs/comments/k38zje/org_plot_how_to_ignore_last_row_or_rows_after_a/,3,2,1606683577.0,0
+"validate a ""defcustom"" against its allowed options",k37yqg,actondev,https://www.reddit.com/r/emacs/comments/k37yqg/validate_a_defcustom_against_its_allowed_options/,2,5,1606678308.0,0
+Everything you need to know before try Emacs,k37lan,jiacai2050,https://www.reddit.com/r/emacs/comments/k37lan/everything_you_need_to_know_before_try_emacs/,69,16,1606676288.0,0
+How to align feed sources properly in elfeed,k32yyl,Asleep-Village6496,https://www.reddit.com/r/emacs/comments/k32yyl/how_to_align_feed_sources_properly_in_elfeed/,5,2,1606652820.0,0
+Showing typescript errors with eglot?,k36mns,steinpowaaa,https://www.reddit.com/r/emacs/comments/k36mns/showing_typescript_errors_with_eglot/,3,1,1606670790.0,0
+Formatting .lua files on save with lua-format,k357bh,ralfix,https://www.reddit.com/r/emacs/comments/k357bh/formatting_lua_files_on_save_with_luaformat/,7,12,1606663019.0,0
+"Org-table variable, hlines and type comparison functions",k3373a,vfclists,https://www.reddit.com/r/emacs/comments/k3373a/orgtable_variable_hlines_and_type_comparison/,2,3,1606653764.0,0
+"Declaring new ""special blocks"", *with arguments*, tersely using `defblock` (EmacsConf2020)",k2whsy,moseswithhisbooks,https://i.redd.it/4tii6i9wx1261.png,72,12,1606629120.0,0
+Opinion: RMS Does Not See the Future of Emacs,k2sceq,varsderk,https://lambdaland.org/posts/2020-11-future-of-emacs/,14,74,1606615444.0,0
+How do I send a string to the minibuffer within a keybinding ?,k2rv8d,jatayu696,https://www.reddit.com/r/emacs/comments/k2rv8d/how_do_i_send_a_string_to_the_minibuffer_within_a/,3,5,1606613905.0,0
+Emacs as a standalone application,k2qzxh,fragbot,https://www.reddit.com/r/emacs/comments/k2qzxh/emacs_as_a_standalone_application/,26,18,1606611151.0,0
+what hooked you on emacs,k2oppg,paarulakan,https://www.reddit.com/r/emacs/comments/k2oppg/what_hooked_you_on_emacs/,47,116,1606603228.0,0
+Guide for Doom Emacs?,k2l8bm,gaurav219,https://www.reddit.com/r/emacs/comments/k2l8bm/guide_for_doom_emacs/,3,6,1606586654.0,0
+"Org-agenda habit ""skipping"" a day if task completed past 12am",k2jbcr,FluentFelicity,https://www.reddit.com/r/emacs/comments/k2jbcr/orgagenda_habit_skipping_a_day_if_task_completed/,1,6,1606576032.0,0
+Issue in org-gtd (wrong-number-of-arguments (first-entry . rest-entries) 0),k2g9qg,mklsls,https://www.reddit.com/r/emacs/comments/k2g9qg/issue_in_orggtd_wrongnumberofarguments_firstentry/,3,0,1606563237.0,0
+ledger-mode: org-level colors for comment headlines with an asterisk at flush-left.,k2e42j,lawlist,https://www.reddit.com/r/emacs/comments/k2e42j/ledgermode_orglevel_colors_for_comment_headlines/,4,0,1606555486.0,0
+Can anyone please look over my init.el and critique it or tell me the important plugins/things that I'm missing?,k2bmsm,vale_fallacia,https://gist.github.com/anthonyclarka2/0fbe234c2e6aee9db5ac395deb01d001,7,9,1606546679.0,0
+What do you recommend for ruby?,k2ba3h,GrilledGuru,https://www.reddit.com/r/emacs/comments/k2ba3h/what_do_you_recommend_for_ruby/,8,11,1606545433.0,0
+[RFC] Immediate completion feature (checking before publishing package),k2at05,ideasman_42,https://www.reddit.com/r/emacs/comments/k2at05/rfc_immediate_completion_feature_checking_before/,7,5,1606543796.0,0
+Question about installing nov.el,k29m6e,gunpun33,https://www.reddit.com/r/emacs/comments/k29m6e/question_about_installing_novel/,3,3,1606539775.0,0
+How to see/measure Elisp function evaluation time?,k27pwv,vemironic,https://www.reddit.com/r/emacs/comments/k27pwv/how_to_seemeasure_elisp_function_evaluation_time/,1,7,1606533732.0,0
+Giving this a shot for a (finally) decent browser in emacs.,k270s1,notperm,https://github.com/browsh-org/browsh,16,3,1606531562.0,0
+message signing - mml-secure-epg-sign: Couldn’t find any signer names.,k24y38,Moostropfen,https://www.reddit.com/r/emacs/comments/k24y38/message_signing_mmlsecureepgsign_couldnt_find_any/,1,5,1606525384.0,0
+The Emacs 27 Edition of Mastering Emacs is out now,k24vqh,mickeyp,https://www.masteringemacs.org/article/the-emacs-27-edition-of-mastering-emacs-out-now,276,27,1606525188.0,4
+Need help about cl-flet cl-letf (make vterm support command d for evil-mode,k24te9,jixiuf,https://www.reddit.com/r/emacs/comments/k24te9/need_help_about_clflet_clletf_make_vterm_support/,1,2,1606524976.0,0
+Making Emacs cute and gay is hard work but well worth it,k24scc,elilla,https://www.reddit.com/r/emacs/comments/k24scc/making_emacs_cute_and_gay_is_hard_work_but_well/,62,21,1606524882.0,0
+[feedback needed] My GTD system for research and personal stuff,k24qxl,IkBenBenieuwd,https://www.reddit.com/r/emacs/comments/k24qxl/feedback_needed_my_gtd_system_for_research_and/,0,7,1606524753.0,0
+How do I make my indentation lines a little thinner?,k21ys9,ShowMeThatB00tY,https://www.reddit.com/r/emacs/comments/k21ys9/how_do_i_make_my_indentation_lines_a_little/,1,4,1606515798.0,0
+Adding Border to Helm Frames,k21x1r,Arakah,https://www.reddit.com/r/emacs/comments/k21x1r/adding_border_to_helm_frames/,3,0,1606515620.0,0
+Alternating Emacs between Ubuntu and Max OSx,k212y6,cimentadajj,https://www.reddit.com/r/emacs/comments/k212y6/alternating_emacs_between_ubuntu_and_max_osx/,2,4,1606512453.0,0
+Can emacs be used with a mouse?,k20wqv,0x4A5753,https://www.reddit.com/r/emacs/comments/k20wqv/can_emacs_be_used_with_a_mouse/,5,13,1606511775.0,0
+"What is the current status of Emacs on windows? (Emacs 27, usability...). State of the art 2020",k20wep,fmou67,https://www.reddit.com/r/emacs/comments/k20wep/what_is_the_current_status_of_emacs_on_windows/,8,5,1606511737.0,0
+Spacemacs - Python definitions,k1zvbc,MaciejOliwaski,https://www.reddit.com/r/emacs/comments/k1zvbc/spacemacs_python_definitions/,2,0,1606507123.0,0
+Substitute command in doom-emacs,k1zd98,spikte1502,https://www.reddit.com/r/emacs/comments/k1zd98/substitute_command_in_doomemacs/,3,2,1606504617.0,0
+What are the names of the faces in projectile-find-file?,k1uhww,Artistic-Boss-2430,https://www.reddit.com/r/emacs/comments/k1uhww/what_are_the_names_of_the_faces_in/,3,2,1606480922.0,0
+What are the names of the faces directory when call projectile-find-file?,k1vpb6,maxle0312,https://www.reddit.com/r/emacs/comments/k1vpb6/what_are_the_names_of_the_faces_directory_when/,2,3,1606486261.0,0
+Putting all the pieces together,k1vl00,Nicolas-Rougier,https://i.redd.it/n7goldmj3q161.png,439,55,1606485721.0,3
+Anyone got GccEmacs to run with a Spacemacs config yet?,k1u2o9,agambrahma,https://www.reddit.com/r/emacs/comments/k1u2o9/anyone_got_gccemacs_to_run_with_a_spacemacs/,2,2,1606479071.0,0
+Emacs integration package for Unity,k1r7pw,e1iza,https://github.com/elizagamedev/unity-emacs,12,0,1606467210.0,0
+Gccemacs available for Guix!,k1oxks,F0rmbi,https://www.reddit.com/r/emacs/comments/k1oxks/gccemacs_available_for_guix/,61,8,1606458820.0,0
+Kill a buffer when I quit out of it,k1k91g,AuroraDraco,https://www.reddit.com/r/emacs/comments/k1k91g/kill_a_buffer_when_i_quit_out_of_it/,3,16,1606443101.0,0
+Do orgmode PROPERTIES drawers have their own mode?,k1k8e0,vfclists,https://www.reddit.com/r/emacs/comments/k1k8e0/do_orgmode_properties_drawers_have_their_own_mode/,1,0,1606443051.0,0
+[ANN] valign.el now supports table.el tables: almost as good as it can get,k1jxr5,casouri,https://i.redd.it/nhatc986im161.png,24,8,1606442170.0,0
+Is there some company mode that can lookup function names for insert in text?,k1jcd3,vfclists,https://www.reddit.com/r/emacs/comments/k1jcd3/is_there_some_company_mode_that_can_lookup/,2,3,1606440362.0,0
+Help switching to ledger-mode from an Excel spreadsheet approach.,k1j6h0,lawlist,https://www.reddit.com/r/emacs/comments/k1j6h0/help_switching_to_ledgermode_from_an_excel/,3,3,1606439861.0,0
+emacs theme,k1ited,zimlit,https://www.reddit.com/r/emacs/comments/k1ited/emacs_theme/,2,0,1606438804.0,0
+org-table is so cool!,k1il46,tonyaldon,https://youtu.be/pRXRwQ1GGr4,26,4,1606438098.0,0
+How I Keep Track of My Servers,k1hfgo,secret_edition,https://blog.lambda.cx/posts/org-ssh-export/,93,9,1606434386.0,0
+Using a predicate function in display-buffer-alist,k1g1fn,ergo93,https://www.reddit.com/r/emacs/comments/k1g1fn/using_a_predicate_function_in_displaybufferalist/,3,5,1606429404.0,0
+display-line-numbers without indenting text?,k1fuor,CalamineCalamity,https://www.reddit.com/r/emacs/comments/k1fuor/displaylinenumbers_without_indenting_text/,1,2,1606428651.0,0
+Current emacs on wayland story... what's the situation like?,k1f8oe,pmatos,https://www.reddit.com/r/emacs/comments/k1f8oe/current_emacs_on_wayland_story_whats_the/,10,11,1606426187.0,0
+Show next (org-)appointment in modeline?,k1e4eu,pimiddy,https://www.reddit.com/r/emacs/comments/k1e4eu/show_next_orgappointment_in_modeline/,5,5,1606421114.0,0
+"[Opinions] Can we all agree, that the big emacs logo looks terrible and should be replaced? The stylized E would already be much better.",k1de1n,fatnerdfromnextdoor,https://i.redd.it/4xrla3oqgk161.png,40,59,1606417561.0,1
+Am I doing it wrong? - Emacs running all session vs. start emacs for each edit,k1c91x,waspentalive,https://www.reddit.com/r/emacs/comments/k1c91x/am_i_doing_it_wrong_emacs_running_all_session_vs/,1,17,1606411732.0,0
+"New to the way of emacs, need some help!",k1aouh,Odyssier-Returns,https://www.reddit.com/r/emacs/comments/k1aouh/new_to_the_way_of_emacs_need_some_help/,2,18,1606403938.0,0
+elfeed-dashboard - canned frontend for elfeed,k19lwd,manojm321,https://www.reddit.com/r/emacs/comments/k19lwd/elfeeddashboard_canned_frontend_for_elfeed/,49,1,1606399079.0,0
+Emacs w/ or w/out tmux,k1500k,timesis,https://www.reddit.com/r/emacs/comments/k1500k/emacs_w_or_wout_tmux/,15,25,1606380574.0,0
+EXWM users - do you have any sort of 'desktop background image' setup?,k14mbi,Private_Frazer,https://www.reddit.com/r/emacs/comments/k14mbi/exwm_users_do_you_have_any_sort_of_desktop/,10,7,1606379131.0,0
+Interpreting elisp benchmarks,k13grw,AFewSentientNeurons,https://www.reddit.com/r/emacs/comments/k13grw/interpreting_elisp_benchmarks/,1,1,1606375088.0,0
+configuring csv-mode with use-package,k12lh4,tomatoaway,https://www.reddit.com/r/emacs/comments/k12lh4/configuring_csvmode_with_usepackage/,3,8,1606372395.0,0
+EXWM in Windows with WSL2?,k121by,ElCondorHerido,https://www.reddit.com/r/emacs/comments/k121by/exwm_in_windows_with_wsl2/,2,1,1606370676.0,0
+Fill a table,k11tzy,casouri,https://www.reddit.com/r/emacs/comments/k11tzy/fill_a_table/,59,14,1606370067.0,0
+Using a chromebook for a few weeks,k10jmt,mutedstereo,https://www.reddit.com/r/emacs/comments/k10jmt/using_a_chromebook_for_a_few_weeks/,13,17,1606366081.0,0
+"Emacs for reading: hyphen, two-page mode",k0zzko,crckzbl,https://www.reddit.com/r/emacs/comments/k0zzko/emacs_for_reading_hyphen_twopage_mode/,4,18,1606364294.0,0
+lsp-mode and lsp-haskell issue,k0zs3z,seditiousseals,https://www.reddit.com/r/emacs/comments/k0zs3z/lspmode_and_lsphaskell_issue/,2,2,1606363654.0,0
+A question about priorities in org-mode,k0znja,AuroraDraco,https://www.reddit.com/r/emacs/comments/k0znja/a_question_about_priorities_in_orgmode/,1,2,1606363260.0,0
+Movement keys,k0y52w,18gatenmaker6,https://www.reddit.com/r/emacs/comments/k0y52w/movement_keys/,6,36,1606358882.0,0
+golang + LSP causes sustained CPU usage,k0wcu3,gws10463,https://www.reddit.com/r/emacs/comments/k0wcu3/golang_lsp_causes_sustained_cpu_usage/,17,10,1606353683.0,0
+How to get swiper(or other searches) to move the found text to the middle of the window?,k0u68w,nedhanks,https://www.reddit.com/r/emacs/comments/k0u68w/how_to_get_swiperor_other_searches_to_move_the/,10,3,1606346925.0,0
+Can the settings in customize be run at any time?,k0sun1,vfclists,https://www.reddit.com/r/emacs/comments/k0sun1/can_the_settings_in_customize_be_run_at_any_time/,0,5,1606342303.0,0
+What is the single thing that makes you want to use emacs?,k0s6bn,diogocasado,https://www.reddit.com/r/emacs/comments/k0s6bn/what_is_the_single_thing_that_makes_you_want_to/,25,54,1606339738.0,0
+Thought: Define a :vc header argument to specify version of code in src blocks,k0rzjx,jalihal,/r/orgmode/comments/k0ryy7/thought_define_a_vc_header_argument_to_specify/,1,0,1606338958.0,0
+Future of Helm and new maintainer?,k0q2xf,ambrevar,https://github.com/emacs-helm/helm/issues/2389,20,20,1606330388.0,0
+win10 emacs native,k0o8ir,zsome,https://www.reddit.com/r/emacs/comments/k0o8ir/win10_emacs_native/,1,4,1606321227.0,0
+You probably all know this but I found this post on zettelkasten interesting. I didn't know about transclusion. The author mentions Emacs but do you know if it supports transclusion as well?,k0muwu,emacsexplorer,https://riclage.medium.com/get-your-second-brain-with-a-note-taking-habit-5d5962ec0f0b,28,17,1606314769.0,0
+Using Lilypond in Emacs?,k0mld2,zosterops_p,https://www.reddit.com/r/emacs/comments/k0mld2/using_lilypond_in_emacs/,10,21,1606313539.0,0
+[RFC] org-timed-alerts - receive warnings for upcoming events in your day,k0kyi4,itistheblurstoftimes,https://www.reddit.com/r/emacs/comments/k0kyi4/rfc_orgtimedalerts_receive_warnings_for_upcoming/,14,8,1606306622.0,0
+paredit's missing functions,k0kvyy,Eno6ohng,https://www.reddit.com/r/emacs/comments/k0kvyy/paredits_missing_functions/,4,1,1606306338.0,0
+Fun with a distractionless Emacs and posframes,k0b4qv,rfeynman42,https://www.reddit.com/gallery/k0b4qv,94,15,1606272722.0,0
+How do you manage your reference material in a zettlelkasten workflow?,k08dax,jasonmirk,https://www.reddit.com/r/emacs/comments/k08dax/how_do_you_manage_your_reference_material_in_a/,32,8,1606264576.0,0
+"Solve ""Pinky"" issue with remapping Caps -> Ctr in Windows in 10seconds!",k02vyc,jburkhard,https://www.reddit.com/r/emacs/comments/k02vyc/solve_pinky_issue_with_remapping_caps_ctr_in/,0,2,1606243963.0,0
+Change menu face?,k02szc,AlienRepresentative,https://www.reddit.com/r/emacs/comments/k02szc/change_menu_face/,0,10,1606243500.0,0
+Ledger-mode alignment of numbers,k01qzf,Expensive_Pain,https://www.reddit.com/r/emacs/comments/k01qzf/ledgermode_alignment_of_numbers/,3,5,1606238165.0,0
+Weekly tips/trick/etc/ thread,k011fo,AutoModerator,https://www.reddit.com/r/emacs/comments/k011fo/weekly_tipstricketc_thread/,17,34,1606234432.0,0
+Are there really no good grammar-checking packages?,jzzov9,FluentFelicity,https://www.reddit.com/r/emacs/comments/jzzov9/are_there_really_no_good_grammarchecking_packages/,41,32,1606227696.0,0
+Expand buffer/split temporarily,jzzo1q,enzlbtyn,https://www.reddit.com/r/emacs/comments/jzzo1q/expand_buffersplit_temporarily/,2,7,1606227587.0,0
+How to stop vc-checkin popping up a window,jzsc87,StrangeAstronomer,https://www.reddit.com/r/emacs/comments/jzsc87/how_to_stop_vccheckin_popping_up_a_window/,1,2,1606199996.0,0
+Notmuch email workflow,jzr0ik,fragbot,https://www.reddit.com/r/emacs/comments/jzr0ik/notmuch_email_workflow/,3,3,1606195909.0,0
+Shell-mode / Comint - blank line before prompt,jzn9we,Moostropfen,https://www.reddit.com/r/emacs/comments/jzn9we/shellmode_comint_blank_line_before_prompt/,1,4,1606184820.0,0
+scroll-text - Scroll the text for content,jzlm2y,jcs090218,https://www.reddit.com/r/emacs/comments/jzlm2y/scrolltext_scroll_the_text_for_content/,4,0,1606180009.0,0
+"emacs support for ""teletype"" as in ""teletype for atom""?",jzkv57,doomvox,https://www.reddit.com/r/emacs/comments/jzkv57/emacs_support_for_teletype_as_in_teletype_for_atom/,2,6,1606177889.0,0
+Is there an easy way to do playback speed multiplier in emms?,jzkdfv,Androkon,https://www.reddit.com/r/emacs/comments/jzkdfv/is_there_an_easy_way_to_do_playback_speed/,1,2,1606176366.0,0
+Doom emacs vs vanilla emacs,jzjtv0,yelinaung98,https://www.reddit.com/r/emacs/comments/jzjtv0/doom_emacs_vs_vanilla_emacs/,58,72,1606174665.0,0
+[Reminder] Last week to fill out the Emacs User Survey!,jzizuv,abrochard,https://emacssurvey.org/,31,16,1606172020.0,0
+ispell/aspell squiggly red lines won't go away,jzi30t,lopsidedcroc,https://www.reddit.com/r/emacs/comments/jzi30t/ispellaspell_squiggly_red_lines_wont_go_away/,2,3,1606168791.0,0
+Sync documents between school computer and home PC,jzhmwb,Bu156,https://www.reddit.com/r/emacs/comments/jzhmwb/sync_documents_between_school_computer_and_home_pc/,2,13,1606167103.0,0
+"How to align text right (message ""text"") in echo area?",jzh7on,vemironic,https://www.reddit.com/r/emacs/comments/jzh7on/how_to_align_text_right_message_text_in_echo_area/,4,8,1606165443.0,0
+How to use flyspell inside po-mode?,jzfrpa,jcubic,https://www.reddit.com/r/emacs/comments/jzfrpa/how_to_use_flyspell_inside_pomode/,2,8,1606158758.0,0
+Alist only dots with json-read and json-parse-buffer,jz5d0s,PlazaNoseDanny,https://www.reddit.com/r/emacs/comments/jz5d0s/alist_only_dots_with_jsonread_and_jsonparsebuffer/,1,1,1606114060.0,0
+Book - Writing GNU Emacs Extensions,jzdfsl,paarulakan,https://www.reddit.com/r/emacs/comments/jzdfsl/book_writing_gnu_emacs_extensions/,27,14,1606146547.0,0
+"[Question] Rebinding C-m, C-i, and everything else without Copy&Pasting?",jzdf1k,okimka,https://www.reddit.com/r/emacs/comments/jzdf1k/question_rebinding_cm_ci_and_everything_else/,2,5,1606146440.0,0
+Org QL Custom Predicates Tutorial,jzd5kb,github-alphapapa,https://github.com/alphapapa/org-ql/blob/master/examples/defpred.org,26,7,1606145058.0,0
+[Question] Keep only unique elements (uniq -u),jzcefc,Bodertz,https://www.reddit.com/r/emacs/comments/jzcefc/question_keep_only_unique_elements_uniq_u/,2,6,1606141347.0,0
+notmuch: how do I specify which browser to use for opening html part of a message?,jza1uk,whudwl,https://www.reddit.com/r/emacs/comments/jza1uk/notmuch_how_do_i_specify_which_browser_to_use_for/,2,6,1606131364.0,0
+[ANN] org-ql 0.5 released,jz71fj,github-alphapapa,https://github.com/alphapapa/org-ql#05,57,6,1606119959.0,0
+Why does the recent zettelkasten craze use one file per note rather than one headline per note?,jz49ke,github-alphapapa,/r/orgmode/comments/jysnrf/why_does_the_recent_zettelkasten_craze_use_one/,15,14,1606110343.0,0
+Org pretty table mode got fixes,jz45ap,ndamee,https://www.reddit.com/r/emacs/comments/jz45ap/org_pretty_table_mode_got_fixes/,35,14,1606109960.0,0
+Questions about window sizes and fonts,jz2yz5,GrilledGuru,https://www.reddit.com/r/emacs/comments/jz2yz5/questions_about_window_sizes_and_fonts/,1,0,1606106148.0,0
+January changes to Google apps and Emacs / Gnus,jz2v8m,Amonwilde,https://www.reddit.com/r/emacs/comments/jz2v8m/january_changes_to_google_apps_and_emacs_gnus/,11,23,1606105809.0,0
+How do you start applications on EXWM?,jz1odv,CP999-,https://www.reddit.com/r/emacs/comments/jz1odv/how_do_you_start_applications_on_exwm/,2,7,1606101982.0,0
+display-buffer-alist: new frame for org-roam buffer,jyzakb,olmu1944,/r/DoomEmacs/comments/jyyuyn/displaybufferalist_new_frame_for_orgroam_buffer/,2,0,1606094229.0,0
+why 'church of emacs' not 'Temple of emacs' instead not use any relegious terms?,jyya65,Psycho-logical-being,https://www.reddit.com/r/emacs/comments/jyya65/why_church_of_emacs_not_temple_of_emacs_instead/,0,6,1606090805.0,0
+"Calctex, a minor mode for the M-x calc freezes on startup. Knowing no elisp to interpret why this happens I have come here for help.",jyxond,AuroraDraco,https://www.reddit.com/r/emacs/comments/jyxond/calctex_a_minor_mode_for_the_mx_calc_freezes_on/,1,5,1606088712.0,0
+"How to change the color of the ""Statusbar"" on Emacs?",jywri3,CP999-,https://www.reddit.com/r/emacs/comments/jywri3/how_to_change_the_color_of_the_statusbar_on_emacs/,2,3,1606085221.0,0
+Symex Mode - Editing Lisp Code in a Vim-like Way,jywp53,trimorphic,https://www.youtube.com/watch?v=a5s1ScTx8Zk,16,1,1606084972.0,0
+Emacs terminal - Is it really THAT bad?,jywdiz,CP999-,https://www.reddit.com/r/emacs/comments/jywdiz/emacs_terminal_is_it_really_that_bad/,35,40,1606083670.0,0
+Shipping Info nodes with a package,jyw9f4,Expensive_Pain,https://www.reddit.com/r/emacs/comments/jyw9f4/shipping_info_nodes_with_a_package/,2,3,1606083210.0,0
+How can I fix checkdoc's <keymap> warning info?,jyv8jz,black7375,https://www.reddit.com/r/emacs/comments/jyv8jz/how_can_i_fix_checkdocs_keymap_warning_info/,1,4,1606078621.0,0
+Emacs & https://editorconfig.org/ ??,jyu2l0,gavenkoa,https://www.reddit.com/r/emacs/comments/jyu2l0/emacs_httpseditorconfigorg/,3,16,1606072556.0,0
+Notmuch Forward,jytvlu,j22fineman,https://www.reddit.com/r/emacs/comments/jytvlu/notmuch_forward/,2,2,1606071553.0,0
+A couple Spacemacs -> Doom questions,jyrqjq,jmite,https://www.reddit.com/r/emacs/comments/jyrqjq/a_couple_spacemacs_doom_questions/,3,2,1606058882.0,0
+Introducing emacs-webkit - A successor to xwidget-webkit,jyowe0,daehoidar3,https://i.redd.it/htpfdfdaqp061.gif,217,65,1606045378.0,1
+Is there a way to use a different face for TODO headings (not just the keyword) than every other heading?,jyhr5j,lemonaidMax,https://www.reddit.com/r/emacs/comments/jyhr5j/is_there_a_way_to_use_a_different_face_for_todo/,3,6,1606018679.0,0
+defun defvar defmacro etc - how many variants?,jygu0l,pragmat1c1,https://www.reddit.com/r/emacs/comments/jygu0l/defun_defvar_defmacro_etc_how_many_variants/,1,4,1606015577.0,0
+Outline/Sidebar for LaTeX files?,jyg2mm,jackofthebeanstalk,https://www.reddit.com/r/emacs/comments/jyg2mm/outlinesidebar_for_latex_files/,2,6,1606013097.0,0
+Getting Started With Emacs Lisp Hands On - A Practical Beginners Tutorial,jyf42j,benWindsorCode,https://benwindsorcode.github.io/Getting-Started-With-Emacs-Lisp/,118,21,1606009962.0,0
+Emacs on terminal,jyf16y,bartuka,https://wandersoncferreira.github.io/blog/emacs-on-terminal/,14,11,1606009698.0,0
+The TLS Connection to elpa.org:443 is insecure,jyez4x,ctm-8400,https://www.reddit.com/r/emacs/comments/jyez4x/the_tls_connection_to_elpaorg443_is_insecure/,2,3,1606009509.0,0
+How to do this in doom emacs?,jyepq3,gws10463,https://www.reddit.com/r/emacs/comments/jyepq3/how_to_do_this_in_doom_emacs/,4,2,1606008653.0,0
+Handling org-protocol with org-roam-graph,jyagzo,aartist111,https://www.reddit.com/r/emacs/comments/jyagzo/handling_orgprotocol_with_orgroamgraph/,2,3,1605993011.0,0
+Disable global-hl-line-mode for Specific Modes,jya77n,bozhidarb,https://emacsredux.com/blog/2020/11/21/disable-global-hl-line-mode-for-specific-modes/,15,1,1605991801.0,0
+[ANN] unpackaged/reload-package: Command to reload a package's features after upgrading (so restarting Emacs isn't necessary),jy9wa1,github-alphapapa,https://github.com/alphapapa/unpackaged.el#reload-a-packages-features,24,4,1605990295.0,0
+[ANN] org-super-agenda 1.2 released,jy87i3,github-alphapapa,https://github.com/alphapapa/org-super-agenda#changelog,86,14,1605980730.0,1
+Print the output of a shell command on an org-mode agenda buffer?,jy64ad,juacq97,https://www.reddit.com/r/emacs/comments/jy64ad/print_the_output_of_a_shell_command_on_an_orgmode/,3,1,1605968779.0,0
+Show python plots inside Emacs,jy48gr,chaosprism,https://www.reddit.com/r/emacs/comments/jy48gr/show_python_plots_inside_emacs/,14,10,1605960127.0,0
+"How can I set the hostname and username as variables in remote babel block's execution parameters, and not in the source alone?",jy2q1b,vfclists,https://www.reddit.com/r/emacs/comments/jy2q1b/how_can_i_set_the_hostname_and_username_as/,2,1,1605953917.0,0
+If you would create your own Emacs distro ...,jy2ost,arthurno1,https://www.reddit.com/r/emacs/comments/jy2ost/if_you_would_create_your_own_emacs_distro/,5,29,1605953781.0,0
+libvterm + mosh: lost directory tracking,jy1gv9,-dag-,https://www.reddit.com/r/emacs/comments/jy1gv9/libvterm_mosh_lost_directory_tracking/,1,0,1605949039.0,0
+Looking for Tutorial,jxwkpf,khiari_hamdi,https://www.reddit.com/r/emacs/comments/jxwkpf/looking_for_tutorial/,6,11,1605932144.0,0
+PHP-mode eldoc not working,jxw6pl,linuxwes,https://www.reddit.com/r/emacs/comments/jxw6pl/phpmode_eldoc_not_working/,1,2,1605930928.0,0
+Having issues with ruby-mode indentation,jxvy38,izuriel,https://www.reddit.com/r/emacs/comments/jxvy38/having_issues_with_rubymode_indentation/,3,0,1605930148.0,0
+How to explicitly record the mental stack?,jxvm1h,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jxvm1h/how_to_explicitly_record_the_mental_stack/,3,4,1605929041.0,0
+jabber package not works,jxvl0s,_clstr_,https://www.reddit.com/r/emacs/comments/jxvl0s/jabber_package_not_works/,0,2,1605928948.0,0
+Writing a Function for my Custom Agenda in init.el,jxvcqm,ugurbolat,https://www.reddit.com/r/emacs/comments/jxvcqm/writing_a_function_for_my_custom_agenda_in_initel/,1,5,1605928178.0,0
+Why does Emacs don't have a good terminal mode?,jxt39s,ReneFroger,https://www.reddit.com/r/emacs/comments/jxt39s/why_does_emacs_dont_have_a_good_terminal_mode/,22,16,1605921276.0,0
+How can I tell lsp-clangd (my c-c++ backend server) to ignore a specific warning?,jxsn1o,penguindied,https://www.reddit.com/r/emacs/comments/jxsn1o/how_can_i_tell_lspclangd_my_cc_backend_server_to/,5,8,1605919915.0,0
+How to open a shell in a new frame?,jxrelm,Moostropfen,https://www.reddit.com/r/emacs/comments/jxrelm/how_to_open_a_shell_in_a_new_frame/,6,2,1605916089.0,0
+Hiding passwords,jxr7cs,gavenkoa,https://www.reddit.com/r/emacs/comments/jxr7cs/hiding_passwords/,2,2,1605915435.0,0
+[Doom] about autocomplete using company,jxqnjr,shooki7,https://www.reddit.com/r/emacs/comments/jxqnjr/doom_about_autocomplete_using_company/,6,9,1605913635.0,0
+"Emacs Desktop Environment #2 - Improving the EXWM Experience (LIVE 11/20, 9:15 am PST)",jxqvgp,daviwil,https://youtu.be/9gfKrrTtyOk,64,14,1605914358.0,0
+Making go run nice on Emacs,jxptf1,notablepanda,https://www.reddit.com/r/emacs/comments/jxptf1/making_go_run_nice_on_emacs/,2,8,1605910770.0,0
+Per mode Theme,jxou44,pmatos,https://www.reddit.com/r/emacs/comments/jxou44/per_mode_theme/,9,2,1605907000.0,0
+search bar,jxo86n,qazyll,https://www.reddit.com/r/emacs/comments/jxo86n/search_bar/,0,8,1605904425.0,0
+Highlighting yanked region using pulse.el,jxlsms,meain,https://blog.meain.io/2020/emacs-highlight-yanked/,37,11,1605891688.0,0
+Smtpmail formatting and schedule,jxi63x,FluentFelicity,https://www.reddit.com/r/emacs/comments/jxi63x/smtpmail_formatting_and_schedule/,4,4,1605873882.0,0
+Home folder expansion in macOS gives /home/ instead of /Users/,jxhkri,jondiced,https://www.reddit.com/r/emacs/comments/jxhkri/home_folder_expansion_in_macos_gives_home_instead/,3,7,1605871392.0,0
+Want an Emacs-friendly keyboard,jxg2t0,rswgnu,https://www.reddit.com/r/emacs/comments/jxg2t0/want_an_emacsfriendly_keyboard/,1,39,1605865496.0,0
+Opinion for my org-roam template,jxf4pu,mklsls,https://www.reddit.com/r/emacs/comments/jxf4pu/opinion_for_my_orgroam_template/,14,2,1605861912.0,0
+Some org functions have disappeared from my setup.,jxe0xg,DCL88,https://www.reddit.com/r/emacs/comments/jxe0xg/some_org_functions_have_disappeared_from_my_setup/,5,2,1605857898.0,0
+Call function on switching buffer with specific major mode,jxb31g,olmu1944,https://www.reddit.com/r/emacs/comments/jxb31g/call_function_on_switching_buffer_with_specific/,3,4,1605848137.0,0
+How can I get the width of the next REGEX match? + Why are regex in elisp so frustrating?,jx6beh,ThisMousse5497,https://www.reddit.com/r/emacs/comments/jx6beh/how_can_i_get_the_width_of_the_next_regex_match/,0,10,1605833600.0,0
+"`Debugger entered--Lisp error: (error ""Command attempted to use minibuffer while in minibuffer"")`",jx3ia4,djrdjrdjrdjrdjr,https://www.reddit.com/r/emacs/comments/jx3ia4/debugger_enteredlisp_error_error_command/,3,1,1605824451.0,0
+"What happens to the content of this subreddit if the company running Reddit decides to shutdown, close this subreddit or something else?",jx2uma,vfclists,https://www.reddit.com/r/emacs/comments/jx2uma/what_happens_to_the_content_of_this_subreddit_if/,8,10,1605822009.0,0
+What are you all using to indent code?,jx26f2,vale_fallacia,https://www.reddit.com/r/emacs/comments/jx26f2/what_are_you_all_using_to_indent_code/,4,8,1605819324.0,0
+Draco - Reddit thread to Org document,jx11x5,andinus,https://andinus.nand.sh/draco,57,16,1605814028.0,0
+has anyone else noticed some flickering on Big Sur?,jx0uog,zacgarby,https://www.reddit.com/r/emacs/comments/jx0uog/has_anyone_else_noticed_some_flickering_on_big_sur/,6,13,1605812963.0,0
+How do ox-html user merge their content into their themes without tools like ox-hugo etc,jwvj9i,vfclists,https://www.reddit.com/r/emacs/comments/jwvj9i/how_do_oxhtml_user_merge_their_content_into_their/,5,1,1605786929.0,0
+Directory navigation in Doom Emacs,jws8eh,gibbonwalker,https://www.reddit.com/r/emacs/comments/jws8eh/directory_navigation_in_doom_emacs/,1,1,1605774730.0,0
+For Emacs users on Fedora: nightly builds on copr,jwog5l,FOSHavoc,https://www.reddit.com/r/emacs/comments/jwog5l/for_emacs_users_on_fedora_nightly_builds_on_copr/,16,4,1605762394.0,0
+Is there a way to merge eshell and zsh history?,jwmlad,FluentFelicity,https://www.reddit.com/r/emacs/comments/jwmlad/is_there_a_way_to_merge_eshell_and_zsh_history/,2,7,1605756785.0,0
+Does running Emacs as daemon create problems with init.el customization (vs normal Emacs)?,jwjiis,aksh2161989,https://www.reddit.com/r/emacs/comments/jwjiis/does_running_emacs_as_daemon_create_problems_with/,7,6,1605747665.0,0
+Batteries included with Emacs,jwhr6g,karthink,https://karthinks.com/software/batteries-included-with-emacs/,283,71,1605742064.0,1
+Emacs daemon and restore open buffers,jwgc5k,edumerco,https://www.reddit.com/r/emacs/comments/jwgc5k/emacs_daemon_and_restore_open_buffers/,2,11,1605737130.0,0
+completion in matlab-mode?,jwf7g7,S4h4rJ,https://www.reddit.com/r/emacs/comments/jwf7g7/completion_in_matlabmode/,2,2,1605732627.0,0
+"[ANN] Burly.el 0.1 released (also on MELPA): Save and restore frames, windows, and their buffer contents using Emacs bookmarks (like a lightweight workspace manager)",jweqpk,github-alphapapa,https://github.com/alphapapa/burly.el,36,7,1605730551.0,0
+Context-dependent input method in org-mode,jwd297,pimiddy,https://www.reddit.com/r/emacs/comments/jwd297/contextdependent_input_method_in_orgmode/,1,4,1605722039.0,0
+Taking notes in work,jw47s8,idc7,https://www.reddit.com/r/emacs/comments/jw47s8/taking_notes_in_work/,2,4,1605684432.0,0
+"notmuch unthreaded view, how do I load just one message?",jwbfq5,whudwl,https://www.reddit.com/r/emacs/comments/jwbfq5/notmuch_unthreaded_view_how_do_i_load_just_one/,1,3,1605713145.0,0
+18th-century equivalent of Emacs,jwb0ib,danderzei,https://i.redd.it/ecusakgj9wz51.jpg,64,11,1605710957.0,0
+[centaur-tabs] Natural close behavior like modern editor,jw9keh,black7375,https://i.redd.it/uly3wmwgjxz51.gif,5,4,1605704165.0,0
+Andrea Corallo is preparing native-comp to be mergeable with master,jw4ezf,wouldyoumindawfully,https://debbugs.gnu.org/cgi/bugreport.cgi?bug=43725,145,36,1605685107.0,1
+Problems setting EMMS volume and/or possible alternatives,jw3iod,Andre-L8Bolt,https://www.reddit.com/r/emacs/comments/jw3iod/problems_setting_emms_volume_andor_possible/,1,4,1605682153.0,0
+improving ivy suggestion/sort,jw486a,tulth,https://www.reddit.com/r/emacs/comments/jw486a/improving_ivy_suggestionsort/,1,6,1605684466.0,0
+[Org Mode] Can I skip weekends when increasing timestamp?,jw3kcn,takethecannoli4,https://www.reddit.com/r/emacs/comments/jw3kcn/org_mode_can_i_skip_weekends_when_increasing/,1,4,1605682307.0,0
+Can Emacs position the cursor inside a tab?,jw2t1p,white_nerdy,https://www.reddit.com/r/emacs/comments/jw2t1p/can_emacs_position_the_cursor_inside_a_tab/,2,3,1605679904.0,0
+How to closing parentheses at python on Emacs?,jw1y0q,xeyenn,https://www.reddit.com/r/emacs/comments/jw1y0q/how_to_closing_parentheses_at_python_on_emacs/,1,6,1605677298.0,0
+Emacs 27.1 early-init file,jw19dy,Aaronzinhoo,https://www.reddit.com/r/emacs/comments/jw19dy/emacs_271_earlyinit_file/,9,7,1605675292.0,0
+"Are there any example of Emacs forms-mode in use in the wild, or even within emacs itself?",jvyj00,vfclists,https://www.reddit.com/r/emacs/comments/jvyj00/are_there_any_example_of_emacs_formsmode_in_use/,8,12,1605667039.0,0
+Custom-less straight.el and use-package,jvw8g7,DocGreenTilde,https://www.reddit.com/r/emacs/comments/jvw8g7/customless_straightel_and_usepackage/,3,17,1605659990.0,0
+Taking notes with chemical formulae,jvuzvf,Bu156,https://www.reddit.com/r/emacs/comments/jvuzvf/taking_notes_with_chemical_formulae/,2,7,1605655954.0,0
+Logging directly into emacs,jvuxg5,kn0xchad,https://www.reddit.com/r/emacs/comments/jvuxg5/logging_directly_into_emacs/,2,2,1605655721.0,0
+Why GNU emacs doesn't participate in the Google Summer of Code?,jvt1am,RushanKhan,https://www.reddit.com/r/emacs/comments/jvt1am/why_gnu_emacs_doesnt_participate_in_the_google/,2,11,1605648817.0,0
+How to force ido for org tags completion?,jvripy,Eno6ohng,https://www.reddit.com/r/emacs/comments/jvripy/how_to_force_ido_for_org_tags_completion/,3,1,1605641741.0,0
+Persist EWW History,jvqzg4,ITomica,https://www.reddit.com/r/emacs/comments/jvqzg4/persist_eww_history/,5,3,1605638877.0,0
+Weekly tips/trick/etc/ thread,jvpccf,AutoModerator,https://www.reddit.com/r/emacs/comments/jvpccf/weekly_tipstricketc_thread/,12,43,1605629622.0,0
+What do you think about AUCTeX?,jvogdw,singha_bruh,https://www.reddit.com/r/emacs/comments/jvogdw/what_do_you_think_about_auctex/,7,5,1605624893.0,0
+Using a single instance of Emacs in Windows 10,jvoamx,rock-emacs,https://www.reddit.com/r/emacs/comments/jvoamx/using_a_single_instance_of_emacs_in_windows_10/,1,11,1605624073.0,0
+Mu4e dashboard using org-mode (with mu4e: links),jvnzxl,Nicolas-Rougier,https://i.redd.it/ht7fzugysqz51.png,256,32,1605622592.0,2
+Ways to postpone expensive calculations for the mode-line?,jvk9w1,ideasman_42,https://www.reddit.com/r/emacs/comments/jvk9w1/ways_to_postpone_expensive_calculations_for_the/,7,8,1605607111.0,0
+org-mac-grab-link Outlook error,jviq34,vitarilassata,https://www.reddit.com/r/emacs/comments/jviq34/orgmacgrablink_outlook_error/,2,0,1605601310.0,0
+Is there a convention for the directory where repos downloaded directly go?,jvib3n,vfclists,https://www.reddit.com/r/emacs/comments/jvib3n/is_there_a_convention_for_the_directory_where/,2,5,1605599815.0,0
+What are some ways to reference stuff in Org mode?,jvh3ib,maxle0312,https://www.reddit.com/r/emacs/comments/jvh3ib/what_are_some_ways_to_reference_stuff_in_org_mode/,3,4,1605595642.0,0
+Inserting an org-capture note under an existing header,jvgqe5,representativesign03,https://www.reddit.com/r/emacs/comments/jvgqe5/inserting_an_orgcapture_note_under_an_existing/,0,3,1605594473.0,0
+EWW hanging Emacs and other assorted noob questions,jvdefk,Gaernd_Johnston,https://www.reddit.com/r/emacs/comments/jvdefk/eww_hanging_emacs_and_other_assorted_noob/,2,2,1605584170.0,0
+Configuring Emacs as Javascript (ReactJS) IDE,jvbq1d,yyoncho,https://emacs-lsp.github.io/lsp-mode/tutorials/reactjs-tutorial/,68,21,1605579076.0,0
+Magit server-socket issues,juwwc6,atanasj,https://www.reddit.com/r/emacs/comments/juwwc6/magit_serversocket_issues/,2,1,1605515225.0,0
+Special Characters in Emacs Org-mode,jv8066,enjep,https://www.reddit.com/r/emacs/comments/jv8066/special_characters_in_emacs_orgmode/,0,1,1605567088.0,0
+Always get Emacs to start in the same position in Windows 10,jv7w62,rock-emacs,https://www.reddit.com/r/emacs/comments/jv7w62/always_get_emacs_to_start_in_the_same_position_in/,2,10,1605566670.0,0
+The Ultimate Guide To Indentation in Emacs (Tabs and Spaces),jv7ic8,trimorphic,https://dougie.io/emacs/indentation/,65,14,1605565241.0,1
+"How to click with ""mouse-1"" within Emacs, help",jv7fbp,acakojic,https://github.com/ch11ng/exwm/issues/693#issuecomment-726639489,3,0,1605564901.0,0
+Latest Emacs-comp update broke helm for me,jv4nhq,Thaodan,https://www.reddit.com/r/emacs/comments/jv4nhq/latest_emacscomp_update_broke_helm_for_me/,8,7,1605551582.0,0
+emacs 27 & org-mode autocomplete src header :dir,jv44p6,actondev,https://www.reddit.com/r/emacs/comments/jv44p6/emacs_27_orgmode_autocomplete_src_header_dir/,9,1,1605548604.0,0
+Fix non-display of ivy-rich switch buffer directories in Emacs,jv2ms7,cpbotha,https://vxlabs.com/2020/11/15/fix-ivy-rich-switch-buffer-directories-display-in-emacs/,5,1,1605539931.0,0
+[RFC] micro time-clock utility,jv1hyx,ideasman_42,https://www.reddit.com/r/emacs/comments/jv1hyx/rfc_micro_timeclock_utility/,5,3,1605534172.0,0
+"[New User] A few questions, please help me out.",juzjin,DummyfiedMe,https://www.reddit.com/r/emacs/comments/juzjin/new_user_a_few_questions_please_help_me_out/,2,14,1605525637.0,0
+[ANN] r0man/docopt.el: Run Docopt-compatible shell commands in Emacs with Transient-style UI automatically,jux8c1,github-alphapapa,https://github.com/r0man/docopt.el,31,7,1605516469.0,0
+Can't bind anything to a meta key shortcut,juuafk,ThisMousse5497,https://www.reddit.com/r/emacs/comments/juuafk/cant_bind_anything_to_a_meta_key_shortcut/,3,3,1605505734.0,0
+Changing Treemacs hl-line color on Doom Emacs,jushaq,guguts,https://www.reddit.com/r/emacs/comments/jushaq/changing_treemacs_hlline_color_on_doom_emacs/,2,4,1605499773.0,0
+Gnus Notifications,jurtos,LorenRiccie,https://www.reddit.com/r/emacs/comments/jurtos/gnus_notifications/,2,7,1605497660.0,0
+Org-roam: How to get proposal for org-roam-insert expand,jurfoh,kniebuiging,https://www.reddit.com/r/emacs/comments/jurfoh/orgroam_how_to_get_proposal_for_orgroaminsert/,2,2,1605496338.0,0
+Emacs Lisp is at least 6 times slower than Python?,juo9ru,okimka,https://www.reddit.com/r/emacs/comments/juo9ru/emacs_lisp_is_at_least_6_times_slower_than_python/,13,45,1605485500.0,0
+How to use a function interactively?,juo4k9,pragmat1c1,https://www.reddit.com/r/emacs/comments/juo4k9/how_to_use_a_function_interactively/,1,16,1605484978.0,0
+How to check programmatically if all buffers have been loaded in an Emacs frame?,jul3mz,aksh2161989,https://www.reddit.com/r/emacs/comments/jul3mz/how_to_check_programmatically_if_all_buffers_have/,0,3,1605471839.0,0
+Ort-transclusion demo (alpha v0.0.5) Demo #5,juka0j,nobiot,https://www.youtube.com/watch?v=hz92vaO8IgQ&feature=share,65,17,1605467153.0,0
+"[ELPA] New package: rec-mode, a major mode for editing recfiles of GNU Recutils",juiii9,Ironballs,https://elpa.gnu.org/packages/rec-mode.html,25,10,1605456279.0,0
+Use of progn to fix invalid function errors.,jue3xc,vfclists,https://www.reddit.com/r/emacs/comments/jue3xc/use_of_progn_to_fix_invalid_function_errors/,1,7,1605435066.0,0
+Does magit have some commands I can use to generate a report on the statuses of a large number of repos?,judzpg,vfclists,https://www.reddit.com/r/emacs/comments/judzpg/does_magit_have_some_commands_i_can_use_to/,3,1,1605434602.0,0
+Evil jumplist - how does it work?,jubt18,Kriskras,https://www.reddit.com/r/emacs/comments/jubt18/evil_jumplist_how_does_it_work/,10,3,1605426021.0,0
+Change color of the middle parting line,jubp7j,flexww,https://www.reddit.com/r/emacs/comments/jubp7j/change_color_of_the_middle_parting_line/,1,6,1605425607.0,0
+Wanting to switch from vim to emacs,ju2zyo,kn0xchad,https://www.reddit.com/r/emacs/comments/ju2zyo/wanting_to_switch_from_vim_to_emacs/,7,18,1605394021.0,0
+How to insert current date into a file name while creating it?,ju0alh,Parimal7,https://www.reddit.com/r/emacs/comments/ju0alh/how_to_insert_current_date_into_a_file_name_while/,2,4,1605380379.0,0
+Disabling `so-long-mode` (or rather failing to),jtzqx7,vrinek,https://www.reddit.com/r/emacs/comments/jtzqx7/disabling_solongmode_or_rather_failing_to/,1,8,1605376985.0,0
+Who needs GitHub to manage a project when you have Emacs and Org,jtydiy,github-alphapapa,https://i.imgur.com/84zA7xi.png,357,70,1605369042.0,0
+Arch-Emacs Bootstrapping Script,jtw9j5,Rude_Somewhere,https://www.reddit.com/r/emacs/comments/jtw9j5/archemacs_bootstrapping_script/,6,1,1605359065.0,0
+"Introducing Logseq - a roam like open-source, org-mode web outliner which sync with Github",jtvsqv,tiensonqin,https://www.reddit.com/r/emacs/comments/jtvsqv/introducing_logseq_a_roam_like_opensource_orgmode/,59,20,1605357003.0,0
+How do I reload a file in emacs without having to confirm every time that I want to do it?,jttilp,ruby_object,https://www.reddit.com/r/emacs/comments/jttilp/how_do_i_reload_a_file_in_emacs_without_having_to/,3,5,1605347785.0,0
+Emacs for programmers?,jtrihj,Quail_Mediocre,https://www.reddit.com/r/emacs/comments/jtrihj/emacs_for_programmers/,15,41,1605340267.0,0
+IPython graphics in orgmode don't display,jtre9t,dcreno,https://www.reddit.com/r/emacs/comments/jtre9t/ipython_graphics_in_orgmode_dont_display/,2,3,1605339843.0,0
+org docs get #+TITLE:,jtoomj,eljuman,https://www.reddit.com/r/emacs/comments/jtoomj/org_docs_get_title/,0,13,1605330930.0,0
+Elisp Packages License Compatibility,jtl0y7,CaglanT,https://www.reddit.com/r/emacs/comments/jtl0y7/elisp_packages_license_compatibility/,2,7,1605320319.0,0
+Migrating to a custom-file-less setup,jtihpt,WorldsEndless,https://orys.us/tU,10,0,1605312700.0,0
+"Emacs Desktop Environment #1 - Getting Started with EXWM (LIVE 11/13, 9:15 am PST)",jthkz4,daviwil,https://youtu.be/f7xB2fFk1tQ,27,9,1605310051.0,0
+Use README.org to plug EmacsConf,jthhmq,mplscorwin,https://www.reddit.com/r/emacs/comments/jthhmq/use_readmeorg_to_plug_emacsconf/,8,2,1605309806.0,0
+Visual guides for hierarchical content?,jtgm3o,R3D3-1,https://i.redd.it/x5sed90xg0z51.png,81,52,1605303717.0,0
+Org: Any way to clear headings?,jt797c,okomestudio,https://www.reddit.com/r/emacs/comments/jt797c/org_any_way_to_clear_headings/,3,6,1605257492.0,0
+Made a website to try out emacs syntax highlight,jtcs0r,xu-chunyang,https://www.reddit.com/r/emacs/comments/jtcs0r/made_a_website_to_try_out_emacs_syntax_highlight/,18,17,1605280696.0,1
+What's up with Cairo?,jtbtro,Hamilton950B,https://www.reddit.com/r/emacs/comments/jtbtro/whats_up_with_cairo/,33,22,1605276013.0,0
+Dumb question: what is the magit equivalent of `git commit -a && git push`,jtafgl,jmite,https://www.reddit.com/r/emacs/comments/jtafgl/dumb_question_what_is_the_magit_equivalent_of_git/,2,7,1605269797.0,0
+Flycheck to show LaTeX compile errors inline?,jtacdr,jmite,https://www.reddit.com/r/emacs/comments/jtacdr/flycheck_to_show_latex_compile_errors_inline/,3,3,1605269445.0,0
+fzf from project root,jt8csn,gugod,https://www.reddit.com/r/emacs/comments/jt8csn/fzf_from_project_root/,5,1,1605261618.0,0
+Magit is extremely slow on MacOs Catalina. I now have a new found appreciation of `vc-mode`,jt6vs1,csemacs,https://www.reddit.com/r/emacs/comments/jt6vs1/magit_is_extremely_slow_on_macos_catalina_i_now/,16,11,1605256109.0,0
+Run matlab script in emacs and print plots,jt6tfv,mike1111111111111,https://www.reddit.com/r/emacs/comments/jt6tfv/run_matlab_script_in_emacs_and_print_plots/,3,9,1605255859.0,0
+How do emacs faces work?,jt5rg8,WorldsEndless,https://www.reddit.com/r/emacs/comments/jt5rg8/how_do_emacs_faces_work/,2,6,1605252134.0,0
+Evil remap M-0 to 'beginning-of-line in insert mode,jt5okm,maxfriis,https://www.reddit.com/r/emacs/comments/jt5okm/evil_remap_m0_to_beginningofline_in_insert_mode/,3,1,1605251848.0,0
+"Synchronizing OSX, Terminal, and Emacs Dark/Light Appearance // Take on Rules",jt3i2f,takeonrules,https://takeonrules.com/2020/11/11/synchronizing-osx-terminal-and-emacs-dark-light-appearance/,7,3,1605244812.0,0
+How to use shell aliases with (async-)shell-command?,jt2f2t,gkayaalp,https://www.reddit.com/r/emacs/comments/jt2f2t/how_to_use_shell_aliases_with_asyncshellcommand/,2,1,1605241454.0,0
+Doom: error after upgrade (v2.0.9),jt003a,codethrasher,https://www.reddit.com/r/emacs/comments/jt003a/doom_error_after_upgrade_v209/,1,2,1605234378.0,0
+Nothing works related to gpg after setting a new language variable,jszrju,vemironic,https://www.reddit.com/r/emacs/comments/jszrju/nothing_works_related_to_gpg_after_setting_a_new/,1,2,1605233661.0,0
+Yet another static website generator for Org,jsxtq9,milouse,https://www.reddit.com/r/emacs/comments/jsxtq9/yet_another_static_website_generator_for_org/,56,9,1605227752.0,0
+Is there a function that returns the point value of a link?,jsw7b3,vfclists,https://www.reddit.com/r/emacs/comments/jsw7b3/is_there_a_function_that_returns_the_point_value/,1,0,1605222544.0,0
+Using company style completion in minibuffer?,jsu8i3,s930054123,https://www.reddit.com/r/emacs/comments/jsu8i3/using_company_style_completion_in_minibuffer/,4,6,1605215097.0,0
+Prevent out-of-sync cache in helm-find-files?,jstgfl,ambrevar,https://www.reddit.com/r/emacs/comments/jstgfl/prevent_outofsync_cache_in_helmfindfiles/,2,6,1605211438.0,0
+Is there an emacs plugin that only highlights the innermost current latex environment like in this vim post?,jsrygp,julianCP,https://www.reddit.com/r/math/comments/jrsgvt/some_principles_of_latex_typesetting_in_vim/,18,6,1605203180.0,0
+Company-box doesn't activate,jsqmdc,FluentFelicity,https://www.reddit.com/r/emacs/comments/jsqmdc/companybox_doesnt_activate/,1,1,1605195707.0,0
+Good Emacs related twitter to follow?,jsqm3k,zosterops_p,https://www.reddit.com/r/emacs/comments/jsqm3k/good_emacs_related_twitter_to_follow/,4,9,1605195669.0,0
+JetBrains Mono settings for emacs,jsoveg,AsifShimon,https://www.reddit.com/r/emacs/comments/jsoveg/jetbrains_mono_settings_for_emacs/,4,3,1605187131.0,0
+"a emacs related question, what is the default/correct way to setup the .emacs configuration so that haskell-language-server works out-of-the-box:",jso8fh,zeta_00,https://www.reddit.com/r/emacs/comments/jso8fh/a_emacs_related_question_what_is_the/,1,4,1605184440.0,0
+Help! elpa directory is not being detected by Emacs on new computer,jsfvd7,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jsfvd7/help_elpa_directory_is_not_being_detected_by/,1,4,1605154725.0,0
+Emacs IDE - How to Debug Your Code with dap-mode,jsdrgx,daviwil,https://youtu.be/0bilcQVSlbM,108,13,1605148521.0,0
+EXWM - problem installing,jscsrn,GoaScientist,https://www.reddit.com/r/emacs/comments/jscsrn/exwm_problem_installing/,1,22,1605145616.0,0
+local-set-key doesn't take effect?,jsbhmy,gws10463,https://www.reddit.com/r/emacs/comments/jsbhmy/localsetkey_doesnt_take_effect/,1,4,1605141698.0,0
+Migrating to a custom-file-less setup,js9r52,WorldsEndless,https://www.reddit.com/r/emacs/comments/js9r52/migrating_to_a_customfileless_setup/,4,18,1605136109.0,0
+Cleanup Extra Newlines in cc-mode,js6t27,spauldo_the_hippie,https://www.reddit.com/r/emacs/comments/js6t27/cleanup_extra_newlines_in_ccmode/,6,10,1605124414.0,0
+How to make org-noter open inside the current Emacs buffer,js6i8p,AuroraDraco,https://www.reddit.com/r/emacs/comments/js6i8p/how_to_make_orgnoter_open_inside_the_current/,11,2,1605122937.0,0
+"How do I get the Evil ""+ register to use the system clipboard when running in terminal?",js64x6,pwnedary,https://www.reddit.com/r/emacs/comments/js64x6/how_do_i_get_the_evil_register_to_use_the_system/,6,14,1605120988.0,0
+Non-evil evil-exchange,js61dw,thomasheartman,https://www.reddit.com/r/emacs/comments/js61dw/nonevil_evilexchange/,6,11,1605120476.0,0
+Ispell/iconv error when adding french word to the dictionary,jryyxj,Asleep-Village6496,https://www.reddit.com/r/emacs/comments/jryyxj/ispelliconv_error_when_adding_french_word_to_the/,3,11,1605088830.0,0
+How to save my own theme?,js0p60,ManiacMcCree,https://www.reddit.com/r/emacs/comments/js0p60/how_to_save_my_own_theme/,5,2,1605095198.0,0
+Can exwm simulation keys sequence be programmed with keymaps to control exwm-mode buffers?,jryjg1,vfclists,https://www.reddit.com/r/emacs/comments/jryjg1/can_exwm_simulation_keys_sequence_be_programmed/,1,10,1605087307.0,0
+Emacs programming dark themes?,jrv4cp,mustafasalih1993,https://www.reddit.com/r/emacs/comments/jrv4cp/emacs_programming_dark_themes/,3,19,1605075929.0,0
+How many of you use Emacs for the IDE experience?,jru67o,low-fly,https://www.reddit.com/r/emacs/comments/jru67o/how_many_of_you_use_emacs_for_the_ide_experience/,4,11,1605072906.0,0
+Help needed: Elpy auto completion broken,jrsbtx,iblysa,https://www.reddit.com/r/emacs/comments/jrsbtx/help_needed_elpy_auto_completion_broken/,1,3,1605067333.0,0
+Warning when Emacs installs packages from MELPA,jrqg2a,zoliky,https://www.reddit.com/r/emacs/comments/jrqg2a/warning_when_emacs_installs_packages_from_melpa/,2,6,1605061746.0,0
+orgstat -- visualize org clocked time,jrpucp,w0ntfix,https://github.com/volhovm/orgstat,22,2,1605059928.0,2
+buffer-switching in 2020,jrnjsv,WorldsEndless,https://www.reddit.com/r/emacs/comments/jrnjsv/bufferswitching_in_2020/,4,25,1605052967.0,0
+open file in async,jrmhle,zsome,https://www.reddit.com/r/emacs/comments/jrmhle/open_file_in_async/,4,10,1605049459.0,0
+"EmacsConf 2020: Schedule, Poster, How to Watch, and How to Participate",jrmabk,Zaeph,https://www.reddit.com/r/emacs/comments/jrmabk/emacsconf_2020_schedule_poster_how_to_watch_and/,197,24,1605048769.0,7
+Quick tip: named terminals with vterm,jrm8bd,pimiddy,https://pmiddend.github.io/posts/named-terminals/,16,5,1605048576.0,0
+Magit question: don't display diffs for large binary-esque files,jrlw1a,jumbles1234,https://www.reddit.com/r/emacs/comments/jrlw1a/magit_question_dont_display_diffs_for_large/,3,1,1605047346.0,0
+TRAMP for WSL 1 from Cygwin Emacs-w32,jrkgmy,gavenkoa,https://www.reddit.com/r/emacs/comments/jrkgmy/tramp_for_wsl_1_from_cygwin_emacsw32/,1,5,1605041740.0,0
+Open definitions/references in other window using lsp-mode keybindings,jrij2p,mickesp,https://www.reddit.com/r/emacs/comments/jrij2p/open_definitionsreferences_in_other_window_using/,3,1,1605032011.0,0
+How to open two files side by side on the same buffer at startup,jrazee,Asleep-Village6496,https://www.reddit.com/r/emacs/comments/jrazee/how_to_open_two_files_side_by_side_on_the_same/,1,3,1604999516.0,0
+How to have a single set of config files for multiple Emacs distributions,jrg18p,injeolmi-bingsoo,https://www.reddit.com/r/emacs/comments/jrg18p/how_to_have_a_single_set_of_config_files_for/,1,7,1605018852.0,0
+Weekly tips/trick/etc/ thread,jrh7sf,AutoModerator,https://www.reddit.com/r/emacs/comments/jrh7sf/weekly_tipstricketc_thread/,16,47,1605024830.0,0
+Janky line numbers,jrh6uq,okimka,https://www.reddit.com/r/emacs/comments/jrh6uq/janky_line_numbers/,3,8,1605024683.0,0
+[ANN] org-ql: Dynamic Blocks and Links,jrh6il,github-alphapapa,https://www.reddit.com/r/emacs/comments/jrh6il/ann_orgql_dynamic_blocks_and_links/,40,10,1605024631.0,0
+"Org clocktable, how to sum time by tags",jrf5eg,tenpasten,https://www.reddit.com/r/emacs/comments/jrf5eg/org_clocktable_how_to_sum_time_by_tags/,5,12,1605014883.0,0
+IMAP and SMTP OAuth2 configuration for Office 365,jreehr,harishkrupo,https://www.reddit.com/r/emacs/comments/jreehr/imap_and_smtp_oauth2_configuration_for_office_365/,13,4,1605011826.0,0
+Using Emacs While Running Online Games // Take on Rules,jr7n56,takeonrules,https://takeonrules.com/2020/11/09/using-emacs-while-running-online-games/,30,13,1604988576.0,0
+Evil mode with Emacs binding,jr5aws,Lefantom55,https://www.reddit.com/r/emacs/comments/jr5aws/evil_mode_with_emacs_binding/,3,5,1604981619.0,0
+How to use recover-file or recover-this-file programmatically in init.el?,jr3bxn,aksh2161989,https://www.reddit.com/r/emacs/comments/jr3bxn/how_to_use_recoverfile_or_recoverthisfile/,2,12,1604975789.0,0
+Problems with Quail on WSL2,jr1yhm,WLSBR,https://www.reddit.com/r/emacs/comments/jr1yhm/problems_with_quail_on_wsl2/,2,2,1604971704.0,0
+Function for cycling between different paren/brace symbols?,jqyz18,Expensive_Pain,https://www.reddit.com/r/emacs/comments/jqyz18/function_for_cycling_between_different_parenbrace/,1,4,1604962395.0,0
+How can I make some files automatically read-only when I open them?,jqxgiz,vfclists,https://www.reddit.com/r/emacs/comments/jqxgiz/how_can_i_make_some_files_automatically_readonly/,15,12,1604956790.0,0
+Ask: Could Emacs run any CLI programme with Shell-mode?,jqx6u3,yibie,https://www.reddit.com/r/emacs/comments/jqx6u3/ask_could_emacs_run_any_cli_programme_with/,4,4,1604955685.0,0
+How do you debug giant plists?,jqsdcr,justinabrahms,https://www.reddit.com/r/emacs/comments/jqsdcr/how_do_you_debug_giant_plists/,8,5,1604931166.0,0
+How do I export my org journal to single org files inside folders?,jqlwxs,jasonmirk,https://www.reddit.com/r/emacs/comments/jqlwxs/how_do_i_export_my_org_journal_to_single_org/,8,6,1604906137.0,0
+Combining repeat and repeat-complex-command,jqjuee,spwhitton,https://spwhitton.name/blog/entry/emacs-combined-repeat/,13,1,1604899242.0,0
+Themes that support tab-line-mode,jqi2lk,mdbergmann,https://www.reddit.com/r/emacs/comments/jqi2lk/themes_that_support_tablinemode/,5,7,1604893475.0,0
+Global Keybindings only work in some files.,jqh549,SurrealGaming,https://www.reddit.com/r/emacs/comments/jqh549/global_keybindings_only_work_in_some_files/,1,4,1604890411.0,0
+Why doesn't rassoc work on these values?,jqgfa4,vfclists,https://www.reddit.com/r/emacs/comments/jqgfa4/why_doesnt_rassoc_work_on_these_values/,2,18,1604888029.0,0
+How can I set themes depending on time of the day on Doom Emacs?,jqeskb,blackSwan08,https://www.reddit.com/r/emacs/comments/jqeskb/how_can_i_set_themes_depending_on_time_of_the_day/,34,13,1604882696.0,0
+Any way to update the default bundled org to the new version from gnu elpa?,jqcdxj,zosterops_p,https://www.reddit.com/r/emacs/comments/jqcdxj/any_way_to_update_the_default_bundled_org_to_the/,1,3,1604873706.0,0
+Calculating and Plotting Covid Rates in Org,jqavs1,__-----_-----__,https://www.reddit.com/r/emacs/comments/jqavs1/calculating_and_plotting_covid_rates_in_org/,25,0,1604866991.0,0
+"[ANN/WIP] Delve, the Zettelkasten browser for org-roam",jpxwsf,public_image_limited,https://github.com/publicimageltd/delve,23,13,1604810558.0,1
+Spacemacs keybindings in own config?,jqa2o5,SlothBoiiiiiii,https://www.reddit.com/r/emacs/comments/jqa2o5/spacemacs_keybindings_in_own_config/,3,11,1604862718.0,0
+Pyright cannot load configuration file.,jq98up,hainguyenac,https://www.reddit.com/r/emacs/comments/jq98up/pyright_cannot_load_configuration_file/,1,3,1604858067.0,0
+silicon.el: generate images of source code files using silicon,jq902m,iensu,https://www.reddit.com/r/emacs/comments/jq902m/siliconel_generate_images_of_source_code_files/,7,10,1604856675.0,0
+Displaying Extra Information in Org Agenda,jq7jxs,Krautoni,https://www.reddit.com/r/emacs/comments/jq7jxs/displaying_extra_information_in_org_agenda/,4,3,1604848438.0,0
+Is there a package that can create a mind map from org mode structure?,jq4oz4,ruby_object,https://www.reddit.com/r/emacs/comments/jq4oz4/is_there_a_package_that_can_create_a_mind_map/,9,5,1604835107.0,0
+org-roam and tables composed of queried data,jq41y4,fumpeddorado,https://www.reddit.com/r/emacs/comments/jq41y4/orgroam_and_tables_composed_of_queried_data/,3,2,1604832540.0,0
+"I use the GUI version of Emacs in Windows 10 and am no longer able to open .org files by double-clicking on them in File Explorer. The scratch buffer opens instead of the file. I am still able to open files through Emacs (find-file, helm-find-files) but wonder what happened to the old functionality.",jq2tpm,argtri,https://www.reddit.com/r/emacs/comments/jq2tpm/i_use_the_gui_version_of_emacs_in_windows_10_and/,1,2,1604827674.0,0
+NEW! Extended pdf-tools annotation capabilities with pymupdf-mode,jq1jff,dalanicolai,https://www.reddit.com/r/emacs/comments/jq1jff/new_extended_pdftools_annotation_capabilities/,44,0,1604822906.0,0
+Very simple HTML live preview for Emacs (and my first time writing Emacs Lisp),jq11se,leikeez,https://www.reddit.com/r/emacs/comments/jq11se/very_simple_html_live_preview_for_emacs_and_my/,28,5,1604821183.0,0
+[package] swsw - simple window switching,jq0r4h,,https://www.reddit.com/r/emacs/comments/jq0r4h/package_swsw_simple_window_switching/,11,20,1604820154.0,0
+EmacsConf 2020 schedule is up,jq0jgl,leungbk,https://emacsconf.org/2020/schedule/,114,17,1604819427.0,0
+Printable fax letter from within Emacs? In: Creating workflow in Emacs,jpzg2r,pragmat1c1,https://www.reddit.com/r/emacs/comments/jpzg2r/printable_fax_letter_from_within_emacs_in/,4,2,1604815689.0,0
+Making dired occupy the initial startup screen,jpt5mn,AuroraDraco,https://www.reddit.com/r/emacs/comments/jpt5mn/making_dired_occupy_the_initial_startup_screen/,6,11,1604793375.0,0
+Projectile and RTags,jpscdx,Thaodan,https://www.reddit.com/r/emacs/comments/jpscdx/projectile_and_rtags/,2,1,1604790458.0,0
+org mode table: substring of another column,jpsb25,whkoh,https://www.reddit.com/r/emacs/comments/jpsb25/org_mode_table_substring_of_another_column/,6,3,1604790323.0,0
+Strange format behavior,jps0qc,seregaxvm,https://www.reddit.com/r/emacs/comments/jps0qc/strange_format_behavior/,1,4,1604789242.0,0
+Emacs spotify client player status,jpp1ju,LeonardoDeFaveri,https://www.reddit.com/r/emacs/comments/jpp1ju/emacs_spotify_client_player_status/,4,4,1604775862.0,0
+get bookmarks as data,jpc0cs,sgorb-sgarb,https://www.reddit.com/r/emacs/comments/jpc0cs/get_bookmarks_as_data/,2,4,1604720933.0,0
+mu4e-conversation is looking for a new maintainer,jpnt6v,ambrevar,https://gitlab.com/ambrevar/mu4e-conversation/-/issues/19,37,6,1604769313.0,0
+Indent wrapped line and fringe indicator?,jplpxx,immortal192,https://www.reddit.com/r/emacs/comments/jplpxx/indent_wrapped_line_and_fringe_indicator/,1,1,1604757722.0,0
+Run Emacs Lisp code online,jpln29,xu-chunyang,https://elisp-playground.vercel.app/,47,8,1604757323.0,0
+Cannot find any builtin function source code/definition anymore,jpjki6,takethecannoli4,https://www.reddit.com/r/emacs/comments/jpjki6/cannot_find_any_builtin_function_source/,2,0,1604748155.0,0
+can’t insert symbols,jpe878,Damonsalvatore1029,https://www.reddit.com/r/emacs/comments/jpe878/cant_insert_symbols/,3,5,1604728085.0,0
+Standalone Dired launcher: dired.sh,jpdh2t,github-alphapapa,https://gist.github.com/alphapapa/9c4eea0f204f865d37e8c99963feb922,34,18,1604725635.0,0
+The GNU Emacs Manual in epub format,jpbmwo,Akira-Takeshi,https://www.reddit.com/r/emacs/comments/jpbmwo/the_gnu_emacs_manual_in_epub_format/,58,10,1604719745.0,2
+emacsforosx permission problem in MacOS Big Sur,jpawb1,drogoff,https://www.reddit.com/r/emacs/comments/jpawb1/emacsforosx_permission_problem_in_macos_big_sur/,5,13,1604717438.0,0
+Fail to start dap-lldb debugging session,jp7ntg,mickesp,https://www.reddit.com/r/emacs/comments/jp7ntg/fail_to_start_daplldb_debugging_session/,4,2,1604707276.0,0
+"Emacs From Scratch #10 - Effortless File Management with Dired (LIVE 11/6, 9:15 am PST)",jp68vt,daviwil,https://youtu.be/PMWwM8QJAtU,64,21,1604702519.0,0
+Sorting Org Clocktables By Category Instead Of File,jp5ear,ChaoticManifold,https://www.reddit.com/r/emacs/comments/jp5ear/sorting_org_clocktables_by_category_instead_of/,5,2,1604699463.0,0
+Yasnippets not recognising elisp function,jp329f,ShowMeThatB00tY,https://www.reddit.com/r/emacs/comments/jp329f/yasnippets_not_recognising_elisp_function/,1,5,1604688603.0,0
+Online Emacs Documentation (docstring),jp2v26,xu-chunyang,https://describe-symbol.vercel.app/,15,8,1604687514.0,0
+How to avoid slow re-search-forward in big files running non-fundamental modes?,jp25ev,unhammer,https://www.reddit.com/r/emacs/comments/jp25ev/how_to_avoid_slow_researchforward_in_big_files/,21,14,1604683594.0,0
+looking for a simple and easy way to separate my .emacs elisp configuration file into separate elisp files and then import all of those elisp files into my main .emacs configuration file:,joxqnm,zeta_00,https://www.reddit.com/r/emacs/comments/joxqnm/looking_for_a_simple_and_easy_way_to_separate_my/,4,6,1604663038.0,0
+Is there a good comprehensive resource to learn elisp?,jow9ac,CoffeeSmoker,https://www.reddit.com/r/emacs/comments/jow9ac/is_there_a_good_comprehensive_resource_to_learn/,5,7,1604657226.0,0
+Found this useful reference card,jotfk3,FluentFelicity,https://www.reddit.com/r/emacs/comments/jotfk3/found_this_useful_reference_card/,7,2,1604646862.0,0
+Using Emacs online,jorp3y,danderzei,https://www.reddit.com/r/emacs/comments/jorp3y/using_emacs_online/,11,19,1604641071.0,0
+How can I use emacs to edit copy?,jor3pa,steinbecks-ghost,https://www.reddit.com/r/emacs/comments/jor3pa/how_can_i_use_emacs_to_edit_copy/,5,16,1604639155.0,0
+Understanding Emacs Lisp byte-code interpreter,jop6ow,narendra_joshi,https://www.reddit.com/r/emacs/comments/jop6ow/understanding_emacs_lisp_bytecode_interpreter/,50,7,1604633121.0,0
+"Mu4e, tagging and mbsync",jon6hj,jaursfeblo,https://www.reddit.com/r/emacs/comments/jon6hj/mu4e_tagging_and_mbsync/,11,4,1604626880.0,0
+Immediate return from executing long running command (asynchronously) with org code block?,jolmfy,yubrshen,https://www.reddit.com/r/emacs/comments/jolmfy/immediate_return_from_executing_long_running/,5,6,1604621994.0,0
+"Emacs is watching source code when running node, how to stop it",jokh7b,tgbnju,https://www.reddit.com/r/emacs/comments/jokh7b/emacs_is_watching_source_code_when_running_node/,1,2,1604618171.0,0
+Threads for relaxation,joi2sm,R3D3-1,https://www.reddit.com/r/emacs/comments/joi2sm/threads_for_relaxation/,37,10,1604608801.0,0
+Notmuch forwarding Amazon confirmation email,joh39k,j22fineman,https://www.reddit.com/r/emacs/comments/joh39k/notmuch_forwarding_amazon_confirmation_email/,1,4,1604603886.0,0
+Visit tangled file with org-open-at-point,jof1p3,ibizaman,https://www.reddit.com/r/emacs/comments/jof1p3/visit_tangled_file_with_orgopenatpoint/,17,2,1604592330.0,0
+Imagemagick on Windows,jo9vd9,ilovecheapcars,https://www.reddit.com/r/emacs/comments/jo9vd9/imagemagick_on_windows/,0,3,1604569854.0,0
+Anyway to speed up macros in Emacs?,joeno5,holy-rusted-metal,https://www.reddit.com/r/emacs/comments/joeno5/anyway_to_speed_up_macros_in_emacs/,3,37,1604590248.0,0
+Roam capture in roam capture with protocol kills my floating frame,jo4ngf,robador51,https://www.reddit.com/r/emacs/comments/jo4ngf/roam_capture_in_roam_capture_with_protocol_kills/,1,1,1604551653.0,0
+[Help] Differences between terminal emacs and app emacs on macOS,jo4i7i,doctordesh,https://www.reddit.com/r/emacs/comments/jo4i7i/help_differences_between_terminal_emacs_and_app/,1,11,1604551197.0,0
+Java Programming in Emacs,jo3ga3,xpressrazor,https://xpressrazor.wordpress.com/2020/11/04/java-programming-in-emacs/,27,7,1604547822.0,0
+Emacs Tips - How to Use File and Directory Local Variables,jo2ze3,daviwil,https://youtu.be/tw2-rI2bxSg,67,14,1604546323.0,0
+M-x helper in vanilla Emacs (the one in Doom),jo1ebq,vemironic,https://www.reddit.com/r/emacs/comments/jo1ebq/mx_helper_in_vanilla_emacs_the_one_in_doom/,1,13,1604541382.0,0
+inferior octave buffer not showing results bug?,jo0g5p,low-fly,https://www.reddit.com/r/emacs/comments/jo0g5p/inferior_octave_buffer_not_showing_results_bug/,2,0,1604538417.0,0
+tab-out like vscode,jo07mq,-0-4-0-,https://www.reddit.com/r/emacs/comments/jo07mq/tabout_like_vscode/,12,14,1604537689.0,0
+Powerline for Nyxt,jnyqc9,jmercouris,https://nyxt.atlas.engineer/article/nyxt-powerline.org,27,0,1604532777.0,0
+counsel-mairix: ivy interface for mairix,jnxh27,Ironballs,https://sr.ht/~ane/counsel-mairix/,21,6,1604528377.0,0
+Rewrite Emacs,jnup5t,seregaxvm,https://www.reddit.com/r/emacs/comments/jnup5t/rewrite_emacs/,0,74,1604515969.0,0
+Can you help me to colorize vterm prompt inside a docker container?,jntu19,ZZhanChi,https://www.reddit.com/r/emacs/comments/jntu19/can_you_help_me_to_colorize_vterm_prompt_inside_a/,3,1,1604511305.0,0
+win10 + trendmicro config,jnsk05,zsome,https://www.reddit.com/r/emacs/comments/jnsk05/win10_trendmicro_config/,0,10,1604504224.0,0
+"Is the "".eld"" file type recognized by emacs?",jnqn8l,vfclists,https://www.reddit.com/r/emacs/comments/jnqn8l/is_the_eld_file_type_recognized_by_emacs/,1,5,1604495112.0,0
+[package] company-ipa,jnllxh,cat-head,https://www.reddit.com/r/emacs/comments/jnllxh/package_companyipa/,32,13,1604475204.0,0
+How can you tell when use-package can be used to configure some built-in packages?,jnhl18,vfclists,https://www.reddit.com/r/emacs/comments/jnhl18/how_can_you_tell_when_usepackage_can_be_used_to/,5,12,1604462367.0,0
+alert-toast.el - Windows 10 toast notifications for Emacs,jndj18,gkowzan,https://www.reddit.com/r/emacs/comments/jndj18/alerttoastel_windows_10_toast_notifications_for/,45,8,1604450122.0,0
+[noob] Trying to change my eshell prompt,jndvkz,Androkon,https://www.reddit.com/r/emacs/comments/jndvkz/noob_trying_to_change_my_eshell_prompt/,7,4,1604451155.0,0
+Is there a built-in search function that searches for either of two strings?,jndms4,vfclists,https://www.reddit.com/r/emacs/comments/jndms4/is_there_a_builtin_search_function_that_searches/,3,10,1604450437.0,0
+Tramp: I'm having a devil of a time getting `.dir-locals.el` to work in remote directories.,jndl45,brunch_tacos,https://www.reddit.com/r/emacs/comments/jndl45/tramp_im_having_a_devil_of_a_time_getting/,13,2,1604450295.0,0
+Protecting key-bindings?,jnbwz1,nagora,https://www.reddit.com/r/emacs/comments/jnbwz1/protecting_keybindings/,7,3,1604445046.0,0
+general.el SPC in Buffer-menu-mode-map,jnaydn,MongooseNo1149,https://www.reddit.com/r/emacs/comments/jnaydn/generalel_spc_in_buffermenumodemap/,2,0,1604441647.0,0
+env var sourcing order in emacs,jn9dju,Galadchanar,https://www.reddit.com/r/emacs/comments/jn9dju/env_var_sourcing_order_in_emacs/,2,3,1604435171.0,0
+Weekly tips/trick/etc/ thread,jn6m14,AutoModerator,https://www.reddit.com/r/emacs/comments/jn6m14/weekly_tipstricketc_thread/,32,29,1604420022.0,0
+smart-line-beginning + visual-line-mode,jmznum,Eno6ohng,https://www.reddit.com/r/emacs/comments/jmznum/smartlinebeginning_visuallinemode/,5,0,1604390945.0,0
+notmuch and csv-mode key binding conflict,jmzbjd,j22fineman,https://www.reddit.com/r/emacs/comments/jmzbjd/notmuch_and_csvmode_key_binding_conflict/,1,0,1604389791.0,0
+[package/library] ob-elixir,jmz6sn,,https://www.reddit.com/r/emacs/comments/jmz6sn/packagelibrary_obelixir/,8,0,1604389341.0,0
+Emacs rejects any binds with super key (EXWM),jmxmeb,_clstr_,https://www.reddit.com/r/emacs/comments/jmxmeb/emacs_rejects_any_binds_with_super_key_exwm/,2,6,1604384267.0,0
+General.el SPC in Magit,jmwf2n,Matty265,https://www.reddit.com/r/emacs/comments/jmwf2n/generalel_spc_in_magit/,4,2,1604380617.0,0
+Hide from the agenda only tasks with children that are on the agenda,jmwbsm,graduale,https://www.reddit.com/r/emacs/comments/jmwbsm/hide_from_the_agenda_only_tasks_with_children/,3,5,1604380343.0,0
+Has anything of substance ever been done in elisp using lazy data structures?,jmvzhs,trimorphic,https://www.reddit.com/r/emacs/comments/jmvzhs/has_anything_of_substance_ever_been_done_in_elisp/,11,8,1604379366.0,0
+emacs ncspot,jmvsrc,artema666,https://www.reddit.com/r/emacs/comments/jmvsrc/emacs_ncspot/,2,1,1604378826.0,0
+MacOS Contacts in Emacs,jmv3rw,jangid,https://codeisgreat.org/articles/emacs-macos-contacts.html,15,0,1604376648.0,0
+Recenter new frame,jmv0k1,pragmat1c1,https://www.reddit.com/r/emacs/comments/jmv0k1/recenter_new_frame/,1,3,1604376362.0,0
+Render Whitespace Inside Marks,jmur8k,WLSBR,https://www.reddit.com/r/emacs/comments/jmur8k/render_whitespace_inside_marks/,1,6,1604375516.0,0
+Polyp: Small child of the Hydra,jmu444,dmendler,https://gist.github.com/minad/ac1c2ce6af8ae37fe9d13be4b2116495,6,6,1604373418.0,0
+"Python user, just downloaded WSL and looking for an ide where i can do everything in one place. Just doing programming assignments, going to take a course ai and a course in web dev using python and django. Is emacs a good choice? How do i get started?",jmssu4,BigDog1920,https://www.reddit.com/r/emacs/comments/jmssu4/python_user_just_downloaded_wsl_and_looking_for/,1,14,1604369505.0,0
+Removing Helm?,jmr5rf,nagora,https://www.reddit.com/r/emacs/comments/jmr5rf/removing_helm/,0,1,1604364745.0,0
+Continuous Professional Development Record in Emacs,jmpsdl,__-----_-----__,https://www.reddit.com/r/emacs/comments/jmpsdl/continuous_professional_development_record_in/,52,10,1604360643.0,0
+How to properly set font size in Emacs config?,jmnkfr,zoliky,https://www.reddit.com/r/emacs/comments/jmnkfr/how_to_properly_set_font_size_in_emacs_config/,4,4,1604353242.0,0
+Absolute best way to use submodules to manage Emacs packages?,jmjsoe,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jmjsoe/absolute_best_way_to_use_submodules_to_manage/,5,11,1604334100.0,0
+Suggestions to run a business with Emacs?,jmhhce,im_not_juicing,https://www.reddit.com/r/emacs/comments/jmhhce/suggestions_to_run_a_business_with_emacs/,25,26,1604322093.0,0
+"Help needed with syntax of use ""apply"" function.",jmfhws,vfclists,https://www.reddit.com/r/emacs/comments/jmfhws/help_needed_with_syntax_of_use_apply_function/,3,13,1604313674.0,0
+Any online Emacs meetups anyone?..,jm9n9p,jlla,https://www.reddit.com/r/emacs/comments/jm9n9p/any_online_emacs_meetups_anyone/,31,11,1604292168.0,0
+Dynamicalls update `org-agenda-files` list,jm6sv8,pragmat1c1,https://www.reddit.com/r/emacs/comments/jm6sv8/dynamicalls_update_orgagendafiles_list/,0,2,1604282721.0,0
+Recompile in comint mode,jm5fff,S1rPrise,https://www.reddit.com/r/emacs/comments/jm5fff/recompile_in_comint_mode/,3,3,1604278143.0,0
+"RTFM quest or the Info files like it was supposed to be, on Debian, Ubuntu & derivatives",jm4e0k,Lazy-Snail,https://www.reddit.com/r/emacs/comments/jm4e0k/rtfm_quest_or_the_info_files_like_it_was_supposed/,17,3,1604274504.0,0
+Emacs daemon crash randomly (maybe not GTK),jm3sgt,gas-sniffer,https://www.reddit.com/r/emacs/comments/jm3sgt/emacs_daemon_crash_randomly_maybe_not_gtk/,2,2,1604272304.0,0
+4K scaling on Linux,jm3ey2,1419538,https://www.reddit.com/r/emacs/comments/jm3ey2/4k_scaling_on_linux/,17,9,1604270910.0,0
+Any interest in a MELPA/Marmalade alternative?,jm3bgw,wasamasa,https://www.reddit.com/r/emacs/comments/jm3bgw/any_interest_in_a_melpamarmalade_alternative/,12,38,1604270507.0,1
+Help with code completion for writing elisp?,jm2ngs,takeonrules,https://www.reddit.com/r/emacs/comments/jm2ngs/help_with_code_completion_for_writing_elisp/,7,5,1604267976.0,0
+Org-transclusion (alpha v0.0.4) Demo #4,jm1nv6,nobiot,https://www.youtube.com/watch?v=nO_JEXUeGkI&feature=share,96,71,1604263585.0,1
+Prevent pop-to-buffer to switch buffer focus,jlqodu,Impressive_Path2037,https://www.reddit.com/r/emacs/comments/jlqodu/prevent_poptobuffer_to_switch_buffer_focus/,2,1,1604209157.0,0
+How to create recursive key sequences?,jm1bw1,Horhi,https://www.reddit.com/r/emacs/comments/jm1bw1/how_to_create_recursive_key_sequences/,1,6,1604261894.0,0
+Prevent emacs writing `org-agenda-files' list to `init.el',jlz8ni,pragmat1c1,https://www.reddit.com/r/emacs/comments/jlz8ni/prevent_emacs_writing_orgagendafiles_list_to/,2,11,1604249365.0,0
+Take Screenshot of Region on Linux for Org Mode,jlynfq,ryanG2718,https://www.reddit.com/r/emacs/comments/jlynfq/take_screenshot_of_region_on_linux_for_org_mode/,10,2,1604245477.0,0
+[ANN] InkPot theme updated (available as 'inkpot-theme' on melpa),jlxxar,ideasman_42,https://gitlab.com/ideasman42/emacs-inkpot-theme,10,2,1604240937.0,0
+Has anyone dealt with this error?: Cannot find module 'worker_threads' when trying to use pyright with lsp-mode,jlxi4u,iblysa,https://www.reddit.com/r/emacs/comments/jlxi4u/has_anyone_dealt_with_this_error_cannot_find/,1,0,1604238484.0,0
+Opposite of emacsclient?,jlurf9,solresol,https://www.reddit.com/r/emacs/comments/jlurf9/opposite_of_emacsclient/,4,9,1604225399.0,0
+Nix and Home Manager on MacOS,jlt7ky,adivinity,https://www.reddit.com/r/emacs/comments/jlt7ky/nix_and_home_manager_on_macos/,40,10,1604218946.0,0
+ivy-posframe not reliably showing border,jlsass,pragmat1c1,https://www.reddit.com/r/emacs/comments/jlsass/ivyposframe_not_reliably_showing_border/,5,5,1604215327.0,0
+Recommendation for a mind map package that works in an org babel block?,jlpyej,maxle0312,https://www.reddit.com/r/emacs/comments/jlpyej/recommendation_for_a_mind_map_package_that_works/,7,7,1604206528.0,0
+Emacs shows only on one monitor with EXWM,jljmhx,_clstr_,https://www.reddit.com/r/emacs/comments/jljmhx/emacs_shows_only_on_one_monitor_with_exwm/,14,5,1604184578.0,0
+How can I jump to a window in another frame?,jlitex,vfclists,https://www.reddit.com/r/emacs/comments/jlitex/how_can_i_jump_to_a_window_in_another_frame/,2,11,1604181528.0,0
+How do I express a defun as a form which can be passed to the cl-prettyprint function?,jlgfah,vfclists,https://www.reddit.com/r/emacs/comments/jlgfah/how_do_i_express_a_defun_as_a_form_which_can_be/,1,1,1604170453.0,0
+ivy-posframe - cannot change background color of frame,jlfzcl,pragmat1c1,https://www.reddit.com/r/emacs/comments/jlfzcl/ivyposframe_cannot_change_background_color_of/,3,4,1604168179.0,0
+"PSA: Don't set bidi-display-reordering nil, will crash harfbuzz Emacs",jle4nm,unhammer,https://www.reddit.com/r/emacs/comments/jle4nm/psa_dont_set_bididisplayreordering_nil_will_crash/,14,3,1604157138.0,0
+Can't backtab in term,jlcs4e,the_bobbly,https://www.reddit.com/r/emacs/comments/jlcs4e/cant_backtab_in_term/,2,2,1604149726.0,0
+Reducing Duplication in my Emacs Config // Take on Rules,jlb4oj,takeonrules,https://takeonrules.com/2020/10/30/reducing-duplication-in-my-emacs-config/,24,9,1604142297.0,0
+[ Question ] How to achieve this look,jl8xwl,PedroSantana47,https://www.reddit.com/r/emacs/comments/jl8xwl/question_how_to_achieve_this_look/,68,29,1604133732.0,0
+What is a good resource to learn about the inner working of Emacs?,jl6cq2,ThisMousse5497,https://www.reddit.com/r/emacs/comments/jl6cq2/what_is_a_good_resource_to_learn_about_the_inner/,15,8,1604124506.0,0
+Maxima.el maxima integration with Emacs,jl54cj,f-sasa,https://www.reddit.com/r/emacs/comments/jl54cj/maximael_maxima_integration_with_emacs/,33,7,1604120338.0,0
+Anyone here using Castlemacs with a custom theme?,jl40qk,betazed,https://www.reddit.com/r/emacs/comments/jl40qk/anyone_here_using_castlemacs_with_a_custom_theme/,1,0,1604116782.0,0
+Code critique need for helm completion,jl3lxk,vfclists,https://www.reddit.com/r/emacs/comments/jl3lxk/code_critique_need_for_helm_completion/,2,3,1604115466.0,0
+Using company-ispell with large text dictionary takes a toll on performance,jl120s,csemacs,https://www.reddit.com/r/emacs/comments/jl120s/using_companyispell_with_large_text_dictionary/,2,0,1604107351.0,0
+Alias git status to (magit-status),jkz6yl,Rage3Bet,https://www.reddit.com/r/emacs/comments/jkz6yl/alias_git_status_to_magitstatus/,3,1,1604101552.0,0
+Keyfreq fork - keyboard heat map,jkyea6,KirmTwinty,https://www.reddit.com/r/emacs/comments/jkyea6/keyfreq_fork_keyboard_heat_map/,20,3,1604098980.0,0
+"Emacs From Scratch #9 - Learn to Love the Terminal Modes (LIVE 10/30, 9:15 am PDT)",jkwcje,daviwil,https://youtu.be/wa_wZIuT9Vw,84,10,1604091836.0,0
+Vterm or eshell,jkq5oa,rstcruzo,https://www.reddit.com/r/emacs/comments/jkq5oa/vterm_or_eshell/,17,44,1604060451.0,0
+How to make Emacs stop oneself from getting distracted?,jkqj4e,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jkqj4e/how_to_make_emacs_stop_oneself_from_getting/,5,19,1604062142.0,0
+Prettify symbols mode show original list of characters when the cursor is hover the symbol,jkq8n9,Realistic_Comment,https://www.reddit.com/r/emacs/comments/jkq8n9/prettify_symbols_mode_show_original_list_of/,5,1,1604060816.0,0
+How to hide other applications (macOS) from within Emacs,jko7au,graduale,https://www.reddit.com/r/emacs/comments/jko7au/how_to_hide_other_applications_macos_from_within/,4,5,1604052699.0,0
+New frame does not get focus on KDE when focus stealing prevention is activated,jkistb,takethecannoli4,https://www.reddit.com/r/emacs/comments/jkistb/new_frame_does_not_get_focus_on_kde_when_focus/,3,2,1604034499.0,0
+"[ANN/WIP] Burly can now restore frames, like a ""real"" workspace manager",jkhyit,github-alphapapa,https://github.com/alphapapa/burly.el,69,11,1604031980.0,0
+Does anyone have any experience using selectrum?,jkfnra,FluentFelicity,https://www.reddit.com/r/emacs/comments/jkfnra/does_anyone_have_any_experience_using_selectrum/,19,42,1604024919.0,0
+"Is there a way to disable this prompt specifically? Pretty novice user here, and this interferes with running macros when some files elicit this prompt and others don't.",jkei32,pijaso,https://i.redd.it/e9b2x2brj2w51.png,6,4,1604021462.0,0
+Equations in emacs.,jkbvb5,Whatavarian,https://www.reddit.com/r/emacs/comments/jkbvb5/equations_in_emacs/,21,19,1604013288.0,0
+Test runner package?,jkb6ec,mookid11,https://www.reddit.com/r/emacs/comments/jkb6ec/test_runner_package/,6,8,1604011013.0,0
+Exttacting all matches of regexp into new buffer,jka4nm,BtcVersus,https://www.reddit.com/r/emacs/comments/jka4nm/exttacting_all_matches_of_regexp_into_new_buffer/,3,10,1604007324.0,0
+Window management: How to have a strict setting of window layout?,jk7dfp,pragmat1c1,https://www.reddit.com/r/emacs/comments/jk7dfp/window_management_how_to_have_a_strict_setting_of/,16,6,1603995060.0,0
+Number of org-agenda-files vs startup time org-agenda,jk6oq4,pragmat1c1,https://www.reddit.com/r/emacs/comments/jk6oq4/number_of_orgagendafiles_vs_startup_time_orgagenda/,2,8,1603991249.0,0
+resize window only left edge,jk51c0,theseus_sphere,https://www.reddit.com/r/emacs/comments/jk51c0/resize_window_only_left_edge/,1,7,1603981694.0,0
+Daily ways GNU Hyperbole helps me stay in flow and reduces cognitive load,jk3cn0,rswgnu,https://www.reddit.com/r/emacs/comments/jk3cn0/daily_ways_gnu_hyperbole_helps_me_stay_in_flow/,74,49,1603973322.0,1
+Download images from all the links in org-buffer using org-download,jk29h1,ckoneru,https://www.reddit.com/r/emacs/comments/jk29h1/download_images_from_all_the_links_in_orgbuffer/,10,2,1603968766.0,0
+Wanderlust folder - /var/mail,jk1nwk,skeezixcodejedi,https://www.reddit.com/r/emacs/comments/jk1nwk/wanderlust_folder_varmail/,2,2,1603966426.0,0
+What's your job? What's your daily emacs workflow?,jjxatm,smarky0x7CD,https://www.reddit.com/r/emacs/comments/jjxatm/whats_your_job_whats_your_daily_emacs_workflow/,113,149,1603950866.0,0
+Migrating to use-package,jjwtvp,pragmat1c1,https://www.reddit.com/r/emacs/comments/jjwtvp/migrating_to_usepackage/,4,14,1603949397.0,0
+Org Roam Setup · Emacs Doomcasts 25,jjv4uf,zaiste,https://zaiste.net/courses/emacs-doom/emacs-doom-25-org-roam-setup/,42,0,1603943970.0,0
+"turning on smartparens completion in the ""wrong"" (non-intended) mode?",jjtu2t,why_farer,https://www.reddit.com/r/emacs/comments/jjtu2t/turning_on_smartparens_completion_in_the_wrong/,1,3,1603939928.0,0
+Hide empty custom agenda sections,jjrk2o,sewageseller,https://www.reddit.com/r/emacs/comments/jjrk2o/hide_empty_custom_agenda_sections/,2,3,1603933001.0,0
+Emacs Tips: How to Create Your Own Color Theme,jjrjs2,daviwil,https://youtu.be/kCCIudu53Zg,96,21,1603932979.0,0
+Proportional font sensitive alignment for c++ comment columns,jjr6q4,ChristopherHGreen,https://www.reddit.com/r/emacs/comments/jjr6q4/proportional_font_sensitive_alignment_for_c/,0,3,1603931848.0,0
+Anki Decks with Orgmode :: Rohit Goswami,jjozzn,HaoZeke,https://rgoswami.me/posts/anki-decks-orgmode/,47,0,1603924932.0,0
+Advising a function not working,jjm7ye,pragmat1c1,https://www.reddit.com/r/emacs/comments/jjm7ye/advising_a_function_not_working/,1,4,1603914406.0,0
+Always cherry-pick with -x in Magit?,jjlcjz,BtcVersus,https://www.reddit.com/r/emacs/comments/jjlcjz/always_cherrypick_with_x_in_magit/,17,2,1603910141.0,0
+Issues setting up cpp development environment,jjkncc,Hoseyman,https://www.reddit.com/r/emacs/comments/jjkncc/issues_setting_up_cpp_development_environment/,3,16,1603906305.0,0
+comp-deferred-compilation with straight.el?,jjjq1m,FluentFelicity,https://www.reddit.com/r/emacs/comments/jjjq1m/compdeferredcompilation_with_straightel/,1,5,1603900889.0,0
+Column view dynamic block with multiple tags and todo keywords,jjjdqg,publicvoit,/r/orgmode/comments/jiyaos/column_view_dynamic_block_with_multiple_tags_and/,1,0,1603898865.0,0
+[DOOM] Persist search buffer or save it for later use,jjh6mw,bluemockinglarkbird,https://www.reddit.com/r/emacs/comments/jjh6mw/doom_persist_search_buffer_or_save_it_for_later/,4,4,1603887524.0,0
+What directories does emacs actively use for caching etc...,jjgb32,,https://www.reddit.com/r/emacs/comments/jjgb32/what_directories_does_emacs_actively_use_for/,4,7,1603883841.0,0
+Binding a key chord to a script to run on current file?,jjeczs,HMS_Impractical,https://www.reddit.com/r/emacs/comments/jjeczs/binding_a_key_chord_to_a_script_to_run_on_current/,5,10,1603876339.0,0
+etrace.el: Emacs Lisp Latency Tracing for the Chromium Catapult Trace Event Format,jjd8jk,aspiers1,https://github.com/aspiers/etrace,24,5,1603872303.0,0
+Chaining org babel blocks,jjbrvw,xenodium,https://www.reddit.com/r/emacs/comments/jjbrvw/chaining_org_babel_blocks/,10,10,1603867347.0,0
+Opening CLHS (in EWW) in other window,jj8thb,libertinus23,https://www.reddit.com/r/emacs/comments/jj8thb/opening_clhs_in_eww_in_other_window/,2,2,1603858205.0,0
+Display helm frames in the center of emacs,jj269n,kaiwk,https://www.reddit.com/r/emacs/comments/jj269n/display_helm_frames_in_the_center_of_emacs/,19,10,1603837833.0,0
+"skx/org-worklog: A template for maintaining a work-log, via org-mode",jj2ok0,github-alphapapa,https://github.com/skx/org-worklog,56,8,1603839519.0,0
+Rebasing Emacs in Common Lisp,jj2nr0,celeritasCelery,https://www.reddit.com/r/emacs/comments/jj2nr0/rebasing_emacs_in_common_lisp/,11,26,1603839445.0,0
+Company-mode often makes odd suggestions,jj11an,graduale,https://www.reddit.com/r/emacs/comments/jj11an/companymode_often_makes_odd_suggestions/,3,10,1603833841.0,0
+beautify `slime-describe-*` output?,jj02n1,SlowValue,https://www.reddit.com/r/emacs/comments/jj02n1/beautify_slimedescribe_output/,3,0,1603830091.0,0
+org-ql-search results: Show weekday in date?,jiyqv0,pragmat1c1,https://www.reddit.com/r/emacs/comments/jiyqv0/orgqlsearch_results_show_weekday_in_date/,4,7,1603823965.0,0
+Org-mode archiving: A mirror of your existing org file?,jiyn4n,forevernooob,https://www.reddit.com/r/emacs/comments/jiyn4n/orgmode_archiving_a_mirror_of_your_existing_org/,12,4,1603823422.0,0
+issue installing pdf-tools,jixo9o,taptrappapalapa,https://www.reddit.com/r/emacs/comments/jixo9o/issue_installing_pdftools/,3,3,1603818089.0,0
+Error building epdfinfo on VOID,jixhmq,shiroghost,https://www.reddit.com/r/emacs/comments/jixhmq/error_building_epdfinfo_on_void/,1,0,1603817018.0,0
+Weekly tips/trick/etc/ thread,jix6od,AutoModerator,https://www.reddit.com/r/emacs/comments/jix6od/weekly_tipstricketc_thread/,13,32,1603815254.0,0
+what is your etags setup,jiwsh2,banana_llarma,https://www.reddit.com/r/emacs/comments/jiwsh2/what_is_your_etags_setup/,4,0,1603812994.0,0
+Literate Calculations in Emacs,jivljk,Categoria,https://blog.sulami.xyz/posts/literate-calc-mode/,67,15,1603806401.0,0
+"Emacs NYC Online - November 2, 2020 Lightning Talks",jisqeo,tabfugnic,https://www.reddit.com/r/emacs/comments/jisqeo/emacs_nyc_online_november_2_2020_lightning_talks/,9,0,1603793892.0,0
+prescient.el: simple but effective sorting and filtering for Emacs,jisjto,trimorphic,https://github.com/raxod502/prescient.el,18,7,1603793177.0,0
+How Do I Make Portable Doom Emacs?,jircqc,WLSBR,https://www.reddit.com/r/emacs/comments/jircqc/how_do_i_make_portable_doom_emacs/,10,2,1603788734.0,0
+notmuch how to set notmuch-fcc-dirs,jiqa6o,j22fineman,https://www.reddit.com/r/emacs/comments/jiqa6o/notmuch_how_to_set_notmuchfccdirs/,3,1,1603784921.0,0
+5x10% (Lars Ingebrigtsen is closing bugs),jiq734,Stefan-Kangas,https://www.reddit.com/r/emacs/comments/jiq734/5x10_lars_ingebrigtsen_is_closing_bugs/,149,9,1603784608.0,0
+Help with some elisp,jipoai,meatmechdriver,https://www.reddit.com/r/emacs/comments/jipoai/help_with_some_elisp/,2,8,1603782799.0,0
+Want to truly make my own Emacs config and I have questions,jinlls,AuroraDraco,https://www.reddit.com/r/emacs/comments/jinlls/want_to_truly_make_my_own_emacs_config_and_i_have/,2,8,1603776117.0,0
+How can I get sane indentation in org source code blocks?,jimb7y,chaosprism,https://www.reddit.com/r/emacs/comments/jimb7y/how_can_i_get_sane_indentation_in_org_source_code/,2,5,1603772250.0,0
+How to combine old style org-structure-template-alist with org-tempo?,jiltdz,vfclists,https://www.reddit.com/r/emacs/comments/jiltdz/how_to_combine_old_style/,2,0,1603770782.0,0
+Getting the spacebar to work as expected,jikto7,dargscisyhp,https://www.reddit.com/r/emacs/comments/jikto7/getting_the_spacebar_to_work_as_expected/,3,16,1603767840.0,0
+Problem with impatient mode,jikom1,ObscurusXIII,https://www.reddit.com/r/emacs/comments/jikom1/problem_with_impatient_mode/,0,4,1603767435.0,0
+How can I add an automatically generated name to code block templates?,jihby9,vfclists,https://www.reddit.com/r/emacs/comments/jihby9/how_can_i_add_an_automatically_generated_name_to/,3,10,1603757315.0,0
+Which-key does not show certain General key bindings,jih3ds,Sholum666,https://www.reddit.com/r/emacs/comments/jih3ds/whichkey_does_not_show_certain_general_key/,1,0,1603756550.0,0
+Org-search using Org-refile and Silver-searcher,jietlb,soumya6097,https://www.reddit.com/r/emacs/comments/jietlb/orgsearch_using_orgrefile_and_silversearcher/,4,2,1603748833.0,0
+Get buffer filename from marker?,jidlla,pragmat1c1,https://www.reddit.com/r/emacs/comments/jidlla/get_buffer_filename_from_marker/,2,2,1603744034.0,0
+Would it be possible to save Eyebrowse workspaces across Emacs sessions?,jidgrx,FluentFelicity,https://www.reddit.com/r/emacs/comments/jidgrx/would_it_be_possible_to_save_eyebrowse_workspaces/,2,7,1603743432.0,0
+The Org website has been revamped!,jic3ww,tecosaur,https://www.reddit.com/r/emacs/comments/jic3ww/the_org_website_has_been_revamped/,508,81,1603736819.0,3
+How to show filename / context in org-ql-search results?,jiaseq,pragmat1c1,https://www.reddit.com/r/emacs/comments/jiaseq/how_to_show_filename_context_in_orgqlsearch/,1,13,1603729112.0,0
+Why is Emacs is so laggy?,ji9nk0,,https://www.reddit.com/r/emacs/comments/ji9nk0/why_is_emacs_is_so_laggy/,0,31,1603722634.0,0
+`lsp-headerline-breadcrumb-mode` for org-mode?,ji9cfi,ispinfx,https://www.reddit.com/r/emacs/comments/ji9cfi/lspheaderlinebreadcrumbmode_for_orgmode/,5,1,1603720928.0,0
+What does the colon do and how to set different font-lock-*-faces?,ji5byy,,https://www.reddit.com/r/emacs/comments/ji5byy/what_does_the_colon_do_and_how_to_set_different/,16,8,1603703514.0,0
+Working lsp-mode with FSharp in Linux,jhxtc3,cybernescens,https://www.reddit.com/r/emacs/comments/jhxtc3/working_lspmode_with_fsharp_in_linux/,3,3,1603677649.0,0
+Does elisp has some kind of FFI for interoperating with Common Lisp dialects?,jhyn9e,vfclists,https://www.reddit.com/r/emacs/comments/jhyn9e/does_elisp_has_some_kind_of_ffi_for/,6,1,1603680382.0,0
+"How are the "":header-args: :eval never-export"" expressed in the Local Variables block at the end of org files?",jhw5tn,vfclists,https://www.reddit.com/r/emacs/comments/jhw5tn/how_are_the_headerargs_eval_neverexport_expressed/,2,0,1603671883.0,0
+[Emacs Lisp] access to the internal (raw) representation of Emacs Lisp objects,jhu8ed,jpellegrini,https://www.reddit.com/r/emacs/comments/jhu8ed/emacs_lisp_access_to_the_internal_raw/,4,6,1603665047.0,0
+Quote-wrap all in region function,jhses9,xenodium,https://www.reddit.com/r/emacs/comments/jhses9/quotewrap_all_in_region_function/,36,0,1603656951.0,0
+Window manager for pgtk-nativecomp?,jhqlcq,zackteo,https://www.reddit.com/r/emacs/comments/jhqlcq/window_manager_for_pgtknativecomp/,4,3,1603646569.0,0
+Emacs Lockfile Location,jhpufd,utmeoilrnimoucr,https://www.reddit.com/r/emacs/comments/jhpufd/emacs_lockfile_location/,5,7,1603642059.0,0
+How can I reduce duplication in my helm sources?,jhnmq1,codygman,https://www.reddit.com/r/emacs/comments/jhnmq1/how_can_i_reduce_duplication_in_my_helm_sources/,4,5,1603630056.0,0
+Emacs Lifetime Achievement Award,jhn17d,trimorphic,https://www.reddit.com/r/emacs/comments/jhn17d/emacs_lifetime_achievement_award/,17,29,1603627234.0,0
+Pattern Matching: pcase,jhg4xn,trimorphic,https://tech.tonyballantyne.com/emacs/pattern-matching-pcase/,15,11,1603600314.0,0
+How do I get an amazing modeline like this in spaceline? I cannot find a good configuration example on GitHub.,jhfook,yk42bb,https://i.redd.it/oxzbbhyzm3v51.gif,7,11,1603598752.0,0
+org-web-tools: Anyone using? Is this PIBKAC or an actual bug?,jhdbvf,fumpeddorado,https://www.reddit.com/r/emacs/comments/jhdbvf/orgwebtools_anyone_using_is_this_pibkac_or_an/,4,5,1603590828.0,0
+This is a tricky one,jhd7s0,todo_code,https://www.reddit.com/r/emacs/comments/jhd7s0/this_is_a_tricky_one/,0,7,1603590427.0,0
+Guix: The right way to manage your packages.,jhb2i6,b11111000000,https://www.reddit.com/r/emacs/comments/jhb2i6/guix_the_right_way_to_manage_your_packages/,20,49,1603583003.0,0
+Issues installing emacs and spacemacs on work machine,jha3nm,xer0d0g,https://www.reddit.com/r/emacs/comments/jha3nm/issues_installing_emacs_and_spacemacs_on_work/,1,9,1603579515.0,0
+The GNU Emacs Manual in epub format,jh94u0,Akira-Takeshi,https://www.reddit.com/r/emacs/comments/jh94u0/the_gnu_emacs_manual_in_epub_format/,106,32,1603575814.0,0
+Good emacs themes for programming,jh54vr,Hoseyman,https://www.reddit.com/r/emacs/comments/jh54vr/good_emacs_themes_for_programming/,14,22,1603554953.0,0
+Custom font help,jh2417,cshifrin,https://www.reddit.com/r/emacs/comments/jh2417/custom_font_help/,1,9,1603539708.0,0
+How do I revert to using emacs with Terminal?,jh1knx,ThrowRAMaeglin,https://www.reddit.com/r/emacs/comments/jh1knx/how_do_i_revert_to_using_emacs_with_terminal/,18,10,1603537404.0,0
+What mode/feature are you planning to use in the future?,jh1b5y,im_not_juicing,https://www.reddit.com/r/emacs/comments/jh1b5y/what_modefeature_are_you_planning_to_use_in_the/,11,18,1603536279.0,0
+How to customize build ooptions?,jgxt9k,huhwatusay2,https://www.reddit.com/r/emacs/comments/jgxt9k/how_to_customize_build_ooptions/,3,4,1603522657.0,0
+MacOS + External Keyboard + Remapped Modifier Keys : Help wanted to make this work,jgwquf,matheusSerp,https://www.reddit.com/r/emacs/comments/jgwquf/macos_external_keyboard_remapped_modifier_keys/,3,8,1603519031.0,0
+Alternative input methods for Emacs on Android,jgvdfs,aard_fi,https://www.reddit.com/r/emacs/comments/jgvdfs/alternative_input_methods_for_emacs_on_android/,5,0,1603514600.0,0
+How could I switch keybindings to something more like vim?,jgu4rg,,https://www.reddit.com/r/emacs/comments/jgu4rg/how_could_i_switch_keybindings_to_something_more/,0,4,1603510639.0,0
+Using Emacs 76 Bookmarks and Burly,jgryh1,zamansky,https://cestlaz.github.io/post/using-emacs-76-bookmarks-burly/,28,3,1603503885.0,1
+Tramp mode chokes when trying to connect to server requiring key authentication,jgpjx1,FFClass,https://www.reddit.com/r/emacs/comments/jgpjx1/tramp_mode_chokes_when_trying_to_connect_to/,1,8,1603496585.0,0
+"Emacs From Scratch #8 - Build Your Own IDE with lsp-mode (LIVE 10/23, 9:15 am PDT)",jgmchv,daviwil,https://www.youtube.com/watch?v=E-NAM9U5JYE,102,15,1603485668.0,0
+clemera/buffer-expose,jgm1c8,github-alphapapa,https://github.com/clemera/buffer-expose,37,6,1603484436.0,1
+What fingers do you use to type <C-x><C-s>,jglino,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jglino/what_fingers_do_you_use_to_type_cxcs/,1,48,1603482213.0,0
+Apply goto-char at end of function not working,jgjkmi,pragmat1c1,https://www.reddit.com/r/emacs/comments/jgjkmi/apply_gotochar_at_end_of_function_not_working/,2,2,1603472541.0,0
+Emacs Ninja - State of Emacs Lisp on Guile,jghs21,Categoria,https://emacsninja.com/posts/state-of-emacs-lisp-on-guile.html,6,2,1603463566.0,0
+Doom install on Fedora 32 Fails,jgh75v,sunyata84,https://www.reddit.com/r/emacs/comments/jgh75v/doom_install_on_fedora_32_fails/,1,6,1603460769.0,0
+Helm is back,jgfzzp,Goator,https://github.com/emacs-helm/helm,195,17,1603455648.0,3
+Repeat EVERY command with a single keystroke,jgfeui,Gallipo,https://www.reddit.com/r/emacs/comments/jgfeui/repeat_every_command_with_a_single_keystroke/,8,9,1603453357.0,0
+What would be an elegant way to determine if a replace was made from this code?,jgf9lo,vfclists,https://www.reddit.com/r/emacs/comments/jgf9lo/what_would_be_an_elegant_way_to_determine_if_a/,1,9,1603452795.0,0
+High-res icons for tab-line.el on Mac,jgdu8f,casouri,https://github.com/casouri/highres-tab-line,2,1,1603447470.0,0
+no fringe indicator for flycheck (doom-emacs) terminal,jgc3wc,johnku,https://www.reddit.com/r/emacs/comments/jgc3wc/no_fringe_indicator_for_flycheck_doomemacs/,1,5,1603441120.0,0
+Y Combinator explanation with macro expansions - Mind F!*K,jg9wv6,dericbytes,https://www.reddit.com/r/emacs/comments/jg9wv6/y_combinator_explanation_with_macro_expansions/,45,8,1603433578.0,0
+Org-transclusion demo #3,jg7efo,nobiot,https://www.reddit.com/r/emacs/comments/jg7efo/orgtransclusion_demo_3/,16,24,1603425943.0,0
+avy-goto-line not working in counsel-M-x minibuffer?,jg6g7t,hoswald2,https://www.reddit.com/r/emacs/comments/jg6g7t/avygotoline_not_working_in_counselmx_minibuffer/,1,3,1603423181.0,0
+"Wha t is the cause of ""Error in post-command-hook (magit-auto-revert-mode-check-buffers)""",jg66ng,vfclists,https://www.reddit.com/r/emacs/comments/jg66ng/wha_t_is_the_cause_of_error_in_postcommandhook/,1,1,1603422400.0,0
+Tell find-file to search in the user's folder by default,jg4gfy,geospeck,https://www.reddit.com/r/emacs/comments/jg4gfy/tell_findfile_to_search_in_the_users_folder_by/,0,4,1603417343.0,0
+State of Emacs Survey,jg41ky,filipoi,https://emacsredux.com/blog/2020/10/22/state-of-emacs-survey/,56,41,1603416099.0,1
+A Handful of Possibly Useful Things,jg39ji,hardboiledbabylon,https://www.reddit.com/r/emacs/comments/jg39ji/a_handful_of_possibly_useful_things/,22,1,1603413832.0,0
+Projectile: inherit project types,jg2qma,Thaodan,https://www.reddit.com/r/emacs/comments/jg2qma/projectile_inherit_project_types/,3,0,1603412283.0,0
+Help with emmet-mode,jg1k83,graduale,https://www.reddit.com/r/emacs/comments/jg1k83/help_with_emmetmode/,1,0,1603408687.0,0
+lisp-extra-font-lock - Highlight bound variables and quoted exprs,jg1etv,trimorphic,https://github.com/Lindydancer/lisp-extra-font-lock,2,5,1603408194.0,0
+subtree and treemacs-dired-icons?,jfzk2c,AnnasGrassHopper,https://www.reddit.com/r/emacs/comments/jfzk2c/subtree_and_treemacsdiredicons/,3,9,1603401870.0,0
+How do I disable all keybindings in a minor mode?,jfy40l,ThisMousse5497,https://www.reddit.com/r/emacs/comments/jfy40l/how_do_i_disable_all_keybindings_in_a_minor_mode/,4,8,1603396152.0,0
+Mark Empty Folders in Dired,jfy37b,arthurno1,http://www.nextpoint.se/?p=808,9,13,1603396056.0,0
+Accidentally changed language to different symbols,jfxl2g,tgbnju,https://www.reddit.com/r/emacs/comments/jfxl2g/accidentally_changed_language_to_different_symbols/,1,2,1603393699.0,0
+Installing packages not in melpa,jfue3r,AuroraDraco,https://www.reddit.com/r/emacs/comments/jfue3r/installing_packages_not_in_melpa/,1,4,1603376688.0,0
+display-time disappears from (doom-)modeline,jfuchk,pimiddy,https://www.reddit.com/r/emacs/comments/jfuchk/displaytime_disappears_from_doommodeline/,1,0,1603376473.0,0
+Finally LSP Java is working,jfsoj5,systemhalted,https://www.reddit.com/r/emacs/comments/jfsoj5/finally_lsp_java_is_working/,58,8,1603368694.0,0
+Electric-quote-mode and web-mode,jfrer0,graduale,https://www.reddit.com/r/emacs/comments/jfrer0/electricquotemode_and_webmode/,3,4,1603363503.0,0
+Headache with find-file,jfmdwr,Linux_GanGster,https://www.reddit.com/r/emacs/comments/jfmdwr/headache_with_findfile/,3,8,1603345402.0,0
+"Compiled Emacs from source, some images render as numbers/letters (per image). What did I forget?",jfh650,Quiet_Soil,https://i.redd.it/vgs26up3ehu51.png,4,6,1603329459.0,0
+Generic REPL interaction mode,jfcyek,cruxdestruct,https://www.reddit.com/r/emacs/comments/jfcyek/generic_repl_interaction_mode/,3,6,1603316297.0,0
+Why Emacs itself is my “favourite Emacs package”,jfcv3h,speckz,https://protesilaos.com/codelog/2020-10-21-emacs-favourite-package/,50,19,1603315968.0,1
+Create an org-journal template for daily journal entry,jfcesc,prashantnag93,https://www.reddit.com/r/emacs/comments/jfcesc/create_an_orgjournal_template_for_daily_journal/,6,1,1603314328.0,0
+Read Kindle books in Emacs?,jfc548,Leucr0cuta,https://www.reddit.com/r/emacs/comments/jfc548/read_kindle_books_in_emacs/,5,4,1603313315.0,0
+Theme display incorrectly when I start emacs daemon from terminal,jfbt5b,_clstr_,https://www.reddit.com/r/emacs/comments/jfbt5b/theme_display_incorrectly_when_i_start_emacs/,2,3,1603311959.0,0
+Migrating from Doom Emacs to vanilla,jfb1x7,c3lphie,https://www.reddit.com/r/emacs/comments/jfb1x7/migrating_from_doom_emacs_to_vanilla/,62,53,1603308618.0,0
+Ways to stop emacs hanging when network share disconnects?,jfb1ev,eidetic0,https://www.reddit.com/r/emacs/comments/jfb1ev/ways_to_stop_emacs_hanging_when_network_share/,21,3,1603308554.0,0
+Your thoughts about Doom Emacs,jf8kjn,SpotGoesToHollywood,https://www.reddit.com/r/emacs/comments/jf8kjn/your_thoughts_about_doom_emacs/,18,35,1603295238.0,0
+Org-latex format transparency,jf1t4t,causal93,https://www.reddit.com/r/emacs/comments/jf1t4t/orglatex_format_transparency/,1,1,1603266989.0,0
+[emacs lisp] Make a function that acts differently according to the current mode.,jf6sp9,forgot_my_credential,https://www.reddit.com/r/emacs/comments/jf6sp9/emacs_lisp_make_a_function_that_acts_differently/,2,6,1603286235.0,0
+"[WIP] Burly.el: Save and restore buffers and window configurations with URLs, including buffer positions and window layouts (a kind of ""workspace"" support)",jf9kqn,github-alphapapa,https://github.com/alphapapa/burly.el,28,10,1603300910.0,0
+Use tectonic in latex- and org-mode?,jf9hzm,DeepDay6,https://www.reddit.com/r/emacs/comments/jf9hzm/use_tectonic_in_latex_and_orgmode/,3,2,1603300465.0,0
+"Possibility for ""child frames"" in terminal emacs?",jf2jah,jimd0810,https://www.reddit.com/r/emacs/comments/jf2jah/possibility_for_child_frames_in_terminal_emacs/,9,16,1603269505.0,0
+org block company complete and edit,jf0jo1,xenodium,https://www.reddit.com/r/emacs/comments/jf0jo1/org_block_company_complete_and_edit/,32,5,1603262732.0,0
+Sometimes I hit the wrong key binding and trigger some mode or other without knowing what it is or how I triggered it. Is there a way to print a list of the last N keyboard commands?,jezj5z,djrdjrdjrdjrdjr,https://www.reddit.com/r/emacs/comments/jezj5z/sometimes_i_hit_the_wrong_key_binding_and_trigger/,11,4,1603259482.0,0
+Almost there Emacs!,jevn0n,iblysa,https://www.reddit.com/r/emacs/comments/jevn0n/almost_there_emacs/,52,16,1603247736.0,0
+SIGNAL- Modern signal package replacing hook,jeultn,trimorphic,https://github.com/mola-T/signal,1,7,1603244807.0,0
+Strange Color Issues,jetzfb,dargscisyhp,https://www.reddit.com/r/emacs/comments/jetzfb/strange_color_issues/,2,1,1603242982.0,0
+Is anyone using [nuspell](https://nuspell.github.io/) with emacs?,jetxga,bloodqc,https://www.reddit.com/r/emacs/comments/jetxga/is_anyone_using_nuspellhttpsnuspellgithubio_with/,6,4,1603242820.0,0
+Is there a way to get the names of all arguments for elisp function?,jertok,jholty66,https://www.reddit.com/r/emacs/comments/jertok/is_there_a_way_to_get_the_names_of_all_arguments/,2,2,1603236680.0,0
+Amazingly Successful.,jere0a,sreekumar_r,https://www.reddit.com/r/emacs/comments/jere0a/amazingly_successful/,32,21,1603235376.0,0
+Elisp Comparison - How to use correct variable type instead of converting to string,jeqm3z,7ie7an,https://www.reddit.com/r/emacs/comments/jeqm3z/elisp_comparison_how_to_use_correct_variable_type/,1,5,1603233043.0,0
+"How do I do my own keyboard shortcuts in Emacs? I tried using ""global-set-key"" for treemacs but it didn't work",jeq7k5,AtZeroOne,https://www.reddit.com/r/emacs/comments/jeq7k5/how_do_i_do_my_own_keyboard_shortcuts_in_emacs_i/,1,5,1603231760.0,0
+Can org babel eval elisp in a seperate emacs process,jepvhq,dericbytes,https://www.reddit.com/r/emacs/comments/jepvhq/can_org_babel_eval_elisp_in_a_seperate_emacs/,3,2,1603230692.0,0
+pasting images into org mode on WSL,jepjlf,S4h4rJ,https://www.reddit.com/r/emacs/comments/jepjlf/pasting_images_into_org_mode_on_wsl/,1,4,1603229553.0,0
+Open Gitlab Diffs in Emacs,jep84f,jkdufair,https://www.reddit.com/r/emacs/comments/jep84f/open_gitlab_diffs_in_emacs/,2,0,1603228439.0,0
+Hyperbole: activating implicit buttons in org-mode headings,jeozg0,ground_ginger,https://www.reddit.com/r/emacs/comments/jeozg0/hyperbole_activating_implicit_buttons_in_orgmode/,5,6,1603227608.0,0
+org-capture geospatial coordinates?,jemwro,sweetyhoneybee,https://www.reddit.com/r/emacs/comments/jemwro/orgcapture_geospatial_coordinates/,5,2,1603218913.0,0
+Org heading faces now adapt to their context,jeg42s,github-alphapapa,https://protesilaos.com/codelog/2020-09-24-org-headings-adapt/,16,0,1603187697.0,0
+Have I got this org-export-with-properties syntax wrong?,jemkrz,vfclists,https://www.reddit.com/r/emacs/comments/jemkrz/have_i_got_this_orgexportwithproperties_syntax/,1,3,1603217280.0,0
+Weekly tips/trick/etc/ thread,jel9tu,AutoModerator,https://www.reddit.com/r/emacs/comments/jel9tu/weekly_tipstricketc_thread/,18,20,1603210456.0,0
+Is there a tool like Visidata that is available as an emacs package?,jel4o8,D-_-A-_-N,https://www.reddit.com/r/emacs/comments/jel4o8/is_there_a_tool_like_visidata_that_is_available/,17,5,1603209750.0,0
+how does a long time vim user switch to emacs,jekdoh,Realistic_Comment,https://www.reddit.com/r/emacs/comments/jekdoh/how_does_a_long_time_vim_user_switch_to_emacs/,38,33,1603205913.0,0
+Best practice for packages to list file locations?,jehnqx,ideasman_42,https://www.reddit.com/r/emacs/comments/jehnqx/best_practice_for_packages_to_list_file_locations/,1,6,1603193420.0,0
+TIL how to load file- or dir-locals before a minor mode like lsp-mode,jeenx4,avanai,https://www.reddit.com/r/emacs/comments/jeenx4/til_how_to_load_file_or_dirlocals_before_a_minor/,16,5,1603182568.0,0
+"""Symbol's value as variable is void: org-priority-enable-commands""",jedsbp,FluentFelicity,https://www.reddit.com/r/emacs/comments/jedsbp/symbols_value_as_variable_is_void/,2,0,1603179644.0,0
+What DE/WM do you use?,jebtwr,kdefa,https://www.reddit.com/r/emacs/comments/jebtwr/what_dewm_do_you_use/,19,55,1603173447.0,0
+SSH config export for org-mode,jealeo,secret_edition,https://github.com/dantecatalfamo/ox-ssh,16,5,1603169726.0,0
+Do you use Emacs as a file manager?,je9oha,im_not_juicing,https://www.reddit.com/r/emacs/comments/je9oha/do_you_use_emacs_as_a_file_manager/,28,35,1603167108.0,0
+Emacs in Emacs: A triumph for EXWM,je9328,WorldsEndless,https://orys.us/tR,20,12,1603165482.0,0
+remote visudo in Emacs?,je8l0k,WorldsEndless,https://www.reddit.com/r/emacs/comments/je8l0k/remote_visudo_in_emacs/,2,14,1603164097.0,0
+Emacs User Survey 2020 is open!,je3eht,abrochard,https://www.reddit.com/r/emacs/comments/je3eht/emacs_user_survey_2020_is_open/,276,156,1603149030.0,4
+Is there a prerelease binary for Windows (not WSL) that is built with native compilation?,je365k,angryformoretofu,https://www.reddit.com/r/emacs/comments/je365k/is_there_a_prerelease_binary_for_windows_not_wsl/,9,7,1603148295.0,0
+GccEmacs presentation at Linux Plumbers Conf 2020,je0tw6,wouldyoumindawfully,https://toobnix.org/videos/watch/b985c5ca-fdcf-46ff-92d5-e68922fe4821,106,22,1603139793.0,0
+What builtins do you use above popular external packages?,jdz9bq,magicalmurray,https://www.reddit.com/r/emacs/comments/jdz9bq/what_builtins_do_you_use_above_popular_external/,18,31,1603132485.0,0
+Random Ascii Art Splash Screen,jdyt3a,folke,https://www.reddit.com/r/emacs/comments/jdyt3a/random_ascii_art_splash_screen/,11,9,1603130013.0,0
+wchek-mode with aspell?,jdyksb,SlowValue,https://www.reddit.com/r/emacs/comments/jdyksb/wchekmode_with_aspell/,1,6,1603128716.0,0
+`peep-dired` does not update the preview on next line.,jdwsek,forgot_my_credential,https://www.reddit.com/r/emacs/comments/jdwsek/peepdired_does_not_update_the_preview_on_next_line/,1,1,1603118765.0,0
+calc is fun,jdrcer,mike1111111111111,https://www.reddit.com/r/emacs/comments/jdrcer/calc_is_fun/,27,20,1603094756.0,0
+EmacsConf 2020 & My Submission,jdqkd2,bmgxc9,https://brettgilio.com/posts/2020-10-18-emacsconf-2020.html,14,0,1603091785.0,0
+Why I Chose Emacs as My New Text Editor // Take on Rules,jdodby,takeonrules,https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/,38,5,1603084139.0,0
+Smooth scrolling over images,jdmeyv,casouri,https://v.redd.it/reqa494wlwt51,183,15,1603077731.0,0
+"Want to help, Is there my emacs miss some configuration?",jdhss0,ascrutae,https://www.reddit.com/r/emacs/comments/jdhss0/want_to_help_is_there_my_emacs_miss_some/,1,2,1603062269.0,0
+INDENTATION OF ALISTS IN COMMON LISP,jdjz78,Goplaydiabotical,https://www.reddit.com/r/emacs/comments/jdjz78/indentation_of_alists_in_common_lisp/,0,13,1603069698.0,0
+Editing binary files.,jdj5cy,Majorlydian,https://www.reddit.com/r/emacs/comments/jdj5cy/editing_binary_files/,1,3,1603066974.0,0
+semi-automated interactive stream editing: piping through expect and emacs,jdiimt,trimorphic,https://mullikine.github.io/posts/semi-automated-stream-editing-piping-through-expect-and-emacs/,8,1,1603064781.0,0
+wandersoncferreira/oblique-strategies,jdffux,bartuka,https://github.com/wandersoncferreira/oblique-strategies,16,1,1603052614.0,0
+Symbol's function definition is void: auth-source-search,jde9on,doulos05,https://www.reddit.com/r/emacs/comments/jde9on/symbols_function_definition_is_void/,1,1,1603046831.0,0
+"Files starting with "".#""",jddzvh,pimiddy,https://www.reddit.com/r/emacs/comments/jddzvh/files_starting_with/,1,2,1603045392.0,0
+"Awesome Elisp, a list of resources about Emacs Lisp",jdcqc9,eigenbahn,https://github.com/p3r7/awesome-elisp,128,17,1603038688.0,0
+[ANN] org-inline-video-thumbnails: allow Org to show video thumbnails inline like regular images,jdball,flyin1501,https://www.reddit.com/r/emacs/comments/jdball/ann_orginlinevideothumbnails_allow_org_to_show/,29,2,1603030872.0,0
+Is org-drill dead?,jd6ocx,FarmaSuitical,https://www.reddit.com/r/emacs/comments/jd6ocx/is_orgdrill_dead/,8,11,1603010545.0,0
+Can Ztree navigate between diffs like Ediff?,jd56a8,ckoneru,https://www.reddit.com/r/emacs/comments/jd56a8/can_ztree_navigate_between_diffs_like_ediff/,6,2,1603004728.0,0
+Fancy indentation guides,jd532a,ArjaSpellan,https://www.reddit.com/r/emacs/comments/jd532a/fancy_indentation_guides/,12,2,1603004416.0,0
+How does one insert text in vterm from elisp?,jd4tu4,Hooxen,https://www.reddit.com/r/emacs/comments/jd4tu4/how_does_one_insert_text_in_vterm_from_elisp/,4,3,1603003468.0,0
+support for line-break type objects in paragraphs (fill-paragraph),jd4n4r,SlowValue,https://www.reddit.com/r/emacs/comments/jd4n4r/support_for_linebreak_type_objects_in_paragraphs/,1,4,1603002794.0,0
+SVG tag minor mode,jczet6,Nicolas-Rougier,https://github.com/rougier/svg-tag-mode,64,9,1602984857.0,1
+Paste an image into an org file (Windows),jczcv0,jjgarciaripoll,https://www.reddit.com/r/emacs/comments/jczcv0/paste_an_image_into_an_org_file_windows/,3,0,1602984680.0,0
+Mosey around inside your Emacs buffer,jcyv6a,trimorphic,https://github.com/alphapapa/mosey.el,15,5,1602983042.0,0
+move subtree keybinding on Chromebook conflicts?,jcy7lw,jaslar,https://www.reddit.com/r/emacs/comments/jcy7lw/move_subtree_keybinding_on_chromebook_conflicts/,1,5,1602980938.0,0
+[ANN] New Melpa package: i3wm-config-mode,jcsxw7,DasEwigeLicht,https://github.com/Alexander-Miller/i3wm-Config-Mode,22,3,1602959932.0,0
+What does emacs do that makes it irreplaceable for you?,jcuwrj,Mokeysurfer,https://www.reddit.com/r/emacs/comments/jcuwrj/what_does_emacs_do_that_makes_it_irreplaceable/,12,45,1602969273.0,0
+Emacs was mentioned inside my lexicography textbook,jcubuu,Anarko-Objektivist,https://i.redd.it/19va8sd5ent51.jpg,104,28,1602966774.0,0
+"eshell, tab-completion and asterisks",jctnxx,offaxis53,https://www.reddit.com/r/emacs/comments/jctnxx/eshell_tabcompletion_and_asterisks/,4,3,1602963650.0,0
+The Italian Quest,jcsfhh,Jak_from_Venice,https://www.reddit.com/r/emacs/comments/jcsfhh/the_italian_quest/,0,8,1602957224.0,0
+Is there a way to stop Emacs from creating custom-set-variables?,jcs907,supermario9590,https://www.reddit.com/r/emacs/comments/jcs907/is_there_a_way_to_stop_emacs_from_creating/,5,7,1602956296.0,0
+Doom emacs or Spacemacs ?,jcrkmh,Ok-Hospital2768,https://www.reddit.com/r/emacs/comments/jcrkmh/doom_emacs_or_spacemacs/,7,20,1602952540.0,0
+Haskell on Emacs,jcl981,Gcast59,https://www.reddit.com/r/emacs/comments/jcl981/haskell_on_emacs/,3,3,1602922173.0,0
+OSX + feature/native-comp installation,jconh0,AFewSentientNeurons,https://www.reddit.com/r/emacs/comments/jconh0/osx_featurenativecomp_installation/,3,3,1602936725.0,0
+Org-mode agenda and GNOME integration?,jckzza,juacq97,https://www.reddit.com/r/emacs/comments/jckzza/orgmode_agenda_and_gnome_integration/,4,1,1602921176.0,0
+Python's f-string syntax highlighting now supported thanks to Stefan Monnier,jcko6d,ideasman_42,https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=3b3274a85c2f5df21d76d82e0d7740005aa84fdf,103,29,1602919885.0,1
+From classic keybindings to evil mode,jch11q,Gartenstuhl300,https://www.reddit.com/r/emacs/comments/jch11q/from_classic_keybindings_to_evil_mode/,3,18,1602907017.0,0
+How to show multiple appointments in org agenda notifications?,jcgmag,WorldsEndless,https://www.reddit.com/r/emacs/comments/jcgmag/how_to_show_multiple_appointments_in_org_agenda/,1,0,1602905673.0,0
+Quick Desktop.el questions,jcdtyx,FluentFelicity,https://www.reddit.com/r/emacs/comments/jcdtyx/quick_desktopel_questions/,2,4,1602897001.0,0
+"Ediff merge 3-way split, A|B side by side, merge below?",jcbx1m,simplex5d,https://www.reddit.com/r/emacs/comments/jcbx1m/ediff_merge_3way_split_ab_side_by_side_merge_below/,2,3,1602891037.0,0
+How to to change face attributes based on it's location in a file,jcbeb1,FluentFelicity,https://www.reddit.com/r/emacs/comments/jcbeb1/how_to_to_change_face_attributes_based_on_its/,1,1,1602889394.0,0
+"LIVE: Emacs From Scratch #7 - Configure Everything with Org Babel (10/16, 9:15am PDT)",jc9gtf,daviwil,https://youtu.be/kkqVTDbfYp4,23,6,1602882423.0,0
+Ace-select-windows problem,jc8duh,ffffffffffffffAAA,https://www.reddit.com/r/emacs/comments/jc8duh/aceselectwindows_problem/,1,4,1602877788.0,0
+"Full introduction to Gkroam, up to version v2.3.7, no voice",jc81g8,Kinneyzhang,https://www.youtube.com/watch?v=xdHX1Z8jciw&feature=share,32,9,1602876051.0,0
+How to remove the filename display in org-agenda view?,jc5lbn,assadsafsdfsdfsd,https://www.reddit.com/r/emacs/comments/jc5lbn/how_to_remove_the_filename_display_in_orgagenda/,2,1,1602862575.0,0
+Tags everywhere...,jc4uou,Nicolas-Rougier,https://i.redd.it/8rjzgyytiet51.png,213,49,1602858768.0,0
+Reinstalling Emacs Packages,jc3bck,github-alphapapa,https://emacsredux.com/blog/2020/09/12/reinstalling-emacs-packages/,3,4,1602851551.0,0
+How do I debug an sporadic dumped core error in Emacs?,jc2w3m,shackra,https://www.reddit.com/r/emacs/comments/jc2w3m/how_do_i_debug_an_sporadic_dumped_core_error_in/,2,5,1602849809.0,0
+bug#19217: 25.0.50; `C-M-x' (`eval-defun') on a `defface' that is not top-level,jc194t,github-alphapapa,https://lists.gnu.org/archive/html/bug-gnu-emacs/2020-10/msg01119.html,6,11,1602843200.0,0
+How can I select a Helm option without scrolling to it (avy-jump-mode-esque options?),jby1r0,BayesMind,https://www.reddit.com/r/emacs/comments/jby1r0/how_can_i_select_a_helm_option_without_scrolling/,3,4,1602830706.0,0
+How do you use helm-find-files (tab key binding)?,jbtk56,voidyourwarranty2,https://www.reddit.com/r/emacs/comments/jbtk56/how_do_you_use_helmfindfiles_tab_key_binding/,1,5,1602816214.0,0
+Journaling with org-journal · Emacs Doomcasts 24,jbqnec,zaiste,https://zaiste.net/courses/emacs-doom/emacs-doom-24-journaling-org-journal/,17,5,1602807393.0,0
+"Command-c, Command-v in mac port?",jbqmyq,moxxon,https://www.reddit.com/r/emacs/comments/jbqmyq/commandc_commandv_in_mac_port/,2,3,1602807358.0,0
+lsp-mode/lsp-java-mode sans mouse,jbq4qs,PersistentMosey,https://www.reddit.com/r/emacs/comments/jbq4qs/lspmodelspjavamode_sans_mouse/,4,3,1602805828.0,0
+Can I have some code to create a select dialog in emacs using helm or ivy?,jbp0mi,vfclists,https://www.reddit.com/r/emacs/comments/jbp0mi/can_i_have_some_code_to_create_a_select_dialog_in/,3,9,1602802367.0,0
+org-superstar-mode: Upcoming version 2.0,jbot9l,integral-dw,https://www.reddit.com/r/emacs/comments/jbot9l/orgsuperstarmode_upcoming_version_20/,95,35,1602801707.0,1
+Macro for compiling,jblshc,Garanimalz,https://www.reddit.com/r/emacs/comments/jblshc/macro_for_compiling/,5,12,1602790196.0,0
+Doom-like perspectives?,jbes87,FluentFelicity,https://www.reddit.com/r/emacs/comments/jbes87/doomlike_perspectives/,5,6,1602756533.0,0
+Real time collaborative editing in Emacs,jbccpy,BlueFlo0d,https://www.reddit.com/r/emacs/comments/jbccpy/real_time_collaborative_editing_in_emacs/,121,42,1602747631.0,1
+lsp-mode and typescript: project specific binary,jbaiap,btoconnor,https://www.reddit.com/r/emacs/comments/jbaiap/lspmode_and_typescript_project_specific_binary/,3,3,1602741302.0,0
+Emacs.App won't start on Mac OS X Catalina (probably newbie problem),jb8tf6,dahanbn,https://www.reddit.com/r/emacs/comments/jb8tf6/emacsapp_wont_start_on_mac_os_x_catalina_probably/,1,5,1602736024.0,0
+"What is a simple and easily understood way to express data in a tabular format in elisp, with rows indexed by keys and cells accessed by named columns?",jb7wya,vfclists,https://www.reddit.com/r/emacs/comments/jb7wya/what_is_a_simple_and_easily_understood_way_to/,2,15,1602733360.0,0
+"Newbie Question: In org mode, is it possible to group a selection of items into a parent node?",jb7jvs,SignSpice,https://www.reddit.com/r/emacs/comments/jb7jvs/newbie_question_in_org_mode_is_it_possible_to/,1,6,1602732309.0,0
+The Emacs User Survey 2020 will open on Oct 19th,jb2yuy,abrochard,https://blog.abrochard.com/ann-emacs-survey-2020.html,78,43,1602718570.0,0
+Hardcore spell checking in Emacs,jb1im4,trimorphic,http://blog.binchen.org/posts/hardcore-spell-checking-in-emacs/,16,14,1602713911.0,0
+[emacsclient + emacs -nw]: motion keys and middle-click add escape sequences,jazw6j,thomasbbbb,https://www.reddit.com/r/emacs/comments/jazw6j/emacsclient_emacs_nw_motion_keys_and_middleclick/,1,4,1602708005.0,0
+type interval for quick graph in calc mode,jaz0df,mike1111111111111,https://www.reddit.com/r/emacs/comments/jaz0df/type_interval_for_quick_graph_in_calc_mode/,2,6,1602704222.0,0
+Can emacs enter in files/directories in another hard drive?,jay7ni,PinyaExprimida,https://www.reddit.com/r/emacs/comments/jay7ni/can_emacs_enter_in_filesdirectories_in_another/,2,4,1602700475.0,0
+Choose when to use openwith and not,jax83k,mickesp,https://www.reddit.com/r/emacs/comments/jax83k/choose_when_to_use_openwith_and_not/,2,1,1602695246.0,0
+EmacsNYC Online - November 2020 Lightning Talks,jatpny,tabfugnic,https://www.reddit.com/r/emacs/comments/jatpny/emacsnyc_online_november_2020_lightning_talks/,24,0,1602677792.0,0
+emacsclient in terminal weird characters show up!,jatnrm,nanounanue,https://www.reddit.com/r/emacs/comments/jatnrm/emacsclient_in_terminal_weird_characters_show_up/,1,2,1602677578.0,0
+Taking notes of a video with org-mode,jarckp,gas-sniffer,https://www.reddit.com/r/emacs/comments/jarckp/taking_notes_of_a_video_with_orgmode/,21,13,1602668713.0,1
+Dungeon-mode - Free Software Directory,jar7tz,github-alphapapa,https://directory.fsf.org/wiki/Dungeon-mode,71,15,1602668231.0,0
+Is there an lsp server for emacs that supports cython?,jank8z,ser398,https://www.reddit.com/r/emacs/comments/jank8z/is_there_an_lsp_server_for_emacs_that_supports/,7,2,1602655368.0,0
+Problem with `org-sbe` in table formula,jaksmt,SlowValue,https://www.reddit.com/r/emacs/comments/jaksmt/problem_with_orgsbe_in_table_formula/,2,0,1602646905.0,0
+Surprised by diff-refine = font-lock.,jajc3a,gavenkoa,https://www.reddit.com/r/emacs/comments/jajc3a/surprised_by_diffrefine_fontlock/,1,0,1602642592.0,0
+Why does the expression below result in a misaligned org-table cell?,jaj4ti,vfclists,https://www.reddit.com/r/emacs/comments/jaj4ti/why_does_the_expression_below_result_in_a/,1,4,1602642000.0,0
+Displaying and Interacting with processes using Proced,jah8mh,trimorphic,https://www.masteringemacs.org/article/displaying-interacting-processes-proced,34,2,1602636388.0,0
+Always highlight enclosing brackets,jah2iu,godkbg,https://www.reddit.com/r/emacs/comments/jah2iu/always_highlight_enclosing_brackets/,10,6,1602635872.0,0
+Love lost: when exwm falls short,jaf7t9,WorldsEndless,https://tech.toryanderson.com/2020/10/13/love-lost-when-exwm-falls-short/,36,33,1602630263.0,0
+Emacs and math,jacnfq,sabinproscris,https://www.reddit.com/r/emacs/comments/jacnfq/emacs_and_math/,10,7,1602621934.0,0
+View-attachment-dired how to adapt,jadpif,emgee_1,https://www.reddit.com/r/emacs/comments/jadpif/viewattachmentdired_how_to_adapt/,1,0,1602625597.0,0
+Preventing emacs from jumping to after the last line,jadhil,Hoseyman,https://www.reddit.com/r/emacs/comments/jadhil/preventing_emacs_from_jumping_to_after_the_last/,2,4,1602624862.0,0
+Batch export a folder of org files to rtf,jacexr,rock-emacs,https://www.reddit.com/r/emacs/comments/jacexr/batch_export_a_folder_of_org_files_to_rtf/,6,10,1602621057.0,0
+emac command line output,jaadma,JaaasonSun,https://www.reddit.com/r/emacs/comments/jaadma/emac_command_line_output/,2,1,1602611994.0,0
+Weekly tips/trick/etc/ thread,ja97xs,AutoModerator,https://www.reddit.com/r/emacs/comments/ja97xs/weekly_tipstricketc_thread/,28,24,1602605659.0,0
+Accord: Interact with Discord via Emacs,ja1nyd,nv-elisp,https://www.reddit.com/r/emacs/comments/ja1nyd/accord_interact_with_discord_via_emacs/,40,3,1602572654.0,0
+Set opacity in X(Wayland),ja1kua,zariski,https://www.reddit.com/r/emacs/comments/ja1kua/set_opacity_in_xwayland/,1,5,1602572352.0,0
+Using Emacs for Swift Development,j9wlsk,1231313,https://www.danielde.dev/blog/emacs-for-swift-development,18,12,1602556442.0,0
+General: add description to prefix keys,j9vxvd,codethrasher,https://www.reddit.com/r/emacs/comments/j9vxvd/general_add_description_to_prefix_keys/,1,2,1602554460.0,0
+Managing collections of non-text data with org-mode,j9vumh,ndw,https://www.reddit.com/r/emacs/comments/j9vumh/managing_collections_of_nontext_data_with_orgmode/,3,4,1602554190.0,0
+"Emacs-style, pro-privacy browser recommendations",j9uan8,idesomai,https://www.reddit.com/r/emacs/comments/j9uan8/emacsstyle_proprivacy_browser_recommendations/,8,16,1602549482.0,0
+Vim user looking to try (and potentially switch to) emacs,j9toak,_-_Specter_-_,https://www.reddit.com/r/emacs/comments/j9toak/vim_user_looking_to_try_and_potentially_switch_to/,45,52,1602547514.0,0
+Unknown Unicode Character Freeze,j9stq2,loafofpiecrust,https://www.reddit.com/r/emacs/comments/j9stq2/unknown_unicode_character_freeze/,1,12,1602544895.0,0
+"[ANN] New MELPA package: sharper, a wrapper for dotnet (C#/F#) built with transient",j9rg8z,sebhoagie,https://www.reddit.com/r/emacs/comments/j9rg8z/ann_new_melpa_package_sharper_a_wrapper_for/,21,26,1602540232.0,0
+"A user mentioned this, but don't think there's on this site. Appears to be very complicated. Don't understand what they said",j9om9b,happypuppy100,/r/linuxquestions/comments/j8zpds/30_days_ago_asked_around_for_a_simple_onenote/,0,7,1602528053.0,0
+[ANN] spatial-navigate now available on melpa,j9q5yo,ideasman_42,https://gitlab.com/ideasman42/emacs-spatial-navigate,15,4,1602535313.0,0
+Noob elisp question: Function to return variable value?,j9m81e,FluentFelicity,https://www.reddit.com/r/emacs/comments/j9m81e/noob_elisp_question_function_to_return_variable/,1,11,1602515296.0,0
+LSP + ts-ls (typescript-language-server) + GJS (GTK) Any luck ?,j9j0xs,AsifShimon,https://www.reddit.com/r/emacs/comments/j9j0xs/lsp_tsls_typescriptlanguageserver_gjs_gtk_any_luck/,3,4,1602500293.0,0
+An example of why bug reports and feature requests should be left open until fixed,j9hi9x,github-alphapapa,https://www.reddit.com/r/emacs/comments/j9hi9x/an_example_of_why_bug_reports_and_feature/,97,17,1602494004.0,1
+Is it possible to break my config files into multiple files?,j9fhkl,FluentFelicity,https://www.reddit.com/r/emacs/comments/j9fhkl/is_it_possible_to_break_my_config_files_into/,7,14,1602486129.0,0
+How to shorten signature display in echo area in lsp-mode?,j9crbu,shackra,https://emacs.stackexchange.com/q/61137/690,2,1,1602476622.0,0
+css-in-js.el : a styled-components minor mode,j9ajsr,orzechod,https://www.reddit.com/r/emacs/comments/j9ajsr/cssinjsel_a_styledcomponents_minor_mode/,13,0,1602469503.0,0
+more helm functions for mu4e,j96w1e,voidyourwarranty2,https://www.reddit.com/r/emacs/comments/j96w1e/more_helm_functions_for_mu4e/,10,6,1602457269.0,0
+Making medieval manuscript transcription less painful with GNU Emacs,j95tc5,jrj256,https://josephrjohnson.georgetown.domains/posts/emacs-transcriptions/,102,29,1602453418.0,0
+2a7488d: Add support for displaying short documentation for function groups,j95shm,github-alphapapa,https://lists.gnu.org/archive/html/emacs-devel/2020-10/msg00520.html,7,2,1602453321.0,0
+How do you set a timeout on a command which might hang in emacs?,j92972,vfclists,https://www.reddit.com/r/emacs/comments/j92972/how_do_you_set_a_timeout_on_a_command_which_might/,3,4,1602436327.0,0
+Why is emacs reading new arguments when running repeat?,j91upn,Hagge5,https://www.reddit.com/r/emacs/comments/j91upn/why_is_emacs_reading_new_arguments_when_running/,1,4,1602434158.0,0
+Emacs: The Editor for the Next Forty Years,j91797,Trout_Tickler,https://youtu.be/KYcY7CcS7nc,49,18,1602430561.0,0
+How to build a Personal Document Management System (PDMS) and why you need it,j8ywff,DR_MING,https://www.reddit.com/r/emacs/comments/j8ywff/how_to_build_a_personal_document_management/,63,8,1602418991.0,0
+Make point/focus be on top of org-agenda buffer?,j8yobd,enory,https://www.reddit.com/r/emacs/comments/j8yobd/make_pointfocus_be_on_top_of_orgagenda_buffer/,0,2,1602417949.0,0
+Why does it seem Calc doesn't have data units?,j8vx27,mnp,https://www.reddit.com/r/emacs/comments/j8vx27/why_does_it_seem_calc_doesnt_have_data_units/,4,0,1602406134.0,0
+Does anyone use a QMK keyboard and input unicode characters directly into Emacs?,j8th93,FluentFelicity,https://www.reddit.com/r/emacs/comments/j8th93/does_anyone_use_a_qmk_keyboard_and_input_unicode/,8,7,1602396804.0,0
+Any org-contacts users around?,j8oz75,gusbrs,https://www.reddit.com/r/emacs/comments/j8oz75/any_orgcontacts_users_around/,9,25,1602381357.0,0
+Advanced Techniques for Reducing Emacs Startup Time,j8oh77,trimorphic,https://blog.d46.us/advanced-emacs-startup/,35,20,1602379655.0,0
+Help with configuration,j8mig3,takeonrules,https://www.reddit.com/r/emacs/comments/j8mig3/help_with_configuration/,1,5,1602372923.0,0
+Opening URLs in already open instance of Firefox,j8mduc,the_medicine,https://www.reddit.com/r/emacs/comments/j8mduc/opening_urls_in_already_open_instance_of_firefox/,2,14,1602372476.0,0
+eradio - The Internet Radio Player,j8lbml,ed1ppalodm9etotme3uz,https://www.reddit.com/r/emacs/comments/j8lbml/eradio_the_internet_radio_player/,74,19,1602368615.0,2
+Is it possible to see the command that magit is running when you perform a series of actions.,j8jqyo,oneguyleftwithoneeye,https://www.reddit.com/r/emacs/comments/j8jqyo/is_it_possible_to_see_the_command_that_magit_is/,11,4,1602362244.0,0
+Configuring dired with vim keybindings,j8gw2y,Hoseyman,https://www.reddit.com/r/emacs/comments/j8gw2y/configuring_dired_with_vim_keybindings/,1,5,1602346873.0,0
+Extracting Text Between Headlines in Elisp,j8gk85,clafordvlawrence,https://www.reddit.com/r/emacs/comments/j8gk85/extracting_text_between_headlines_in_elisp/,2,9,1602345049.0,0
+"Modus themes now play nice with moody, Thanks prot!",j8d73j,,https://imgur.com/a/eVBRcXf,30,12,1602328487.0,0
+"Trying to write a function that will jump with org refile, where I can enter the destination as a parameter to the function",j8bseq,Whammalamma,https://www.reddit.com/r/emacs/comments/j8bseq/trying_to_write_a_function_that_will_jump_with/,1,6,1602322538.0,0
+Trying to invert a theme,j89xjp,StrangeAstronomer,https://www.reddit.com/r/emacs/comments/j89xjp/trying_to_invert_a_theme/,2,6,1602315235.0,0
+"Fanboying My Favorite Packages, What're Yours?",j89l1k,BayesMind,https://www.reddit.com/r/emacs/comments/j89l1k/fanboying_my_favorite_packages_whatre_yours/,74,67,1602313952.0,0
+"If you need to work with Microsoft (Outlook,Teams, etc...) and Slack, here a workaround to get notifications in your Org Agenda",j87yd1,AndreaSomePostfix,https://ag91.github.io/blog/2020/10/09/microsoft-(teams)-notifications-in-your-org-agenda-(through-emacs-slack)/,13,1,1602308301.0,0
+Need help with ledger-import-accounts in emacs,j8373q,fmou67,/r/plaintextaccounting/comments/j834nj/need_help_with_ledgerimportaccounts_in_emacs/,1,0,1602292923.0,0
+Ideas for a cloud based Emacs setup?,j819x3,jasonmirk,https://www.reddit.com/r/emacs/comments/j819x3/ideas_for_a_cloud_based_emacs_setup/,13,22,1602286862.0,0
+Lost or corrupted undo-tree history,j7yioq,skeeto,http://www.dr-qubit.org/Lost_undo-tree_history.html,12,3,1602277357.0,0
+"LIVE: Emacs From Scratch #6 - Organize Your Life with Org Mode (10/9, 9:15am PDT)",j7yrh9,daviwil,https://youtu.be/PNE-mgkZ6HM,72,10,1602278300.0,1
+"The need for more flexible, efficient overlays",j7yk4d,trimorphic,https://www.reddit.com/r/emacs/comments/j7yk4d/the_need_for_more_flexible_efficient_overlays/,3,10,1602277503.0,0
+[emacs-devel] Include leaf in Emacs distribution,j7wk3j,xpk0,https://lists.gnu.org/archive/html/emacs-devel/2020-10/msg00376.html,7,19,1602268334.0,0
+How do you get vim commands working in vterm,j7u0q8,timpinen,https://www.reddit.com/r/emacs/comments/j7u0q8/how_do_you_get_vim_commands_working_in_vterm/,5,3,1602253798.0,0
+ranger.el and openwith.el conflicts,j7r5wp,juacq97,https://www.reddit.com/r/emacs/comments/j7r5wp/rangerel_and_openwithel_conflicts/,4,1,1602240348.0,0
+Evil mode no longer depends on undo-tree,j7m2c4,ideasman_42,https://github.com/emacs-evil/evil/commit/4a336e9c0e0940ad21716260be9bb393c89f6553,59,4,1602221781.0,0
+See elisp corresponding to keyboard commands? esp. w/ evil/spacemacs,j7lobx,jmite,https://www.reddit.com/r/emacs/comments/j7lobx/see_elisp_corresponding_to_keyboard_commands_esp/,3,3,1602220490.0,0
+Very impressed by emacs-ludicrous-speed (GNU/Linux),j7iasv,wysteriary,https://www.reddit.com/r/emacs/comments/j7iasv/very_impressed_by_emacsludicrousspeed_gnulinux/,68,41,1602209737.0,0
+Favorite Light Themes,j7eruf,Sevenstrangemelons,https://www.reddit.com/r/emacs/comments/j7eruf/favorite_light_themes/,16,47,1602198607.0,0
+Org mode: custom org-ellipsis character error when followed by blank line,j7e2fc,corner_case,https://www.reddit.com/r/emacs/comments/j7e2fc/org_mode_custom_orgellipsis_character_error_when/,4,7,1602196266.0,0
+Failed to download ‘gnu’ archive.,j7cpii,paarulakan,https://www.reddit.com/r/emacs/comments/j7cpii/failed_to_download_gnu_archive/,2,2,1602191268.0,0
+Emacs might not be doomed after all,j7cm2k,oivvio,https://www.reddit.com/r/emacs/comments/j7cm2k/emacs_might_not_be_doomed_after_all/,12,26,1602190900.0,0
+How to modify keybindings,j7awav,paltry_effort,https://www.youtube.com/watch?v=RRBIe2-gVTg,19,1,1602183025.0,0
+Closing buffer in the other window,j78p4a,ffffffffffffffAAA,https://www.reddit.com/r/emacs/comments/j78p4a/closing_buffer_in_the_other_window/,4,10,1602170416.0,0
+Change background highlighting from Company?,j73qst,vizorkit,https://www.reddit.com/r/emacs/comments/j73qst/change_background_highlighting_from_company/,1,4,1602148957.0,0
+Tips for a new user coming from Vim?,j73oa1,,https://www.reddit.com/r/emacs/comments/j73oa1/tips_for_a_new_user_coming_from_vim/,7,7,1602148664.0,0
+org html export not using external style sheet,j71tvk,tiktaaliki,https://www.reddit.com/r/emacs/comments/j71tvk/org_html_export_not_using_external_style_sheet/,1,0,1602141750.0,0
+Previewing LaTeX fragments not working,j6zoo4,LostyPints,https://www.reddit.com/r/emacs/comments/j6zoo4/previewing_latex_fragments_not_working/,3,6,1602134388.0,0
+Proposal for an Emacs User Survey,j6x7ad,abrochard,https://www.reddit.com/r/emacs/comments/j6x7ad/proposal_for_an_emacs_user_survey/,86,83,1602126628.0,1
+Help using rclone with Tramp on osX,j6u6ih,,https://www.reddit.com/r/emacs/comments/j6u6ih/help_using_rclone_with_tramp_on_osx/,2,3,1602117345.0,0
+Emacs on Windows - problem with sorting and time,j6uzxr,RO-mix,https://www.reddit.com/r/emacs/comments/j6uzxr/emacs_on_windows_problem_with_sorting_and_time/,2,5,1602119898.0,0
+How the heck do I enable a minor mode?,j6w4fh,webbberss,https://www.reddit.com/r/emacs/comments/j6w4fh/how_the_heck_do_i_enable_a_minor_mode/,1,7,1602123338.0,0
+A short intro to Deft Mode · Emacs Doomcasts 23,j6w1yd,zaiste,https://zaiste.net/courses/emacs-doom/emacs-doom-23-deft-emacs/,49,1,1602123131.0,0
+"Wrong behavior of the ""HOME"" and ""END"" key on the macOS version of emacs. Cursor goes to the beginning and end of the document, instead of line.",j6vwa3,jmhimara,https://www.reddit.com/r/emacs/comments/j6vwa3/wrong_behavior_of_the_home_and_end_key_on_the/,3,14,1602122659.0,0
+Emacs Key Bindings on Doom Emacs,j6udw9,noturavgsuperhero,https://www.reddit.com/r/emacs/comments/j6udw9/emacs_key_bindings_on_doom_emacs/,0,4,1602117991.0,0
+"Multiple buffers on same file, again",j6qo3p,jojohohanon,https://www.reddit.com/r/emacs/comments/j6qo3p/multiple_buffers_on_same_file_again/,7,5,1602105558.0,0
+Emacs Semantic summary is not working quite well,j6pf1q,anasrchid,https://www.reddit.com/r/emacs/comments/j6pf1q/emacs_semantic_summary_is_not_working_quite_well/,1,5,1602100321.0,0
+How to link to specific parts of a pdf for a noobie,j6o5gt,Norman8or96,https://www.reddit.com/r/emacs/comments/j6o5gt/how_to_link_to_specific_parts_of_a_pdf_for_a/,2,3,1602093623.0,0
+Help: failed to set (global-display-line-numbers-mode),j6n6nt,xihajun,https://www.reddit.com/r/emacs/comments/j6n6nt/help_failed_to_set_globaldisplaylinenumbersmode/,1,4,1602087877.0,0
+How to change faces in particular buffer,j6n5mg,FluentFelicity,https://www.reddit.com/r/emacs/comments/j6n5mg/how_to_change_faces_in_particular_buffer/,1,2,1602087695.0,0
+Emacs/TRAMP to AL boxes?,j6dkje,SharkLasers223,https://www.reddit.com/r/emacs/comments/j6dkje/emacstramp_to_al_boxes/,1,3,1602047015.0,0
+Org-mode Transclusion/Block-reference Prototype,j6k2j8,jethroksy,https://youtu.be/Wjk-otO2xrI,46,20,1602071802.0,0
+Painless Emacs shell commands,j6jto1,Categoria,https://www.eigenbahn.com/2020/01/19/painless-emacs-shell-commands,53,3,1602070729.0,0
+Experimental patch for emacs to block privacy trackers in [email] webkit,j6gkgw,seanfarley,https://www.reddit.com/r/emacs/comments/j6gkgw/experimental_patch_for_emacs_to_block_privacy/,13,2,1602057625.0,0
+XEmacs won't install,j6fa2p,emaxor,https://www.reddit.com/r/emacs/comments/j6fa2p/xemacs_wont_install/,2,5,1602052836.0,0
+How to use org mode as a life-management tool?,j6csmq,ZZhanChi,https://www.reddit.com/r/emacs/comments/j6csmq/how_to_use_org_mode_as_a_lifemanagement_tool/,42,21,1602044578.0,0
+How to set pdf-tools/DocvVew to display the pdf by default and not the gibberish text?,j6blfn,oneguyleftwithoneeye,https://www.reddit.com/r/emacs/comments/j6blfn/how_to_set_pdftoolsdocvvew_to_display_the_pdf_by/,1,3,1602040918.0,0
+Borg vs Straight.el?,j68u6z,cstby,https://www.reddit.com/r/emacs/comments/j68u6z/borg_vs_straightel/,24,39,1602032469.0,0
+smartparens (+Auctex?) bug,j66snl,pailanderCO,https://www.reddit.com/r/emacs/comments/j66snl/smartparens_auctex_bug/,5,6,1602025956.0,0
+Trouble with `use-package-chords` and `use-package-always-defer`,j666bc,graduale,https://www.reddit.com/r/emacs/comments/j666bc/trouble_with_usepackagechords_and/,2,4,1602023869.0,0
+How to show unread counts besides bookmarks in mu4e?,j65et2,gkayaalp,https://www.reddit.com/r/emacs/comments/j65et2/how_to_show_unread_counts_besides_bookmarks_in/,2,2,1602021135.0,0
+(a case of) Generating json content from EMACS (using json.el),j656h6,xeyenn,https://www.reddit.com/r/emacs/comments/j656h6/a_case_of_generating_json_content_from_emacs/,1,3,1602020258.0,0
+[Newbie] Issues with ergoemacs on 27.1.,j635s5,fatnerdfromnextdoor,https://www.reddit.com/r/emacs/comments/j635s5/newbie_issues_with_ergoemacs_on_271/,9,3,1602011501.0,0
+Unable to scroll to top of process buffer programatically,j60efi,psqueak,https://www.reddit.com/r/emacs/comments/j60efi/unable_to_scroll_to_top_of_process_buffer/,1,2,1601995709.0,0
+Weekly tips/trick/etc/ thread,j61aoh,AutoModerator,https://www.reddit.com/r/emacs/comments/j61aoh/weekly_tipstricketc_thread/,14,30,1602000859.0,0
+How many files can emacs handle?,j5zshx,assadsafsdfsdfsd,https://www.reddit.com/r/emacs/comments/j5zshx/how_many_files_can_emacs_handle/,1,6,1601992409.0,0
+What are the most common reasons for high RAM usage?,j5zq43,FluentFelicity,https://www.reddit.com/r/emacs/comments/j5zq43/what_are_the_most_common_reasons_for_high_ram/,8,5,1601992064.0,0
+"How can I install info for gnuplot, like those shown on C-h i ?",j5zch1,thevoidzero,https://www.reddit.com/r/emacs/comments/j5zch1/how_can_i_install_info_for_gnuplot_like_those/,4,8,1601990116.0,0
+ivy and file name cache?,j5v1c2,whudwl,https://www.reddit.com/r/emacs/comments/j5v1c2/ivy_and_file_name_cache/,2,5,1601971896.0,0
+What modern configs are a good as a base for your own setup?,j5tgxt,strobegen,https://www.reddit.com/r/emacs/comments/j5tgxt/what_modern_configs_are_a_good_as_a_base_for_your/,8,21,1601966040.0,0
+Elisp: Removing properties from a plist,j5svbo,github-alphapapa,https://github.com/alphapapa/emacs-package-dev-handbook#removing-properties,12,3,1601963961.0,0
+"Is etags still the way to go, or are there better tools now?",j5qlrf,BitBasher4095,https://www.reddit.com/r/emacs/comments/j5qlrf/is_etags_still_the_way_to_go_or_are_there_better/,55,35,1601956632.0,0
+Code Generation in LSP mode in Emacs (the search for IDE features),j5p9bf,entercaspa,https://www.reddit.com/r/emacs/comments/j5p9bf/code_generation_in_lsp_mode_in_emacs_the_search/,9,5,1601952388.0,0
+Scheme to elisp compiler?,j5ozo1,jmite,https://www.reddit.com/r/emacs/comments/j5ozo1/scheme_to_elisp_compiler/,2,9,1601951546.0,0
+"Newbie user, any way to improve performance in doom emacs?",j5mqpw,-rensenware-,https://www.reddit.com/r/emacs/comments/j5mqpw/newbie_user_any_way_to_improve_performance_in/,18,11,1601944596.0,0
+emacs with -Q is very slow,j5jg5k,zsome,https://www.reddit.com/r/emacs/comments/j5jg5k/emacs_with_q_is_very_slow/,1,13,1601933531.0,0
+mu4e with straight.el (unknown parameter when opening mails),j5ilma,pimiddy,https://www.reddit.com/r/emacs/comments/j5ilma/mu4e_with_straightel_unknown_parameter_when/,5,3,1601930205.0,0
+Can I remap evil-mode keybinding on pdf?,j5fvxz,arosa09,https://www.reddit.com/r/emacs/comments/j5fvxz/can_i_remap_evilmode_keybinding_on_pdf/,6,0,1601916134.0,0
+"Chemacs 2, now with early-init.el suport",j5f1xq,therealplexus,https://www.reddit.com/r/emacs/comments/j5f1xq/chemacs_2_now_with_earlyinitel_suport/,53,10,1601911027.0,1
+Best way to have multiple work environments in Emacs?,j5bm4x,jasonmirk,https://www.reddit.com/r/emacs/comments/j5bm4x/best_way_to_have_multiple_work_environments_in/,8,14,1601894053.0,0
+emacs (Doom/Spaceemacs) equivalent support for the workflow of drawing with Inkscape?,j59nk1,yubrshen,https://www.reddit.com/r/emacs/comments/j59nk1/emacs_doomspaceemacs_equivalent_support_for_the/,10,4,1601885939.0,0
+Just for fun - Spacemacs inside emacs using vterm :-P,j53w7o,amolgawai,https://i.redd.it/9qq20boag4r51.png,8,4,1601865157.0,0
+Android app that gets close to org-mode?,j52y3k,pimiddy,https://www.reddit.com/r/emacs/comments/j52y3k/android_app_that_gets_close_to_orgmode/,2,11,1601861929.0,0
+How I use the Macbook Pro touchbar with emacs,j52jdw,budakikickflip,https://www.nicklanasa.com/posts/emacs-macbook-pro-touchbar,28,6,1601860456.0,0
+"v1.0.0 Jetbrains Darcula Theme finally on MELPA! (p.s. Darcula, not Dracula)",j50e1a,yep808,https://i.redd.it/libk65dne3r51.png,98,11,1601852816.0,1
+How to decide which Key-binding to choose (Vim or Emacs)?,j4yqg1,assadsafsdfsdfsd,https://www.reddit.com/r/emacs/comments/j4yqg1/how_to_decide_which_keybinding_to_choose_vim_or/,9,43,1601846022.0,0
+Issue with emacs text discoloration (bug #43363),j4yws0,dsh_tmp,https://www.reddit.com/r/emacs/comments/j4yws0/issue_with_emacs_text_discoloration_bug_43363/,3,11,1601846821.0,0
+Bad undo line color,j4y2tc,FluentFelicity,https://www.reddit.com/r/emacs/comments/j4y2tc/bad_undo_line_color/,1,2,1601842911.0,0
+"Got lsp-java working with gradle and Java 15 on Ubuntu, sharing the experience",j4xz2w,maaliinsaakka,https://www.reddit.com/r/emacs/comments/j4xz2w/got_lspjava_working_with_gradle_and_java_15_on/,35,3,1601842374.0,0
+Install gccemacs on MacOS + configure Doom,j4wn9c,adivinity,https://www.reddit.com/r/emacs/comments/j4wn9c/install_gccemacs_on_macos_configure_doom/,41,12,1601835037.0,0
+Rebinding C-c to C-u,j4s5t2,vizorkit,https://www.reddit.com/r/emacs/comments/j4s5t2/rebinding_cc_to_cu/,0,6,1601810208.0,0
+propcheck - Quickcheck/Hypothesis-like property based testing for elisp,j4rh5v,trimorphic,https://github.com/Wilfred/propcheck,32,0,1601807082.0,0
+Wikinforg: Wikipedia infobox -> Org entry,j4ntua,nv-elisp,/r/orgmode/comments/j4nsvf/wikinforg_wikipedia_infobox_org_entry/,17,2,1601791899.0,0
+pdf-tools in split window when opening as mailcap,j4lfzk,JoshuaOC,https://www.reddit.com/r/emacs/comments/j4lfzk/pdftools_in_split_window_when_opening_as_mailcap/,1,3,1601783153.0,0
+Gtags in emacs,j4kbal,soumya6097,https://www.reddit.com/r/emacs/comments/j4kbal/gtags_in_emacs/,14,6,1601779157.0,0
+"Can the `magit-status` window display the times of untracked files, unstaged changes and unmerged commits?",j4iqif,vfclists,https://www.reddit.com/r/emacs/comments/j4iqif/can_the_magitstatus_window_display_the_times_of/,3,4,1601773722.0,0
+Modify A Buffer in Multiple Places,j462bb,vizorkit,https://www.reddit.com/r/emacs/comments/j462bb/modify_a_buffer_in_multiple_places/,1,2,1601713027.0,0
+Just tell me how to start using Emacs?,j4aykc,assadsafsdfsdfsd,https://www.reddit.com/r/emacs/comments/j4aykc/just_tell_me_how_to_start_using_emacs/,12,27,1601734851.0,0
+change headline color,j4b4dq,FluentFelicity,https://www.reddit.com/r/emacs/comments/j4b4dq/change_headline_color/,1,1,1601735759.0,0
+Scroll on Jump [RFC],j43uhj,ideasman_42,https://www.reddit.com/r/emacs/comments/j43uhj/scroll_on_jump_rfc/,14,0,1601704450.0,0
+Ignore all html files for a given mode,j42yor,codethrasher,https://www.reddit.com/r/emacs/comments/j42yor/ignore_all_html_files_for_a_given_mode/,0,3,1601701367.0,0
+"LaTeX parens, $, environments: What bindings/packages do you use to navigate and select?",j42q2p,ave_63,https://www.reddit.com/r/emacs/comments/j42q2p/latex_parens_environments_what_bindingspackages/,6,9,1601700573.0,0
+Idiomatic Elisp: Accumulators?,j3zt4k,WorldsEndless,https://www.reddit.com/r/emacs/comments/j3zt4k/idiomatic_elisp_accumulators/,2,12,1601691308.0,0
+Nano Emacs (sort of),j3z8tb,Nicolas-Rougier,https://i.redd.it/ps8cc948ypq51.png,237,35,1601689578.0,2
+Can't select or highlight text on pdf-tools,j3wvzy,ElCondorHerido,https://www.reddit.com/r/emacs/comments/j3wvzy/cant_select_or_highlight_text_on_pdftools/,1,4,1601682239.0,0
+Emacs frequently failing to yank text,j3w6gd,OS6aDohpegavod4,https://www.reddit.com/r/emacs/comments/j3w6gd/emacs_frequently_failing_to_yank_text/,4,7,1601679988.0,0
+In dired any idea what's the difference between `dired-find-file-other-window` and `dired-display-file`?,j3tyxc,halloleooo,https://www.reddit.com/r/emacs/comments/j3tyxc/in_dired_any_idea_whats_the_difference_between/,1,3,1601672292.0,0
+Unable to give input to `isearch-query-replace` in vanilla Emacs,j3uy1h,graduale,https://www.reddit.com/r/emacs/comments/j3uy1h/unable_to_give_input_to_isearchqueryreplace_in/,2,4,1601675897.0,0
+show current line number only,j3utby,mohammad_9812,https://www.reddit.com/r/emacs/comments/j3utby/show_current_line_number_only/,1,5,1601675425.0,0
+"LIVE: Emacs From Scratch #5 - Org Mode Basics (10/2, 9:15 am PDT)",j3ujmy,daviwil,https://youtu.be/VcgjTEa0kU4,44,5,1601674435.0,0
+How to evalute java code in lsp-java & use dap-ui-repl?,j3u7p2,NoisyFrequency,https://www.reddit.com/r/emacs/comments/j3u7p2/how_to_evalute_java_code_in_lspjava_use_dapuirepl/,2,7,1601673233.0,0
+Why does't ivy/helm-bibtex detect the location of notes?,j3skbc,FluentFelicity,https://www.reddit.com/r/emacs/comments/j3skbc/why_doest_ivyhelmbibtex_detect_the_location_of/,2,0,1601665667.0,0
+"lsp-java indents incorrectly, removes code, etc. Real whack behavior.",j3s7dk,sammymammy2,https://www.reddit.com/r/emacs/comments/j3s7dk/lspjava_indents_incorrectly_removes_code_etc_real/,9,4,1601663758.0,0
+From vim to doom: how do I set a localleader per major mode?,j3ri8x,wonko7,https://www.reddit.com/r/emacs/comments/j3ri8x/from_vim_to_doom_how_do_i_set_a_localleader_per/,4,3,1601659793.0,0
+How do *you* navigate around several files while programming?,j3oczn,shackra,https://www.reddit.com/r/emacs/comments/j3oczn/how_do_you_navigate_around_several_files_while/,12,13,1601643064.0,0
+Why is emacs 27 so much smaller than 26?,j3js3c,Hamilton950B,https://www.reddit.com/r/emacs/comments/j3js3c/why_is_emacs_27_so_much_smaller_than_26/,65,28,1601623788.0,0
+Get Doom-like indentation,j3i97g,FluentFelicity,https://www.reddit.com/r/emacs/comments/j3i97g/get_doomlike_indentation/,1,2,1601618261.0,0
+Async load org-agenda files?,j3i7rn,cueball404,https://www.reddit.com/r/emacs/comments/j3i7rn/async_load_orgagenda_files/,1,1,1601618124.0,0
+Migrating Org files from org-depend to org-edna (dependency management),j3frjc,publicvoit,https://karl-voit.at/2020/10/01/org-depend-to-edna/,8,1,1601610326.0,0
+Issues with primary selection on X11,j3dk0w,ringsted86,https://www.reddit.com/r/emacs/comments/j3dk0w/issues_with_primary_selection_on_x11/,2,12,1601603488.0,0
+Is there a way to use fzf to select from the recent files list?,j3cgkf,whats-a-monad,https://www.reddit.com/r/emacs/comments/j3cgkf/is_there_a_way_to_use_fzf_to_select_from_the/,11,2,1601600214.0,0
+Introduction to profiling in Emacs,j3c5vy,preek,https://200ok.ch/posts/2020-10-01_introduction_to_profiling_in_emacs.html,61,10,1601599307.0,0
+Is there a way to do --force in magit?,j3b86b,valignatev,https://www.reddit.com/r/emacs/comments/j3b86b/is_there_a_way_to_do_force_in_magit/,9,14,1601596443.0,0
+Anyone else have trouble getting Emacs to fit tiling WM correctly?,j3b486,chaosprism,https://www.reddit.com/r/emacs/comments/j3b486/anyone_else_have_trouble_getting_emacs_to_fit/,1,7,1601596079.0,0
+Org mode - any way to change face of list definitions and have multi-line information in a list?,j3a0qi,corner_case,https://www.reddit.com/r/emacs/comments/j3a0qi/org_mode_any_way_to_change_face_of_list/,2,4,1601592629.0,0
+Cannot get `visual-regexp-steroids` to toggle regexp modifiers,j39s2m,graduale,https://www.reddit.com/r/emacs/comments/j39s2m/cannot_get_visualregexpsteroids_to_toggle_regexp/,1,2,1601591860.0,0
+"Class-based, functional configuration in Nyxt",j35va4,ambrevar,https://nyxt.atlas.engineer/article/class-based-functional-configuration.org,23,2,1601576192.0,0
+start emacs with different config profile?,j3474h,paarulakan,https://www.reddit.com/r/emacs/comments/j3474h/start_emacs_with_different_config_profile/,2,10,1601566961.0,0
+How to have helm-like quick help (persistent action) in counsel-M-x?,j333eb,takutekato,https://www.reddit.com/r/emacs/comments/j333eb/how_to_have_helmlike_quick_help_persistent_action/,2,3,1601561461.0,0
+use-package Best Practices,j2xezg,socks_n_shoes,https://www.reddit.com/r/emacs/comments/j2xezg/usepackage_best_practices/,76,34,1601537974.0,0
+lsp-mode not using clang-format,j2v074,tez_nikka,https://www.reddit.com/r/emacs/comments/j2v074/lspmode_not_using_clangformat/,8,0,1601529670.0,0
+macOS users: are you missing results in `M-x man` completion? Here’s how to fix it.,j2us9u,patrick_thomson,https://www.reddit.com/r/emacs/comments/j2us9u/macos_users_are_you_missing_results_in_mx_man/,11,0,1601528950.0,0
+nano-mode?,j2tm3v,perkinslr,https://www.reddit.com/r/emacs/comments/j2tm3v/nanomode/,1,11,1601525173.0,0
